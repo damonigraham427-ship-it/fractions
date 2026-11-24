@@ -1,0 +1,1780 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/75 as a percentage?",
+   "choices": [
+    "2.67%",
+    "4.00%",
+    "1.33%",
+    "5.33%"
+   ],
+   "answer": 2,
+   "explanation": "1/75 = 0.0133 = 1.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 1/75 as a decimal?",
+   "choices": [
+    "0.0267",
+    "0.0133",
+    "0.0400",
+    "0.0533"
+   ],
+   "answer": 1,
+   "explanation": "1/75 = 0.0133 = 1.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 2/75 as a percentage?",
+   "choices": [
+    "1.33%",
+    "4.00%",
+    "5.33%",
+    "2.67%"
+   ],
+   "answer": 3,
+   "explanation": "2/75 = 0.0267 = 2.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 2/75 as a decimal?",
+   "choices": [
+    "0.0133",
+    "0.0267",
+    "0.0400",
+    "0.0533"
+   ],
+   "answer": 1,
+   "explanation": "2/75 = 0.0267 = 2.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 3/75 as a percentage?",
+   "choices": [
+    "1.33%",
+    "2.67%",
+    "4.00%",
+    "5.33%"
+   ],
+   "answer": 2,
+   "explanation": "3/75 = 0.0400 = 4.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 3/75 as a decimal?",
+   "choices": [
+    "0.0133",
+    "0.0267",
+    "0.0533",
+    "0.0400"
+   ],
+   "answer": 3,
+   "explanation": "3/75 = 0.0400 = 4.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 4/75 as a percentage?",
+   "choices": [
+    "1.33%",
+    "2.67%",
+    "5.33%",
+    "4.00%"
+   ],
+   "answer": 2,
+   "explanation": "4/75 = 0.0533 = 5.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 4/75 as a decimal?",
+   "choices": [
+    "0.0133",
+    "0.0533",
+    "0.0267",
+    "0.0400"
+   ],
+   "answer": 1,
+   "explanation": "4/75 = 0.0533 = 5.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 5/75 as a percentage?",
+   "choices": [
+    "2.67%",
+    "6.67%",
+    "4.00%",
+    "5.33%"
+   ],
+   "answer": 1,
+   "explanation": "5/75 = 0.0667 = 6.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 5/75 as a decimal?",
+   "choices": [
+    "0.0267",
+    "0.0400",
+    "0.0667",
+    "0.0533"
+   ],
+   "answer": 2,
+   "explanation": "5/75 = 0.0667 = 6.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 6/75 as a percentage?",
+   "choices": [
+    "8.00%",
+    "4.00%",
+    "5.33%",
+    "6.67%"
+   ],
+   "answer": 0,
+   "explanation": "6/75 = 0.0800 = 8.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 6/75 as a decimal?",
+   "choices": [
+    "0.0400",
+    "0.0533",
+    "0.0667",
+    "0.0800"
+   ],
+   "answer": 3,
+   "explanation": "6/75 = 0.0800 = 8.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 7/75 as a percentage?",
+   "choices": [
+    "5.33%",
+    "9.33%",
+    "6.67%",
+    "8.00%"
+   ],
+   "answer": 1,
+   "explanation": "7/75 = 0.0933 = 9.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 7/75 as a decimal?",
+   "choices": [
+    "0.0933",
+    "0.0533",
+    "0.0667",
+    "0.0800"
+   ],
+   "answer": 0,
+   "explanation": "7/75 = 0.0933 = 9.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 8/75 as a percentage?",
+   "choices": [
+    "6.67%",
+    "10.67%",
+    "8.00%",
+    "9.33%"
+   ],
+   "answer": 1,
+   "explanation": "8/75 = 0.1067 = 10.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 8/75 as a decimal?",
+   "choices": [
+    "0.0667",
+    "0.1067",
+    "0.0800",
+    "0.0933"
+   ],
+   "answer": 1,
+   "explanation": "8/75 = 0.1067 = 10.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 9/75 as a percentage?",
+   "choices": [
+    "8.00%",
+    "12.00%",
+    "9.33%",
+    "10.67%"
+   ],
+   "answer": 1,
+   "explanation": "9/75 = 0.1200 = 12.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 9/75 as a decimal?",
+   "choices": [
+    "0.0800",
+    "0.1200",
+    "0.0933",
+    "0.1067"
+   ],
+   "answer": 1,
+   "explanation": "9/75 = 0.1200 = 12.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 10/75 as a percentage?",
+   "choices": [
+    "9.33%",
+    "10.67%",
+    "12.00%",
+    "13.33%"
+   ],
+   "answer": 3,
+   "explanation": "10/75 = 0.1333 = 13.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 10/75 as a decimal?",
+   "choices": [
+    "0.1333",
+    "0.0933",
+    "0.1067",
+    "0.1200"
+   ],
+   "answer": 0,
+   "explanation": "10/75 = 0.1333 = 13.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 11/75 as a percentage?",
+   "choices": [
+    "10.67%",
+    "14.67%",
+    "12.00%",
+    "13.33%"
+   ],
+   "answer": 1,
+   "explanation": "11/75 = 0.1467 = 14.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 11/75 as a decimal?",
+   "choices": [
+    "0.1067",
+    "0.1467",
+    "0.1200",
+    "0.1333"
+   ],
+   "answer": 1,
+   "explanation": "11/75 = 0.1467 = 14.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 12/75 as a percentage?",
+   "choices": [
+    "12.00%",
+    "13.33%",
+    "14.67%",
+    "16.00%"
+   ],
+   "answer": 3,
+   "explanation": "12/75 = 0.1600 = 16.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 12/75 as a decimal?",
+   "choices": [
+    "0.1200",
+    "0.1333",
+    "0.1467",
+    "0.1600"
+   ],
+   "answer": 3,
+   "explanation": "12/75 = 0.1600 = 16.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 13/75 as a percentage?",
+   "choices": [
+    "13.33%",
+    "14.67%",
+    "17.33%",
+    "16.00%"
+   ],
+   "answer": 2,
+   "explanation": "13/75 = 0.1733 = 17.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 13/75 as a decimal?",
+   "choices": [
+    "0.1333",
+    "0.1733",
+    "0.1467",
+    "0.1600"
+   ],
+   "answer": 1,
+   "explanation": "13/75 = 0.1733 = 17.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 14/75 as a percentage?",
+   "choices": [
+    "14.67%",
+    "16.00%",
+    "17.33%",
+    "18.67%"
+   ],
+   "answer": 3,
+   "explanation": "14/75 = 0.1867 = 18.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 14/75 as a decimal?",
+   "choices": [
+    "0.1467",
+    "0.1867",
+    "0.1600",
+    "0.1733"
+   ],
+   "answer": 1,
+   "explanation": "14/75 = 0.1867 = 18.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 15/75 as a percentage?",
+   "choices": [
+    "20.00%",
+    "16.00%",
+    "17.33%",
+    "18.67%"
+   ],
+   "answer": 0,
+   "explanation": "15/75 = 0.2000 = 20.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 15/75 as a decimal?",
+   "choices": [
+    "0.1600",
+    "0.2000",
+    "0.1733",
+    "0.1867"
+   ],
+   "answer": 1,
+   "explanation": "15/75 = 0.2000 = 20.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 16/75 as a percentage?",
+   "choices": [
+    "17.33%",
+    "18.67%",
+    "20.00%",
+    "21.33%"
+   ],
+   "answer": 3,
+   "explanation": "16/75 = 0.2133 = 21.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 16/75 as a decimal?",
+   "choices": [
+    "0.1733",
+    "0.1867",
+    "0.2000",
+    "0.2133"
+   ],
+   "answer": 3,
+   "explanation": "16/75 = 0.2133 = 21.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 17/75 as a percentage?",
+   "choices": [
+    "18.67%",
+    "20.00%",
+    "22.67%",
+    "21.33%"
+   ],
+   "answer": 2,
+   "explanation": "17/75 = 0.2267 = 22.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 17/75 as a decimal?",
+   "choices": [
+    "0.1867",
+    "0.2000",
+    "0.2267",
+    "0.2133"
+   ],
+   "answer": 2,
+   "explanation": "17/75 = 0.2267 = 22.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 18/75 as a percentage?",
+   "choices": [
+    "24.00%",
+    "20.00%",
+    "21.33%",
+    "22.67%"
+   ],
+   "answer": 0,
+   "explanation": "18/75 = 0.2400 = 24.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 18/75 as a decimal?",
+   "choices": [
+    "0.2000",
+    "0.2400",
+    "0.2133",
+    "0.2267"
+   ],
+   "answer": 1,
+   "explanation": "18/75 = 0.2400 = 24.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 19/75 as a percentage?",
+   "choices": [
+    "21.33%",
+    "22.67%",
+    "25.33%",
+    "24.00%"
+   ],
+   "answer": 2,
+   "explanation": "19/75 = 0.2533 = 25.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 19/75 as a decimal?",
+   "choices": [
+    "0.2533",
+    "0.2133",
+    "0.2267",
+    "0.2400"
+   ],
+   "answer": 0,
+   "explanation": "19/75 = 0.2533 = 25.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 20/75 as a percentage?",
+   "choices": [
+    "26.67%",
+    "22.67%",
+    "24.00%",
+    "25.33%"
+   ],
+   "answer": 0,
+   "explanation": "20/75 = 0.2667 = 26.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 20/75 as a decimal?",
+   "choices": [
+    "0.2267",
+    "0.2400",
+    "0.2667",
+    "0.2533"
+   ],
+   "answer": 2,
+   "explanation": "20/75 = 0.2667 = 26.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 21/75 as a percentage?",
+   "choices": [
+    "24.00%",
+    "25.33%",
+    "28.00%",
+    "26.67%"
+   ],
+   "answer": 2,
+   "explanation": "21/75 = 0.2800 = 28.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 21/75 as a decimal?",
+   "choices": [
+    "0.2400",
+    "0.2533",
+    "0.2667",
+    "0.2800"
+   ],
+   "answer": 3,
+   "explanation": "21/75 = 0.2800 = 28.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 22/75 as a percentage?",
+   "choices": [
+    "25.33%",
+    "29.33%",
+    "26.67%",
+    "28.00%"
+   ],
+   "answer": 1,
+   "explanation": "22/75 = 0.2933 = 29.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 22/75 as a decimal?",
+   "choices": [
+    "0.2533",
+    "0.2667",
+    "0.2933",
+    "0.2800"
+   ],
+   "answer": 2,
+   "explanation": "22/75 = 0.2933 = 29.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 23/75 as a percentage?",
+   "choices": [
+    "26.67%",
+    "28.00%",
+    "30.67%",
+    "29.33%"
+   ],
+   "answer": 2,
+   "explanation": "23/75 = 0.3067 = 30.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 23/75 as a decimal?",
+   "choices": [
+    "0.2667",
+    "0.2800",
+    "0.3067",
+    "0.2933"
+   ],
+   "answer": 2,
+   "explanation": "23/75 = 0.3067 = 30.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 24/75 as a percentage?",
+   "choices": [
+    "32.00%",
+    "28.00%",
+    "29.33%",
+    "30.67%"
+   ],
+   "answer": 0,
+   "explanation": "24/75 = 0.3200 = 32.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 24/75 as a decimal?",
+   "choices": [
+    "0.2800",
+    "0.2933",
+    "0.3067",
+    "0.3200"
+   ],
+   "answer": 3,
+   "explanation": "24/75 = 0.3200 = 32.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 25/75 as a percentage?",
+   "choices": [
+    "29.33%",
+    "30.67%",
+    "33.33%",
+    "32.00%"
+   ],
+   "answer": 2,
+   "explanation": "25/75 = 0.3333 = 33.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 25/75 as a decimal?",
+   "choices": [
+    "0.2933",
+    "0.3333",
+    "0.3067",
+    "0.3200"
+   ],
+   "answer": 1,
+   "explanation": "25/75 = 0.3333 = 33.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 26/75 as a percentage?",
+   "choices": [
+    "30.67%",
+    "32.00%",
+    "33.33%",
+    "34.67%"
+   ],
+   "answer": 3,
+   "explanation": "26/75 = 0.3467 = 34.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 26/75 as a decimal?",
+   "choices": [
+    "0.3067",
+    "0.3467",
+    "0.3200",
+    "0.3333"
+   ],
+   "answer": 1,
+   "explanation": "26/75 = 0.3467 = 34.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 27/75 as a percentage?",
+   "choices": [
+    "32.00%",
+    "33.33%",
+    "34.67%",
+    "36.00%"
+   ],
+   "answer": 3,
+   "explanation": "27/75 = 0.3600 = 36.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 27/75 as a decimal?",
+   "choices": [
+    "0.3600",
+    "0.3200",
+    "0.3333",
+    "0.3467"
+   ],
+   "answer": 0,
+   "explanation": "27/75 = 0.3600 = 36.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 28/75 as a percentage?",
+   "choices": [
+    "33.33%",
+    "34.67%",
+    "37.33%",
+    "36.00%"
+   ],
+   "answer": 2,
+   "explanation": "28/75 = 0.3733 = 37.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 28/75 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.3467",
+    "0.3733",
+    "0.3600"
+   ],
+   "answer": 2,
+   "explanation": "28/75 = 0.3733 = 37.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 29/75 as a percentage?",
+   "choices": [
+    "34.67%",
+    "36.00%",
+    "38.67%",
+    "37.33%"
+   ],
+   "answer": 2,
+   "explanation": "29/75 = 0.3867 = 38.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 29/75 as a decimal?",
+   "choices": [
+    "0.3467",
+    "0.3600",
+    "0.3867",
+    "0.3733"
+   ],
+   "answer": 2,
+   "explanation": "29/75 = 0.3867 = 38.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 30/75 as a percentage?",
+   "choices": [
+    "36.00%",
+    "37.33%",
+    "40.00%",
+    "38.67%"
+   ],
+   "answer": 2,
+   "explanation": "30/75 = 0.4000 = 40.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 30/75 as a decimal?",
+   "choices": [
+    "0.3600",
+    "0.3733",
+    "0.4000",
+    "0.3867"
+   ],
+   "answer": 2,
+   "explanation": "30/75 = 0.4000 = 40.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 31/75 as a percentage?",
+   "choices": [
+    "37.33%",
+    "38.67%",
+    "41.33%",
+    "40.00%"
+   ],
+   "answer": 2,
+   "explanation": "31/75 = 0.4133 = 41.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 31/75 as a decimal?",
+   "choices": [
+    "0.4133",
+    "0.3733",
+    "0.3867",
+    "0.4000"
+   ],
+   "answer": 0,
+   "explanation": "31/75 = 0.4133 = 41.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 32/75 as a percentage?",
+   "choices": [
+    "42.67%",
+    "38.67%",
+    "40.00%",
+    "41.33%"
+   ],
+   "answer": 0,
+   "explanation": "32/75 = 0.4267 = 42.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 32/75 as a decimal?",
+   "choices": [
+    "0.3867",
+    "0.4267",
+    "0.4000",
+    "0.4133"
+   ],
+   "answer": 1,
+   "explanation": "32/75 = 0.4267 = 42.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 33/75 as a percentage?",
+   "choices": [
+    "40.00%",
+    "41.33%",
+    "42.67%",
+    "44.00%"
+   ],
+   "answer": 3,
+   "explanation": "33/75 = 0.4400 = 44.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 33/75 as a decimal?",
+   "choices": [
+    "0.4000",
+    "0.4133",
+    "0.4400",
+    "0.4267"
+   ],
+   "answer": 2,
+   "explanation": "33/75 = 0.4400 = 44.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 34/75 as a percentage?",
+   "choices": [
+    "41.33%",
+    "45.33%",
+    "42.67%",
+    "44.00%"
+   ],
+   "answer": 1,
+   "explanation": "34/75 = 0.4533 = 45.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 34/75 as a decimal?",
+   "choices": [
+    "0.4133",
+    "0.4267",
+    "0.4533",
+    "0.4400"
+   ],
+   "answer": 2,
+   "explanation": "34/75 = 0.4533 = 45.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 35/75 as a percentage?",
+   "choices": [
+    "46.67%",
+    "42.67%",
+    "44.00%",
+    "45.33%"
+   ],
+   "answer": 0,
+   "explanation": "35/75 = 0.4667 = 46.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 35/75 as a decimal?",
+   "choices": [
+    "0.4267",
+    "0.4667",
+    "0.4400",
+    "0.4533"
+   ],
+   "answer": 1,
+   "explanation": "35/75 = 0.4667 = 46.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 36/75 as a percentage?",
+   "choices": [
+    "44.00%",
+    "45.33%",
+    "46.67%",
+    "48.00%"
+   ],
+   "answer": 3,
+   "explanation": "36/75 = 0.4800 = 48.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 36/75 as a decimal?",
+   "choices": [
+    "0.4800",
+    "0.4400",
+    "0.4533",
+    "0.4667"
+   ],
+   "answer": 0,
+   "explanation": "36/75 = 0.4800 = 48.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 37/75 as a percentage?",
+   "choices": [
+    "45.33%",
+    "49.33%",
+    "46.67%",
+    "48.00%"
+   ],
+   "answer": 1,
+   "explanation": "37/75 = 0.4933 = 49.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 37/75 as a decimal?",
+   "choices": [
+    "0.4933",
+    "0.4533",
+    "0.4667",
+    "0.4800"
+   ],
+   "answer": 0,
+   "explanation": "37/75 = 0.4933 = 49.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 38/75 as a percentage?",
+   "choices": [
+    "46.67%",
+    "48.00%",
+    "50.67%",
+    "49.33%"
+   ],
+   "answer": 2,
+   "explanation": "38/75 = 0.5067 = 50.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 38/75 as a decimal?",
+   "choices": [
+    "0.4667",
+    "0.4800",
+    "0.4933",
+    "0.5067"
+   ],
+   "answer": 3,
+   "explanation": "38/75 = 0.5067 = 50.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 39/75 as a percentage?",
+   "choices": [
+    "52.00%",
+    "48.00%",
+    "49.33%",
+    "50.67%"
+   ],
+   "answer": 0,
+   "explanation": "39/75 = 0.5200 = 52.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 39/75 as a decimal?",
+   "choices": [
+    "0.4800",
+    "0.4933",
+    "0.5067",
+    "0.5200"
+   ],
+   "answer": 3,
+   "explanation": "39/75 = 0.5200 = 52.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 40/75 as a percentage?",
+   "choices": [
+    "49.33%",
+    "53.33%",
+    "50.67%",
+    "52.00%"
+   ],
+   "answer": 1,
+   "explanation": "40/75 = 0.5333 = 53.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 40/75 as a decimal?",
+   "choices": [
+    "0.4933",
+    "0.5333",
+    "0.5067",
+    "0.5200"
+   ],
+   "answer": 1,
+   "explanation": "40/75 = 0.5333 = 53.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 41/75 as a percentage?",
+   "choices": [
+    "54.67%",
+    "50.67%",
+    "52.00%",
+    "53.33%"
+   ],
+   "answer": 0,
+   "explanation": "41/75 = 0.5467 = 54.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 41/75 as a decimal?",
+   "choices": [
+    "0.5067",
+    "0.5200",
+    "0.5467",
+    "0.5333"
+   ],
+   "answer": 2,
+   "explanation": "41/75 = 0.5467 = 54.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 42/75 as a percentage?",
+   "choices": [
+    "56.00%",
+    "52.00%",
+    "53.33%",
+    "54.67%"
+   ],
+   "answer": 0,
+   "explanation": "42/75 = 0.5600 = 56.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 42/75 as a decimal?",
+   "choices": [
+    "0.5200",
+    "0.5333",
+    "0.5467",
+    "0.5600"
+   ],
+   "answer": 3,
+   "explanation": "42/75 = 0.5600 = 56.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 43/75 as a percentage?",
+   "choices": [
+    "53.33%",
+    "57.33%",
+    "54.67%",
+    "56.00%"
+   ],
+   "answer": 1,
+   "explanation": "43/75 = 0.5733 = 57.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 43/75 as a decimal?",
+   "choices": [
+    "0.5333",
+    "0.5467",
+    "0.5733",
+    "0.5600"
+   ],
+   "answer": 2,
+   "explanation": "43/75 = 0.5733 = 57.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 44/75 as a percentage?",
+   "choices": [
+    "54.67%",
+    "56.00%",
+    "58.67%",
+    "57.33%"
+   ],
+   "answer": 2,
+   "explanation": "44/75 = 0.5867 = 58.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 44/75 as a decimal?",
+   "choices": [
+    "0.5467",
+    "0.5867",
+    "0.5600",
+    "0.5733"
+   ],
+   "answer": 1,
+   "explanation": "44/75 = 0.5867 = 58.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 45/75 as a percentage?",
+   "choices": [
+    "60.00%",
+    "56.00%",
+    "57.33%",
+    "58.67%"
+   ],
+   "answer": 0,
+   "explanation": "45/75 = 0.6000 = 60.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 45/75 as a decimal?",
+   "choices": [
+    "0.5600",
+    "0.6000",
+    "0.5733",
+    "0.5867"
+   ],
+   "answer": 1,
+   "explanation": "45/75 = 0.6000 = 60.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 46/75 as a percentage?",
+   "choices": [
+    "61.33%",
+    "57.33%",
+    "58.67%",
+    "60.00%"
+   ],
+   "answer": 0,
+   "explanation": "46/75 = 0.6133 = 61.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 46/75 as a decimal?",
+   "choices": [
+    "0.6133",
+    "0.5733",
+    "0.5867",
+    "0.6000"
+   ],
+   "answer": 0,
+   "explanation": "46/75 = 0.6133 = 61.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 47/75 as a percentage?",
+   "choices": [
+    "62.67%",
+    "58.67%",
+    "60.00%",
+    "61.33%"
+   ],
+   "answer": 0,
+   "explanation": "47/75 = 0.6267 = 62.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 47/75 as a decimal?",
+   "choices": [
+    "0.5867",
+    "0.6000",
+    "0.6267",
+    "0.6133"
+   ],
+   "answer": 2,
+   "explanation": "47/75 = 0.6267 = 62.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 48/75 as a percentage?",
+   "choices": [
+    "60.00%",
+    "61.33%",
+    "64.00%",
+    "62.67%"
+   ],
+   "answer": 2,
+   "explanation": "48/75 = 0.6400 = 64.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 48/75 as a decimal?",
+   "choices": [
+    "0.6400",
+    "0.6000",
+    "0.6133",
+    "0.6267"
+   ],
+   "answer": 0,
+   "explanation": "48/75 = 0.6400 = 64.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 49/75 as a percentage?",
+   "choices": [
+    "61.33%",
+    "65.33%",
+    "62.67%",
+    "64.00%"
+   ],
+   "answer": 1,
+   "explanation": "49/75 = 0.6533 = 65.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 49/75 as a decimal?",
+   "choices": [
+    "0.6133",
+    "0.6267",
+    "0.6533",
+    "0.6400"
+   ],
+   "answer": 2,
+   "explanation": "49/75 = 0.6533 = 65.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 50/75 as a percentage?",
+   "choices": [
+    "66.67%",
+    "62.67%",
+    "64.00%",
+    "65.33%"
+   ],
+   "answer": 0,
+   "explanation": "50/75 = 0.6667 = 66.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 50/75 as a decimal?",
+   "choices": [
+    "0.6267",
+    "0.6667",
+    "0.6400",
+    "0.6533"
+   ],
+   "answer": 1,
+   "explanation": "50/75 = 0.6667 = 66.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 51/75 as a percentage?",
+   "choices": [
+    "64.00%",
+    "65.33%",
+    "68.00%",
+    "66.67%"
+   ],
+   "answer": 2,
+   "explanation": "51/75 = 0.6800 = 68.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 51/75 as a decimal?",
+   "choices": [
+    "0.6400",
+    "0.6533",
+    "0.6667",
+    "0.6800"
+   ],
+   "answer": 3,
+   "explanation": "51/75 = 0.6800 = 68.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 52/75 as a percentage?",
+   "choices": [
+    "65.33%",
+    "66.67%",
+    "69.33%",
+    "68.00%"
+   ],
+   "answer": 2,
+   "explanation": "52/75 = 0.6933 = 69.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 52/75 as a decimal?",
+   "choices": [
+    "0.6533",
+    "0.6667",
+    "0.6800",
+    "0.6933"
+   ],
+   "answer": 3,
+   "explanation": "52/75 = 0.6933 = 69.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 53/75 as a percentage?",
+   "choices": [
+    "70.67%",
+    "66.67%",
+    "68.00%",
+    "69.33%"
+   ],
+   "answer": 0,
+   "explanation": "53/75 = 0.7067 = 70.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 53/75 as a decimal?",
+   "choices": [
+    "0.6667",
+    "0.6800",
+    "0.6933",
+    "0.7067"
+   ],
+   "answer": 3,
+   "explanation": "53/75 = 0.7067 = 70.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 54/75 as a percentage?",
+   "choices": [
+    "68.00%",
+    "69.33%",
+    "70.67%",
+    "72.00%"
+   ],
+   "answer": 3,
+   "explanation": "54/75 = 0.7200 = 72.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 54/75 as a decimal?",
+   "choices": [
+    "0.6800",
+    "0.6933",
+    "0.7200",
+    "0.7067"
+   ],
+   "answer": 2,
+   "explanation": "54/75 = 0.7200 = 72.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 55/75 as a percentage?",
+   "choices": [
+    "69.33%",
+    "73.33%",
+    "70.67%",
+    "72.00%"
+   ],
+   "answer": 1,
+   "explanation": "55/75 = 0.7333 = 73.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 55/75 as a decimal?",
+   "choices": [
+    "0.7333",
+    "0.6933",
+    "0.7067",
+    "0.7200"
+   ],
+   "answer": 0,
+   "explanation": "55/75 = 0.7333 = 73.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 56/75 as a percentage?",
+   "choices": [
+    "70.67%",
+    "72.00%",
+    "73.33%",
+    "74.67%"
+   ],
+   "answer": 3,
+   "explanation": "56/75 = 0.7467 = 74.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 56/75 as a decimal?",
+   "choices": [
+    "0.7067",
+    "0.7200",
+    "0.7467",
+    "0.7333"
+   ],
+   "answer": 2,
+   "explanation": "56/75 = 0.7467 = 74.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 57/75 as a percentage?",
+   "choices": [
+    "72.00%",
+    "76.00%",
+    "73.33%",
+    "74.67%"
+   ],
+   "answer": 1,
+   "explanation": "57/75 = 0.7600 = 76.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 57/75 as a decimal?",
+   "choices": [
+    "0.7200",
+    "0.7600",
+    "0.7333",
+    "0.7467"
+   ],
+   "answer": 1,
+   "explanation": "57/75 = 0.7600 = 76.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 58/75 as a percentage?",
+   "choices": [
+    "77.33%",
+    "73.33%",
+    "74.67%",
+    "76.00%"
+   ],
+   "answer": 0,
+   "explanation": "58/75 = 0.7733 = 77.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 58/75 as a decimal?",
+   "choices": [
+    "0.7333",
+    "0.7733",
+    "0.7467",
+    "0.7600"
+   ],
+   "answer": 1,
+   "explanation": "58/75 = 0.7733 = 77.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 59/75 as a percentage?",
+   "choices": [
+    "74.67%",
+    "76.00%",
+    "77.33%",
+    "78.67%"
+   ],
+   "answer": 3,
+   "explanation": "59/75 = 0.7867 = 78.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 59/75 as a decimal?",
+   "choices": [
+    "0.7867",
+    "0.7467",
+    "0.7600",
+    "0.7733"
+   ],
+   "answer": 0,
+   "explanation": "59/75 = 0.7867 = 78.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 60/75 as a percentage?",
+   "choices": [
+    "76.00%",
+    "80.00%",
+    "77.33%",
+    "78.67%"
+   ],
+   "answer": 1,
+   "explanation": "60/75 = 0.8000 = 80.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 60/75 as a decimal?",
+   "choices": [
+    "0.8000",
+    "0.7600",
+    "0.7733",
+    "0.7867"
+   ],
+   "answer": 0,
+   "explanation": "60/75 = 0.8000 = 80.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 61/75 as a percentage?",
+   "choices": [
+    "81.33%",
+    "77.33%",
+    "78.67%",
+    "80.00%"
+   ],
+   "answer": 0,
+   "explanation": "61/75 = 0.8133 = 81.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 61/75 as a decimal?",
+   "choices": [
+    "0.7733",
+    "0.7867",
+    "0.8000",
+    "0.8133"
+   ],
+   "answer": 3,
+   "explanation": "61/75 = 0.8133 = 81.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 62/75 as a percentage?",
+   "choices": [
+    "78.67%",
+    "80.00%",
+    "81.33%",
+    "82.67%"
+   ],
+   "answer": 3,
+   "explanation": "62/75 = 0.8267 = 82.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 62/75 as a decimal?",
+   "choices": [
+    "0.8267",
+    "0.7867",
+    "0.8000",
+    "0.8133"
+   ],
+   "answer": 0,
+   "explanation": "62/75 = 0.8267 = 82.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 63/75 as a percentage?",
+   "choices": [
+    "80.00%",
+    "84.00%",
+    "81.33%",
+    "82.67%"
+   ],
+   "answer": 1,
+   "explanation": "63/75 = 0.8400 = 84.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 63/75 as a decimal?",
+   "choices": [
+    "0.8000",
+    "0.8133",
+    "0.8267",
+    "0.8400"
+   ],
+   "answer": 3,
+   "explanation": "63/75 = 0.8400 = 84.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 64/75 as a percentage?",
+   "choices": [
+    "85.33%",
+    "81.33%",
+    "82.67%",
+    "84.00%"
+   ],
+   "answer": 0,
+   "explanation": "64/75 = 0.8533 = 85.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 64/75 as a decimal?",
+   "choices": [
+    "0.8133",
+    "0.8533",
+    "0.8267",
+    "0.8400"
+   ],
+   "answer": 1,
+   "explanation": "64/75 = 0.8533 = 85.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 65/75 as a percentage?",
+   "choices": [
+    "82.67%",
+    "84.00%",
+    "85.33%",
+    "86.67%"
+   ],
+   "answer": 3,
+   "explanation": "65/75 = 0.8667 = 86.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 65/75 as a decimal?",
+   "choices": [
+    "0.8267",
+    "0.8400",
+    "0.8533",
+    "0.8667"
+   ],
+   "answer": 3,
+   "explanation": "65/75 = 0.8667 = 86.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 66/75 as a percentage?",
+   "choices": [
+    "84.00%",
+    "85.33%",
+    "88.00%",
+    "86.67%"
+   ],
+   "answer": 2,
+   "explanation": "66/75 = 0.8800 = 88.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 66/75 as a decimal?",
+   "choices": [
+    "0.8400",
+    "0.8533",
+    "0.8667",
+    "0.8800"
+   ],
+   "answer": 3,
+   "explanation": "66/75 = 0.8800 = 88.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 67/75 as a percentage?",
+   "choices": [
+    "85.33%",
+    "86.67%",
+    "88.00%",
+    "89.33%"
+   ],
+   "answer": 3,
+   "explanation": "67/75 = 0.8933 = 89.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 67/75 as a decimal?",
+   "choices": [
+    "0.8933",
+    "0.8533",
+    "0.8667",
+    "0.8800"
+   ],
+   "answer": 0,
+   "explanation": "67/75 = 0.8933 = 89.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 68/75 as a percentage?",
+   "choices": [
+    "86.67%",
+    "88.00%",
+    "89.33%",
+    "90.67%"
+   ],
+   "answer": 3,
+   "explanation": "68/75 = 0.9067 = 90.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 68/75 as a decimal?",
+   "choices": [
+    "0.9067",
+    "0.8667",
+    "0.8800",
+    "0.8933"
+   ],
+   "answer": 0,
+   "explanation": "68/75 = 0.9067 = 90.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 69/75 as a percentage?",
+   "choices": [
+    "92.00%",
+    "88.00%",
+    "89.33%",
+    "90.67%"
+   ],
+   "answer": 0,
+   "explanation": "69/75 = 0.9200 = 92.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 69/75 as a decimal?",
+   "choices": [
+    "0.9200",
+    "0.8800",
+    "0.8933",
+    "0.9067"
+   ],
+   "answer": 0,
+   "explanation": "69/75 = 0.9200 = 92.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 70/75 as a percentage?",
+   "choices": [
+    "89.33%",
+    "93.33%",
+    "90.67%",
+    "92.00%"
+   ],
+   "answer": 1,
+   "explanation": "70/75 = 0.9333 = 93.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 70/75 as a decimal?",
+   "choices": [
+    "0.8933",
+    "0.9067",
+    "0.9200",
+    "0.9333"
+   ],
+   "answer": 3,
+   "explanation": "70/75 = 0.9333 = 93.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 71/75 as a percentage?",
+   "choices": [
+    "90.67%",
+    "92.00%",
+    "94.67%",
+    "93.33%"
+   ],
+   "answer": 2,
+   "explanation": "71/75 = 0.9467 = 94.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 71/75 as a decimal?",
+   "choices": [
+    "0.9067",
+    "0.9200",
+    "0.9333",
+    "0.9467"
+   ],
+   "answer": 3,
+   "explanation": "71/75 = 0.9467 = 94.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 72/75 as a percentage?",
+   "choices": [
+    "92.00%",
+    "93.33%",
+    "94.67%",
+    "96.00%"
+   ],
+   "answer": 3,
+   "explanation": "72/75 = 0.9600 = 96.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 72/75 as a decimal?",
+   "choices": [
+    "0.9200",
+    "0.9333",
+    "0.9600",
+    "0.9467"
+   ],
+   "answer": 2,
+   "explanation": "72/75 = 0.9600 = 96.00%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 73/75 as a percentage?",
+   "choices": [
+    "93.33%",
+    "94.67%",
+    "96.00%",
+    "97.33%"
+   ],
+   "answer": 3,
+   "explanation": "73/75 = 0.9733 = 97.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 73/75 as a decimal?",
+   "choices": [
+    "0.9333",
+    "0.9733",
+    "0.9467",
+    "0.9600"
+   ],
+   "answer": 1,
+   "explanation": "73/75 = 0.9733 = 97.33%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 74/75 as a percentage?",
+   "choices": [
+    "94.67%",
+    "96.00%",
+    "97.33%",
+    "98.67%"
+   ],
+   "answer": 3,
+   "explanation": "74/75 = 0.9867 = 98.67%",
+   "source": "X/75"
+  },
+  {
+   "question": "What is 74/75 as a decimal?",
+   "choices": [
+    "0.9867",
+    "0.9467",
+    "0.9600",
+    "0.9733"
+   ],
+   "answer": 0,
+   "explanation": "74/75 = 0.9867 = 98.67%",
+   "source": "X/75"
+  }
+ ]
+}

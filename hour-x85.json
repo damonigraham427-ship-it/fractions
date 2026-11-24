@@ -1,0 +1,2020 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/85 as a percentage?",
+   "choices": [
+    "1.18%",
+    "2.35%",
+    "3.53%",
+    "4.71%"
+   ],
+   "answer": 0,
+   "explanation": "1/85 = 0.0118 = 1.18%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 1/85 as a decimal?",
+   "choices": [
+    "0.0118",
+    "0.0235",
+    "0.0353",
+    "0.0471"
+   ],
+   "answer": 0,
+   "explanation": "1/85 = 0.0118 = 1.18%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 2/85 as a percentage?",
+   "choices": [
+    "1.18%",
+    "3.53%",
+    "2.35%",
+    "4.71%"
+   ],
+   "answer": 2,
+   "explanation": "2/85 = 0.0235 = 2.35%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 2/85 as a decimal?",
+   "choices": [
+    "0.0118",
+    "0.0353",
+    "0.0235",
+    "0.0471"
+   ],
+   "answer": 2,
+   "explanation": "2/85 = 0.0235 = 2.35%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 3/85 as a percentage?",
+   "choices": [
+    "1.18%",
+    "2.35%",
+    "4.71%",
+    "3.53%"
+   ],
+   "answer": 3,
+   "explanation": "3/85 = 0.0353 = 3.53%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 3/85 as a decimal?",
+   "choices": [
+    "0.0353",
+    "0.0118",
+    "0.0235",
+    "0.0471"
+   ],
+   "answer": 0,
+   "explanation": "3/85 = 0.0353 = 3.53%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 4/85 as a percentage?",
+   "choices": [
+    "1.18%",
+    "2.35%",
+    "3.53%",
+    "4.71%"
+   ],
+   "answer": 3,
+   "explanation": "4/85 = 0.0471 = 4.71%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 4/85 as a decimal?",
+   "choices": [
+    "0.0118",
+    "0.0235",
+    "0.0353",
+    "0.0471"
+   ],
+   "answer": 3,
+   "explanation": "4/85 = 0.0471 = 4.71%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 5/85 as a percentage?",
+   "choices": [
+    "2.35%",
+    "3.53%",
+    "4.71%",
+    "5.88%"
+   ],
+   "answer": 3,
+   "explanation": "5/85 = 0.0588 = 5.88%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 5/85 as a decimal?",
+   "choices": [
+    "0.0588",
+    "0.0235",
+    "0.0353",
+    "0.0471"
+   ],
+   "answer": 0,
+   "explanation": "5/85 = 0.0588 = 5.88%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 6/85 as a percentage?",
+   "choices": [
+    "3.53%",
+    "7.06%",
+    "4.71%",
+    "5.88%"
+   ],
+   "answer": 1,
+   "explanation": "6/85 = 0.0706 = 7.06%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 6/85 as a decimal?",
+   "choices": [
+    "0.0353",
+    "0.0471",
+    "0.0588",
+    "0.0706"
+   ],
+   "answer": 3,
+   "explanation": "6/85 = 0.0706 = 7.06%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 7/85 as a percentage?",
+   "choices": [
+    "4.71%",
+    "8.24%",
+    "5.88%",
+    "7.06%"
+   ],
+   "answer": 1,
+   "explanation": "7/85 = 0.0824 = 8.24%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 7/85 as a decimal?",
+   "choices": [
+    "0.0471",
+    "0.0824",
+    "0.0588",
+    "0.0706"
+   ],
+   "answer": 1,
+   "explanation": "7/85 = 0.0824 = 8.24%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 8/85 as a percentage?",
+   "choices": [
+    "5.88%",
+    "7.06%",
+    "8.24%",
+    "9.41%"
+   ],
+   "answer": 3,
+   "explanation": "8/85 = 0.0941 = 9.41%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 8/85 as a decimal?",
+   "choices": [
+    "0.0588",
+    "0.0941",
+    "0.0706",
+    "0.0824"
+   ],
+   "answer": 1,
+   "explanation": "8/85 = 0.0941 = 9.41%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 9/85 as a percentage?",
+   "choices": [
+    "7.06%",
+    "8.24%",
+    "9.41%",
+    "10.59%"
+   ],
+   "answer": 3,
+   "explanation": "9/85 = 0.1059 = 10.59%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 9/85 as a decimal?",
+   "choices": [
+    "0.0706",
+    "0.0824",
+    "0.0941",
+    "0.1059"
+   ],
+   "answer": 3,
+   "explanation": "9/85 = 0.1059 = 10.59%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 10/85 as a percentage?",
+   "choices": [
+    "11.76%",
+    "8.24%",
+    "9.41%",
+    "10.59%"
+   ],
+   "answer": 0,
+   "explanation": "10/85 = 0.1176 = 11.76%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 10/85 as a decimal?",
+   "choices": [
+    "0.0824",
+    "0.1176",
+    "0.0941",
+    "0.1059"
+   ],
+   "answer": 1,
+   "explanation": "10/85 = 0.1176 = 11.76%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 11/85 as a percentage?",
+   "choices": [
+    "9.41%",
+    "10.59%",
+    "11.76%",
+    "12.94%"
+   ],
+   "answer": 3,
+   "explanation": "11/85 = 0.1294 = 12.94%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 11/85 as a decimal?",
+   "choices": [
+    "0.0941",
+    "0.1059",
+    "0.1176",
+    "0.1294"
+   ],
+   "answer": 3,
+   "explanation": "11/85 = 0.1294 = 12.94%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 12/85 as a percentage?",
+   "choices": [
+    "14.12%",
+    "10.59%",
+    "11.76%",
+    "12.94%"
+   ],
+   "answer": 0,
+   "explanation": "12/85 = 0.1412 = 14.12%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 12/85 as a decimal?",
+   "choices": [
+    "0.1412",
+    "0.1059",
+    "0.1176",
+    "0.1294"
+   ],
+   "answer": 0,
+   "explanation": "12/85 = 0.1412 = 14.12%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 13/85 as a percentage?",
+   "choices": [
+    "11.76%",
+    "12.94%",
+    "15.29%",
+    "14.12%"
+   ],
+   "answer": 2,
+   "explanation": "13/85 = 0.1529 = 15.29%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 13/85 as a decimal?",
+   "choices": [
+    "0.1529",
+    "0.1176",
+    "0.1294",
+    "0.1412"
+   ],
+   "answer": 0,
+   "explanation": "13/85 = 0.1529 = 15.29%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 14/85 as a percentage?",
+   "choices": [
+    "12.94%",
+    "16.47%",
+    "14.12%",
+    "15.29%"
+   ],
+   "answer": 1,
+   "explanation": "14/85 = 0.1647 = 16.47%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 14/85 as a decimal?",
+   "choices": [
+    "0.1647",
+    "0.1294",
+    "0.1412",
+    "0.1529"
+   ],
+   "answer": 0,
+   "explanation": "14/85 = 0.1647 = 16.47%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 15/85 as a percentage?",
+   "choices": [
+    "14.12%",
+    "15.29%",
+    "17.65%",
+    "16.47%"
+   ],
+   "answer": 2,
+   "explanation": "15/85 = 0.1765 = 17.65%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 15/85 as a decimal?",
+   "choices": [
+    "0.1412",
+    "0.1765",
+    "0.1529",
+    "0.1647"
+   ],
+   "answer": 1,
+   "explanation": "15/85 = 0.1765 = 17.65%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 16/85 as a percentage?",
+   "choices": [
+    "15.29%",
+    "16.47%",
+    "17.65%",
+    "18.82%"
+   ],
+   "answer": 3,
+   "explanation": "16/85 = 0.1882 = 18.82%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 16/85 as a decimal?",
+   "choices": [
+    "0.1529",
+    "0.1647",
+    "0.1882",
+    "0.1765"
+   ],
+   "answer": 2,
+   "explanation": "16/85 = 0.1882 = 18.82%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 17/85 as a percentage?",
+   "choices": [
+    "16.47%",
+    "17.65%",
+    "20.00%",
+    "18.82%"
+   ],
+   "answer": 2,
+   "explanation": "17/85 = 0.2000 = 20.00%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 17/85 as a decimal?",
+   "choices": [
+    "0.1647",
+    "0.2000",
+    "0.1765",
+    "0.1882"
+   ],
+   "answer": 1,
+   "explanation": "17/85 = 0.2000 = 20.00%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 18/85 as a percentage?",
+   "choices": [
+    "17.65%",
+    "18.82%",
+    "21.18%",
+    "20.00%"
+   ],
+   "answer": 2,
+   "explanation": "18/85 = 0.2118 = 21.18%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 18/85 as a decimal?",
+   "choices": [
+    "0.1765",
+    "0.1882",
+    "0.2000",
+    "0.2118"
+   ],
+   "answer": 3,
+   "explanation": "18/85 = 0.2118 = 21.18%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 19/85 as a percentage?",
+   "choices": [
+    "18.82%",
+    "20.00%",
+    "21.18%",
+    "22.35%"
+   ],
+   "answer": 3,
+   "explanation": "19/85 = 0.2235 = 22.35%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 19/85 as a decimal?",
+   "choices": [
+    "0.1882",
+    "0.2235",
+    "0.2000",
+    "0.2118"
+   ],
+   "answer": 1,
+   "explanation": "19/85 = 0.2235 = 22.35%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 20/85 as a percentage?",
+   "choices": [
+    "20.00%",
+    "21.18%",
+    "23.53%",
+    "22.35%"
+   ],
+   "answer": 2,
+   "explanation": "20/85 = 0.2353 = 23.53%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 20/85 as a decimal?",
+   "choices": [
+    "0.2000",
+    "0.2118",
+    "0.2235",
+    "0.2353"
+   ],
+   "answer": 3,
+   "explanation": "20/85 = 0.2353 = 23.53%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 21/85 as a percentage?",
+   "choices": [
+    "21.18%",
+    "24.71%",
+    "22.35%",
+    "23.53%"
+   ],
+   "answer": 1,
+   "explanation": "21/85 = 0.2471 = 24.71%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 21/85 as a decimal?",
+   "choices": [
+    "0.2471",
+    "0.2118",
+    "0.2235",
+    "0.2353"
+   ],
+   "answer": 0,
+   "explanation": "21/85 = 0.2471 = 24.71%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 22/85 as a percentage?",
+   "choices": [
+    "25.88%",
+    "22.35%",
+    "23.53%",
+    "24.71%"
+   ],
+   "answer": 0,
+   "explanation": "22/85 = 0.2588 = 25.88%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 22/85 as a decimal?",
+   "choices": [
+    "0.2235",
+    "0.2353",
+    "0.2471",
+    "0.2588"
+   ],
+   "answer": 3,
+   "explanation": "22/85 = 0.2588 = 25.88%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 23/85 as a percentage?",
+   "choices": [
+    "23.53%",
+    "27.06%",
+    "24.71%",
+    "25.88%"
+   ],
+   "answer": 1,
+   "explanation": "23/85 = 0.2706 = 27.06%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 23/85 as a decimal?",
+   "choices": [
+    "0.2353",
+    "0.2471",
+    "0.2588",
+    "0.2706"
+   ],
+   "answer": 3,
+   "explanation": "23/85 = 0.2706 = 27.06%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 24/85 as a percentage?",
+   "choices": [
+    "24.71%",
+    "28.24%",
+    "25.88%",
+    "27.06%"
+   ],
+   "answer": 1,
+   "explanation": "24/85 = 0.2824 = 28.24%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 24/85 as a decimal?",
+   "choices": [
+    "0.2824",
+    "0.2471",
+    "0.2588",
+    "0.2706"
+   ],
+   "answer": 0,
+   "explanation": "24/85 = 0.2824 = 28.24%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 25/85 as a percentage?",
+   "choices": [
+    "25.88%",
+    "27.06%",
+    "29.41%",
+    "28.24%"
+   ],
+   "answer": 2,
+   "explanation": "25/85 = 0.2941 = 29.41%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 25/85 as a decimal?",
+   "choices": [
+    "0.2588",
+    "0.2941",
+    "0.2706",
+    "0.2824"
+   ],
+   "answer": 1,
+   "explanation": "25/85 = 0.2941 = 29.41%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 26/85 as a percentage?",
+   "choices": [
+    "27.06%",
+    "28.24%",
+    "29.41%",
+    "30.59%"
+   ],
+   "answer": 3,
+   "explanation": "26/85 = 0.3059 = 30.59%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 26/85 as a decimal?",
+   "choices": [
+    "0.3059",
+    "0.2706",
+    "0.2824",
+    "0.2941"
+   ],
+   "answer": 0,
+   "explanation": "26/85 = 0.3059 = 30.59%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 27/85 as a percentage?",
+   "choices": [
+    "28.24%",
+    "31.76%",
+    "29.41%",
+    "30.59%"
+   ],
+   "answer": 1,
+   "explanation": "27/85 = 0.3176 = 31.76%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 27/85 as a decimal?",
+   "choices": [
+    "0.3176",
+    "0.2824",
+    "0.2941",
+    "0.3059"
+   ],
+   "answer": 0,
+   "explanation": "27/85 = 0.3176 = 31.76%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 28/85 as a percentage?",
+   "choices": [
+    "29.41%",
+    "32.94%",
+    "30.59%",
+    "31.76%"
+   ],
+   "answer": 1,
+   "explanation": "28/85 = 0.3294 = 32.94%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 28/85 as a decimal?",
+   "choices": [
+    "0.2941",
+    "0.3059",
+    "0.3176",
+    "0.3294"
+   ],
+   "answer": 3,
+   "explanation": "28/85 = 0.3294 = 32.94%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 29/85 as a percentage?",
+   "choices": [
+    "30.59%",
+    "31.76%",
+    "34.12%",
+    "32.94%"
+   ],
+   "answer": 2,
+   "explanation": "29/85 = 0.3412 = 34.12%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 29/85 as a decimal?",
+   "choices": [
+    "0.3412",
+    "0.3059",
+    "0.3176",
+    "0.3294"
+   ],
+   "answer": 0,
+   "explanation": "29/85 = 0.3412 = 34.12%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 30/85 as a percentage?",
+   "choices": [
+    "31.76%",
+    "35.29%",
+    "32.94%",
+    "34.12%"
+   ],
+   "answer": 1,
+   "explanation": "30/85 = 0.3529 = 35.29%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 30/85 as a decimal?",
+   "choices": [
+    "0.3176",
+    "0.3529",
+    "0.3294",
+    "0.3412"
+   ],
+   "answer": 1,
+   "explanation": "30/85 = 0.3529 = 35.29%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 31/85 as a percentage?",
+   "choices": [
+    "32.94%",
+    "36.47%",
+    "34.12%",
+    "35.29%"
+   ],
+   "answer": 1,
+   "explanation": "31/85 = 0.3647 = 36.47%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 31/85 as a decimal?",
+   "choices": [
+    "0.3294",
+    "0.3647",
+    "0.3412",
+    "0.3529"
+   ],
+   "answer": 1,
+   "explanation": "31/85 = 0.3647 = 36.47%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 32/85 as a percentage?",
+   "choices": [
+    "34.12%",
+    "35.29%",
+    "37.65%",
+    "36.47%"
+   ],
+   "answer": 2,
+   "explanation": "32/85 = 0.3765 = 37.65%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 32/85 as a decimal?",
+   "choices": [
+    "0.3765",
+    "0.3412",
+    "0.3529",
+    "0.3647"
+   ],
+   "answer": 0,
+   "explanation": "32/85 = 0.3765 = 37.65%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 33/85 as a percentage?",
+   "choices": [
+    "35.29%",
+    "38.82%",
+    "36.47%",
+    "37.65%"
+   ],
+   "answer": 1,
+   "explanation": "33/85 = 0.3882 = 38.82%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 33/85 as a decimal?",
+   "choices": [
+    "0.3529",
+    "0.3647",
+    "0.3765",
+    "0.3882"
+   ],
+   "answer": 3,
+   "explanation": "33/85 = 0.3882 = 38.82%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 34/85 as a percentage?",
+   "choices": [
+    "40.00%",
+    "36.47%",
+    "37.65%",
+    "38.82%"
+   ],
+   "answer": 0,
+   "explanation": "34/85 = 0.4000 = 40.00%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 34/85 as a decimal?",
+   "choices": [
+    "0.4000",
+    "0.3647",
+    "0.3765",
+    "0.3882"
+   ],
+   "answer": 0,
+   "explanation": "34/85 = 0.4000 = 40.00%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 35/85 as a percentage?",
+   "choices": [
+    "37.65%",
+    "41.18%",
+    "38.82%",
+    "40.00%"
+   ],
+   "answer": 1,
+   "explanation": "35/85 = 0.4118 = 41.18%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 35/85 as a decimal?",
+   "choices": [
+    "0.3765",
+    "0.3882",
+    "0.4118",
+    "0.4000"
+   ],
+   "answer": 2,
+   "explanation": "35/85 = 0.4118 = 41.18%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 36/85 as a percentage?",
+   "choices": [
+    "38.82%",
+    "42.35%",
+    "40.00%",
+    "41.18%"
+   ],
+   "answer": 1,
+   "explanation": "36/85 = 0.4235 = 42.35%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 36/85 as a decimal?",
+   "choices": [
+    "0.3882",
+    "0.4000",
+    "0.4118",
+    "0.4235"
+   ],
+   "answer": 3,
+   "explanation": "36/85 = 0.4235 = 42.35%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 37/85 as a percentage?",
+   "choices": [
+    "40.00%",
+    "41.18%",
+    "42.35%",
+    "43.53%"
+   ],
+   "answer": 3,
+   "explanation": "37/85 = 0.4353 = 43.53%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 37/85 as a decimal?",
+   "choices": [
+    "0.4000",
+    "0.4118",
+    "0.4235",
+    "0.4353"
+   ],
+   "answer": 3,
+   "explanation": "37/85 = 0.4353 = 43.53%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 38/85 as a percentage?",
+   "choices": [
+    "44.71%",
+    "41.18%",
+    "42.35%",
+    "43.53%"
+   ],
+   "answer": 0,
+   "explanation": "38/85 = 0.4471 = 44.71%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 38/85 as a decimal?",
+   "choices": [
+    "0.4118",
+    "0.4235",
+    "0.4471",
+    "0.4353"
+   ],
+   "answer": 2,
+   "explanation": "38/85 = 0.4471 = 44.71%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 39/85 as a percentage?",
+   "choices": [
+    "42.35%",
+    "43.53%",
+    "44.71%",
+    "45.88%"
+   ],
+   "answer": 3,
+   "explanation": "39/85 = 0.4588 = 45.88%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 39/85 as a decimal?",
+   "choices": [
+    "0.4235",
+    "0.4353",
+    "0.4588",
+    "0.4471"
+   ],
+   "answer": 2,
+   "explanation": "39/85 = 0.4588 = 45.88%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 40/85 as a percentage?",
+   "choices": [
+    "43.53%",
+    "44.71%",
+    "45.88%",
+    "47.06%"
+   ],
+   "answer": 3,
+   "explanation": "40/85 = 0.4706 = 47.06%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 40/85 as a decimal?",
+   "choices": [
+    "0.4706",
+    "0.4353",
+    "0.4471",
+    "0.4588"
+   ],
+   "answer": 0,
+   "explanation": "40/85 = 0.4706 = 47.06%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 41/85 as a percentage?",
+   "choices": [
+    "44.71%",
+    "45.88%",
+    "48.24%",
+    "47.06%"
+   ],
+   "answer": 2,
+   "explanation": "41/85 = 0.4824 = 48.24%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 41/85 as a decimal?",
+   "choices": [
+    "0.4471",
+    "0.4824",
+    "0.4588",
+    "0.4706"
+   ],
+   "answer": 1,
+   "explanation": "41/85 = 0.4824 = 48.24%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 42/85 as a percentage?",
+   "choices": [
+    "49.41%",
+    "45.88%",
+    "47.06%",
+    "48.24%"
+   ],
+   "answer": 0,
+   "explanation": "42/85 = 0.4941 = 49.41%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 42/85 as a decimal?",
+   "choices": [
+    "0.4588",
+    "0.4706",
+    "0.4941",
+    "0.4824"
+   ],
+   "answer": 2,
+   "explanation": "42/85 = 0.4941 = 49.41%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 43/85 as a percentage?",
+   "choices": [
+    "47.06%",
+    "48.24%",
+    "49.41%",
+    "50.59%"
+   ],
+   "answer": 3,
+   "explanation": "43/85 = 0.5059 = 50.59%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 43/85 as a decimal?",
+   "choices": [
+    "0.4706",
+    "0.4824",
+    "0.5059",
+    "0.4941"
+   ],
+   "answer": 2,
+   "explanation": "43/85 = 0.5059 = 50.59%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 44/85 as a percentage?",
+   "choices": [
+    "48.24%",
+    "49.41%",
+    "51.76%",
+    "50.59%"
+   ],
+   "answer": 2,
+   "explanation": "44/85 = 0.5176 = 51.76%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 44/85 as a decimal?",
+   "choices": [
+    "0.4824",
+    "0.5176",
+    "0.4941",
+    "0.5059"
+   ],
+   "answer": 1,
+   "explanation": "44/85 = 0.5176 = 51.76%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 45/85 as a percentage?",
+   "choices": [
+    "49.41%",
+    "52.94%",
+    "50.59%",
+    "51.76%"
+   ],
+   "answer": 1,
+   "explanation": "45/85 = 0.5294 = 52.94%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 45/85 as a decimal?",
+   "choices": [
+    "0.4941",
+    "0.5059",
+    "0.5176",
+    "0.5294"
+   ],
+   "answer": 3,
+   "explanation": "45/85 = 0.5294 = 52.94%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 46/85 as a percentage?",
+   "choices": [
+    "50.59%",
+    "51.76%",
+    "54.12%",
+    "52.94%"
+   ],
+   "answer": 2,
+   "explanation": "46/85 = 0.5412 = 54.12%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 46/85 as a decimal?",
+   "choices": [
+    "0.5412",
+    "0.5059",
+    "0.5176",
+    "0.5294"
+   ],
+   "answer": 0,
+   "explanation": "46/85 = 0.5412 = 54.12%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 47/85 as a percentage?",
+   "choices": [
+    "51.76%",
+    "52.94%",
+    "54.12%",
+    "55.29%"
+   ],
+   "answer": 3,
+   "explanation": "47/85 = 0.5529 = 55.29%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 47/85 as a decimal?",
+   "choices": [
+    "0.5176",
+    "0.5294",
+    "0.5529",
+    "0.5412"
+   ],
+   "answer": 2,
+   "explanation": "47/85 = 0.5529 = 55.29%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 48/85 as a percentage?",
+   "choices": [
+    "52.94%",
+    "54.12%",
+    "55.29%",
+    "56.47%"
+   ],
+   "answer": 3,
+   "explanation": "48/85 = 0.5647 = 56.47%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 48/85 as a decimal?",
+   "choices": [
+    "0.5294",
+    "0.5412",
+    "0.5529",
+    "0.5647"
+   ],
+   "answer": 3,
+   "explanation": "48/85 = 0.5647 = 56.47%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 49/85 as a percentage?",
+   "choices": [
+    "54.12%",
+    "55.29%",
+    "56.47%",
+    "57.65%"
+   ],
+   "answer": 3,
+   "explanation": "49/85 = 0.5765 = 57.65%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 49/85 as a decimal?",
+   "choices": [
+    "0.5765",
+    "0.5412",
+    "0.5529",
+    "0.5647"
+   ],
+   "answer": 0,
+   "explanation": "49/85 = 0.5765 = 57.65%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 50/85 as a percentage?",
+   "choices": [
+    "55.29%",
+    "56.47%",
+    "57.65%",
+    "58.82%"
+   ],
+   "answer": 3,
+   "explanation": "50/85 = 0.5882 = 58.82%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 50/85 as a decimal?",
+   "choices": [
+    "0.5882",
+    "0.5529",
+    "0.5647",
+    "0.5765"
+   ],
+   "answer": 0,
+   "explanation": "50/85 = 0.5882 = 58.82%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 51/85 as a percentage?",
+   "choices": [
+    "56.47%",
+    "57.65%",
+    "60.00%",
+    "58.82%"
+   ],
+   "answer": 2,
+   "explanation": "51/85 = 0.6000 = 60.00%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 51/85 as a decimal?",
+   "choices": [
+    "0.6000",
+    "0.5647",
+    "0.5765",
+    "0.5882"
+   ],
+   "answer": 0,
+   "explanation": "51/85 = 0.6000 = 60.00%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 52/85 as a percentage?",
+   "choices": [
+    "57.65%",
+    "58.82%",
+    "61.18%",
+    "60.00%"
+   ],
+   "answer": 2,
+   "explanation": "52/85 = 0.6118 = 61.18%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 52/85 as a decimal?",
+   "choices": [
+    "0.5765",
+    "0.6118",
+    "0.5882",
+    "0.6000"
+   ],
+   "answer": 1,
+   "explanation": "52/85 = 0.6118 = 61.18%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 53/85 as a percentage?",
+   "choices": [
+    "58.82%",
+    "60.00%",
+    "61.18%",
+    "62.35%"
+   ],
+   "answer": 3,
+   "explanation": "53/85 = 0.6235 = 62.35%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 53/85 as a decimal?",
+   "choices": [
+    "0.5882",
+    "0.6000",
+    "0.6235",
+    "0.6118"
+   ],
+   "answer": 2,
+   "explanation": "53/85 = 0.6235 = 62.35%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 54/85 as a percentage?",
+   "choices": [
+    "60.00%",
+    "63.53%",
+    "61.18%",
+    "62.35%"
+   ],
+   "answer": 1,
+   "explanation": "54/85 = 0.6353 = 63.53%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 54/85 as a decimal?",
+   "choices": [
+    "0.6353",
+    "0.6000",
+    "0.6118",
+    "0.6235"
+   ],
+   "answer": 0,
+   "explanation": "54/85 = 0.6353 = 63.53%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 55/85 as a percentage?",
+   "choices": [
+    "64.71%",
+    "61.18%",
+    "62.35%",
+    "63.53%"
+   ],
+   "answer": 0,
+   "explanation": "55/85 = 0.6471 = 64.71%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 55/85 as a decimal?",
+   "choices": [
+    "0.6118",
+    "0.6235",
+    "0.6471",
+    "0.6353"
+   ],
+   "answer": 2,
+   "explanation": "55/85 = 0.6471 = 64.71%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 56/85 as a percentage?",
+   "choices": [
+    "62.35%",
+    "65.88%",
+    "63.53%",
+    "64.71%"
+   ],
+   "answer": 1,
+   "explanation": "56/85 = 0.6588 = 65.88%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 56/85 as a decimal?",
+   "choices": [
+    "0.6235",
+    "0.6353",
+    "0.6471",
+    "0.6588"
+   ],
+   "answer": 3,
+   "explanation": "56/85 = 0.6588 = 65.88%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 57/85 as a percentage?",
+   "choices": [
+    "63.53%",
+    "64.71%",
+    "65.88%",
+    "67.06%"
+   ],
+   "answer": 3,
+   "explanation": "57/85 = 0.6706 = 67.06%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 57/85 as a decimal?",
+   "choices": [
+    "0.6353",
+    "0.6706",
+    "0.6471",
+    "0.6588"
+   ],
+   "answer": 1,
+   "explanation": "57/85 = 0.6706 = 67.06%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 58/85 as a percentage?",
+   "choices": [
+    "64.71%",
+    "68.24%",
+    "65.88%",
+    "67.06%"
+   ],
+   "answer": 1,
+   "explanation": "58/85 = 0.6824 = 68.24%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 58/85 as a decimal?",
+   "choices": [
+    "0.6824",
+    "0.6471",
+    "0.6588",
+    "0.6706"
+   ],
+   "answer": 0,
+   "explanation": "58/85 = 0.6824 = 68.24%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 59/85 as a percentage?",
+   "choices": [
+    "65.88%",
+    "67.06%",
+    "68.24%",
+    "69.41%"
+   ],
+   "answer": 3,
+   "explanation": "59/85 = 0.6941 = 69.41%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 59/85 as a decimal?",
+   "choices": [
+    "0.6588",
+    "0.6941",
+    "0.6706",
+    "0.6824"
+   ],
+   "answer": 1,
+   "explanation": "59/85 = 0.6941 = 69.41%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 60/85 as a percentage?",
+   "choices": [
+    "67.06%",
+    "68.24%",
+    "70.59%",
+    "69.41%"
+   ],
+   "answer": 2,
+   "explanation": "60/85 = 0.7059 = 70.59%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 60/85 as a decimal?",
+   "choices": [
+    "0.7059",
+    "0.6706",
+    "0.6824",
+    "0.6941"
+   ],
+   "answer": 0,
+   "explanation": "60/85 = 0.7059 = 70.59%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 61/85 as a percentage?",
+   "choices": [
+    "68.24%",
+    "69.41%",
+    "70.59%",
+    "71.76%"
+   ],
+   "answer": 3,
+   "explanation": "61/85 = 0.7176 = 71.76%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 61/85 as a decimal?",
+   "choices": [
+    "0.6824",
+    "0.6941",
+    "0.7059",
+    "0.7176"
+   ],
+   "answer": 3,
+   "explanation": "61/85 = 0.7176 = 71.76%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 62/85 as a percentage?",
+   "choices": [
+    "72.94%",
+    "69.41%",
+    "70.59%",
+    "71.76%"
+   ],
+   "answer": 0,
+   "explanation": "62/85 = 0.7294 = 72.94%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 62/85 as a decimal?",
+   "choices": [
+    "0.7294",
+    "0.6941",
+    "0.7059",
+    "0.7176"
+   ],
+   "answer": 0,
+   "explanation": "62/85 = 0.7294 = 72.94%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 63/85 as a percentage?",
+   "choices": [
+    "70.59%",
+    "71.76%",
+    "74.12%",
+    "72.94%"
+   ],
+   "answer": 2,
+   "explanation": "63/85 = 0.7412 = 74.12%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 63/85 as a decimal?",
+   "choices": [
+    "0.7412",
+    "0.7059",
+    "0.7176",
+    "0.7294"
+   ],
+   "answer": 0,
+   "explanation": "63/85 = 0.7412 = 74.12%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 64/85 as a percentage?",
+   "choices": [
+    "71.76%",
+    "75.29%",
+    "72.94%",
+    "74.12%"
+   ],
+   "answer": 1,
+   "explanation": "64/85 = 0.7529 = 75.29%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 64/85 as a decimal?",
+   "choices": [
+    "0.7176",
+    "0.7294",
+    "0.7529",
+    "0.7412"
+   ],
+   "answer": 2,
+   "explanation": "64/85 = 0.7529 = 75.29%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 65/85 as a percentage?",
+   "choices": [
+    "72.94%",
+    "74.12%",
+    "76.47%",
+    "75.29%"
+   ],
+   "answer": 2,
+   "explanation": "65/85 = 0.7647 = 76.47%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 65/85 as a decimal?",
+   "choices": [
+    "0.7294",
+    "0.7647",
+    "0.7412",
+    "0.7529"
+   ],
+   "answer": 1,
+   "explanation": "65/85 = 0.7647 = 76.47%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 66/85 as a percentage?",
+   "choices": [
+    "74.12%",
+    "75.29%",
+    "77.65%",
+    "76.47%"
+   ],
+   "answer": 2,
+   "explanation": "66/85 = 0.7765 = 77.65%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 66/85 as a decimal?",
+   "choices": [
+    "0.7765",
+    "0.7412",
+    "0.7529",
+    "0.7647"
+   ],
+   "answer": 0,
+   "explanation": "66/85 = 0.7765 = 77.65%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 67/85 as a percentage?",
+   "choices": [
+    "75.29%",
+    "76.47%",
+    "78.82%",
+    "77.65%"
+   ],
+   "answer": 2,
+   "explanation": "67/85 = 0.7882 = 78.82%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 67/85 as a decimal?",
+   "choices": [
+    "0.7529",
+    "0.7882",
+    "0.7647",
+    "0.7765"
+   ],
+   "answer": 1,
+   "explanation": "67/85 = 0.7882 = 78.82%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 68/85 as a percentage?",
+   "choices": [
+    "76.47%",
+    "80.00%",
+    "77.65%",
+    "78.82%"
+   ],
+   "answer": 1,
+   "explanation": "68/85 = 0.8000 = 80.00%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 68/85 as a decimal?",
+   "choices": [
+    "0.7647",
+    "0.7765",
+    "0.7882",
+    "0.8000"
+   ],
+   "answer": 3,
+   "explanation": "68/85 = 0.8000 = 80.00%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 69/85 as a percentage?",
+   "choices": [
+    "77.65%",
+    "78.82%",
+    "81.18%",
+    "80.00%"
+   ],
+   "answer": 2,
+   "explanation": "69/85 = 0.8118 = 81.18%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 69/85 as a decimal?",
+   "choices": [
+    "0.7765",
+    "0.7882",
+    "0.8000",
+    "0.8118"
+   ],
+   "answer": 3,
+   "explanation": "69/85 = 0.8118 = 81.18%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 70/85 as a percentage?",
+   "choices": [
+    "78.82%",
+    "80.00%",
+    "81.18%",
+    "82.35%"
+   ],
+   "answer": 3,
+   "explanation": "70/85 = 0.8235 = 82.35%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 70/85 as a decimal?",
+   "choices": [
+    "0.8235",
+    "0.7882",
+    "0.8000",
+    "0.8118"
+   ],
+   "answer": 0,
+   "explanation": "70/85 = 0.8235 = 82.35%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 71/85 as a percentage?",
+   "choices": [
+    "80.00%",
+    "83.53%",
+    "81.18%",
+    "82.35%"
+   ],
+   "answer": 1,
+   "explanation": "71/85 = 0.8353 = 83.53%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 71/85 as a decimal?",
+   "choices": [
+    "0.8353",
+    "0.8000",
+    "0.8118",
+    "0.8235"
+   ],
+   "answer": 0,
+   "explanation": "71/85 = 0.8353 = 83.53%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 72/85 as a percentage?",
+   "choices": [
+    "81.18%",
+    "82.35%",
+    "83.53%",
+    "84.71%"
+   ],
+   "answer": 3,
+   "explanation": "72/85 = 0.8471 = 84.71%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 72/85 as a decimal?",
+   "choices": [
+    "0.8471",
+    "0.8118",
+    "0.8235",
+    "0.8353"
+   ],
+   "answer": 0,
+   "explanation": "72/85 = 0.8471 = 84.71%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 73/85 as a percentage?",
+   "choices": [
+    "82.35%",
+    "85.88%",
+    "83.53%",
+    "84.71%"
+   ],
+   "answer": 1,
+   "explanation": "73/85 = 0.8588 = 85.88%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 73/85 as a decimal?",
+   "choices": [
+    "0.8235",
+    "0.8353",
+    "0.8471",
+    "0.8588"
+   ],
+   "answer": 3,
+   "explanation": "73/85 = 0.8588 = 85.88%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 74/85 as a percentage?",
+   "choices": [
+    "87.06%",
+    "83.53%",
+    "84.71%",
+    "85.88%"
+   ],
+   "answer": 0,
+   "explanation": "74/85 = 0.8706 = 87.06%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 74/85 as a decimal?",
+   "choices": [
+    "0.8706",
+    "0.8353",
+    "0.8471",
+    "0.8588"
+   ],
+   "answer": 0,
+   "explanation": "74/85 = 0.8706 = 87.06%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 75/85 as a percentage?",
+   "choices": [
+    "84.71%",
+    "85.88%",
+    "87.06%",
+    "88.24%"
+   ],
+   "answer": 3,
+   "explanation": "75/85 = 0.8824 = 88.24%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 75/85 as a decimal?",
+   "choices": [
+    "0.8471",
+    "0.8824",
+    "0.8588",
+    "0.8706"
+   ],
+   "answer": 1,
+   "explanation": "75/85 = 0.8824 = 88.24%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 76/85 as a percentage?",
+   "choices": [
+    "89.41%",
+    "85.88%",
+    "87.06%",
+    "88.24%"
+   ],
+   "answer": 0,
+   "explanation": "76/85 = 0.8941 = 89.41%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 76/85 as a decimal?",
+   "choices": [
+    "0.8588",
+    "0.8706",
+    "0.8941",
+    "0.8824"
+   ],
+   "answer": 2,
+   "explanation": "76/85 = 0.8941 = 89.41%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 77/85 as a percentage?",
+   "choices": [
+    "87.06%",
+    "88.24%",
+    "90.59%",
+    "89.41%"
+   ],
+   "answer": 2,
+   "explanation": "77/85 = 0.9059 = 90.59%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 77/85 as a decimal?",
+   "choices": [
+    "0.8706",
+    "0.9059",
+    "0.8824",
+    "0.8941"
+   ],
+   "answer": 1,
+   "explanation": "77/85 = 0.9059 = 90.59%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 78/85 as a percentage?",
+   "choices": [
+    "91.76%",
+    "88.24%",
+    "89.41%",
+    "90.59%"
+   ],
+   "answer": 0,
+   "explanation": "78/85 = 0.9176 = 91.76%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 78/85 as a decimal?",
+   "choices": [
+    "0.9176",
+    "0.8824",
+    "0.8941",
+    "0.9059"
+   ],
+   "answer": 0,
+   "explanation": "78/85 = 0.9176 = 91.76%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 79/85 as a percentage?",
+   "choices": [
+    "92.94%",
+    "89.41%",
+    "90.59%",
+    "91.76%"
+   ],
+   "answer": 0,
+   "explanation": "79/85 = 0.9294 = 92.94%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 79/85 as a decimal?",
+   "choices": [
+    "0.8941",
+    "0.9294",
+    "0.9059",
+    "0.9176"
+   ],
+   "answer": 1,
+   "explanation": "79/85 = 0.9294 = 92.94%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 80/85 as a percentage?",
+   "choices": [
+    "90.59%",
+    "91.76%",
+    "94.12%",
+    "92.94%"
+   ],
+   "answer": 2,
+   "explanation": "80/85 = 0.9412 = 94.12%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 80/85 as a decimal?",
+   "choices": [
+    "0.9412",
+    "0.9059",
+    "0.9176",
+    "0.9294"
+   ],
+   "answer": 0,
+   "explanation": "80/85 = 0.9412 = 94.12%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 81/85 as a percentage?",
+   "choices": [
+    "91.76%",
+    "92.94%",
+    "94.12%",
+    "95.29%"
+   ],
+   "answer": 3,
+   "explanation": "81/85 = 0.9529 = 95.29%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 81/85 as a decimal?",
+   "choices": [
+    "0.9529",
+    "0.9176",
+    "0.9294",
+    "0.9412"
+   ],
+   "answer": 0,
+   "explanation": "81/85 = 0.9529 = 95.29%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 82/85 as a percentage?",
+   "choices": [
+    "92.94%",
+    "96.47%",
+    "94.12%",
+    "95.29%"
+   ],
+   "answer": 1,
+   "explanation": "82/85 = 0.9647 = 96.47%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 82/85 as a decimal?",
+   "choices": [
+    "0.9294",
+    "0.9412",
+    "0.9647",
+    "0.9529"
+   ],
+   "answer": 2,
+   "explanation": "82/85 = 0.9647 = 96.47%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 83/85 as a percentage?",
+   "choices": [
+    "94.12%",
+    "97.65%",
+    "95.29%",
+    "96.47%"
+   ],
+   "answer": 1,
+   "explanation": "83/85 = 0.9765 = 97.65%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 83/85 as a decimal?",
+   "choices": [
+    "0.9412",
+    "0.9765",
+    "0.9529",
+    "0.9647"
+   ],
+   "answer": 1,
+   "explanation": "83/85 = 0.9765 = 97.65%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 84/85 as a percentage?",
+   "choices": [
+    "95.29%",
+    "98.82%",
+    "96.47%",
+    "97.65%"
+   ],
+   "answer": 1,
+   "explanation": "84/85 = 0.9882 = 98.82%",
+   "source": "X/85"
+  },
+  {
+   "question": "What is 84/85 as a decimal?",
+   "choices": [
+    "0.9529",
+    "0.9647",
+    "0.9765",
+    "0.9882"
+   ],
+   "answer": 3,
+   "explanation": "84/85 = 0.9882 = 98.82%",
+   "source": "X/85"
+  }
+ ]
+}

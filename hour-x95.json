@@ -1,0 +1,2260 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/95 as a percentage?",
+   "choices": [
+    "2.11%",
+    "3.16%",
+    "1.05%",
+    "4.21%"
+   ],
+   "answer": 2,
+   "explanation": "1/95 = 0.0105 = 1.05%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 1/95 as a decimal?",
+   "choices": [
+    "0.0211",
+    "0.0316",
+    "0.0105",
+    "0.0421"
+   ],
+   "answer": 2,
+   "explanation": "1/95 = 0.0105 = 1.05%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 2/95 as a percentage?",
+   "choices": [
+    "2.11%",
+    "1.05%",
+    "3.16%",
+    "4.21%"
+   ],
+   "answer": 0,
+   "explanation": "2/95 = 0.0211 = 2.11%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 2/95 as a decimal?",
+   "choices": [
+    "0.0105",
+    "0.0316",
+    "0.0211",
+    "0.0421"
+   ],
+   "answer": 2,
+   "explanation": "2/95 = 0.0211 = 2.11%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 3/95 as a percentage?",
+   "choices": [
+    "1.05%",
+    "3.16%",
+    "2.11%",
+    "4.21%"
+   ],
+   "answer": 1,
+   "explanation": "3/95 = 0.0316 = 3.16%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 3/95 as a decimal?",
+   "choices": [
+    "0.0105",
+    "0.0211",
+    "0.0316",
+    "0.0421"
+   ],
+   "answer": 2,
+   "explanation": "3/95 = 0.0316 = 3.16%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 4/95 as a percentage?",
+   "choices": [
+    "1.05%",
+    "4.21%",
+    "2.11%",
+    "3.16%"
+   ],
+   "answer": 1,
+   "explanation": "4/95 = 0.0421 = 4.21%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 4/95 as a decimal?",
+   "choices": [
+    "0.0421",
+    "0.0105",
+    "0.0211",
+    "0.0316"
+   ],
+   "answer": 0,
+   "explanation": "4/95 = 0.0421 = 4.21%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 5/95 as a percentage?",
+   "choices": [
+    "2.11%",
+    "3.16%",
+    "5.26%",
+    "4.21%"
+   ],
+   "answer": 2,
+   "explanation": "5/95 = 0.0526 = 5.26%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 5/95 as a decimal?",
+   "choices": [
+    "0.0211",
+    "0.0526",
+    "0.0316",
+    "0.0421"
+   ],
+   "answer": 1,
+   "explanation": "5/95 = 0.0526 = 5.26%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 6/95 as a percentage?",
+   "choices": [
+    "6.32%",
+    "3.16%",
+    "4.21%",
+    "5.26%"
+   ],
+   "answer": 0,
+   "explanation": "6/95 = 0.0632 = 6.32%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 6/95 as a decimal?",
+   "choices": [
+    "0.0632",
+    "0.0316",
+    "0.0421",
+    "0.0526"
+   ],
+   "answer": 0,
+   "explanation": "6/95 = 0.0632 = 6.32%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 7/95 as a percentage?",
+   "choices": [
+    "4.21%",
+    "5.26%",
+    "7.37%",
+    "6.32%"
+   ],
+   "answer": 2,
+   "explanation": "7/95 = 0.0737 = 7.37%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 7/95 as a decimal?",
+   "choices": [
+    "0.0421",
+    "0.0737",
+    "0.0526",
+    "0.0632"
+   ],
+   "answer": 1,
+   "explanation": "7/95 = 0.0737 = 7.37%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 8/95 as a percentage?",
+   "choices": [
+    "5.26%",
+    "8.42%",
+    "6.32%",
+    "7.37%"
+   ],
+   "answer": 1,
+   "explanation": "8/95 = 0.0842 = 8.42%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 8/95 as a decimal?",
+   "choices": [
+    "0.0526",
+    "0.0632",
+    "0.0737",
+    "0.0842"
+   ],
+   "answer": 3,
+   "explanation": "8/95 = 0.0842 = 8.42%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 9/95 as a percentage?",
+   "choices": [
+    "9.47%",
+    "6.32%",
+    "7.37%",
+    "8.42%"
+   ],
+   "answer": 0,
+   "explanation": "9/95 = 0.0947 = 9.47%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 9/95 as a decimal?",
+   "choices": [
+    "0.0947",
+    "0.0632",
+    "0.0737",
+    "0.0842"
+   ],
+   "answer": 0,
+   "explanation": "9/95 = 0.0947 = 9.47%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 10/95 as a percentage?",
+   "choices": [
+    "7.37%",
+    "10.53%",
+    "8.42%",
+    "9.47%"
+   ],
+   "answer": 1,
+   "explanation": "10/95 = 0.1053 = 10.53%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 10/95 as a decimal?",
+   "choices": [
+    "0.1053",
+    "0.0737",
+    "0.0842",
+    "0.0947"
+   ],
+   "answer": 0,
+   "explanation": "10/95 = 0.1053 = 10.53%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 11/95 as a percentage?",
+   "choices": [
+    "8.42%",
+    "9.47%",
+    "10.53%",
+    "11.58%"
+   ],
+   "answer": 3,
+   "explanation": "11/95 = 0.1158 = 11.58%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 11/95 as a decimal?",
+   "choices": [
+    "0.0842",
+    "0.0947",
+    "0.1158",
+    "0.1053"
+   ],
+   "answer": 2,
+   "explanation": "11/95 = 0.1158 = 11.58%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 12/95 as a percentage?",
+   "choices": [
+    "9.47%",
+    "12.63%",
+    "10.53%",
+    "11.58%"
+   ],
+   "answer": 1,
+   "explanation": "12/95 = 0.1263 = 12.63%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 12/95 as a decimal?",
+   "choices": [
+    "0.0947",
+    "0.1263",
+    "0.1053",
+    "0.1158"
+   ],
+   "answer": 1,
+   "explanation": "12/95 = 0.1263 = 12.63%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 13/95 as a percentage?",
+   "choices": [
+    "13.68%",
+    "10.53%",
+    "11.58%",
+    "12.63%"
+   ],
+   "answer": 0,
+   "explanation": "13/95 = 0.1368 = 13.68%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 13/95 as a decimal?",
+   "choices": [
+    "0.1368",
+    "0.1053",
+    "0.1158",
+    "0.1263"
+   ],
+   "answer": 0,
+   "explanation": "13/95 = 0.1368 = 13.68%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 14/95 as a percentage?",
+   "choices": [
+    "11.58%",
+    "12.63%",
+    "14.74%",
+    "13.68%"
+   ],
+   "answer": 2,
+   "explanation": "14/95 = 0.1474 = 14.74%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 14/95 as a decimal?",
+   "choices": [
+    "0.1474",
+    "0.1158",
+    "0.1263",
+    "0.1368"
+   ],
+   "answer": 0,
+   "explanation": "14/95 = 0.1474 = 14.74%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 15/95 as a percentage?",
+   "choices": [
+    "12.63%",
+    "15.79%",
+    "13.68%",
+    "14.74%"
+   ],
+   "answer": 1,
+   "explanation": "15/95 = 0.1579 = 15.79%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 15/95 as a decimal?",
+   "choices": [
+    "0.1263",
+    "0.1579",
+    "0.1368",
+    "0.1474"
+   ],
+   "answer": 1,
+   "explanation": "15/95 = 0.1579 = 15.79%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 16/95 as a percentage?",
+   "choices": [
+    "13.68%",
+    "14.74%",
+    "16.84%",
+    "15.79%"
+   ],
+   "answer": 2,
+   "explanation": "16/95 = 0.1684 = 16.84%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 16/95 as a decimal?",
+   "choices": [
+    "0.1368",
+    "0.1684",
+    "0.1474",
+    "0.1579"
+   ],
+   "answer": 1,
+   "explanation": "16/95 = 0.1684 = 16.84%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 17/95 as a percentage?",
+   "choices": [
+    "14.74%",
+    "15.79%",
+    "17.89%",
+    "16.84%"
+   ],
+   "answer": 2,
+   "explanation": "17/95 = 0.1789 = 17.89%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 17/95 as a decimal?",
+   "choices": [
+    "0.1474",
+    "0.1789",
+    "0.1579",
+    "0.1684"
+   ],
+   "answer": 1,
+   "explanation": "17/95 = 0.1789 = 17.89%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 18/95 as a percentage?",
+   "choices": [
+    "15.79%",
+    "16.84%",
+    "17.89%",
+    "18.95%"
+   ],
+   "answer": 3,
+   "explanation": "18/95 = 0.1895 = 18.95%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 18/95 as a decimal?",
+   "choices": [
+    "0.1579",
+    "0.1684",
+    "0.1789",
+    "0.1895"
+   ],
+   "answer": 3,
+   "explanation": "18/95 = 0.1895 = 18.95%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 19/95 as a percentage?",
+   "choices": [
+    "20.00%",
+    "16.84%",
+    "17.89%",
+    "18.95%"
+   ],
+   "answer": 0,
+   "explanation": "19/95 = 0.2000 = 20.00%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 19/95 as a decimal?",
+   "choices": [
+    "0.1684",
+    "0.1789",
+    "0.1895",
+    "0.2000"
+   ],
+   "answer": 3,
+   "explanation": "19/95 = 0.2000 = 20.00%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 20/95 as a percentage?",
+   "choices": [
+    "17.89%",
+    "21.05%",
+    "18.95%",
+    "20.00%"
+   ],
+   "answer": 1,
+   "explanation": "20/95 = 0.2105 = 21.05%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 20/95 as a decimal?",
+   "choices": [
+    "0.1789",
+    "0.1895",
+    "0.2000",
+    "0.2105"
+   ],
+   "answer": 3,
+   "explanation": "20/95 = 0.2105 = 21.05%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 21/95 as a percentage?",
+   "choices": [
+    "18.95%",
+    "20.00%",
+    "22.11%",
+    "21.05%"
+   ],
+   "answer": 2,
+   "explanation": "21/95 = 0.2211 = 22.11%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 21/95 as a decimal?",
+   "choices": [
+    "0.2211",
+    "0.1895",
+    "0.2000",
+    "0.2105"
+   ],
+   "answer": 0,
+   "explanation": "21/95 = 0.2211 = 22.11%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 22/95 as a percentage?",
+   "choices": [
+    "20.00%",
+    "21.05%",
+    "23.16%",
+    "22.11%"
+   ],
+   "answer": 2,
+   "explanation": "22/95 = 0.2316 = 23.16%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 22/95 as a decimal?",
+   "choices": [
+    "0.2316",
+    "0.2000",
+    "0.2105",
+    "0.2211"
+   ],
+   "answer": 0,
+   "explanation": "22/95 = 0.2316 = 23.16%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 23/95 as a percentage?",
+   "choices": [
+    "21.05%",
+    "24.21%",
+    "22.11%",
+    "23.16%"
+   ],
+   "answer": 1,
+   "explanation": "23/95 = 0.2421 = 24.21%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 23/95 as a decimal?",
+   "choices": [
+    "0.2105",
+    "0.2211",
+    "0.2316",
+    "0.2421"
+   ],
+   "answer": 3,
+   "explanation": "23/95 = 0.2421 = 24.21%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 24/95 as a percentage?",
+   "choices": [
+    "25.26%",
+    "22.11%",
+    "23.16%",
+    "24.21%"
+   ],
+   "answer": 0,
+   "explanation": "24/95 = 0.2526 = 25.26%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 24/95 as a decimal?",
+   "choices": [
+    "0.2211",
+    "0.2316",
+    "0.2526",
+    "0.2421"
+   ],
+   "answer": 2,
+   "explanation": "24/95 = 0.2526 = 25.26%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 25/95 as a percentage?",
+   "choices": [
+    "23.16%",
+    "24.21%",
+    "26.32%",
+    "25.26%"
+   ],
+   "answer": 2,
+   "explanation": "25/95 = 0.2632 = 26.32%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 25/95 as a decimal?",
+   "choices": [
+    "0.2316",
+    "0.2632",
+    "0.2421",
+    "0.2526"
+   ],
+   "answer": 1,
+   "explanation": "25/95 = 0.2632 = 26.32%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 26/95 as a percentage?",
+   "choices": [
+    "24.21%",
+    "25.26%",
+    "26.32%",
+    "27.37%"
+   ],
+   "answer": 3,
+   "explanation": "26/95 = 0.2737 = 27.37%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 26/95 as a decimal?",
+   "choices": [
+    "0.2421",
+    "0.2526",
+    "0.2737",
+    "0.2632"
+   ],
+   "answer": 2,
+   "explanation": "26/95 = 0.2737 = 27.37%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 27/95 as a percentage?",
+   "choices": [
+    "25.26%",
+    "26.32%",
+    "28.42%",
+    "27.37%"
+   ],
+   "answer": 2,
+   "explanation": "27/95 = 0.2842 = 28.42%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 27/95 as a decimal?",
+   "choices": [
+    "0.2842",
+    "0.2526",
+    "0.2632",
+    "0.2737"
+   ],
+   "answer": 0,
+   "explanation": "27/95 = 0.2842 = 28.42%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 28/95 as a percentage?",
+   "choices": [
+    "26.32%",
+    "27.37%",
+    "29.47%",
+    "28.42%"
+   ],
+   "answer": 2,
+   "explanation": "28/95 = 0.2947 = 29.47%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 28/95 as a decimal?",
+   "choices": [
+    "0.2632",
+    "0.2737",
+    "0.2947",
+    "0.2842"
+   ],
+   "answer": 2,
+   "explanation": "28/95 = 0.2947 = 29.47%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 29/95 as a percentage?",
+   "choices": [
+    "27.37%",
+    "28.42%",
+    "30.53%",
+    "29.47%"
+   ],
+   "answer": 2,
+   "explanation": "29/95 = 0.3053 = 30.53%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 29/95 as a decimal?",
+   "choices": [
+    "0.2737",
+    "0.3053",
+    "0.2842",
+    "0.2947"
+   ],
+   "answer": 1,
+   "explanation": "29/95 = 0.3053 = 30.53%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 30/95 as a percentage?",
+   "choices": [
+    "28.42%",
+    "31.58%",
+    "29.47%",
+    "30.53%"
+   ],
+   "answer": 1,
+   "explanation": "30/95 = 0.3158 = 31.58%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 30/95 as a decimal?",
+   "choices": [
+    "0.2842",
+    "0.2947",
+    "0.3053",
+    "0.3158"
+   ],
+   "answer": 3,
+   "explanation": "30/95 = 0.3158 = 31.58%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 31/95 as a percentage?",
+   "choices": [
+    "29.47%",
+    "32.63%",
+    "30.53%",
+    "31.58%"
+   ],
+   "answer": 1,
+   "explanation": "31/95 = 0.3263 = 32.63%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 31/95 as a decimal?",
+   "choices": [
+    "0.2947",
+    "0.3053",
+    "0.3158",
+    "0.3263"
+   ],
+   "answer": 3,
+   "explanation": "31/95 = 0.3263 = 32.63%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 32/95 as a percentage?",
+   "choices": [
+    "30.53%",
+    "31.58%",
+    "32.63%",
+    "33.68%"
+   ],
+   "answer": 3,
+   "explanation": "32/95 = 0.3368 = 33.68%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 32/95 as a decimal?",
+   "choices": [
+    "0.3368",
+    "0.3053",
+    "0.3158",
+    "0.3263"
+   ],
+   "answer": 0,
+   "explanation": "32/95 = 0.3368 = 33.68%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 33/95 as a percentage?",
+   "choices": [
+    "31.58%",
+    "32.63%",
+    "33.68%",
+    "34.74%"
+   ],
+   "answer": 3,
+   "explanation": "33/95 = 0.3474 = 34.74%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 33/95 as a decimal?",
+   "choices": [
+    "0.3158",
+    "0.3263",
+    "0.3474",
+    "0.3368"
+   ],
+   "answer": 2,
+   "explanation": "33/95 = 0.3474 = 34.74%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 34/95 as a percentage?",
+   "choices": [
+    "32.63%",
+    "35.79%",
+    "33.68%",
+    "34.74%"
+   ],
+   "answer": 1,
+   "explanation": "34/95 = 0.3579 = 35.79%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 34/95 as a decimal?",
+   "choices": [
+    "0.3263",
+    "0.3579",
+    "0.3368",
+    "0.3474"
+   ],
+   "answer": 1,
+   "explanation": "34/95 = 0.3579 = 35.79%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 35/95 as a percentage?",
+   "choices": [
+    "36.84%",
+    "33.68%",
+    "34.74%",
+    "35.79%"
+   ],
+   "answer": 0,
+   "explanation": "35/95 = 0.3684 = 36.84%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 35/95 as a decimal?",
+   "choices": [
+    "0.3684",
+    "0.3368",
+    "0.3474",
+    "0.3579"
+   ],
+   "answer": 0,
+   "explanation": "35/95 = 0.3684 = 36.84%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 36/95 as a percentage?",
+   "choices": [
+    "34.74%",
+    "35.79%",
+    "36.84%",
+    "37.89%"
+   ],
+   "answer": 3,
+   "explanation": "36/95 = 0.3789 = 37.89%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 36/95 as a decimal?",
+   "choices": [
+    "0.3789",
+    "0.3474",
+    "0.3579",
+    "0.3684"
+   ],
+   "answer": 0,
+   "explanation": "36/95 = 0.3789 = 37.89%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 37/95 as a percentage?",
+   "choices": [
+    "38.95%",
+    "35.79%",
+    "36.84%",
+    "37.89%"
+   ],
+   "answer": 0,
+   "explanation": "37/95 = 0.3895 = 38.95%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 37/95 as a decimal?",
+   "choices": [
+    "0.3579",
+    "0.3895",
+    "0.3684",
+    "0.3789"
+   ],
+   "answer": 1,
+   "explanation": "37/95 = 0.3895 = 38.95%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 38/95 as a percentage?",
+   "choices": [
+    "40.00%",
+    "36.84%",
+    "37.89%",
+    "38.95%"
+   ],
+   "answer": 0,
+   "explanation": "38/95 = 0.4000 = 40.00%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 38/95 as a decimal?",
+   "choices": [
+    "0.3684",
+    "0.3789",
+    "0.4000",
+    "0.3895"
+   ],
+   "answer": 2,
+   "explanation": "38/95 = 0.4000 = 40.00%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 39/95 as a percentage?",
+   "choices": [
+    "37.89%",
+    "41.05%",
+    "38.95%",
+    "40.00%"
+   ],
+   "answer": 1,
+   "explanation": "39/95 = 0.4105 = 41.05%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 39/95 as a decimal?",
+   "choices": [
+    "0.3789",
+    "0.3895",
+    "0.4000",
+    "0.4105"
+   ],
+   "answer": 3,
+   "explanation": "39/95 = 0.4105 = 41.05%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 40/95 as a percentage?",
+   "choices": [
+    "38.95%",
+    "40.00%",
+    "42.11%",
+    "41.05%"
+   ],
+   "answer": 2,
+   "explanation": "40/95 = 0.4211 = 42.11%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 40/95 as a decimal?",
+   "choices": [
+    "0.3895",
+    "0.4211",
+    "0.4000",
+    "0.4105"
+   ],
+   "answer": 1,
+   "explanation": "40/95 = 0.4211 = 42.11%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 41/95 as a percentage?",
+   "choices": [
+    "40.00%",
+    "43.16%",
+    "41.05%",
+    "42.11%"
+   ],
+   "answer": 1,
+   "explanation": "41/95 = 0.4316 = 43.16%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 41/95 as a decimal?",
+   "choices": [
+    "0.4316",
+    "0.4000",
+    "0.4105",
+    "0.4211"
+   ],
+   "answer": 0,
+   "explanation": "41/95 = 0.4316 = 43.16%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 42/95 as a percentage?",
+   "choices": [
+    "41.05%",
+    "44.21%",
+    "42.11%",
+    "43.16%"
+   ],
+   "answer": 1,
+   "explanation": "42/95 = 0.4421 = 44.21%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 42/95 as a decimal?",
+   "choices": [
+    "0.4105",
+    "0.4421",
+    "0.4211",
+    "0.4316"
+   ],
+   "answer": 1,
+   "explanation": "42/95 = 0.4421 = 44.21%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 43/95 as a percentage?",
+   "choices": [
+    "42.11%",
+    "43.16%",
+    "45.26%",
+    "44.21%"
+   ],
+   "answer": 2,
+   "explanation": "43/95 = 0.4526 = 45.26%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 43/95 as a decimal?",
+   "choices": [
+    "0.4211",
+    "0.4526",
+    "0.4316",
+    "0.4421"
+   ],
+   "answer": 1,
+   "explanation": "43/95 = 0.4526 = 45.26%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 44/95 as a percentage?",
+   "choices": [
+    "46.32%",
+    "43.16%",
+    "44.21%",
+    "45.26%"
+   ],
+   "answer": 0,
+   "explanation": "44/95 = 0.4632 = 46.32%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 44/95 as a decimal?",
+   "choices": [
+    "0.4316",
+    "0.4632",
+    "0.4421",
+    "0.4526"
+   ],
+   "answer": 1,
+   "explanation": "44/95 = 0.4632 = 46.32%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 45/95 as a percentage?",
+   "choices": [
+    "47.37%",
+    "44.21%",
+    "45.26%",
+    "46.32%"
+   ],
+   "answer": 0,
+   "explanation": "45/95 = 0.4737 = 47.37%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 45/95 as a decimal?",
+   "choices": [
+    "0.4421",
+    "0.4526",
+    "0.4632",
+    "0.4737"
+   ],
+   "answer": 3,
+   "explanation": "45/95 = 0.4737 = 47.37%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 46/95 as a percentage?",
+   "choices": [
+    "45.26%",
+    "46.32%",
+    "48.42%",
+    "47.37%"
+   ],
+   "answer": 2,
+   "explanation": "46/95 = 0.4842 = 48.42%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 46/95 as a decimal?",
+   "choices": [
+    "0.4526",
+    "0.4632",
+    "0.4842",
+    "0.4737"
+   ],
+   "answer": 2,
+   "explanation": "46/95 = 0.4842 = 48.42%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 47/95 as a percentage?",
+   "choices": [
+    "46.32%",
+    "47.37%",
+    "48.42%",
+    "49.47%"
+   ],
+   "answer": 3,
+   "explanation": "47/95 = 0.4947 = 49.47%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 47/95 as a decimal?",
+   "choices": [
+    "0.4632",
+    "0.4737",
+    "0.4842",
+    "0.4947"
+   ],
+   "answer": 3,
+   "explanation": "47/95 = 0.4947 = 49.47%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 48/95 as a percentage?",
+   "choices": [
+    "50.53%",
+    "47.37%",
+    "48.42%",
+    "49.47%"
+   ],
+   "answer": 0,
+   "explanation": "48/95 = 0.5053 = 50.53%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 48/95 as a decimal?",
+   "choices": [
+    "0.5053",
+    "0.4737",
+    "0.4842",
+    "0.4947"
+   ],
+   "answer": 0,
+   "explanation": "48/95 = 0.5053 = 50.53%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 49/95 as a percentage?",
+   "choices": [
+    "48.42%",
+    "49.47%",
+    "51.58%",
+    "50.53%"
+   ],
+   "answer": 2,
+   "explanation": "49/95 = 0.5158 = 51.58%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 49/95 as a decimal?",
+   "choices": [
+    "0.5158",
+    "0.4842",
+    "0.4947",
+    "0.5053"
+   ],
+   "answer": 0,
+   "explanation": "49/95 = 0.5158 = 51.58%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 50/95 as a percentage?",
+   "choices": [
+    "49.47%",
+    "52.63%",
+    "50.53%",
+    "51.58%"
+   ],
+   "answer": 1,
+   "explanation": "50/95 = 0.5263 = 52.63%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 50/95 as a decimal?",
+   "choices": [
+    "0.4947",
+    "0.5053",
+    "0.5158",
+    "0.5263"
+   ],
+   "answer": 3,
+   "explanation": "50/95 = 0.5263 = 52.63%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 51/95 as a percentage?",
+   "choices": [
+    "50.53%",
+    "51.58%",
+    "53.68%",
+    "52.63%"
+   ],
+   "answer": 2,
+   "explanation": "51/95 = 0.5368 = 53.68%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 51/95 as a decimal?",
+   "choices": [
+    "0.5053",
+    "0.5368",
+    "0.5158",
+    "0.5263"
+   ],
+   "answer": 1,
+   "explanation": "51/95 = 0.5368 = 53.68%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 52/95 as a percentage?",
+   "choices": [
+    "51.58%",
+    "54.74%",
+    "52.63%",
+    "53.68%"
+   ],
+   "answer": 1,
+   "explanation": "52/95 = 0.5474 = 54.74%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 52/95 as a decimal?",
+   "choices": [
+    "0.5158",
+    "0.5474",
+    "0.5263",
+    "0.5368"
+   ],
+   "answer": 1,
+   "explanation": "52/95 = 0.5474 = 54.74%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 53/95 as a percentage?",
+   "choices": [
+    "55.79%",
+    "52.63%",
+    "53.68%",
+    "54.74%"
+   ],
+   "answer": 0,
+   "explanation": "53/95 = 0.5579 = 55.79%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 53/95 as a decimal?",
+   "choices": [
+    "0.5263",
+    "0.5579",
+    "0.5368",
+    "0.5474"
+   ],
+   "answer": 1,
+   "explanation": "53/95 = 0.5579 = 55.79%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 54/95 as a percentage?",
+   "choices": [
+    "53.68%",
+    "54.74%",
+    "56.84%",
+    "55.79%"
+   ],
+   "answer": 2,
+   "explanation": "54/95 = 0.5684 = 56.84%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 54/95 as a decimal?",
+   "choices": [
+    "0.5368",
+    "0.5684",
+    "0.5474",
+    "0.5579"
+   ],
+   "answer": 1,
+   "explanation": "54/95 = 0.5684 = 56.84%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 55/95 as a percentage?",
+   "choices": [
+    "54.74%",
+    "55.79%",
+    "57.89%",
+    "56.84%"
+   ],
+   "answer": 2,
+   "explanation": "55/95 = 0.5789 = 57.89%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 55/95 as a decimal?",
+   "choices": [
+    "0.5789",
+    "0.5474",
+    "0.5579",
+    "0.5684"
+   ],
+   "answer": 0,
+   "explanation": "55/95 = 0.5789 = 57.89%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 56/95 as a percentage?",
+   "choices": [
+    "58.95%",
+    "55.79%",
+    "56.84%",
+    "57.89%"
+   ],
+   "answer": 0,
+   "explanation": "56/95 = 0.5895 = 58.95%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 56/95 as a decimal?",
+   "choices": [
+    "0.5895",
+    "0.5579",
+    "0.5684",
+    "0.5789"
+   ],
+   "answer": 0,
+   "explanation": "56/95 = 0.5895 = 58.95%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 57/95 as a percentage?",
+   "choices": [
+    "60.00%",
+    "56.84%",
+    "57.89%",
+    "58.95%"
+   ],
+   "answer": 0,
+   "explanation": "57/95 = 0.6000 = 60.00%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 57/95 as a decimal?",
+   "choices": [
+    "0.5684",
+    "0.5789",
+    "0.6000",
+    "0.5895"
+   ],
+   "answer": 2,
+   "explanation": "57/95 = 0.6000 = 60.00%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 58/95 as a percentage?",
+   "choices": [
+    "61.05%",
+    "57.89%",
+    "58.95%",
+    "60.00%"
+   ],
+   "answer": 0,
+   "explanation": "58/95 = 0.6105 = 61.05%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 58/95 as a decimal?",
+   "choices": [
+    "0.5789",
+    "0.5895",
+    "0.6105",
+    "0.6000"
+   ],
+   "answer": 2,
+   "explanation": "58/95 = 0.6105 = 61.05%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 59/95 as a percentage?",
+   "choices": [
+    "58.95%",
+    "62.11%",
+    "60.00%",
+    "61.05%"
+   ],
+   "answer": 1,
+   "explanation": "59/95 = 0.6211 = 62.11%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 59/95 as a decimal?",
+   "choices": [
+    "0.5895",
+    "0.6000",
+    "0.6105",
+    "0.6211"
+   ],
+   "answer": 3,
+   "explanation": "59/95 = 0.6211 = 62.11%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 60/95 as a percentage?",
+   "choices": [
+    "60.00%",
+    "63.16%",
+    "61.05%",
+    "62.11%"
+   ],
+   "answer": 1,
+   "explanation": "60/95 = 0.6316 = 63.16%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 60/95 as a decimal?",
+   "choices": [
+    "0.6000",
+    "0.6316",
+    "0.6105",
+    "0.6211"
+   ],
+   "answer": 1,
+   "explanation": "60/95 = 0.6316 = 63.16%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 61/95 as a percentage?",
+   "choices": [
+    "61.05%",
+    "62.11%",
+    "64.21%",
+    "63.16%"
+   ],
+   "answer": 2,
+   "explanation": "61/95 = 0.6421 = 64.21%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 61/95 as a decimal?",
+   "choices": [
+    "0.6421",
+    "0.6105",
+    "0.6211",
+    "0.6316"
+   ],
+   "answer": 0,
+   "explanation": "61/95 = 0.6421 = 64.21%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 62/95 as a percentage?",
+   "choices": [
+    "62.11%",
+    "63.16%",
+    "65.26%",
+    "64.21%"
+   ],
+   "answer": 2,
+   "explanation": "62/95 = 0.6526 = 65.26%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 62/95 as a decimal?",
+   "choices": [
+    "0.6211",
+    "0.6526",
+    "0.6316",
+    "0.6421"
+   ],
+   "answer": 1,
+   "explanation": "62/95 = 0.6526 = 65.26%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 63/95 as a percentage?",
+   "choices": [
+    "63.16%",
+    "64.21%",
+    "65.26%",
+    "66.32%"
+   ],
+   "answer": 3,
+   "explanation": "63/95 = 0.6632 = 66.32%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 63/95 as a decimal?",
+   "choices": [
+    "0.6316",
+    "0.6421",
+    "0.6526",
+    "0.6632"
+   ],
+   "answer": 3,
+   "explanation": "63/95 = 0.6632 = 66.32%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 64/95 as a percentage?",
+   "choices": [
+    "67.37%",
+    "64.21%",
+    "65.26%",
+    "66.32%"
+   ],
+   "answer": 0,
+   "explanation": "64/95 = 0.6737 = 67.37%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 64/95 as a decimal?",
+   "choices": [
+    "0.6421",
+    "0.6526",
+    "0.6632",
+    "0.6737"
+   ],
+   "answer": 3,
+   "explanation": "64/95 = 0.6737 = 67.37%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 65/95 as a percentage?",
+   "choices": [
+    "68.42%",
+    "65.26%",
+    "66.32%",
+    "67.37%"
+   ],
+   "answer": 0,
+   "explanation": "65/95 = 0.6842 = 68.42%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 65/95 as a decimal?",
+   "choices": [
+    "0.6526",
+    "0.6632",
+    "0.6737",
+    "0.6842"
+   ],
+   "answer": 3,
+   "explanation": "65/95 = 0.6842 = 68.42%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 66/95 as a percentage?",
+   "choices": [
+    "66.32%",
+    "69.47%",
+    "67.37%",
+    "68.42%"
+   ],
+   "answer": 1,
+   "explanation": "66/95 = 0.6947 = 69.47%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 66/95 as a decimal?",
+   "choices": [
+    "0.6632",
+    "0.6947",
+    "0.6737",
+    "0.6842"
+   ],
+   "answer": 1,
+   "explanation": "66/95 = 0.6947 = 69.47%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 67/95 as a percentage?",
+   "choices": [
+    "67.37%",
+    "68.42%",
+    "70.53%",
+    "69.47%"
+   ],
+   "answer": 2,
+   "explanation": "67/95 = 0.7053 = 70.53%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 67/95 as a decimal?",
+   "choices": [
+    "0.6737",
+    "0.7053",
+    "0.6842",
+    "0.6947"
+   ],
+   "answer": 1,
+   "explanation": "67/95 = 0.7053 = 70.53%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 68/95 as a percentage?",
+   "choices": [
+    "71.58%",
+    "68.42%",
+    "69.47%",
+    "70.53%"
+   ],
+   "answer": 0,
+   "explanation": "68/95 = 0.7158 = 71.58%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 68/95 as a decimal?",
+   "choices": [
+    "0.7158",
+    "0.6842",
+    "0.6947",
+    "0.7053"
+   ],
+   "answer": 0,
+   "explanation": "68/95 = 0.7158 = 71.58%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 69/95 as a percentage?",
+   "choices": [
+    "69.47%",
+    "70.53%",
+    "71.58%",
+    "72.63%"
+   ],
+   "answer": 3,
+   "explanation": "69/95 = 0.7263 = 72.63%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 69/95 as a decimal?",
+   "choices": [
+    "0.6947",
+    "0.7263",
+    "0.7053",
+    "0.7158"
+   ],
+   "answer": 1,
+   "explanation": "69/95 = 0.7263 = 72.63%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 70/95 as a percentage?",
+   "choices": [
+    "70.53%",
+    "71.58%",
+    "72.63%",
+    "73.68%"
+   ],
+   "answer": 3,
+   "explanation": "70/95 = 0.7368 = 73.68%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 70/95 as a decimal?",
+   "choices": [
+    "0.7053",
+    "0.7158",
+    "0.7368",
+    "0.7263"
+   ],
+   "answer": 2,
+   "explanation": "70/95 = 0.7368 = 73.68%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 71/95 as a percentage?",
+   "choices": [
+    "71.58%",
+    "74.74%",
+    "72.63%",
+    "73.68%"
+   ],
+   "answer": 1,
+   "explanation": "71/95 = 0.7474 = 74.74%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 71/95 as a decimal?",
+   "choices": [
+    "0.7158",
+    "0.7263",
+    "0.7368",
+    "0.7474"
+   ],
+   "answer": 3,
+   "explanation": "71/95 = 0.7474 = 74.74%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 72/95 as a percentage?",
+   "choices": [
+    "75.79%",
+    "72.63%",
+    "73.68%",
+    "74.74%"
+   ],
+   "answer": 0,
+   "explanation": "72/95 = 0.7579 = 75.79%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 72/95 as a decimal?",
+   "choices": [
+    "0.7579",
+    "0.7263",
+    "0.7368",
+    "0.7474"
+   ],
+   "answer": 0,
+   "explanation": "72/95 = 0.7579 = 75.79%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 73/95 as a percentage?",
+   "choices": [
+    "73.68%",
+    "74.74%",
+    "75.79%",
+    "76.84%"
+   ],
+   "answer": 3,
+   "explanation": "73/95 = 0.7684 = 76.84%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 73/95 as a decimal?",
+   "choices": [
+    "0.7368",
+    "0.7684",
+    "0.7474",
+    "0.7579"
+   ],
+   "answer": 1,
+   "explanation": "73/95 = 0.7684 = 76.84%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 74/95 as a percentage?",
+   "choices": [
+    "74.74%",
+    "77.89%",
+    "75.79%",
+    "76.84%"
+   ],
+   "answer": 1,
+   "explanation": "74/95 = 0.7789 = 77.89%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 74/95 as a decimal?",
+   "choices": [
+    "0.7789",
+    "0.7474",
+    "0.7579",
+    "0.7684"
+   ],
+   "answer": 0,
+   "explanation": "74/95 = 0.7789 = 77.89%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 75/95 as a percentage?",
+   "choices": [
+    "75.79%",
+    "76.84%",
+    "78.95%",
+    "77.89%"
+   ],
+   "answer": 2,
+   "explanation": "75/95 = 0.7895 = 78.95%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 75/95 as a decimal?",
+   "choices": [
+    "0.7579",
+    "0.7684",
+    "0.7895",
+    "0.7789"
+   ],
+   "answer": 2,
+   "explanation": "75/95 = 0.7895 = 78.95%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 76/95 as a percentage?",
+   "choices": [
+    "80.00%",
+    "76.84%",
+    "77.89%",
+    "78.95%"
+   ],
+   "answer": 0,
+   "explanation": "76/95 = 0.8000 = 80.00%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 76/95 as a decimal?",
+   "choices": [
+    "0.7684",
+    "0.7789",
+    "0.8000",
+    "0.7895"
+   ],
+   "answer": 2,
+   "explanation": "76/95 = 0.8000 = 80.00%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 77/95 as a percentage?",
+   "choices": [
+    "81.05%",
+    "77.89%",
+    "78.95%",
+    "80.00%"
+   ],
+   "answer": 0,
+   "explanation": "77/95 = 0.8105 = 81.05%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 77/95 as a decimal?",
+   "choices": [
+    "0.7789",
+    "0.8105",
+    "0.7895",
+    "0.8000"
+   ],
+   "answer": 1,
+   "explanation": "77/95 = 0.8105 = 81.05%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 78/95 as a percentage?",
+   "choices": [
+    "78.95%",
+    "82.11%",
+    "80.00%",
+    "81.05%"
+   ],
+   "answer": 1,
+   "explanation": "78/95 = 0.8211 = 82.11%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 78/95 as a decimal?",
+   "choices": [
+    "0.7895",
+    "0.8211",
+    "0.8000",
+    "0.8105"
+   ],
+   "answer": 1,
+   "explanation": "78/95 = 0.8211 = 82.11%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 79/95 as a percentage?",
+   "choices": [
+    "80.00%",
+    "81.05%",
+    "83.16%",
+    "82.11%"
+   ],
+   "answer": 2,
+   "explanation": "79/95 = 0.8316 = 83.16%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 79/95 as a decimal?",
+   "choices": [
+    "0.8000",
+    "0.8316",
+    "0.8105",
+    "0.8211"
+   ],
+   "answer": 1,
+   "explanation": "79/95 = 0.8316 = 83.16%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 80/95 as a percentage?",
+   "choices": [
+    "84.21%",
+    "81.05%",
+    "82.11%",
+    "83.16%"
+   ],
+   "answer": 0,
+   "explanation": "80/95 = 0.8421 = 84.21%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 80/95 as a decimal?",
+   "choices": [
+    "0.8105",
+    "0.8211",
+    "0.8316",
+    "0.8421"
+   ],
+   "answer": 3,
+   "explanation": "80/95 = 0.8421 = 84.21%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 81/95 as a percentage?",
+   "choices": [
+    "85.26%",
+    "82.11%",
+    "83.16%",
+    "84.21%"
+   ],
+   "answer": 0,
+   "explanation": "81/95 = 0.8526 = 85.26%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 81/95 as a decimal?",
+   "choices": [
+    "0.8211",
+    "0.8316",
+    "0.8421",
+    "0.8526"
+   ],
+   "answer": 3,
+   "explanation": "81/95 = 0.8526 = 85.26%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 82/95 as a percentage?",
+   "choices": [
+    "83.16%",
+    "84.21%",
+    "85.26%",
+    "86.32%"
+   ],
+   "answer": 3,
+   "explanation": "82/95 = 0.8632 = 86.32%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 82/95 as a decimal?",
+   "choices": [
+    "0.8632",
+    "0.8316",
+    "0.8421",
+    "0.8526"
+   ],
+   "answer": 0,
+   "explanation": "82/95 = 0.8632 = 86.32%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 83/95 as a percentage?",
+   "choices": [
+    "87.37%",
+    "84.21%",
+    "85.26%",
+    "86.32%"
+   ],
+   "answer": 0,
+   "explanation": "83/95 = 0.8737 = 87.37%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 83/95 as a decimal?",
+   "choices": [
+    "0.8421",
+    "0.8737",
+    "0.8526",
+    "0.8632"
+   ],
+   "answer": 1,
+   "explanation": "83/95 = 0.8737 = 87.37%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 84/95 as a percentage?",
+   "choices": [
+    "85.26%",
+    "88.42%",
+    "86.32%",
+    "87.37%"
+   ],
+   "answer": 1,
+   "explanation": "84/95 = 0.8842 = 88.42%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 84/95 as a decimal?",
+   "choices": [
+    "0.8842",
+    "0.8526",
+    "0.8632",
+    "0.8737"
+   ],
+   "answer": 0,
+   "explanation": "84/95 = 0.8842 = 88.42%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 85/95 as a percentage?",
+   "choices": [
+    "86.32%",
+    "87.37%",
+    "88.42%",
+    "89.47%"
+   ],
+   "answer": 3,
+   "explanation": "85/95 = 0.8947 = 89.47%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 85/95 as a decimal?",
+   "choices": [
+    "0.8632",
+    "0.8737",
+    "0.8842",
+    "0.8947"
+   ],
+   "answer": 3,
+   "explanation": "85/95 = 0.8947 = 89.47%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 86/95 as a percentage?",
+   "choices": [
+    "87.37%",
+    "88.42%",
+    "89.47%",
+    "90.53%"
+   ],
+   "answer": 3,
+   "explanation": "86/95 = 0.9053 = 90.53%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 86/95 as a decimal?",
+   "choices": [
+    "0.8737",
+    "0.9053",
+    "0.8842",
+    "0.8947"
+   ],
+   "answer": 1,
+   "explanation": "86/95 = 0.9053 = 90.53%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 87/95 as a percentage?",
+   "choices": [
+    "88.42%",
+    "89.47%",
+    "90.53%",
+    "91.58%"
+   ],
+   "answer": 3,
+   "explanation": "87/95 = 0.9158 = 91.58%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 87/95 as a decimal?",
+   "choices": [
+    "0.8842",
+    "0.9158",
+    "0.8947",
+    "0.9053"
+   ],
+   "answer": 1,
+   "explanation": "87/95 = 0.9158 = 91.58%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 88/95 as a percentage?",
+   "choices": [
+    "89.47%",
+    "90.53%",
+    "92.63%",
+    "91.58%"
+   ],
+   "answer": 2,
+   "explanation": "88/95 = 0.9263 = 92.63%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 88/95 as a decimal?",
+   "choices": [
+    "0.8947",
+    "0.9053",
+    "0.9263",
+    "0.9158"
+   ],
+   "answer": 2,
+   "explanation": "88/95 = 0.9263 = 92.63%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 89/95 as a percentage?",
+   "choices": [
+    "90.53%",
+    "91.58%",
+    "93.68%",
+    "92.63%"
+   ],
+   "answer": 2,
+   "explanation": "89/95 = 0.9368 = 93.68%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 89/95 as a decimal?",
+   "choices": [
+    "0.9053",
+    "0.9158",
+    "0.9368",
+    "0.9263"
+   ],
+   "answer": 2,
+   "explanation": "89/95 = 0.9368 = 93.68%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 90/95 as a percentage?",
+   "choices": [
+    "91.58%",
+    "92.63%",
+    "93.68%",
+    "94.74%"
+   ],
+   "answer": 3,
+   "explanation": "90/95 = 0.9474 = 94.74%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 90/95 as a decimal?",
+   "choices": [
+    "0.9158",
+    "0.9263",
+    "0.9368",
+    "0.9474"
+   ],
+   "answer": 3,
+   "explanation": "90/95 = 0.9474 = 94.74%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 91/95 as a percentage?",
+   "choices": [
+    "92.63%",
+    "93.68%",
+    "95.79%",
+    "94.74%"
+   ],
+   "answer": 2,
+   "explanation": "91/95 = 0.9579 = 95.79%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 91/95 as a decimal?",
+   "choices": [
+    "0.9263",
+    "0.9579",
+    "0.9368",
+    "0.9474"
+   ],
+   "answer": 1,
+   "explanation": "91/95 = 0.9579 = 95.79%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 92/95 as a percentage?",
+   "choices": [
+    "93.68%",
+    "96.84%",
+    "94.74%",
+    "95.79%"
+   ],
+   "answer": 1,
+   "explanation": "92/95 = 0.9684 = 96.84%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 92/95 as a decimal?",
+   "choices": [
+    "0.9368",
+    "0.9474",
+    "0.9579",
+    "0.9684"
+   ],
+   "answer": 3,
+   "explanation": "92/95 = 0.9684 = 96.84%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 93/95 as a percentage?",
+   "choices": [
+    "94.74%",
+    "95.79%",
+    "96.84%",
+    "97.89%"
+   ],
+   "answer": 3,
+   "explanation": "93/95 = 0.9789 = 97.89%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 93/95 as a decimal?",
+   "choices": [
+    "0.9474",
+    "0.9579",
+    "0.9684",
+    "0.9789"
+   ],
+   "answer": 3,
+   "explanation": "93/95 = 0.9789 = 97.89%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 94/95 as a percentage?",
+   "choices": [
+    "95.79%",
+    "96.84%",
+    "98.95%",
+    "97.89%"
+   ],
+   "answer": 2,
+   "explanation": "94/95 = 0.9895 = 98.95%",
+   "source": "X/95"
+  },
+  {
+   "question": "What is 94/95 as a decimal?",
+   "choices": [
+    "0.9579",
+    "0.9895",
+    "0.9684",
+    "0.9789"
+   ],
+   "answer": 1,
+   "explanation": "94/95 = 0.9895 = 98.95%",
+   "source": "X/95"
+  }
+ ]
+}

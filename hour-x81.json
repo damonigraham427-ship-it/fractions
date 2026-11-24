@@ -1,0 +1,1924 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/81 as a percentage?",
+   "choices": [
+    "2.47%",
+    "3.70%",
+    "4.94%",
+    "1.23%"
+   ],
+   "answer": 3,
+   "explanation": "1/81 = 0.0123 = 1.23%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 1/81 as a decimal?",
+   "choices": [
+    "0.0247",
+    "0.0370",
+    "0.0494",
+    "0.0123"
+   ],
+   "answer": 3,
+   "explanation": "1/81 = 0.0123 = 1.23%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 2/81 as a percentage?",
+   "choices": [
+    "1.23%",
+    "2.47%",
+    "3.70%",
+    "4.94%"
+   ],
+   "answer": 1,
+   "explanation": "2/81 = 0.0247 = 2.47%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 2/81 as a decimal?",
+   "choices": [
+    "0.0123",
+    "0.0370",
+    "0.0247",
+    "0.0494"
+   ],
+   "answer": 2,
+   "explanation": "2/81 = 0.0247 = 2.47%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 3/81 as a percentage?",
+   "choices": [
+    "1.23%",
+    "3.70%",
+    "2.47%",
+    "4.94%"
+   ],
+   "answer": 1,
+   "explanation": "3/81 = 0.0370 = 3.70%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 3/81 as a decimal?",
+   "choices": [
+    "0.0370",
+    "0.0123",
+    "0.0247",
+    "0.0494"
+   ],
+   "answer": 0,
+   "explanation": "3/81 = 0.0370 = 3.70%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 4/81 as a percentage?",
+   "choices": [
+    "1.23%",
+    "2.47%",
+    "4.94%",
+    "3.70%"
+   ],
+   "answer": 2,
+   "explanation": "4/81 = 0.0494 = 4.94%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 4/81 as a decimal?",
+   "choices": [
+    "0.0123",
+    "0.0247",
+    "0.0494",
+    "0.0370"
+   ],
+   "answer": 2,
+   "explanation": "4/81 = 0.0494 = 4.94%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 5/81 as a percentage?",
+   "choices": [
+    "2.47%",
+    "6.17%",
+    "3.70%",
+    "4.94%"
+   ],
+   "answer": 1,
+   "explanation": "5/81 = 0.0617 = 6.17%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 5/81 as a decimal?",
+   "choices": [
+    "0.0247",
+    "0.0370",
+    "0.0617",
+    "0.0494"
+   ],
+   "answer": 2,
+   "explanation": "5/81 = 0.0617 = 6.17%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 6/81 as a percentage?",
+   "choices": [
+    "3.70%",
+    "4.94%",
+    "6.17%",
+    "7.41%"
+   ],
+   "answer": 3,
+   "explanation": "6/81 = 0.0741 = 7.41%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 6/81 as a decimal?",
+   "choices": [
+    "0.0370",
+    "0.0494",
+    "0.0741",
+    "0.0617"
+   ],
+   "answer": 2,
+   "explanation": "6/81 = 0.0741 = 7.41%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 7/81 as a percentage?",
+   "choices": [
+    "4.94%",
+    "6.17%",
+    "7.41%",
+    "8.64%"
+   ],
+   "answer": 3,
+   "explanation": "7/81 = 0.0864 = 8.64%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 7/81 as a decimal?",
+   "choices": [
+    "0.0494",
+    "0.0617",
+    "0.0741",
+    "0.0864"
+   ],
+   "answer": 3,
+   "explanation": "7/81 = 0.0864 = 8.64%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 8/81 as a percentage?",
+   "choices": [
+    "9.88%",
+    "6.17%",
+    "7.41%",
+    "8.64%"
+   ],
+   "answer": 0,
+   "explanation": "8/81 = 0.0988 = 9.88%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 8/81 as a decimal?",
+   "choices": [
+    "0.0617",
+    "0.0741",
+    "0.0864",
+    "0.0988"
+   ],
+   "answer": 3,
+   "explanation": "8/81 = 0.0988 = 9.88%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 9/81 as a percentage?",
+   "choices": [
+    "11.11%",
+    "7.41%",
+    "8.64%",
+    "9.88%"
+   ],
+   "answer": 0,
+   "explanation": "9/81 = 0.1111 = 11.11%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 9/81 as a decimal?",
+   "choices": [
+    "0.0741",
+    "0.1111",
+    "0.0864",
+    "0.0988"
+   ],
+   "answer": 1,
+   "explanation": "9/81 = 0.1111 = 11.11%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 10/81 as a percentage?",
+   "choices": [
+    "8.64%",
+    "9.88%",
+    "11.11%",
+    "12.35%"
+   ],
+   "answer": 3,
+   "explanation": "10/81 = 0.1235 = 12.35%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 10/81 as a decimal?",
+   "choices": [
+    "0.0864",
+    "0.0988",
+    "0.1235",
+    "0.1111"
+   ],
+   "answer": 2,
+   "explanation": "10/81 = 0.1235 = 12.35%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 11/81 as a percentage?",
+   "choices": [
+    "9.88%",
+    "13.58%",
+    "11.11%",
+    "12.35%"
+   ],
+   "answer": 1,
+   "explanation": "11/81 = 0.1358 = 13.58%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 11/81 as a decimal?",
+   "choices": [
+    "0.0988",
+    "0.1111",
+    "0.1358",
+    "0.1235"
+   ],
+   "answer": 2,
+   "explanation": "11/81 = 0.1358 = 13.58%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 12/81 as a percentage?",
+   "choices": [
+    "11.11%",
+    "12.35%",
+    "13.58%",
+    "14.81%"
+   ],
+   "answer": 3,
+   "explanation": "12/81 = 0.1481 = 14.81%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 12/81 as a decimal?",
+   "choices": [
+    "0.1111",
+    "0.1235",
+    "0.1481",
+    "0.1358"
+   ],
+   "answer": 2,
+   "explanation": "12/81 = 0.1481 = 14.81%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 13/81 as a percentage?",
+   "choices": [
+    "16.05%",
+    "12.35%",
+    "13.58%",
+    "14.81%"
+   ],
+   "answer": 0,
+   "explanation": "13/81 = 0.1605 = 16.05%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 13/81 as a decimal?",
+   "choices": [
+    "0.1605",
+    "0.1235",
+    "0.1358",
+    "0.1481"
+   ],
+   "answer": 0,
+   "explanation": "13/81 = 0.1605 = 16.05%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 14/81 as a percentage?",
+   "choices": [
+    "13.58%",
+    "14.81%",
+    "16.05%",
+    "17.28%"
+   ],
+   "answer": 3,
+   "explanation": "14/81 = 0.1728 = 17.28%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 14/81 as a decimal?",
+   "choices": [
+    "0.1358",
+    "0.1728",
+    "0.1481",
+    "0.1605"
+   ],
+   "answer": 1,
+   "explanation": "14/81 = 0.1728 = 17.28%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 15/81 as a percentage?",
+   "choices": [
+    "18.52%",
+    "14.81%",
+    "16.05%",
+    "17.28%"
+   ],
+   "answer": 0,
+   "explanation": "15/81 = 0.1852 = 18.52%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 15/81 as a decimal?",
+   "choices": [
+    "0.1481",
+    "0.1605",
+    "0.1728",
+    "0.1852"
+   ],
+   "answer": 3,
+   "explanation": "15/81 = 0.1852 = 18.52%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 16/81 as a percentage?",
+   "choices": [
+    "16.05%",
+    "19.75%",
+    "17.28%",
+    "18.52%"
+   ],
+   "answer": 1,
+   "explanation": "16/81 = 0.1975 = 19.75%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 16/81 as a decimal?",
+   "choices": [
+    "0.1605",
+    "0.1728",
+    "0.1852",
+    "0.1975"
+   ],
+   "answer": 3,
+   "explanation": "16/81 = 0.1975 = 19.75%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 17/81 as a percentage?",
+   "choices": [
+    "17.28%",
+    "18.52%",
+    "20.99%",
+    "19.75%"
+   ],
+   "answer": 2,
+   "explanation": "17/81 = 0.2099 = 20.99%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 17/81 as a decimal?",
+   "choices": [
+    "0.1728",
+    "0.1852",
+    "0.2099",
+    "0.1975"
+   ],
+   "answer": 2,
+   "explanation": "17/81 = 0.2099 = 20.99%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 18/81 as a percentage?",
+   "choices": [
+    "18.52%",
+    "19.75%",
+    "22.22%",
+    "20.99%"
+   ],
+   "answer": 2,
+   "explanation": "18/81 = 0.2222 = 22.22%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 18/81 as a decimal?",
+   "choices": [
+    "0.1852",
+    "0.1975",
+    "0.2099",
+    "0.2222"
+   ],
+   "answer": 3,
+   "explanation": "18/81 = 0.2222 = 22.22%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 19/81 as a percentage?",
+   "choices": [
+    "19.75%",
+    "23.46%",
+    "20.99%",
+    "22.22%"
+   ],
+   "answer": 1,
+   "explanation": "19/81 = 0.2346 = 23.46%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 19/81 as a decimal?",
+   "choices": [
+    "0.1975",
+    "0.2346",
+    "0.2099",
+    "0.2222"
+   ],
+   "answer": 1,
+   "explanation": "19/81 = 0.2346 = 23.46%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 20/81 as a percentage?",
+   "choices": [
+    "20.99%",
+    "22.22%",
+    "23.46%",
+    "24.69%"
+   ],
+   "answer": 3,
+   "explanation": "20/81 = 0.2469 = 24.69%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 20/81 as a decimal?",
+   "choices": [
+    "0.2099",
+    "0.2222",
+    "0.2469",
+    "0.2346"
+   ],
+   "answer": 2,
+   "explanation": "20/81 = 0.2469 = 24.69%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 21/81 as a percentage?",
+   "choices": [
+    "22.22%",
+    "23.46%",
+    "25.93%",
+    "24.69%"
+   ],
+   "answer": 2,
+   "explanation": "21/81 = 0.2593 = 25.93%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 21/81 as a decimal?",
+   "choices": [
+    "0.2222",
+    "0.2346",
+    "0.2593",
+    "0.2469"
+   ],
+   "answer": 2,
+   "explanation": "21/81 = 0.2593 = 25.93%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 22/81 as a percentage?",
+   "choices": [
+    "23.46%",
+    "27.16%",
+    "24.69%",
+    "25.93%"
+   ],
+   "answer": 1,
+   "explanation": "22/81 = 0.2716 = 27.16%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 22/81 as a decimal?",
+   "choices": [
+    "0.2716",
+    "0.2346",
+    "0.2469",
+    "0.2593"
+   ],
+   "answer": 0,
+   "explanation": "22/81 = 0.2716 = 27.16%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 23/81 as a percentage?",
+   "choices": [
+    "28.40%",
+    "24.69%",
+    "25.93%",
+    "27.16%"
+   ],
+   "answer": 0,
+   "explanation": "23/81 = 0.2840 = 28.40%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 23/81 as a decimal?",
+   "choices": [
+    "0.2469",
+    "0.2840",
+    "0.2593",
+    "0.2716"
+   ],
+   "answer": 1,
+   "explanation": "23/81 = 0.2840 = 28.40%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 24/81 as a percentage?",
+   "choices": [
+    "25.93%",
+    "29.63%",
+    "27.16%",
+    "28.40%"
+   ],
+   "answer": 1,
+   "explanation": "24/81 = 0.2963 = 29.63%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 24/81 as a decimal?",
+   "choices": [
+    "0.2963",
+    "0.2593",
+    "0.2716",
+    "0.2840"
+   ],
+   "answer": 0,
+   "explanation": "24/81 = 0.2963 = 29.63%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 25/81 as a percentage?",
+   "choices": [
+    "27.16%",
+    "28.40%",
+    "29.63%",
+    "30.86%"
+   ],
+   "answer": 3,
+   "explanation": "25/81 = 0.3086 = 30.86%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 25/81 as a decimal?",
+   "choices": [
+    "0.2716",
+    "0.2840",
+    "0.2963",
+    "0.3086"
+   ],
+   "answer": 3,
+   "explanation": "25/81 = 0.3086 = 30.86%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 26/81 as a percentage?",
+   "choices": [
+    "28.40%",
+    "29.63%",
+    "30.86%",
+    "32.10%"
+   ],
+   "answer": 3,
+   "explanation": "26/81 = 0.3210 = 32.10%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 26/81 as a decimal?",
+   "choices": [
+    "0.2840",
+    "0.3210",
+    "0.2963",
+    "0.3086"
+   ],
+   "answer": 1,
+   "explanation": "26/81 = 0.3210 = 32.10%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 27/81 as a percentage?",
+   "choices": [
+    "29.63%",
+    "33.33%",
+    "30.86%",
+    "32.10%"
+   ],
+   "answer": 1,
+   "explanation": "27/81 = 0.3333 = 33.33%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 27/81 as a decimal?",
+   "choices": [
+    "0.2963",
+    "0.3086",
+    "0.3333",
+    "0.3210"
+   ],
+   "answer": 2,
+   "explanation": "27/81 = 0.3333 = 33.33%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 28/81 as a percentage?",
+   "choices": [
+    "30.86%",
+    "34.57%",
+    "32.10%",
+    "33.33%"
+   ],
+   "answer": 1,
+   "explanation": "28/81 = 0.3457 = 34.57%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 28/81 as a decimal?",
+   "choices": [
+    "0.3086",
+    "0.3210",
+    "0.3457",
+    "0.3333"
+   ],
+   "answer": 2,
+   "explanation": "28/81 = 0.3457 = 34.57%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 29/81 as a percentage?",
+   "choices": [
+    "32.10%",
+    "33.33%",
+    "35.80%",
+    "34.57%"
+   ],
+   "answer": 2,
+   "explanation": "29/81 = 0.3580 = 35.80%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 29/81 as a decimal?",
+   "choices": [
+    "0.3210",
+    "0.3580",
+    "0.3333",
+    "0.3457"
+   ],
+   "answer": 1,
+   "explanation": "29/81 = 0.3580 = 35.80%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 30/81 as a percentage?",
+   "choices": [
+    "37.04%",
+    "33.33%",
+    "34.57%",
+    "35.80%"
+   ],
+   "answer": 0,
+   "explanation": "30/81 = 0.3704 = 37.04%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 30/81 as a decimal?",
+   "choices": [
+    "0.3704",
+    "0.3333",
+    "0.3457",
+    "0.3580"
+   ],
+   "answer": 0,
+   "explanation": "30/81 = 0.3704 = 37.04%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 31/81 as a percentage?",
+   "choices": [
+    "34.57%",
+    "35.80%",
+    "37.04%",
+    "38.27%"
+   ],
+   "answer": 3,
+   "explanation": "31/81 = 0.3827 = 38.27%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 31/81 as a decimal?",
+   "choices": [
+    "0.3457",
+    "0.3827",
+    "0.3580",
+    "0.3704"
+   ],
+   "answer": 1,
+   "explanation": "31/81 = 0.3827 = 38.27%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 32/81 as a percentage?",
+   "choices": [
+    "35.80%",
+    "37.04%",
+    "38.27%",
+    "39.51%"
+   ],
+   "answer": 3,
+   "explanation": "32/81 = 0.3951 = 39.51%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 32/81 as a decimal?",
+   "choices": [
+    "0.3580",
+    "0.3704",
+    "0.3951",
+    "0.3827"
+   ],
+   "answer": 2,
+   "explanation": "32/81 = 0.3951 = 39.51%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 33/81 as a percentage?",
+   "choices": [
+    "37.04%",
+    "40.74%",
+    "38.27%",
+    "39.51%"
+   ],
+   "answer": 1,
+   "explanation": "33/81 = 0.4074 = 40.74%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 33/81 as a decimal?",
+   "choices": [
+    "0.4074",
+    "0.3704",
+    "0.3827",
+    "0.3951"
+   ],
+   "answer": 0,
+   "explanation": "33/81 = 0.4074 = 40.74%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 34/81 as a percentage?",
+   "choices": [
+    "38.27%",
+    "41.98%",
+    "39.51%",
+    "40.74%"
+   ],
+   "answer": 1,
+   "explanation": "34/81 = 0.4198 = 41.98%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 34/81 as a decimal?",
+   "choices": [
+    "0.3827",
+    "0.3951",
+    "0.4074",
+    "0.4198"
+   ],
+   "answer": 3,
+   "explanation": "34/81 = 0.4198 = 41.98%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 35/81 as a percentage?",
+   "choices": [
+    "39.51%",
+    "40.74%",
+    "41.98%",
+    "43.21%"
+   ],
+   "answer": 3,
+   "explanation": "35/81 = 0.4321 = 43.21%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 35/81 as a decimal?",
+   "choices": [
+    "0.3951",
+    "0.4074",
+    "0.4198",
+    "0.4321"
+   ],
+   "answer": 3,
+   "explanation": "35/81 = 0.4321 = 43.21%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 36/81 as a percentage?",
+   "choices": [
+    "40.74%",
+    "41.98%",
+    "43.21%",
+    "44.44%"
+   ],
+   "answer": 3,
+   "explanation": "36/81 = 0.4444 = 44.44%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 36/81 as a decimal?",
+   "choices": [
+    "0.4074",
+    "0.4198",
+    "0.4444",
+    "0.4321"
+   ],
+   "answer": 2,
+   "explanation": "36/81 = 0.4444 = 44.44%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 37/81 as a percentage?",
+   "choices": [
+    "41.98%",
+    "43.21%",
+    "44.44%",
+    "45.68%"
+   ],
+   "answer": 3,
+   "explanation": "37/81 = 0.4568 = 45.68%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 37/81 as a decimal?",
+   "choices": [
+    "0.4198",
+    "0.4321",
+    "0.4568",
+    "0.4444"
+   ],
+   "answer": 2,
+   "explanation": "37/81 = 0.4568 = 45.68%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 38/81 as a percentage?",
+   "choices": [
+    "43.21%",
+    "46.91%",
+    "44.44%",
+    "45.68%"
+   ],
+   "answer": 1,
+   "explanation": "38/81 = 0.4691 = 46.91%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 38/81 as a decimal?",
+   "choices": [
+    "0.4691",
+    "0.4321",
+    "0.4444",
+    "0.4568"
+   ],
+   "answer": 0,
+   "explanation": "38/81 = 0.4691 = 46.91%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 39/81 as a percentage?",
+   "choices": [
+    "44.44%",
+    "45.68%",
+    "48.15%",
+    "46.91%"
+   ],
+   "answer": 2,
+   "explanation": "39/81 = 0.4815 = 48.15%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 39/81 as a decimal?",
+   "choices": [
+    "0.4815",
+    "0.4444",
+    "0.4568",
+    "0.4691"
+   ],
+   "answer": 0,
+   "explanation": "39/81 = 0.4815 = 48.15%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 40/81 as a percentage?",
+   "choices": [
+    "45.68%",
+    "46.91%",
+    "48.15%",
+    "49.38%"
+   ],
+   "answer": 3,
+   "explanation": "40/81 = 0.4938 = 49.38%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 40/81 as a decimal?",
+   "choices": [
+    "0.4938",
+    "0.4568",
+    "0.4691",
+    "0.4815"
+   ],
+   "answer": 0,
+   "explanation": "40/81 = 0.4938 = 49.38%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 41/81 as a percentage?",
+   "choices": [
+    "46.91%",
+    "48.15%",
+    "50.62%",
+    "49.38%"
+   ],
+   "answer": 2,
+   "explanation": "41/81 = 0.5062 = 50.62%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 41/81 as a decimal?",
+   "choices": [
+    "0.4691",
+    "0.4815",
+    "0.4938",
+    "0.5062"
+   ],
+   "answer": 3,
+   "explanation": "41/81 = 0.5062 = 50.62%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 42/81 as a percentage?",
+   "choices": [
+    "48.15%",
+    "49.38%",
+    "51.85%",
+    "50.62%"
+   ],
+   "answer": 2,
+   "explanation": "42/81 = 0.5185 = 51.85%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 42/81 as a decimal?",
+   "choices": [
+    "0.5185",
+    "0.4815",
+    "0.4938",
+    "0.5062"
+   ],
+   "answer": 0,
+   "explanation": "42/81 = 0.5185 = 51.85%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 43/81 as a percentage?",
+   "choices": [
+    "49.38%",
+    "53.09%",
+    "50.62%",
+    "51.85%"
+   ],
+   "answer": 1,
+   "explanation": "43/81 = 0.5309 = 53.09%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 43/81 as a decimal?",
+   "choices": [
+    "0.4938",
+    "0.5062",
+    "0.5309",
+    "0.5185"
+   ],
+   "answer": 2,
+   "explanation": "43/81 = 0.5309 = 53.09%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 44/81 as a percentage?",
+   "choices": [
+    "50.62%",
+    "51.85%",
+    "53.09%",
+    "54.32%"
+   ],
+   "answer": 3,
+   "explanation": "44/81 = 0.5432 = 54.32%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 44/81 as a decimal?",
+   "choices": [
+    "0.5432",
+    "0.5062",
+    "0.5185",
+    "0.5309"
+   ],
+   "answer": 0,
+   "explanation": "44/81 = 0.5432 = 54.32%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 45/81 as a percentage?",
+   "choices": [
+    "55.56%",
+    "51.85%",
+    "53.09%",
+    "54.32%"
+   ],
+   "answer": 0,
+   "explanation": "45/81 = 0.5556 = 55.56%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 45/81 as a decimal?",
+   "choices": [
+    "0.5185",
+    "0.5309",
+    "0.5556",
+    "0.5432"
+   ],
+   "answer": 2,
+   "explanation": "45/81 = 0.5556 = 55.56%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 46/81 as a percentage?",
+   "choices": [
+    "56.79%",
+    "53.09%",
+    "54.32%",
+    "55.56%"
+   ],
+   "answer": 0,
+   "explanation": "46/81 = 0.5679 = 56.79%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 46/81 as a decimal?",
+   "choices": [
+    "0.5309",
+    "0.5432",
+    "0.5556",
+    "0.5679"
+   ],
+   "answer": 3,
+   "explanation": "46/81 = 0.5679 = 56.79%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 47/81 as a percentage?",
+   "choices": [
+    "54.32%",
+    "55.56%",
+    "56.79%",
+    "58.02%"
+   ],
+   "answer": 3,
+   "explanation": "47/81 = 0.5802 = 58.02%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 47/81 as a decimal?",
+   "choices": [
+    "0.5432",
+    "0.5802",
+    "0.5556",
+    "0.5679"
+   ],
+   "answer": 1,
+   "explanation": "47/81 = 0.5802 = 58.02%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 48/81 as a percentage?",
+   "choices": [
+    "59.26%",
+    "55.56%",
+    "56.79%",
+    "58.02%"
+   ],
+   "answer": 0,
+   "explanation": "48/81 = 0.5926 = 59.26%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 48/81 as a decimal?",
+   "choices": [
+    "0.5926",
+    "0.5556",
+    "0.5679",
+    "0.5802"
+   ],
+   "answer": 0,
+   "explanation": "48/81 = 0.5926 = 59.26%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 49/81 as a percentage?",
+   "choices": [
+    "56.79%",
+    "60.49%",
+    "58.02%",
+    "59.26%"
+   ],
+   "answer": 1,
+   "explanation": "49/81 = 0.6049 = 60.49%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 49/81 as a decimal?",
+   "choices": [
+    "0.5679",
+    "0.5802",
+    "0.5926",
+    "0.6049"
+   ],
+   "answer": 3,
+   "explanation": "49/81 = 0.6049 = 60.49%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 50/81 as a percentage?",
+   "choices": [
+    "58.02%",
+    "59.26%",
+    "60.49%",
+    "61.73%"
+   ],
+   "answer": 3,
+   "explanation": "50/81 = 0.6173 = 61.73%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 50/81 as a decimal?",
+   "choices": [
+    "0.5802",
+    "0.5926",
+    "0.6049",
+    "0.6173"
+   ],
+   "answer": 3,
+   "explanation": "50/81 = 0.6173 = 61.73%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 51/81 as a percentage?",
+   "choices": [
+    "59.26%",
+    "62.96%",
+    "60.49%",
+    "61.73%"
+   ],
+   "answer": 1,
+   "explanation": "51/81 = 0.6296 = 62.96%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 51/81 as a decimal?",
+   "choices": [
+    "0.5926",
+    "0.6049",
+    "0.6296",
+    "0.6173"
+   ],
+   "answer": 2,
+   "explanation": "51/81 = 0.6296 = 62.96%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 52/81 as a percentage?",
+   "choices": [
+    "60.49%",
+    "61.73%",
+    "62.96%",
+    "64.20%"
+   ],
+   "answer": 3,
+   "explanation": "52/81 = 0.6420 = 64.20%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 52/81 as a decimal?",
+   "choices": [
+    "0.6420",
+    "0.6049",
+    "0.6173",
+    "0.6296"
+   ],
+   "answer": 0,
+   "explanation": "52/81 = 0.6420 = 64.20%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 53/81 as a percentage?",
+   "choices": [
+    "61.73%",
+    "62.96%",
+    "64.20%",
+    "65.43%"
+   ],
+   "answer": 3,
+   "explanation": "53/81 = 0.6543 = 65.43%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 53/81 as a decimal?",
+   "choices": [
+    "0.6173",
+    "0.6296",
+    "0.6543",
+    "0.6420"
+   ],
+   "answer": 2,
+   "explanation": "53/81 = 0.6543 = 65.43%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 54/81 as a percentage?",
+   "choices": [
+    "66.67%",
+    "62.96%",
+    "64.20%",
+    "65.43%"
+   ],
+   "answer": 0,
+   "explanation": "54/81 = 0.6667 = 66.67%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 54/81 as a decimal?",
+   "choices": [
+    "0.6296",
+    "0.6667",
+    "0.6420",
+    "0.6543"
+   ],
+   "answer": 1,
+   "explanation": "54/81 = 0.6667 = 66.67%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 55/81 as a percentage?",
+   "choices": [
+    "64.20%",
+    "65.43%",
+    "67.90%",
+    "66.67%"
+   ],
+   "answer": 2,
+   "explanation": "55/81 = 0.6790 = 67.90%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 55/81 as a decimal?",
+   "choices": [
+    "0.6420",
+    "0.6543",
+    "0.6790",
+    "0.6667"
+   ],
+   "answer": 2,
+   "explanation": "55/81 = 0.6790 = 67.90%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 56/81 as a percentage?",
+   "choices": [
+    "69.14%",
+    "65.43%",
+    "66.67%",
+    "67.90%"
+   ],
+   "answer": 0,
+   "explanation": "56/81 = 0.6914 = 69.14%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 56/81 as a decimal?",
+   "choices": [
+    "0.6914",
+    "0.6543",
+    "0.6667",
+    "0.6790"
+   ],
+   "answer": 0,
+   "explanation": "56/81 = 0.6914 = 69.14%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 57/81 as a percentage?",
+   "choices": [
+    "70.37%",
+    "66.67%",
+    "67.90%",
+    "69.14%"
+   ],
+   "answer": 0,
+   "explanation": "57/81 = 0.7037 = 70.37%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 57/81 as a decimal?",
+   "choices": [
+    "0.7037",
+    "0.6667",
+    "0.6790",
+    "0.6914"
+   ],
+   "answer": 0,
+   "explanation": "57/81 = 0.7037 = 70.37%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 58/81 as a percentage?",
+   "choices": [
+    "67.90%",
+    "71.60%",
+    "69.14%",
+    "70.37%"
+   ],
+   "answer": 1,
+   "explanation": "58/81 = 0.7160 = 71.60%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 58/81 as a decimal?",
+   "choices": [
+    "0.6790",
+    "0.6914",
+    "0.7037",
+    "0.7160"
+   ],
+   "answer": 3,
+   "explanation": "58/81 = 0.7160 = 71.60%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 59/81 as a percentage?",
+   "choices": [
+    "69.14%",
+    "72.84%",
+    "70.37%",
+    "71.60%"
+   ],
+   "answer": 1,
+   "explanation": "59/81 = 0.7284 = 72.84%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 59/81 as a decimal?",
+   "choices": [
+    "0.6914",
+    "0.7284",
+    "0.7037",
+    "0.7160"
+   ],
+   "answer": 1,
+   "explanation": "59/81 = 0.7284 = 72.84%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 60/81 as a percentage?",
+   "choices": [
+    "70.37%",
+    "71.60%",
+    "74.07%",
+    "72.84%"
+   ],
+   "answer": 2,
+   "explanation": "60/81 = 0.7407 = 74.07%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 60/81 as a decimal?",
+   "choices": [
+    "0.7407",
+    "0.7037",
+    "0.7160",
+    "0.7284"
+   ],
+   "answer": 0,
+   "explanation": "60/81 = 0.7407 = 74.07%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 61/81 as a percentage?",
+   "choices": [
+    "71.60%",
+    "72.84%",
+    "75.31%",
+    "74.07%"
+   ],
+   "answer": 2,
+   "explanation": "61/81 = 0.7531 = 75.31%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 61/81 as a decimal?",
+   "choices": [
+    "0.7160",
+    "0.7284",
+    "0.7531",
+    "0.7407"
+   ],
+   "answer": 2,
+   "explanation": "61/81 = 0.7531 = 75.31%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 62/81 as a percentage?",
+   "choices": [
+    "76.54%",
+    "72.84%",
+    "74.07%",
+    "75.31%"
+   ],
+   "answer": 0,
+   "explanation": "62/81 = 0.7654 = 76.54%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 62/81 as a decimal?",
+   "choices": [
+    "0.7654",
+    "0.7284",
+    "0.7407",
+    "0.7531"
+   ],
+   "answer": 0,
+   "explanation": "62/81 = 0.7654 = 76.54%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 63/81 as a percentage?",
+   "choices": [
+    "74.07%",
+    "75.31%",
+    "76.54%",
+    "77.78%"
+   ],
+   "answer": 3,
+   "explanation": "63/81 = 0.7778 = 77.78%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 63/81 as a decimal?",
+   "choices": [
+    "0.7407",
+    "0.7531",
+    "0.7654",
+    "0.7778"
+   ],
+   "answer": 3,
+   "explanation": "63/81 = 0.7778 = 77.78%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 64/81 as a percentage?",
+   "choices": [
+    "75.31%",
+    "76.54%",
+    "77.78%",
+    "79.01%"
+   ],
+   "answer": 3,
+   "explanation": "64/81 = 0.7901 = 79.01%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 64/81 as a decimal?",
+   "choices": [
+    "0.7531",
+    "0.7654",
+    "0.7778",
+    "0.7901"
+   ],
+   "answer": 3,
+   "explanation": "64/81 = 0.7901 = 79.01%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 65/81 as a percentage?",
+   "choices": [
+    "80.25%",
+    "76.54%",
+    "77.78%",
+    "79.01%"
+   ],
+   "answer": 0,
+   "explanation": "65/81 = 0.8025 = 80.25%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 65/81 as a decimal?",
+   "choices": [
+    "0.8025",
+    "0.7654",
+    "0.7778",
+    "0.7901"
+   ],
+   "answer": 0,
+   "explanation": "65/81 = 0.8025 = 80.25%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 66/81 as a percentage?",
+   "choices": [
+    "77.78%",
+    "81.48%",
+    "79.01%",
+    "80.25%"
+   ],
+   "answer": 1,
+   "explanation": "66/81 = 0.8148 = 81.48%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 66/81 as a decimal?",
+   "choices": [
+    "0.7778",
+    "0.8148",
+    "0.7901",
+    "0.8025"
+   ],
+   "answer": 1,
+   "explanation": "66/81 = 0.8148 = 81.48%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 67/81 as a percentage?",
+   "choices": [
+    "79.01%",
+    "80.25%",
+    "82.72%",
+    "81.48%"
+   ],
+   "answer": 2,
+   "explanation": "67/81 = 0.8272 = 82.72%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 67/81 as a decimal?",
+   "choices": [
+    "0.7901",
+    "0.8272",
+    "0.8025",
+    "0.8148"
+   ],
+   "answer": 1,
+   "explanation": "67/81 = 0.8272 = 82.72%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 68/81 as a percentage?",
+   "choices": [
+    "80.25%",
+    "81.48%",
+    "83.95%",
+    "82.72%"
+   ],
+   "answer": 2,
+   "explanation": "68/81 = 0.8395 = 83.95%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 68/81 as a decimal?",
+   "choices": [
+    "0.8025",
+    "0.8395",
+    "0.8148",
+    "0.8272"
+   ],
+   "answer": 1,
+   "explanation": "68/81 = 0.8395 = 83.95%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 69/81 as a percentage?",
+   "choices": [
+    "81.48%",
+    "82.72%",
+    "83.95%",
+    "85.19%"
+   ],
+   "answer": 3,
+   "explanation": "69/81 = 0.8519 = 85.19%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 69/81 as a decimal?",
+   "choices": [
+    "0.8148",
+    "0.8519",
+    "0.8272",
+    "0.8395"
+   ],
+   "answer": 1,
+   "explanation": "69/81 = 0.8519 = 85.19%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 70/81 as a percentage?",
+   "choices": [
+    "86.42%",
+    "82.72%",
+    "83.95%",
+    "85.19%"
+   ],
+   "answer": 0,
+   "explanation": "70/81 = 0.8642 = 86.42%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 70/81 as a decimal?",
+   "choices": [
+    "0.8272",
+    "0.8395",
+    "0.8519",
+    "0.8642"
+   ],
+   "answer": 3,
+   "explanation": "70/81 = 0.8642 = 86.42%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 71/81 as a percentage?",
+   "choices": [
+    "87.65%",
+    "83.95%",
+    "85.19%",
+    "86.42%"
+   ],
+   "answer": 0,
+   "explanation": "71/81 = 0.8765 = 87.65%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 71/81 as a decimal?",
+   "choices": [
+    "0.8395",
+    "0.8519",
+    "0.8765",
+    "0.8642"
+   ],
+   "answer": 2,
+   "explanation": "71/81 = 0.8765 = 87.65%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 72/81 as a percentage?",
+   "choices": [
+    "85.19%",
+    "86.42%",
+    "87.65%",
+    "88.89%"
+   ],
+   "answer": 3,
+   "explanation": "72/81 = 0.8889 = 88.89%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 72/81 as a decimal?",
+   "choices": [
+    "0.8519",
+    "0.8889",
+    "0.8642",
+    "0.8765"
+   ],
+   "answer": 1,
+   "explanation": "72/81 = 0.8889 = 88.89%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 73/81 as a percentage?",
+   "choices": [
+    "86.42%",
+    "87.65%",
+    "90.12%",
+    "88.89%"
+   ],
+   "answer": 2,
+   "explanation": "73/81 = 0.9012 = 90.12%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 73/81 as a decimal?",
+   "choices": [
+    "0.8642",
+    "0.8765",
+    "0.8889",
+    "0.9012"
+   ],
+   "answer": 3,
+   "explanation": "73/81 = 0.9012 = 90.12%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 74/81 as a percentage?",
+   "choices": [
+    "91.36%",
+    "87.65%",
+    "88.89%",
+    "90.12%"
+   ],
+   "answer": 0,
+   "explanation": "74/81 = 0.9136 = 91.36%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 74/81 as a decimal?",
+   "choices": [
+    "0.8765",
+    "0.9136",
+    "0.8889",
+    "0.9012"
+   ],
+   "answer": 1,
+   "explanation": "74/81 = 0.9136 = 91.36%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 75/81 as a percentage?",
+   "choices": [
+    "88.89%",
+    "90.12%",
+    "92.59%",
+    "91.36%"
+   ],
+   "answer": 2,
+   "explanation": "75/81 = 0.9259 = 92.59%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 75/81 as a decimal?",
+   "choices": [
+    "0.8889",
+    "0.9012",
+    "0.9259",
+    "0.9136"
+   ],
+   "answer": 2,
+   "explanation": "75/81 = 0.9259 = 92.59%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 76/81 as a percentage?",
+   "choices": [
+    "90.12%",
+    "91.36%",
+    "93.83%",
+    "92.59%"
+   ],
+   "answer": 2,
+   "explanation": "76/81 = 0.9383 = 93.83%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 76/81 as a decimal?",
+   "choices": [
+    "0.9012",
+    "0.9383",
+    "0.9136",
+    "0.9259"
+   ],
+   "answer": 1,
+   "explanation": "76/81 = 0.9383 = 93.83%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 77/81 as a percentage?",
+   "choices": [
+    "91.36%",
+    "95.06%",
+    "92.59%",
+    "93.83%"
+   ],
+   "answer": 1,
+   "explanation": "77/81 = 0.9506 = 95.06%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 77/81 as a decimal?",
+   "choices": [
+    "0.9136",
+    "0.9506",
+    "0.9259",
+    "0.9383"
+   ],
+   "answer": 1,
+   "explanation": "77/81 = 0.9506 = 95.06%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 78/81 as a percentage?",
+   "choices": [
+    "92.59%",
+    "93.83%",
+    "96.30%",
+    "95.06%"
+   ],
+   "answer": 2,
+   "explanation": "78/81 = 0.9630 = 96.30%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 78/81 as a decimal?",
+   "choices": [
+    "0.9259",
+    "0.9383",
+    "0.9630",
+    "0.9506"
+   ],
+   "answer": 2,
+   "explanation": "78/81 = 0.9630 = 96.30%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 79/81 as a percentage?",
+   "choices": [
+    "93.83%",
+    "97.53%",
+    "95.06%",
+    "96.30%"
+   ],
+   "answer": 1,
+   "explanation": "79/81 = 0.9753 = 97.53%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 79/81 as a decimal?",
+   "choices": [
+    "0.9383",
+    "0.9753",
+    "0.9506",
+    "0.9630"
+   ],
+   "answer": 1,
+   "explanation": "79/81 = 0.9753 = 97.53%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 80/81 as a percentage?",
+   "choices": [
+    "98.77%",
+    "95.06%",
+    "96.30%",
+    "97.53%"
+   ],
+   "answer": 0,
+   "explanation": "80/81 = 0.9877 = 98.77%",
+   "source": "X/81"
+  },
+  {
+   "question": "What is 80/81 as a decimal?",
+   "choices": [
+    "0.9877",
+    "0.9506",
+    "0.9630",
+    "0.9753"
+   ],
+   "answer": 0,
+   "explanation": "80/81 = 0.9877 = 98.77%",
+   "source": "X/81"
+  }
+ ]
+}

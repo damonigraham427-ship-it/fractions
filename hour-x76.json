@@ -1,0 +1,1804 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/76 as a percentage?",
+   "choices": [
+    "2.63%",
+    "3.95%",
+    "5.26%",
+    "1.32%"
+   ],
+   "answer": 3,
+   "explanation": "1/76 = 0.0132 = 1.32%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 1/76 as a decimal?",
+   "choices": [
+    "0.0263",
+    "0.0132",
+    "0.0395",
+    "0.0526"
+   ],
+   "answer": 1,
+   "explanation": "1/76 = 0.0132 = 1.32%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 2/76 as a percentage?",
+   "choices": [
+    "1.32%",
+    "3.95%",
+    "5.26%",
+    "2.63%"
+   ],
+   "answer": 3,
+   "explanation": "2/76 = 0.0263 = 2.63%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 2/76 as a decimal?",
+   "choices": [
+    "0.0132",
+    "0.0263",
+    "0.0395",
+    "0.0526"
+   ],
+   "answer": 1,
+   "explanation": "2/76 = 0.0263 = 2.63%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 3/76 as a percentage?",
+   "choices": [
+    "1.32%",
+    "2.63%",
+    "5.26%",
+    "3.95%"
+   ],
+   "answer": 3,
+   "explanation": "3/76 = 0.0395 = 3.95%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 3/76 as a decimal?",
+   "choices": [
+    "0.0132",
+    "0.0263",
+    "0.0395",
+    "0.0526"
+   ],
+   "answer": 2,
+   "explanation": "3/76 = 0.0395 = 3.95%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 4/76 as a percentage?",
+   "choices": [
+    "5.26%",
+    "1.32%",
+    "2.63%",
+    "3.95%"
+   ],
+   "answer": 0,
+   "explanation": "4/76 = 0.0526 = 5.26%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 4/76 as a decimal?",
+   "choices": [
+    "0.0526",
+    "0.0132",
+    "0.0263",
+    "0.0395"
+   ],
+   "answer": 0,
+   "explanation": "4/76 = 0.0526 = 5.26%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 5/76 as a percentage?",
+   "choices": [
+    "2.63%",
+    "3.95%",
+    "6.58%",
+    "5.26%"
+   ],
+   "answer": 2,
+   "explanation": "5/76 = 0.0658 = 6.58%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 5/76 as a decimal?",
+   "choices": [
+    "0.0263",
+    "0.0395",
+    "0.0658",
+    "0.0526"
+   ],
+   "answer": 2,
+   "explanation": "5/76 = 0.0658 = 6.58%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 6/76 as a percentage?",
+   "choices": [
+    "3.95%",
+    "5.26%",
+    "6.58%",
+    "7.89%"
+   ],
+   "answer": 3,
+   "explanation": "6/76 = 0.0789 = 7.89%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 6/76 as a decimal?",
+   "choices": [
+    "0.0789",
+    "0.0395",
+    "0.0526",
+    "0.0658"
+   ],
+   "answer": 0,
+   "explanation": "6/76 = 0.0789 = 7.89%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 7/76 as a percentage?",
+   "choices": [
+    "5.26%",
+    "6.58%",
+    "7.89%",
+    "9.21%"
+   ],
+   "answer": 3,
+   "explanation": "7/76 = 0.0921 = 9.21%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 7/76 as a decimal?",
+   "choices": [
+    "0.0526",
+    "0.0658",
+    "0.0921",
+    "0.0789"
+   ],
+   "answer": 2,
+   "explanation": "7/76 = 0.0921 = 9.21%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 8/76 as a percentage?",
+   "choices": [
+    "6.58%",
+    "10.53%",
+    "7.89%",
+    "9.21%"
+   ],
+   "answer": 1,
+   "explanation": "8/76 = 0.1053 = 10.53%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 8/76 as a decimal?",
+   "choices": [
+    "0.0658",
+    "0.1053",
+    "0.0789",
+    "0.0921"
+   ],
+   "answer": 1,
+   "explanation": "8/76 = 0.1053 = 10.53%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 9/76 as a percentage?",
+   "choices": [
+    "11.84%",
+    "7.89%",
+    "9.21%",
+    "10.53%"
+   ],
+   "answer": 0,
+   "explanation": "9/76 = 0.1184 = 11.84%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 9/76 as a decimal?",
+   "choices": [
+    "0.0789",
+    "0.1184",
+    "0.0921",
+    "0.1053"
+   ],
+   "answer": 1,
+   "explanation": "9/76 = 0.1184 = 11.84%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 10/76 as a percentage?",
+   "choices": [
+    "9.21%",
+    "10.53%",
+    "11.84%",
+    "13.16%"
+   ],
+   "answer": 3,
+   "explanation": "10/76 = 0.1316 = 13.16%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 10/76 as a decimal?",
+   "choices": [
+    "0.1316",
+    "0.0921",
+    "0.1053",
+    "0.1184"
+   ],
+   "answer": 0,
+   "explanation": "10/76 = 0.1316 = 13.16%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 11/76 as a percentage?",
+   "choices": [
+    "10.53%",
+    "11.84%",
+    "14.47%",
+    "13.16%"
+   ],
+   "answer": 2,
+   "explanation": "11/76 = 0.1447 = 14.47%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 11/76 as a decimal?",
+   "choices": [
+    "0.1053",
+    "0.1184",
+    "0.1447",
+    "0.1316"
+   ],
+   "answer": 2,
+   "explanation": "11/76 = 0.1447 = 14.47%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 12/76 as a percentage?",
+   "choices": [
+    "11.84%",
+    "13.16%",
+    "15.79%",
+    "14.47%"
+   ],
+   "answer": 2,
+   "explanation": "12/76 = 0.1579 = 15.79%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 12/76 as a decimal?",
+   "choices": [
+    "0.1184",
+    "0.1316",
+    "0.1579",
+    "0.1447"
+   ],
+   "answer": 2,
+   "explanation": "12/76 = 0.1579 = 15.79%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 13/76 as a percentage?",
+   "choices": [
+    "17.11%",
+    "13.16%",
+    "14.47%",
+    "15.79%"
+   ],
+   "answer": 0,
+   "explanation": "13/76 = 0.1711 = 17.11%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 13/76 as a decimal?",
+   "choices": [
+    "0.1316",
+    "0.1711",
+    "0.1447",
+    "0.1579"
+   ],
+   "answer": 1,
+   "explanation": "13/76 = 0.1711 = 17.11%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 14/76 as a percentage?",
+   "choices": [
+    "14.47%",
+    "15.79%",
+    "17.11%",
+    "18.42%"
+   ],
+   "answer": 3,
+   "explanation": "14/76 = 0.1842 = 18.42%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 14/76 as a decimal?",
+   "choices": [
+    "0.1447",
+    "0.1579",
+    "0.1711",
+    "0.1842"
+   ],
+   "answer": 3,
+   "explanation": "14/76 = 0.1842 = 18.42%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 15/76 as a percentage?",
+   "choices": [
+    "15.79%",
+    "17.11%",
+    "19.74%",
+    "18.42%"
+   ],
+   "answer": 2,
+   "explanation": "15/76 = 0.1974 = 19.74%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 15/76 as a decimal?",
+   "choices": [
+    "0.1579",
+    "0.1974",
+    "0.1711",
+    "0.1842"
+   ],
+   "answer": 1,
+   "explanation": "15/76 = 0.1974 = 19.74%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 16/76 as a percentage?",
+   "choices": [
+    "17.11%",
+    "18.42%",
+    "19.74%",
+    "21.05%"
+   ],
+   "answer": 3,
+   "explanation": "16/76 = 0.2105 = 21.05%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 16/76 as a decimal?",
+   "choices": [
+    "0.1711",
+    "0.2105",
+    "0.1842",
+    "0.1974"
+   ],
+   "answer": 1,
+   "explanation": "16/76 = 0.2105 = 21.05%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 17/76 as a percentage?",
+   "choices": [
+    "18.42%",
+    "19.74%",
+    "22.37%",
+    "21.05%"
+   ],
+   "answer": 2,
+   "explanation": "17/76 = 0.2237 = 22.37%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 17/76 as a decimal?",
+   "choices": [
+    "0.1842",
+    "0.1974",
+    "0.2237",
+    "0.2105"
+   ],
+   "answer": 2,
+   "explanation": "17/76 = 0.2237 = 22.37%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 18/76 as a percentage?",
+   "choices": [
+    "23.68%",
+    "19.74%",
+    "21.05%",
+    "22.37%"
+   ],
+   "answer": 0,
+   "explanation": "18/76 = 0.2368 = 23.68%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 18/76 as a decimal?",
+   "choices": [
+    "0.1974",
+    "0.2105",
+    "0.2368",
+    "0.2237"
+   ],
+   "answer": 2,
+   "explanation": "18/76 = 0.2368 = 23.68%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 19/76 as a percentage?",
+   "choices": [
+    "21.05%",
+    "22.37%",
+    "23.68%",
+    "25.00%"
+   ],
+   "answer": 3,
+   "explanation": "19/76 = 0.2500 = 25.00%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 19/76 as a decimal?",
+   "choices": [
+    "0.2105",
+    "0.2237",
+    "0.2368",
+    "0.2500"
+   ],
+   "answer": 3,
+   "explanation": "19/76 = 0.2500 = 25.00%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 20/76 as a percentage?",
+   "choices": [
+    "26.32%",
+    "22.37%",
+    "23.68%",
+    "25.00%"
+   ],
+   "answer": 0,
+   "explanation": "20/76 = 0.2632 = 26.32%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 20/76 as a decimal?",
+   "choices": [
+    "0.2237",
+    "0.2368",
+    "0.2632",
+    "0.2500"
+   ],
+   "answer": 2,
+   "explanation": "20/76 = 0.2632 = 26.32%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 21/76 as a percentage?",
+   "choices": [
+    "23.68%",
+    "25.00%",
+    "27.63%",
+    "26.32%"
+   ],
+   "answer": 2,
+   "explanation": "21/76 = 0.2763 = 27.63%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 21/76 as a decimal?",
+   "choices": [
+    "0.2368",
+    "0.2500",
+    "0.2763",
+    "0.2632"
+   ],
+   "answer": 2,
+   "explanation": "21/76 = 0.2763 = 27.63%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 22/76 as a percentage?",
+   "choices": [
+    "25.00%",
+    "26.32%",
+    "27.63%",
+    "28.95%"
+   ],
+   "answer": 3,
+   "explanation": "22/76 = 0.2895 = 28.95%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 22/76 as a decimal?",
+   "choices": [
+    "0.2500",
+    "0.2632",
+    "0.2895",
+    "0.2763"
+   ],
+   "answer": 2,
+   "explanation": "22/76 = 0.2895 = 28.95%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 23/76 as a percentage?",
+   "choices": [
+    "26.32%",
+    "30.26%",
+    "27.63%",
+    "28.95%"
+   ],
+   "answer": 1,
+   "explanation": "23/76 = 0.3026 = 30.26%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 23/76 as a decimal?",
+   "choices": [
+    "0.2632",
+    "0.2763",
+    "0.3026",
+    "0.2895"
+   ],
+   "answer": 2,
+   "explanation": "23/76 = 0.3026 = 30.26%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 24/76 as a percentage?",
+   "choices": [
+    "31.58%",
+    "27.63%",
+    "28.95%",
+    "30.26%"
+   ],
+   "answer": 0,
+   "explanation": "24/76 = 0.3158 = 31.58%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 24/76 as a decimal?",
+   "choices": [
+    "0.2763",
+    "0.2895",
+    "0.3158",
+    "0.3026"
+   ],
+   "answer": 2,
+   "explanation": "24/76 = 0.3158 = 31.58%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 25/76 as a percentage?",
+   "choices": [
+    "28.95%",
+    "30.26%",
+    "31.58%",
+    "32.89%"
+   ],
+   "answer": 3,
+   "explanation": "25/76 = 0.3289 = 32.89%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 25/76 as a decimal?",
+   "choices": [
+    "0.2895",
+    "0.3026",
+    "0.3289",
+    "0.3158"
+   ],
+   "answer": 2,
+   "explanation": "25/76 = 0.3289 = 32.89%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 26/76 as a percentage?",
+   "choices": [
+    "30.26%",
+    "31.58%",
+    "34.21%",
+    "32.89%"
+   ],
+   "answer": 2,
+   "explanation": "26/76 = 0.3421 = 34.21%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 26/76 as a decimal?",
+   "choices": [
+    "0.3026",
+    "0.3158",
+    "0.3289",
+    "0.3421"
+   ],
+   "answer": 3,
+   "explanation": "26/76 = 0.3421 = 34.21%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 27/76 as a percentage?",
+   "choices": [
+    "31.58%",
+    "32.89%",
+    "35.53%",
+    "34.21%"
+   ],
+   "answer": 2,
+   "explanation": "27/76 = 0.3553 = 35.53%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 27/76 as a decimal?",
+   "choices": [
+    "0.3553",
+    "0.3158",
+    "0.3289",
+    "0.3421"
+   ],
+   "answer": 0,
+   "explanation": "27/76 = 0.3553 = 35.53%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 28/76 as a percentage?",
+   "choices": [
+    "36.84%",
+    "32.89%",
+    "34.21%",
+    "35.53%"
+   ],
+   "answer": 0,
+   "explanation": "28/76 = 0.3684 = 36.84%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 28/76 as a decimal?",
+   "choices": [
+    "0.3289",
+    "0.3421",
+    "0.3553",
+    "0.3684"
+   ],
+   "answer": 3,
+   "explanation": "28/76 = 0.3684 = 36.84%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 29/76 as a percentage?",
+   "choices": [
+    "34.21%",
+    "35.53%",
+    "38.16%",
+    "36.84%"
+   ],
+   "answer": 2,
+   "explanation": "29/76 = 0.3816 = 38.16%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 29/76 as a decimal?",
+   "choices": [
+    "0.3421",
+    "0.3553",
+    "0.3684",
+    "0.3816"
+   ],
+   "answer": 3,
+   "explanation": "29/76 = 0.3816 = 38.16%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 30/76 as a percentage?",
+   "choices": [
+    "35.53%",
+    "39.47%",
+    "36.84%",
+    "38.16%"
+   ],
+   "answer": 1,
+   "explanation": "30/76 = 0.3947 = 39.47%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 30/76 as a decimal?",
+   "choices": [
+    "0.3947",
+    "0.3553",
+    "0.3684",
+    "0.3816"
+   ],
+   "answer": 0,
+   "explanation": "30/76 = 0.3947 = 39.47%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 31/76 as a percentage?",
+   "choices": [
+    "36.84%",
+    "40.79%",
+    "38.16%",
+    "39.47%"
+   ],
+   "answer": 1,
+   "explanation": "31/76 = 0.4079 = 40.79%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 31/76 as a decimal?",
+   "choices": [
+    "0.3684",
+    "0.4079",
+    "0.3816",
+    "0.3947"
+   ],
+   "answer": 1,
+   "explanation": "31/76 = 0.4079 = 40.79%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 32/76 as a percentage?",
+   "choices": [
+    "38.16%",
+    "42.11%",
+    "39.47%",
+    "40.79%"
+   ],
+   "answer": 1,
+   "explanation": "32/76 = 0.4211 = 42.11%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 32/76 as a decimal?",
+   "choices": [
+    "0.3816",
+    "0.4211",
+    "0.3947",
+    "0.4079"
+   ],
+   "answer": 1,
+   "explanation": "32/76 = 0.4211 = 42.11%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 33/76 as a percentage?",
+   "choices": [
+    "39.47%",
+    "40.79%",
+    "42.11%",
+    "43.42%"
+   ],
+   "answer": 3,
+   "explanation": "33/76 = 0.4342 = 43.42%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 33/76 as a decimal?",
+   "choices": [
+    "0.4342",
+    "0.3947",
+    "0.4079",
+    "0.4211"
+   ],
+   "answer": 0,
+   "explanation": "33/76 = 0.4342 = 43.42%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 34/76 as a percentage?",
+   "choices": [
+    "40.79%",
+    "42.11%",
+    "43.42%",
+    "44.74%"
+   ],
+   "answer": 3,
+   "explanation": "34/76 = 0.4474 = 44.74%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 34/76 as a decimal?",
+   "choices": [
+    "0.4474",
+    "0.4079",
+    "0.4211",
+    "0.4342"
+   ],
+   "answer": 0,
+   "explanation": "34/76 = 0.4474 = 44.74%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 35/76 as a percentage?",
+   "choices": [
+    "46.05%",
+    "42.11%",
+    "43.42%",
+    "44.74%"
+   ],
+   "answer": 0,
+   "explanation": "35/76 = 0.4605 = 46.05%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 35/76 as a decimal?",
+   "choices": [
+    "0.4211",
+    "0.4342",
+    "0.4474",
+    "0.4605"
+   ],
+   "answer": 3,
+   "explanation": "35/76 = 0.4605 = 46.05%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 36/76 as a percentage?",
+   "choices": [
+    "43.42%",
+    "47.37%",
+    "44.74%",
+    "46.05%"
+   ],
+   "answer": 1,
+   "explanation": "36/76 = 0.4737 = 47.37%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 36/76 as a decimal?",
+   "choices": [
+    "0.4342",
+    "0.4474",
+    "0.4737",
+    "0.4605"
+   ],
+   "answer": 2,
+   "explanation": "36/76 = 0.4737 = 47.37%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 37/76 as a percentage?",
+   "choices": [
+    "44.74%",
+    "46.05%",
+    "48.68%",
+    "47.37%"
+   ],
+   "answer": 2,
+   "explanation": "37/76 = 0.4868 = 48.68%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 37/76 as a decimal?",
+   "choices": [
+    "0.4474",
+    "0.4605",
+    "0.4868",
+    "0.4737"
+   ],
+   "answer": 2,
+   "explanation": "37/76 = 0.4868 = 48.68%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 38/76 as a percentage?",
+   "choices": [
+    "46.05%",
+    "50.00%",
+    "47.37%",
+    "48.68%"
+   ],
+   "answer": 1,
+   "explanation": "38/76 = 0.5000 = 50.00%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 38/76 as a decimal?",
+   "choices": [
+    "0.4605",
+    "0.5000",
+    "0.4737",
+    "0.4868"
+   ],
+   "answer": 1,
+   "explanation": "38/76 = 0.5000 = 50.00%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 39/76 as a percentage?",
+   "choices": [
+    "47.37%",
+    "48.68%",
+    "51.32%",
+    "50.00%"
+   ],
+   "answer": 2,
+   "explanation": "39/76 = 0.5132 = 51.32%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 39/76 as a decimal?",
+   "choices": [
+    "0.4737",
+    "0.4868",
+    "0.5000",
+    "0.5132"
+   ],
+   "answer": 3,
+   "explanation": "39/76 = 0.5132 = 51.32%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 40/76 as a percentage?",
+   "choices": [
+    "52.63%",
+    "48.68%",
+    "50.00%",
+    "51.32%"
+   ],
+   "answer": 0,
+   "explanation": "40/76 = 0.5263 = 52.63%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 40/76 as a decimal?",
+   "choices": [
+    "0.4868",
+    "0.5000",
+    "0.5132",
+    "0.5263"
+   ],
+   "answer": 3,
+   "explanation": "40/76 = 0.5263 = 52.63%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 41/76 as a percentage?",
+   "choices": [
+    "50.00%",
+    "51.32%",
+    "52.63%",
+    "53.95%"
+   ],
+   "answer": 3,
+   "explanation": "41/76 = 0.5395 = 53.95%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 41/76 as a decimal?",
+   "choices": [
+    "0.5000",
+    "0.5132",
+    "0.5263",
+    "0.5395"
+   ],
+   "answer": 3,
+   "explanation": "41/76 = 0.5395 = 53.95%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 42/76 as a percentage?",
+   "choices": [
+    "51.32%",
+    "52.63%",
+    "53.95%",
+    "55.26%"
+   ],
+   "answer": 3,
+   "explanation": "42/76 = 0.5526 = 55.26%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 42/76 as a decimal?",
+   "choices": [
+    "0.5132",
+    "0.5263",
+    "0.5526",
+    "0.5395"
+   ],
+   "answer": 2,
+   "explanation": "42/76 = 0.5526 = 55.26%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 43/76 as a percentage?",
+   "choices": [
+    "52.63%",
+    "56.58%",
+    "53.95%",
+    "55.26%"
+   ],
+   "answer": 1,
+   "explanation": "43/76 = 0.5658 = 56.58%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 43/76 as a decimal?",
+   "choices": [
+    "0.5658",
+    "0.5263",
+    "0.5395",
+    "0.5526"
+   ],
+   "answer": 0,
+   "explanation": "43/76 = 0.5658 = 56.58%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 44/76 as a percentage?",
+   "choices": [
+    "53.95%",
+    "57.89%",
+    "55.26%",
+    "56.58%"
+   ],
+   "answer": 1,
+   "explanation": "44/76 = 0.5789 = 57.89%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 44/76 as a decimal?",
+   "choices": [
+    "0.5789",
+    "0.5395",
+    "0.5526",
+    "0.5658"
+   ],
+   "answer": 0,
+   "explanation": "44/76 = 0.5789 = 57.89%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 45/76 as a percentage?",
+   "choices": [
+    "55.26%",
+    "56.58%",
+    "59.21%",
+    "57.89%"
+   ],
+   "answer": 2,
+   "explanation": "45/76 = 0.5921 = 59.21%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 45/76 as a decimal?",
+   "choices": [
+    "0.5526",
+    "0.5921",
+    "0.5658",
+    "0.5789"
+   ],
+   "answer": 1,
+   "explanation": "45/76 = 0.5921 = 59.21%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 46/76 as a percentage?",
+   "choices": [
+    "60.53%",
+    "56.58%",
+    "57.89%",
+    "59.21%"
+   ],
+   "answer": 0,
+   "explanation": "46/76 = 0.6053 = 60.53%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 46/76 as a decimal?",
+   "choices": [
+    "0.5658",
+    "0.6053",
+    "0.5789",
+    "0.5921"
+   ],
+   "answer": 1,
+   "explanation": "46/76 = 0.6053 = 60.53%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 47/76 as a percentage?",
+   "choices": [
+    "57.89%",
+    "61.84%",
+    "59.21%",
+    "60.53%"
+   ],
+   "answer": 1,
+   "explanation": "47/76 = 0.6184 = 61.84%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 47/76 as a decimal?",
+   "choices": [
+    "0.5789",
+    "0.5921",
+    "0.6184",
+    "0.6053"
+   ],
+   "answer": 2,
+   "explanation": "47/76 = 0.6184 = 61.84%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 48/76 as a percentage?",
+   "choices": [
+    "59.21%",
+    "60.53%",
+    "61.84%",
+    "63.16%"
+   ],
+   "answer": 3,
+   "explanation": "48/76 = 0.6316 = 63.16%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 48/76 as a decimal?",
+   "choices": [
+    "0.5921",
+    "0.6053",
+    "0.6184",
+    "0.6316"
+   ],
+   "answer": 3,
+   "explanation": "48/76 = 0.6316 = 63.16%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 49/76 as a percentage?",
+   "choices": [
+    "60.53%",
+    "61.84%",
+    "64.47%",
+    "63.16%"
+   ],
+   "answer": 2,
+   "explanation": "49/76 = 0.6447 = 64.47%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 49/76 as a decimal?",
+   "choices": [
+    "0.6053",
+    "0.6184",
+    "0.6447",
+    "0.6316"
+   ],
+   "answer": 2,
+   "explanation": "49/76 = 0.6447 = 64.47%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 50/76 as a percentage?",
+   "choices": [
+    "61.84%",
+    "63.16%",
+    "65.79%",
+    "64.47%"
+   ],
+   "answer": 2,
+   "explanation": "50/76 = 0.6579 = 65.79%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 50/76 as a decimal?",
+   "choices": [
+    "0.6184",
+    "0.6316",
+    "0.6579",
+    "0.6447"
+   ],
+   "answer": 2,
+   "explanation": "50/76 = 0.6579 = 65.79%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 51/76 as a percentage?",
+   "choices": [
+    "63.16%",
+    "67.11%",
+    "64.47%",
+    "65.79%"
+   ],
+   "answer": 1,
+   "explanation": "51/76 = 0.6711 = 67.11%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 51/76 as a decimal?",
+   "choices": [
+    "0.6316",
+    "0.6711",
+    "0.6447",
+    "0.6579"
+   ],
+   "answer": 1,
+   "explanation": "51/76 = 0.6711 = 67.11%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 52/76 as a percentage?",
+   "choices": [
+    "64.47%",
+    "68.42%",
+    "65.79%",
+    "67.11%"
+   ],
+   "answer": 1,
+   "explanation": "52/76 = 0.6842 = 68.42%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 52/76 as a decimal?",
+   "choices": [
+    "0.6842",
+    "0.6447",
+    "0.6579",
+    "0.6711"
+   ],
+   "answer": 0,
+   "explanation": "52/76 = 0.6842 = 68.42%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 53/76 as a percentage?",
+   "choices": [
+    "65.79%",
+    "69.74%",
+    "67.11%",
+    "68.42%"
+   ],
+   "answer": 1,
+   "explanation": "53/76 = 0.6974 = 69.74%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 53/76 as a decimal?",
+   "choices": [
+    "0.6579",
+    "0.6711",
+    "0.6974",
+    "0.6842"
+   ],
+   "answer": 2,
+   "explanation": "53/76 = 0.6974 = 69.74%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 54/76 as a percentage?",
+   "choices": [
+    "67.11%",
+    "71.05%",
+    "68.42%",
+    "69.74%"
+   ],
+   "answer": 1,
+   "explanation": "54/76 = 0.7105 = 71.05%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 54/76 as a decimal?",
+   "choices": [
+    "0.6711",
+    "0.7105",
+    "0.6842",
+    "0.6974"
+   ],
+   "answer": 1,
+   "explanation": "54/76 = 0.7105 = 71.05%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 55/76 as a percentage?",
+   "choices": [
+    "68.42%",
+    "69.74%",
+    "71.05%",
+    "72.37%"
+   ],
+   "answer": 3,
+   "explanation": "55/76 = 0.7237 = 72.37%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 55/76 as a decimal?",
+   "choices": [
+    "0.6842",
+    "0.6974",
+    "0.7105",
+    "0.7237"
+   ],
+   "answer": 3,
+   "explanation": "55/76 = 0.7237 = 72.37%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 56/76 as a percentage?",
+   "choices": [
+    "69.74%",
+    "73.68%",
+    "71.05%",
+    "72.37%"
+   ],
+   "answer": 1,
+   "explanation": "56/76 = 0.7368 = 73.68%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 56/76 as a decimal?",
+   "choices": [
+    "0.6974",
+    "0.7368",
+    "0.7105",
+    "0.7237"
+   ],
+   "answer": 1,
+   "explanation": "56/76 = 0.7368 = 73.68%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 57/76 as a percentage?",
+   "choices": [
+    "71.05%",
+    "72.37%",
+    "73.68%",
+    "75.00%"
+   ],
+   "answer": 3,
+   "explanation": "57/76 = 0.7500 = 75.00%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 57/76 as a decimal?",
+   "choices": [
+    "0.7105",
+    "0.7500",
+    "0.7237",
+    "0.7368"
+   ],
+   "answer": 1,
+   "explanation": "57/76 = 0.7500 = 75.00%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 58/76 as a percentage?",
+   "choices": [
+    "72.37%",
+    "76.32%",
+    "73.68%",
+    "75.00%"
+   ],
+   "answer": 1,
+   "explanation": "58/76 = 0.7632 = 76.32%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 58/76 as a decimal?",
+   "choices": [
+    "0.7237",
+    "0.7632",
+    "0.7368",
+    "0.7500"
+   ],
+   "answer": 1,
+   "explanation": "58/76 = 0.7632 = 76.32%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 59/76 as a percentage?",
+   "choices": [
+    "73.68%",
+    "75.00%",
+    "77.63%",
+    "76.32%"
+   ],
+   "answer": 2,
+   "explanation": "59/76 = 0.7763 = 77.63%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 59/76 as a decimal?",
+   "choices": [
+    "0.7368",
+    "0.7763",
+    "0.7500",
+    "0.7632"
+   ],
+   "answer": 1,
+   "explanation": "59/76 = 0.7763 = 77.63%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 60/76 as a percentage?",
+   "choices": [
+    "75.00%",
+    "78.95%",
+    "76.32%",
+    "77.63%"
+   ],
+   "answer": 1,
+   "explanation": "60/76 = 0.7895 = 78.95%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 60/76 as a decimal?",
+   "choices": [
+    "0.7500",
+    "0.7895",
+    "0.7632",
+    "0.7763"
+   ],
+   "answer": 1,
+   "explanation": "60/76 = 0.7895 = 78.95%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 61/76 as a percentage?",
+   "choices": [
+    "76.32%",
+    "77.63%",
+    "80.26%",
+    "78.95%"
+   ],
+   "answer": 2,
+   "explanation": "61/76 = 0.8026 = 80.26%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 61/76 as a decimal?",
+   "choices": [
+    "0.7632",
+    "0.8026",
+    "0.7763",
+    "0.7895"
+   ],
+   "answer": 1,
+   "explanation": "61/76 = 0.8026 = 80.26%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 62/76 as a percentage?",
+   "choices": [
+    "77.63%",
+    "78.95%",
+    "81.58%",
+    "80.26%"
+   ],
+   "answer": 2,
+   "explanation": "62/76 = 0.8158 = 81.58%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 62/76 as a decimal?",
+   "choices": [
+    "0.7763",
+    "0.8158",
+    "0.7895",
+    "0.8026"
+   ],
+   "answer": 1,
+   "explanation": "62/76 = 0.8158 = 81.58%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 63/76 as a percentage?",
+   "choices": [
+    "78.95%",
+    "82.89%",
+    "80.26%",
+    "81.58%"
+   ],
+   "answer": 1,
+   "explanation": "63/76 = 0.8289 = 82.89%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 63/76 as a decimal?",
+   "choices": [
+    "0.7895",
+    "0.8289",
+    "0.8026",
+    "0.8158"
+   ],
+   "answer": 1,
+   "explanation": "63/76 = 0.8289 = 82.89%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 64/76 as a percentage?",
+   "choices": [
+    "80.26%",
+    "81.58%",
+    "84.21%",
+    "82.89%"
+   ],
+   "answer": 2,
+   "explanation": "64/76 = 0.8421 = 84.21%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 64/76 as a decimal?",
+   "choices": [
+    "0.8026",
+    "0.8421",
+    "0.8158",
+    "0.8289"
+   ],
+   "answer": 1,
+   "explanation": "64/76 = 0.8421 = 84.21%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 65/76 as a percentage?",
+   "choices": [
+    "81.58%",
+    "82.89%",
+    "85.53%",
+    "84.21%"
+   ],
+   "answer": 2,
+   "explanation": "65/76 = 0.8553 = 85.53%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 65/76 as a decimal?",
+   "choices": [
+    "0.8158",
+    "0.8553",
+    "0.8289",
+    "0.8421"
+   ],
+   "answer": 1,
+   "explanation": "65/76 = 0.8553 = 85.53%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 66/76 as a percentage?",
+   "choices": [
+    "82.89%",
+    "84.21%",
+    "85.53%",
+    "86.84%"
+   ],
+   "answer": 3,
+   "explanation": "66/76 = 0.8684 = 86.84%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 66/76 as a decimal?",
+   "choices": [
+    "0.8684",
+    "0.8289",
+    "0.8421",
+    "0.8553"
+   ],
+   "answer": 0,
+   "explanation": "66/76 = 0.8684 = 86.84%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 67/76 as a percentage?",
+   "choices": [
+    "88.16%",
+    "84.21%",
+    "85.53%",
+    "86.84%"
+   ],
+   "answer": 0,
+   "explanation": "67/76 = 0.8816 = 88.16%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 67/76 as a decimal?",
+   "choices": [
+    "0.8816",
+    "0.8421",
+    "0.8553",
+    "0.8684"
+   ],
+   "answer": 0,
+   "explanation": "67/76 = 0.8816 = 88.16%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 68/76 as a percentage?",
+   "choices": [
+    "85.53%",
+    "86.84%",
+    "89.47%",
+    "88.16%"
+   ],
+   "answer": 2,
+   "explanation": "68/76 = 0.8947 = 89.47%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 68/76 as a decimal?",
+   "choices": [
+    "0.8553",
+    "0.8684",
+    "0.8947",
+    "0.8816"
+   ],
+   "answer": 2,
+   "explanation": "68/76 = 0.8947 = 89.47%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 69/76 as a percentage?",
+   "choices": [
+    "86.84%",
+    "88.16%",
+    "90.79%",
+    "89.47%"
+   ],
+   "answer": 2,
+   "explanation": "69/76 = 0.9079 = 90.79%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 69/76 as a decimal?",
+   "choices": [
+    "0.8684",
+    "0.9079",
+    "0.8816",
+    "0.8947"
+   ],
+   "answer": 1,
+   "explanation": "69/76 = 0.9079 = 90.79%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 70/76 as a percentage?",
+   "choices": [
+    "92.11%",
+    "88.16%",
+    "89.47%",
+    "90.79%"
+   ],
+   "answer": 0,
+   "explanation": "70/76 = 0.9211 = 92.11%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 70/76 as a decimal?",
+   "choices": [
+    "0.9211",
+    "0.8816",
+    "0.8947",
+    "0.9079"
+   ],
+   "answer": 0,
+   "explanation": "70/76 = 0.9211 = 92.11%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 71/76 as a percentage?",
+   "choices": [
+    "93.42%",
+    "89.47%",
+    "90.79%",
+    "92.11%"
+   ],
+   "answer": 0,
+   "explanation": "71/76 = 0.9342 = 93.42%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 71/76 as a decimal?",
+   "choices": [
+    "0.8947",
+    "0.9079",
+    "0.9211",
+    "0.9342"
+   ],
+   "answer": 3,
+   "explanation": "71/76 = 0.9342 = 93.42%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 72/76 as a percentage?",
+   "choices": [
+    "90.79%",
+    "92.11%",
+    "93.42%",
+    "94.74%"
+   ],
+   "answer": 3,
+   "explanation": "72/76 = 0.9474 = 94.74%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 72/76 as a decimal?",
+   "choices": [
+    "0.9079",
+    "0.9474",
+    "0.9211",
+    "0.9342"
+   ],
+   "answer": 1,
+   "explanation": "72/76 = 0.9474 = 94.74%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 73/76 as a percentage?",
+   "choices": [
+    "92.11%",
+    "93.42%",
+    "94.74%",
+    "96.05%"
+   ],
+   "answer": 3,
+   "explanation": "73/76 = 0.9605 = 96.05%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 73/76 as a decimal?",
+   "choices": [
+    "0.9211",
+    "0.9342",
+    "0.9474",
+    "0.9605"
+   ],
+   "answer": 3,
+   "explanation": "73/76 = 0.9605 = 96.05%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 74/76 as a percentage?",
+   "choices": [
+    "97.37%",
+    "93.42%",
+    "94.74%",
+    "96.05%"
+   ],
+   "answer": 0,
+   "explanation": "74/76 = 0.9737 = 97.37%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 74/76 as a decimal?",
+   "choices": [
+    "0.9342",
+    "0.9474",
+    "0.9605",
+    "0.9737"
+   ],
+   "answer": 3,
+   "explanation": "74/76 = 0.9737 = 97.37%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 75/76 as a percentage?",
+   "choices": [
+    "94.74%",
+    "96.05%",
+    "98.68%",
+    "97.37%"
+   ],
+   "answer": 2,
+   "explanation": "75/76 = 0.9868 = 98.68%",
+   "source": "X/76"
+  },
+  {
+   "question": "What is 75/76 as a decimal?",
+   "choices": [
+    "0.9868",
+    "0.9474",
+    "0.9605",
+    "0.9737"
+   ],
+   "answer": 0,
+   "explanation": "75/76 = 0.9868 = 98.68%",
+   "source": "X/76"
+  }
+ ]
+}

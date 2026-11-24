@@ -1,0 +1,1972 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/83 as a percentage?",
+   "choices": [
+    "2.41%",
+    "1.20%",
+    "3.61%",
+    "4.82%"
+   ],
+   "answer": 1,
+   "explanation": "1/83 = 0.0120 = 1.20%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 1/83 as a decimal?",
+   "choices": [
+    "0.0120",
+    "0.0241",
+    "0.0361",
+    "0.0482"
+   ],
+   "answer": 0,
+   "explanation": "1/83 = 0.0120 = 1.20%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 2/83 as a percentage?",
+   "choices": [
+    "1.20%",
+    "3.61%",
+    "4.82%",
+    "2.41%"
+   ],
+   "answer": 3,
+   "explanation": "2/83 = 0.0241 = 2.41%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 2/83 as a decimal?",
+   "choices": [
+    "0.0120",
+    "0.0361",
+    "0.0241",
+    "0.0482"
+   ],
+   "answer": 2,
+   "explanation": "2/83 = 0.0241 = 2.41%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 3/83 as a percentage?",
+   "choices": [
+    "3.61%",
+    "1.20%",
+    "2.41%",
+    "4.82%"
+   ],
+   "answer": 0,
+   "explanation": "3/83 = 0.0361 = 3.61%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 3/83 as a decimal?",
+   "choices": [
+    "0.0361",
+    "0.0120",
+    "0.0241",
+    "0.0482"
+   ],
+   "answer": 0,
+   "explanation": "3/83 = 0.0361 = 3.61%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 4/83 as a percentage?",
+   "choices": [
+    "1.20%",
+    "2.41%",
+    "3.61%",
+    "4.82%"
+   ],
+   "answer": 3,
+   "explanation": "4/83 = 0.0482 = 4.82%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 4/83 as a decimal?",
+   "choices": [
+    "0.0120",
+    "0.0241",
+    "0.0482",
+    "0.0361"
+   ],
+   "answer": 2,
+   "explanation": "4/83 = 0.0482 = 4.82%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 5/83 as a percentage?",
+   "choices": [
+    "2.41%",
+    "3.61%",
+    "4.82%",
+    "6.02%"
+   ],
+   "answer": 3,
+   "explanation": "5/83 = 0.0602 = 6.02%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 5/83 as a decimal?",
+   "choices": [
+    "0.0241",
+    "0.0361",
+    "0.0482",
+    "0.0602"
+   ],
+   "answer": 3,
+   "explanation": "5/83 = 0.0602 = 6.02%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 6/83 as a percentage?",
+   "choices": [
+    "3.61%",
+    "7.23%",
+    "4.82%",
+    "6.02%"
+   ],
+   "answer": 1,
+   "explanation": "6/83 = 0.0723 = 7.23%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 6/83 as a decimal?",
+   "choices": [
+    "0.0361",
+    "0.0723",
+    "0.0482",
+    "0.0602"
+   ],
+   "answer": 1,
+   "explanation": "6/83 = 0.0723 = 7.23%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 7/83 as a percentage?",
+   "choices": [
+    "4.82%",
+    "6.02%",
+    "8.43%",
+    "7.23%"
+   ],
+   "answer": 2,
+   "explanation": "7/83 = 0.0843 = 8.43%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 7/83 as a decimal?",
+   "choices": [
+    "0.0482",
+    "0.0602",
+    "0.0843",
+    "0.0723"
+   ],
+   "answer": 2,
+   "explanation": "7/83 = 0.0843 = 8.43%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 8/83 as a percentage?",
+   "choices": [
+    "6.02%",
+    "7.23%",
+    "8.43%",
+    "9.64%"
+   ],
+   "answer": 3,
+   "explanation": "8/83 = 0.0964 = 9.64%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 8/83 as a decimal?",
+   "choices": [
+    "0.0964",
+    "0.0602",
+    "0.0723",
+    "0.0843"
+   ],
+   "answer": 0,
+   "explanation": "8/83 = 0.0964 = 9.64%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 9/83 as a percentage?",
+   "choices": [
+    "7.23%",
+    "8.43%",
+    "10.84%",
+    "9.64%"
+   ],
+   "answer": 2,
+   "explanation": "9/83 = 0.1084 = 10.84%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 9/83 as a decimal?",
+   "choices": [
+    "0.1084",
+    "0.0723",
+    "0.0843",
+    "0.0964"
+   ],
+   "answer": 0,
+   "explanation": "9/83 = 0.1084 = 10.84%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 10/83 as a percentage?",
+   "choices": [
+    "12.05%",
+    "8.43%",
+    "9.64%",
+    "10.84%"
+   ],
+   "answer": 0,
+   "explanation": "10/83 = 0.1205 = 12.05%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 10/83 as a decimal?",
+   "choices": [
+    "0.0843",
+    "0.0964",
+    "0.1205",
+    "0.1084"
+   ],
+   "answer": 2,
+   "explanation": "10/83 = 0.1205 = 12.05%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 11/83 as a percentage?",
+   "choices": [
+    "13.25%",
+    "9.64%",
+    "10.84%",
+    "12.05%"
+   ],
+   "answer": 0,
+   "explanation": "11/83 = 0.1325 = 13.25%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 11/83 as a decimal?",
+   "choices": [
+    "0.0964",
+    "0.1084",
+    "0.1205",
+    "0.1325"
+   ],
+   "answer": 3,
+   "explanation": "11/83 = 0.1325 = 13.25%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 12/83 as a percentage?",
+   "choices": [
+    "10.84%",
+    "12.05%",
+    "14.46%",
+    "13.25%"
+   ],
+   "answer": 2,
+   "explanation": "12/83 = 0.1446 = 14.46%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 12/83 as a decimal?",
+   "choices": [
+    "0.1084",
+    "0.1205",
+    "0.1325",
+    "0.1446"
+   ],
+   "answer": 3,
+   "explanation": "12/83 = 0.1446 = 14.46%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 13/83 as a percentage?",
+   "choices": [
+    "12.05%",
+    "15.66%",
+    "13.25%",
+    "14.46%"
+   ],
+   "answer": 1,
+   "explanation": "13/83 = 0.1566 = 15.66%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 13/83 as a decimal?",
+   "choices": [
+    "0.1205",
+    "0.1566",
+    "0.1325",
+    "0.1446"
+   ],
+   "answer": 1,
+   "explanation": "13/83 = 0.1566 = 15.66%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 14/83 as a percentage?",
+   "choices": [
+    "13.25%",
+    "14.46%",
+    "16.87%",
+    "15.66%"
+   ],
+   "answer": 2,
+   "explanation": "14/83 = 0.1687 = 16.87%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 14/83 as a decimal?",
+   "choices": [
+    "0.1325",
+    "0.1687",
+    "0.1446",
+    "0.1566"
+   ],
+   "answer": 1,
+   "explanation": "14/83 = 0.1687 = 16.87%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 15/83 as a percentage?",
+   "choices": [
+    "14.46%",
+    "15.66%",
+    "16.87%",
+    "18.07%"
+   ],
+   "answer": 3,
+   "explanation": "15/83 = 0.1807 = 18.07%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 15/83 as a decimal?",
+   "choices": [
+    "0.1807",
+    "0.1446",
+    "0.1566",
+    "0.1687"
+   ],
+   "answer": 0,
+   "explanation": "15/83 = 0.1807 = 18.07%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 16/83 as a percentage?",
+   "choices": [
+    "15.66%",
+    "16.87%",
+    "19.28%",
+    "18.07%"
+   ],
+   "answer": 2,
+   "explanation": "16/83 = 0.1928 = 19.28%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 16/83 as a decimal?",
+   "choices": [
+    "0.1566",
+    "0.1687",
+    "0.1807",
+    "0.1928"
+   ],
+   "answer": 3,
+   "explanation": "16/83 = 0.1928 = 19.28%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 17/83 as a percentage?",
+   "choices": [
+    "16.87%",
+    "20.48%",
+    "18.07%",
+    "19.28%"
+   ],
+   "answer": 1,
+   "explanation": "17/83 = 0.2048 = 20.48%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 17/83 as a decimal?",
+   "choices": [
+    "0.1687",
+    "0.1807",
+    "0.2048",
+    "0.1928"
+   ],
+   "answer": 2,
+   "explanation": "17/83 = 0.2048 = 20.48%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 18/83 as a percentage?",
+   "choices": [
+    "18.07%",
+    "19.28%",
+    "20.48%",
+    "21.69%"
+   ],
+   "answer": 3,
+   "explanation": "18/83 = 0.2169 = 21.69%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 18/83 as a decimal?",
+   "choices": [
+    "0.2169",
+    "0.1807",
+    "0.1928",
+    "0.2048"
+   ],
+   "answer": 0,
+   "explanation": "18/83 = 0.2169 = 21.69%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 19/83 as a percentage?",
+   "choices": [
+    "19.28%",
+    "20.48%",
+    "22.89%",
+    "21.69%"
+   ],
+   "answer": 2,
+   "explanation": "19/83 = 0.2289 = 22.89%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 19/83 as a decimal?",
+   "choices": [
+    "0.1928",
+    "0.2048",
+    "0.2169",
+    "0.2289"
+   ],
+   "answer": 3,
+   "explanation": "19/83 = 0.2289 = 22.89%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 20/83 as a percentage?",
+   "choices": [
+    "24.10%",
+    "20.48%",
+    "21.69%",
+    "22.89%"
+   ],
+   "answer": 0,
+   "explanation": "20/83 = 0.2410 = 24.10%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 20/83 as a decimal?",
+   "choices": [
+    "0.2048",
+    "0.2169",
+    "0.2410",
+    "0.2289"
+   ],
+   "answer": 2,
+   "explanation": "20/83 = 0.2410 = 24.10%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 21/83 as a percentage?",
+   "choices": [
+    "21.69%",
+    "25.30%",
+    "22.89%",
+    "24.10%"
+   ],
+   "answer": 1,
+   "explanation": "21/83 = 0.2530 = 25.30%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 21/83 as a decimal?",
+   "choices": [
+    "0.2169",
+    "0.2530",
+    "0.2289",
+    "0.2410"
+   ],
+   "answer": 1,
+   "explanation": "21/83 = 0.2530 = 25.30%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 22/83 as a percentage?",
+   "choices": [
+    "22.89%",
+    "24.10%",
+    "26.51%",
+    "25.30%"
+   ],
+   "answer": 2,
+   "explanation": "22/83 = 0.2651 = 26.51%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 22/83 as a decimal?",
+   "choices": [
+    "0.2289",
+    "0.2410",
+    "0.2651",
+    "0.2530"
+   ],
+   "answer": 2,
+   "explanation": "22/83 = 0.2651 = 26.51%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 23/83 as a percentage?",
+   "choices": [
+    "24.10%",
+    "25.30%",
+    "27.71%",
+    "26.51%"
+   ],
+   "answer": 2,
+   "explanation": "23/83 = 0.2771 = 27.71%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 23/83 as a decimal?",
+   "choices": [
+    "0.2410",
+    "0.2530",
+    "0.2651",
+    "0.2771"
+   ],
+   "answer": 3,
+   "explanation": "23/83 = 0.2771 = 27.71%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 24/83 as a percentage?",
+   "choices": [
+    "28.92%",
+    "25.30%",
+    "26.51%",
+    "27.71%"
+   ],
+   "answer": 0,
+   "explanation": "24/83 = 0.2892 = 28.92%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 24/83 as a decimal?",
+   "choices": [
+    "0.2530",
+    "0.2651",
+    "0.2892",
+    "0.2771"
+   ],
+   "answer": 2,
+   "explanation": "24/83 = 0.2892 = 28.92%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 25/83 as a percentage?",
+   "choices": [
+    "30.12%",
+    "26.51%",
+    "27.71%",
+    "28.92%"
+   ],
+   "answer": 0,
+   "explanation": "25/83 = 0.3012 = 30.12%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 25/83 as a decimal?",
+   "choices": [
+    "0.2651",
+    "0.3012",
+    "0.2771",
+    "0.2892"
+   ],
+   "answer": 1,
+   "explanation": "25/83 = 0.3012 = 30.12%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 26/83 as a percentage?",
+   "choices": [
+    "31.33%",
+    "27.71%",
+    "28.92%",
+    "30.12%"
+   ],
+   "answer": 0,
+   "explanation": "26/83 = 0.3133 = 31.33%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 26/83 as a decimal?",
+   "choices": [
+    "0.2771",
+    "0.2892",
+    "0.3012",
+    "0.3133"
+   ],
+   "answer": 3,
+   "explanation": "26/83 = 0.3133 = 31.33%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 27/83 as a percentage?",
+   "choices": [
+    "28.92%",
+    "32.53%",
+    "30.12%",
+    "31.33%"
+   ],
+   "answer": 1,
+   "explanation": "27/83 = 0.3253 = 32.53%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 27/83 as a decimal?",
+   "choices": [
+    "0.2892",
+    "0.3012",
+    "0.3253",
+    "0.3133"
+   ],
+   "answer": 2,
+   "explanation": "27/83 = 0.3253 = 32.53%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 28/83 as a percentage?",
+   "choices": [
+    "30.12%",
+    "31.33%",
+    "32.53%",
+    "33.73%"
+   ],
+   "answer": 3,
+   "explanation": "28/83 = 0.3373 = 33.73%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 28/83 as a decimal?",
+   "choices": [
+    "0.3012",
+    "0.3373",
+    "0.3133",
+    "0.3253"
+   ],
+   "answer": 1,
+   "explanation": "28/83 = 0.3373 = 33.73%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 29/83 as a percentage?",
+   "choices": [
+    "31.33%",
+    "32.53%",
+    "33.73%",
+    "34.94%"
+   ],
+   "answer": 3,
+   "explanation": "29/83 = 0.3494 = 34.94%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 29/83 as a decimal?",
+   "choices": [
+    "0.3494",
+    "0.3133",
+    "0.3253",
+    "0.3373"
+   ],
+   "answer": 0,
+   "explanation": "29/83 = 0.3494 = 34.94%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 30/83 as a percentage?",
+   "choices": [
+    "32.53%",
+    "36.14%",
+    "33.73%",
+    "34.94%"
+   ],
+   "answer": 1,
+   "explanation": "30/83 = 0.3614 = 36.14%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 30/83 as a decimal?",
+   "choices": [
+    "0.3253",
+    "0.3614",
+    "0.3373",
+    "0.3494"
+   ],
+   "answer": 1,
+   "explanation": "30/83 = 0.3614 = 36.14%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 31/83 as a percentage?",
+   "choices": [
+    "33.73%",
+    "37.35%",
+    "34.94%",
+    "36.14%"
+   ],
+   "answer": 1,
+   "explanation": "31/83 = 0.3735 = 37.35%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 31/83 as a decimal?",
+   "choices": [
+    "0.3735",
+    "0.3373",
+    "0.3494",
+    "0.3614"
+   ],
+   "answer": 0,
+   "explanation": "31/83 = 0.3735 = 37.35%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 32/83 as a percentage?",
+   "choices": [
+    "34.94%",
+    "36.14%",
+    "37.35%",
+    "38.55%"
+   ],
+   "answer": 3,
+   "explanation": "32/83 = 0.3855 = 38.55%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 32/83 as a decimal?",
+   "choices": [
+    "0.3494",
+    "0.3614",
+    "0.3735",
+    "0.3855"
+   ],
+   "answer": 3,
+   "explanation": "32/83 = 0.3855 = 38.55%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 33/83 as a percentage?",
+   "choices": [
+    "36.14%",
+    "37.35%",
+    "38.55%",
+    "39.76%"
+   ],
+   "answer": 3,
+   "explanation": "33/83 = 0.3976 = 39.76%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 33/83 as a decimal?",
+   "choices": [
+    "0.3614",
+    "0.3976",
+    "0.3735",
+    "0.3855"
+   ],
+   "answer": 1,
+   "explanation": "33/83 = 0.3976 = 39.76%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 34/83 as a percentage?",
+   "choices": [
+    "37.35%",
+    "40.96%",
+    "38.55%",
+    "39.76%"
+   ],
+   "answer": 1,
+   "explanation": "34/83 = 0.4096 = 40.96%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 34/83 as a decimal?",
+   "choices": [
+    "0.4096",
+    "0.3735",
+    "0.3855",
+    "0.3976"
+   ],
+   "answer": 0,
+   "explanation": "34/83 = 0.4096 = 40.96%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 35/83 as a percentage?",
+   "choices": [
+    "38.55%",
+    "39.76%",
+    "40.96%",
+    "42.17%"
+   ],
+   "answer": 3,
+   "explanation": "35/83 = 0.4217 = 42.17%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 35/83 as a decimal?",
+   "choices": [
+    "0.3855",
+    "0.3976",
+    "0.4096",
+    "0.4217"
+   ],
+   "answer": 3,
+   "explanation": "35/83 = 0.4217 = 42.17%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 36/83 as a percentage?",
+   "choices": [
+    "39.76%",
+    "40.96%",
+    "42.17%",
+    "43.37%"
+   ],
+   "answer": 3,
+   "explanation": "36/83 = 0.4337 = 43.37%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 36/83 as a decimal?",
+   "choices": [
+    "0.3976",
+    "0.4337",
+    "0.4096",
+    "0.4217"
+   ],
+   "answer": 1,
+   "explanation": "36/83 = 0.4337 = 43.37%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 37/83 as a percentage?",
+   "choices": [
+    "40.96%",
+    "44.58%",
+    "42.17%",
+    "43.37%"
+   ],
+   "answer": 1,
+   "explanation": "37/83 = 0.4458 = 44.58%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 37/83 as a decimal?",
+   "choices": [
+    "0.4096",
+    "0.4217",
+    "0.4458",
+    "0.4337"
+   ],
+   "answer": 2,
+   "explanation": "37/83 = 0.4458 = 44.58%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 38/83 as a percentage?",
+   "choices": [
+    "42.17%",
+    "45.78%",
+    "43.37%",
+    "44.58%"
+   ],
+   "answer": 1,
+   "explanation": "38/83 = 0.4578 = 45.78%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 38/83 as a decimal?",
+   "choices": [
+    "0.4578",
+    "0.4217",
+    "0.4337",
+    "0.4458"
+   ],
+   "answer": 0,
+   "explanation": "38/83 = 0.4578 = 45.78%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 39/83 as a percentage?",
+   "choices": [
+    "43.37%",
+    "44.58%",
+    "45.78%",
+    "46.99%"
+   ],
+   "answer": 3,
+   "explanation": "39/83 = 0.4699 = 46.99%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 39/83 as a decimal?",
+   "choices": [
+    "0.4337",
+    "0.4458",
+    "0.4699",
+    "0.4578"
+   ],
+   "answer": 2,
+   "explanation": "39/83 = 0.4699 = 46.99%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 40/83 as a percentage?",
+   "choices": [
+    "48.19%",
+    "44.58%",
+    "45.78%",
+    "46.99%"
+   ],
+   "answer": 0,
+   "explanation": "40/83 = 0.4819 = 48.19%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 40/83 as a decimal?",
+   "choices": [
+    "0.4458",
+    "0.4578",
+    "0.4699",
+    "0.4819"
+   ],
+   "answer": 3,
+   "explanation": "40/83 = 0.4819 = 48.19%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 41/83 as a percentage?",
+   "choices": [
+    "45.78%",
+    "46.99%",
+    "48.19%",
+    "49.40%"
+   ],
+   "answer": 3,
+   "explanation": "41/83 = 0.4940 = 49.40%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 41/83 as a decimal?",
+   "choices": [
+    "0.4578",
+    "0.4699",
+    "0.4819",
+    "0.4940"
+   ],
+   "answer": 3,
+   "explanation": "41/83 = 0.4940 = 49.40%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 42/83 as a percentage?",
+   "choices": [
+    "46.99%",
+    "50.60%",
+    "48.19%",
+    "49.40%"
+   ],
+   "answer": 1,
+   "explanation": "42/83 = 0.5060 = 50.60%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 42/83 as a decimal?",
+   "choices": [
+    "0.4699",
+    "0.4819",
+    "0.5060",
+    "0.4940"
+   ],
+   "answer": 2,
+   "explanation": "42/83 = 0.5060 = 50.60%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 43/83 as a percentage?",
+   "choices": [
+    "48.19%",
+    "51.81%",
+    "49.40%",
+    "50.60%"
+   ],
+   "answer": 1,
+   "explanation": "43/83 = 0.5181 = 51.81%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 43/83 as a decimal?",
+   "choices": [
+    "0.4819",
+    "0.4940",
+    "0.5181",
+    "0.5060"
+   ],
+   "answer": 2,
+   "explanation": "43/83 = 0.5181 = 51.81%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 44/83 as a percentage?",
+   "choices": [
+    "49.40%",
+    "53.01%",
+    "50.60%",
+    "51.81%"
+   ],
+   "answer": 1,
+   "explanation": "44/83 = 0.5301 = 53.01%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 44/83 as a decimal?",
+   "choices": [
+    "0.4940",
+    "0.5060",
+    "0.5181",
+    "0.5301"
+   ],
+   "answer": 3,
+   "explanation": "44/83 = 0.5301 = 53.01%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 45/83 as a percentage?",
+   "choices": [
+    "54.22%",
+    "50.60%",
+    "51.81%",
+    "53.01%"
+   ],
+   "answer": 0,
+   "explanation": "45/83 = 0.5422 = 54.22%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 45/83 as a decimal?",
+   "choices": [
+    "0.5060",
+    "0.5181",
+    "0.5422",
+    "0.5301"
+   ],
+   "answer": 2,
+   "explanation": "45/83 = 0.5422 = 54.22%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 46/83 as a percentage?",
+   "choices": [
+    "51.81%",
+    "53.01%",
+    "55.42%",
+    "54.22%"
+   ],
+   "answer": 2,
+   "explanation": "46/83 = 0.5542 = 55.42%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 46/83 as a decimal?",
+   "choices": [
+    "0.5181",
+    "0.5301",
+    "0.5542",
+    "0.5422"
+   ],
+   "answer": 2,
+   "explanation": "46/83 = 0.5542 = 55.42%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 47/83 as a percentage?",
+   "choices": [
+    "53.01%",
+    "54.22%",
+    "56.63%",
+    "55.42%"
+   ],
+   "answer": 2,
+   "explanation": "47/83 = 0.5663 = 56.63%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 47/83 as a decimal?",
+   "choices": [
+    "0.5301",
+    "0.5422",
+    "0.5663",
+    "0.5542"
+   ],
+   "answer": 2,
+   "explanation": "47/83 = 0.5663 = 56.63%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 48/83 as a percentage?",
+   "choices": [
+    "54.22%",
+    "55.42%",
+    "56.63%",
+    "57.83%"
+   ],
+   "answer": 3,
+   "explanation": "48/83 = 0.5783 = 57.83%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 48/83 as a decimal?",
+   "choices": [
+    "0.5783",
+    "0.5422",
+    "0.5542",
+    "0.5663"
+   ],
+   "answer": 0,
+   "explanation": "48/83 = 0.5783 = 57.83%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 49/83 as a percentage?",
+   "choices": [
+    "55.42%",
+    "56.63%",
+    "59.04%",
+    "57.83%"
+   ],
+   "answer": 2,
+   "explanation": "49/83 = 0.5904 = 59.04%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 49/83 as a decimal?",
+   "choices": [
+    "0.5542",
+    "0.5904",
+    "0.5663",
+    "0.5783"
+   ],
+   "answer": 1,
+   "explanation": "49/83 = 0.5904 = 59.04%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 50/83 as a percentage?",
+   "choices": [
+    "56.63%",
+    "57.83%",
+    "60.24%",
+    "59.04%"
+   ],
+   "answer": 2,
+   "explanation": "50/83 = 0.6024 = 60.24%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 50/83 as a decimal?",
+   "choices": [
+    "0.6024",
+    "0.5663",
+    "0.5783",
+    "0.5904"
+   ],
+   "answer": 0,
+   "explanation": "50/83 = 0.6024 = 60.24%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 51/83 as a percentage?",
+   "choices": [
+    "61.45%",
+    "57.83%",
+    "59.04%",
+    "60.24%"
+   ],
+   "answer": 0,
+   "explanation": "51/83 = 0.6145 = 61.45%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 51/83 as a decimal?",
+   "choices": [
+    "0.5783",
+    "0.5904",
+    "0.6024",
+    "0.6145"
+   ],
+   "answer": 3,
+   "explanation": "51/83 = 0.6145 = 61.45%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 52/83 as a percentage?",
+   "choices": [
+    "59.04%",
+    "60.24%",
+    "62.65%",
+    "61.45%"
+   ],
+   "answer": 2,
+   "explanation": "52/83 = 0.6265 = 62.65%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 52/83 as a decimal?",
+   "choices": [
+    "0.5904",
+    "0.6265",
+    "0.6024",
+    "0.6145"
+   ],
+   "answer": 1,
+   "explanation": "52/83 = 0.6265 = 62.65%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 53/83 as a percentage?",
+   "choices": [
+    "60.24%",
+    "63.86%",
+    "61.45%",
+    "62.65%"
+   ],
+   "answer": 1,
+   "explanation": "53/83 = 0.6386 = 63.86%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 53/83 as a decimal?",
+   "choices": [
+    "0.6024",
+    "0.6145",
+    "0.6265",
+    "0.6386"
+   ],
+   "answer": 3,
+   "explanation": "53/83 = 0.6386 = 63.86%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 54/83 as a percentage?",
+   "choices": [
+    "61.45%",
+    "62.65%",
+    "65.06%",
+    "63.86%"
+   ],
+   "answer": 2,
+   "explanation": "54/83 = 0.6506 = 65.06%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 54/83 as a decimal?",
+   "choices": [
+    "0.6145",
+    "0.6265",
+    "0.6386",
+    "0.6506"
+   ],
+   "answer": 3,
+   "explanation": "54/83 = 0.6506 = 65.06%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 55/83 as a percentage?",
+   "choices": [
+    "62.65%",
+    "63.86%",
+    "66.27%",
+    "65.06%"
+   ],
+   "answer": 2,
+   "explanation": "55/83 = 0.6627 = 66.27%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 55/83 as a decimal?",
+   "choices": [
+    "0.6265",
+    "0.6627",
+    "0.6386",
+    "0.6506"
+   ],
+   "answer": 1,
+   "explanation": "55/83 = 0.6627 = 66.27%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 56/83 as a percentage?",
+   "choices": [
+    "63.86%",
+    "65.06%",
+    "67.47%",
+    "66.27%"
+   ],
+   "answer": 2,
+   "explanation": "56/83 = 0.6747 = 67.47%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 56/83 as a decimal?",
+   "choices": [
+    "0.6386",
+    "0.6506",
+    "0.6747",
+    "0.6627"
+   ],
+   "answer": 2,
+   "explanation": "56/83 = 0.6747 = 67.47%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 57/83 as a percentage?",
+   "choices": [
+    "68.67%",
+    "65.06%",
+    "66.27%",
+    "67.47%"
+   ],
+   "answer": 0,
+   "explanation": "57/83 = 0.6867 = 68.67%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 57/83 as a decimal?",
+   "choices": [
+    "0.6506",
+    "0.6627",
+    "0.6867",
+    "0.6747"
+   ],
+   "answer": 2,
+   "explanation": "57/83 = 0.6867 = 68.67%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 58/83 as a percentage?",
+   "choices": [
+    "69.88%",
+    "66.27%",
+    "67.47%",
+    "68.67%"
+   ],
+   "answer": 0,
+   "explanation": "58/83 = 0.6988 = 69.88%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 58/83 as a decimal?",
+   "choices": [
+    "0.6627",
+    "0.6747",
+    "0.6988",
+    "0.6867"
+   ],
+   "answer": 2,
+   "explanation": "58/83 = 0.6988 = 69.88%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 59/83 as a percentage?",
+   "choices": [
+    "71.08%",
+    "67.47%",
+    "68.67%",
+    "69.88%"
+   ],
+   "answer": 0,
+   "explanation": "59/83 = 0.7108 = 71.08%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 59/83 as a decimal?",
+   "choices": [
+    "0.7108",
+    "0.6747",
+    "0.6867",
+    "0.6988"
+   ],
+   "answer": 0,
+   "explanation": "59/83 = 0.7108 = 71.08%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 60/83 as a percentage?",
+   "choices": [
+    "68.67%",
+    "69.88%",
+    "72.29%",
+    "71.08%"
+   ],
+   "answer": 2,
+   "explanation": "60/83 = 0.7229 = 72.29%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 60/83 as a decimal?",
+   "choices": [
+    "0.6867",
+    "0.7229",
+    "0.6988",
+    "0.7108"
+   ],
+   "answer": 1,
+   "explanation": "60/83 = 0.7229 = 72.29%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 61/83 as a percentage?",
+   "choices": [
+    "69.88%",
+    "71.08%",
+    "72.29%",
+    "73.49%"
+   ],
+   "answer": 3,
+   "explanation": "61/83 = 0.7349 = 73.49%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 61/83 as a decimal?",
+   "choices": [
+    "0.6988",
+    "0.7108",
+    "0.7229",
+    "0.7349"
+   ],
+   "answer": 3,
+   "explanation": "61/83 = 0.7349 = 73.49%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 62/83 as a percentage?",
+   "choices": [
+    "71.08%",
+    "74.70%",
+    "72.29%",
+    "73.49%"
+   ],
+   "answer": 1,
+   "explanation": "62/83 = 0.7470 = 74.70%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 62/83 as a decimal?",
+   "choices": [
+    "0.7108",
+    "0.7229",
+    "0.7349",
+    "0.7470"
+   ],
+   "answer": 3,
+   "explanation": "62/83 = 0.7470 = 74.70%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 63/83 as a percentage?",
+   "choices": [
+    "72.29%",
+    "73.49%",
+    "75.90%",
+    "74.70%"
+   ],
+   "answer": 2,
+   "explanation": "63/83 = 0.7590 = 75.90%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 63/83 as a decimal?",
+   "choices": [
+    "0.7229",
+    "0.7349",
+    "0.7470",
+    "0.7590"
+   ],
+   "answer": 3,
+   "explanation": "63/83 = 0.7590 = 75.90%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 64/83 as a percentage?",
+   "choices": [
+    "77.11%",
+    "73.49%",
+    "74.70%",
+    "75.90%"
+   ],
+   "answer": 0,
+   "explanation": "64/83 = 0.7711 = 77.11%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 64/83 as a decimal?",
+   "choices": [
+    "0.7349",
+    "0.7470",
+    "0.7590",
+    "0.7711"
+   ],
+   "answer": 3,
+   "explanation": "64/83 = 0.7711 = 77.11%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 65/83 as a percentage?",
+   "choices": [
+    "74.70%",
+    "75.90%",
+    "77.11%",
+    "78.31%"
+   ],
+   "answer": 3,
+   "explanation": "65/83 = 0.7831 = 78.31%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 65/83 as a decimal?",
+   "choices": [
+    "0.7470",
+    "0.7590",
+    "0.7831",
+    "0.7711"
+   ],
+   "answer": 2,
+   "explanation": "65/83 = 0.7831 = 78.31%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 66/83 as a percentage?",
+   "choices": [
+    "75.90%",
+    "79.52%",
+    "77.11%",
+    "78.31%"
+   ],
+   "answer": 1,
+   "explanation": "66/83 = 0.7952 = 79.52%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 66/83 as a decimal?",
+   "choices": [
+    "0.7952",
+    "0.7590",
+    "0.7711",
+    "0.7831"
+   ],
+   "answer": 0,
+   "explanation": "66/83 = 0.7952 = 79.52%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 67/83 as a percentage?",
+   "choices": [
+    "77.11%",
+    "80.72%",
+    "78.31%",
+    "79.52%"
+   ],
+   "answer": 1,
+   "explanation": "67/83 = 0.8072 = 80.72%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 67/83 as a decimal?",
+   "choices": [
+    "0.7711",
+    "0.7831",
+    "0.8072",
+    "0.7952"
+   ],
+   "answer": 2,
+   "explanation": "67/83 = 0.8072 = 80.72%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 68/83 as a percentage?",
+   "choices": [
+    "78.31%",
+    "81.93%",
+    "79.52%",
+    "80.72%"
+   ],
+   "answer": 1,
+   "explanation": "68/83 = 0.8193 = 81.93%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 68/83 as a decimal?",
+   "choices": [
+    "0.8193",
+    "0.7831",
+    "0.7952",
+    "0.8072"
+   ],
+   "answer": 0,
+   "explanation": "68/83 = 0.8193 = 81.93%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 69/83 as a percentage?",
+   "choices": [
+    "83.13%",
+    "79.52%",
+    "80.72%",
+    "81.93%"
+   ],
+   "answer": 0,
+   "explanation": "69/83 = 0.8313 = 83.13%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 69/83 as a decimal?",
+   "choices": [
+    "0.7952",
+    "0.8313",
+    "0.8072",
+    "0.8193"
+   ],
+   "answer": 1,
+   "explanation": "69/83 = 0.8313 = 83.13%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 70/83 as a percentage?",
+   "choices": [
+    "80.72%",
+    "81.93%",
+    "83.13%",
+    "84.34%"
+   ],
+   "answer": 3,
+   "explanation": "70/83 = 0.8434 = 84.34%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 70/83 as a decimal?",
+   "choices": [
+    "0.8072",
+    "0.8193",
+    "0.8434",
+    "0.8313"
+   ],
+   "answer": 2,
+   "explanation": "70/83 = 0.8434 = 84.34%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 71/83 as a percentage?",
+   "choices": [
+    "81.93%",
+    "85.54%",
+    "83.13%",
+    "84.34%"
+   ],
+   "answer": 1,
+   "explanation": "71/83 = 0.8554 = 85.54%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 71/83 as a decimal?",
+   "choices": [
+    "0.8193",
+    "0.8554",
+    "0.8313",
+    "0.8434"
+   ],
+   "answer": 1,
+   "explanation": "71/83 = 0.8554 = 85.54%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 72/83 as a percentage?",
+   "choices": [
+    "86.75%",
+    "83.13%",
+    "84.34%",
+    "85.54%"
+   ],
+   "answer": 0,
+   "explanation": "72/83 = 0.8675 = 86.75%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 72/83 as a decimal?",
+   "choices": [
+    "0.8313",
+    "0.8434",
+    "0.8675",
+    "0.8554"
+   ],
+   "answer": 2,
+   "explanation": "72/83 = 0.8675 = 86.75%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 73/83 as a percentage?",
+   "choices": [
+    "84.34%",
+    "87.95%",
+    "85.54%",
+    "86.75%"
+   ],
+   "answer": 1,
+   "explanation": "73/83 = 0.8795 = 87.95%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 73/83 as a decimal?",
+   "choices": [
+    "0.8434",
+    "0.8554",
+    "0.8795",
+    "0.8675"
+   ],
+   "answer": 2,
+   "explanation": "73/83 = 0.8795 = 87.95%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 74/83 as a percentage?",
+   "choices": [
+    "85.54%",
+    "89.16%",
+    "86.75%",
+    "87.95%"
+   ],
+   "answer": 1,
+   "explanation": "74/83 = 0.8916 = 89.16%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 74/83 as a decimal?",
+   "choices": [
+    "0.8554",
+    "0.8916",
+    "0.8675",
+    "0.8795"
+   ],
+   "answer": 1,
+   "explanation": "74/83 = 0.8916 = 89.16%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 75/83 as a percentage?",
+   "choices": [
+    "90.36%",
+    "86.75%",
+    "87.95%",
+    "89.16%"
+   ],
+   "answer": 0,
+   "explanation": "75/83 = 0.9036 = 90.36%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 75/83 as a decimal?",
+   "choices": [
+    "0.8675",
+    "0.8795",
+    "0.8916",
+    "0.9036"
+   ],
+   "answer": 3,
+   "explanation": "75/83 = 0.9036 = 90.36%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 76/83 as a percentage?",
+   "choices": [
+    "87.95%",
+    "89.16%",
+    "91.57%",
+    "90.36%"
+   ],
+   "answer": 2,
+   "explanation": "76/83 = 0.9157 = 91.57%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 76/83 as a decimal?",
+   "choices": [
+    "0.9157",
+    "0.8795",
+    "0.8916",
+    "0.9036"
+   ],
+   "answer": 0,
+   "explanation": "76/83 = 0.9157 = 91.57%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 77/83 as a percentage?",
+   "choices": [
+    "89.16%",
+    "92.77%",
+    "90.36%",
+    "91.57%"
+   ],
+   "answer": 1,
+   "explanation": "77/83 = 0.9277 = 92.77%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 77/83 as a decimal?",
+   "choices": [
+    "0.9277",
+    "0.8916",
+    "0.9036",
+    "0.9157"
+   ],
+   "answer": 0,
+   "explanation": "77/83 = 0.9277 = 92.77%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 78/83 as a percentage?",
+   "choices": [
+    "90.36%",
+    "91.57%",
+    "93.98%",
+    "92.77%"
+   ],
+   "answer": 2,
+   "explanation": "78/83 = 0.9398 = 93.98%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 78/83 as a decimal?",
+   "choices": [
+    "0.9036",
+    "0.9398",
+    "0.9157",
+    "0.9277"
+   ],
+   "answer": 1,
+   "explanation": "78/83 = 0.9398 = 93.98%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 79/83 as a percentage?",
+   "choices": [
+    "91.57%",
+    "95.18%",
+    "92.77%",
+    "93.98%"
+   ],
+   "answer": 1,
+   "explanation": "79/83 = 0.9518 = 95.18%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 79/83 as a decimal?",
+   "choices": [
+    "0.9518",
+    "0.9157",
+    "0.9277",
+    "0.9398"
+   ],
+   "answer": 0,
+   "explanation": "79/83 = 0.9518 = 95.18%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 80/83 as a percentage?",
+   "choices": [
+    "92.77%",
+    "96.39%",
+    "93.98%",
+    "95.18%"
+   ],
+   "answer": 1,
+   "explanation": "80/83 = 0.9639 = 96.39%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 80/83 as a decimal?",
+   "choices": [
+    "0.9639",
+    "0.9277",
+    "0.9398",
+    "0.9518"
+   ],
+   "answer": 0,
+   "explanation": "80/83 = 0.9639 = 96.39%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 81/83 as a percentage?",
+   "choices": [
+    "97.59%",
+    "93.98%",
+    "95.18%",
+    "96.39%"
+   ],
+   "answer": 0,
+   "explanation": "81/83 = 0.9759 = 97.59%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 81/83 as a decimal?",
+   "choices": [
+    "0.9398",
+    "0.9759",
+    "0.9518",
+    "0.9639"
+   ],
+   "answer": 1,
+   "explanation": "81/83 = 0.9759 = 97.59%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 82/83 as a percentage?",
+   "choices": [
+    "95.18%",
+    "98.80%",
+    "96.39%",
+    "97.59%"
+   ],
+   "answer": 1,
+   "explanation": "82/83 = 0.9880 = 98.80%",
+   "source": "X/83"
+  },
+  {
+   "question": "What is 82/83 as a decimal?",
+   "choices": [
+    "0.9518",
+    "0.9880",
+    "0.9639",
+    "0.9759"
+   ],
+   "answer": 1,
+   "explanation": "82/83 = 0.9880 = 98.80%",
+   "source": "X/83"
+  }
+ ]
+}

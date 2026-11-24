@@ -1,0 +1,1708 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/72 as a percentage?",
+   "choices": [
+    "2.78%",
+    "4.17%",
+    "1.39%",
+    "5.56%"
+   ],
+   "answer": 2,
+   "explanation": "1/72 = 0.0139 = 1.39%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 1/72 as a decimal?",
+   "choices": [
+    "0.0278",
+    "0.0417",
+    "0.0556",
+    "0.0139"
+   ],
+   "answer": 3,
+   "explanation": "1/72 = 0.0139 = 1.39%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 2/72 as a percentage?",
+   "choices": [
+    "1.39%",
+    "2.78%",
+    "4.17%",
+    "5.56%"
+   ],
+   "answer": 1,
+   "explanation": "2/72 = 0.0278 = 2.78%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 2/72 as a decimal?",
+   "choices": [
+    "0.0139",
+    "0.0278",
+    "0.0417",
+    "0.0556"
+   ],
+   "answer": 1,
+   "explanation": "2/72 = 0.0278 = 2.78%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 3/72 as a percentage?",
+   "choices": [
+    "1.39%",
+    "2.78%",
+    "4.17%",
+    "5.56%"
+   ],
+   "answer": 2,
+   "explanation": "3/72 = 0.0417 = 4.17%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 3/72 as a decimal?",
+   "choices": [
+    "0.0139",
+    "0.0417",
+    "0.0278",
+    "0.0556"
+   ],
+   "answer": 1,
+   "explanation": "3/72 = 0.0417 = 4.17%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 4/72 as a percentage?",
+   "choices": [
+    "1.39%",
+    "5.56%",
+    "2.78%",
+    "4.17%"
+   ],
+   "answer": 1,
+   "explanation": "4/72 = 0.0556 = 5.56%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 4/72 as a decimal?",
+   "choices": [
+    "0.0139",
+    "0.0278",
+    "0.0556",
+    "0.0417"
+   ],
+   "answer": 2,
+   "explanation": "4/72 = 0.0556 = 5.56%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 5/72 as a percentage?",
+   "choices": [
+    "6.94%",
+    "2.78%",
+    "4.17%",
+    "5.56%"
+   ],
+   "answer": 0,
+   "explanation": "5/72 = 0.0694 = 6.94%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 5/72 as a decimal?",
+   "choices": [
+    "0.0278",
+    "0.0694",
+    "0.0417",
+    "0.0556"
+   ],
+   "answer": 1,
+   "explanation": "5/72 = 0.0694 = 6.94%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 6/72 as a percentage?",
+   "choices": [
+    "4.17%",
+    "8.33%",
+    "5.56%",
+    "6.94%"
+   ],
+   "answer": 1,
+   "explanation": "6/72 = 0.0833 = 8.33%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 6/72 as a decimal?",
+   "choices": [
+    "0.0417",
+    "0.0833",
+    "0.0556",
+    "0.0694"
+   ],
+   "answer": 1,
+   "explanation": "6/72 = 0.0833 = 8.33%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 7/72 as a percentage?",
+   "choices": [
+    "9.72%",
+    "5.56%",
+    "6.94%",
+    "8.33%"
+   ],
+   "answer": 0,
+   "explanation": "7/72 = 0.0972 = 9.72%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 7/72 as a decimal?",
+   "choices": [
+    "0.0556",
+    "0.0972",
+    "0.0694",
+    "0.0833"
+   ],
+   "answer": 1,
+   "explanation": "7/72 = 0.0972 = 9.72%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 8/72 as a percentage?",
+   "choices": [
+    "11.11%",
+    "6.94%",
+    "8.33%",
+    "9.72%"
+   ],
+   "answer": 0,
+   "explanation": "8/72 = 0.1111 = 11.11%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 8/72 as a decimal?",
+   "choices": [
+    "0.1111",
+    "0.0694",
+    "0.0833",
+    "0.0972"
+   ],
+   "answer": 0,
+   "explanation": "8/72 = 0.1111 = 11.11%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 9/72 as a percentage?",
+   "choices": [
+    "8.33%",
+    "9.72%",
+    "11.11%",
+    "12.50%"
+   ],
+   "answer": 3,
+   "explanation": "9/72 = 0.1250 = 12.50%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 9/72 as a decimal?",
+   "choices": [
+    "0.0833",
+    "0.0972",
+    "0.1250",
+    "0.1111"
+   ],
+   "answer": 2,
+   "explanation": "9/72 = 0.1250 = 12.50%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 10/72 as a percentage?",
+   "choices": [
+    "9.72%",
+    "13.89%",
+    "11.11%",
+    "12.50%"
+   ],
+   "answer": 1,
+   "explanation": "10/72 = 0.1389 = 13.89%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 10/72 as a decimal?",
+   "choices": [
+    "0.0972",
+    "0.1389",
+    "0.1111",
+    "0.1250"
+   ],
+   "answer": 1,
+   "explanation": "10/72 = 0.1389 = 13.89%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 11/72 as a percentage?",
+   "choices": [
+    "11.11%",
+    "12.50%",
+    "13.89%",
+    "15.28%"
+   ],
+   "answer": 3,
+   "explanation": "11/72 = 0.1528 = 15.28%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 11/72 as a decimal?",
+   "choices": [
+    "0.1528",
+    "0.1111",
+    "0.1250",
+    "0.1389"
+   ],
+   "answer": 0,
+   "explanation": "11/72 = 0.1528 = 15.28%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 12/72 as a percentage?",
+   "choices": [
+    "12.50%",
+    "13.89%",
+    "16.67%",
+    "15.28%"
+   ],
+   "answer": 2,
+   "explanation": "12/72 = 0.1667 = 16.67%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 12/72 as a decimal?",
+   "choices": [
+    "0.1250",
+    "0.1389",
+    "0.1667",
+    "0.1528"
+   ],
+   "answer": 2,
+   "explanation": "12/72 = 0.1667 = 16.67%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 13/72 as a percentage?",
+   "choices": [
+    "13.89%",
+    "18.06%",
+    "15.28%",
+    "16.67%"
+   ],
+   "answer": 1,
+   "explanation": "13/72 = 0.1806 = 18.06%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 13/72 as a decimal?",
+   "choices": [
+    "0.1806",
+    "0.1389",
+    "0.1528",
+    "0.1667"
+   ],
+   "answer": 0,
+   "explanation": "13/72 = 0.1806 = 18.06%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 14/72 as a percentage?",
+   "choices": [
+    "15.28%",
+    "19.44%",
+    "16.67%",
+    "18.06%"
+   ],
+   "answer": 1,
+   "explanation": "14/72 = 0.1944 = 19.44%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 14/72 as a decimal?",
+   "choices": [
+    "0.1528",
+    "0.1667",
+    "0.1806",
+    "0.1944"
+   ],
+   "answer": 3,
+   "explanation": "14/72 = 0.1944 = 19.44%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 15/72 as a percentage?",
+   "choices": [
+    "16.67%",
+    "18.06%",
+    "19.44%",
+    "20.83%"
+   ],
+   "answer": 3,
+   "explanation": "15/72 = 0.2083 = 20.83%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 15/72 as a decimal?",
+   "choices": [
+    "0.1667",
+    "0.2083",
+    "0.1806",
+    "0.1944"
+   ],
+   "answer": 1,
+   "explanation": "15/72 = 0.2083 = 20.83%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 16/72 as a percentage?",
+   "choices": [
+    "22.22%",
+    "18.06%",
+    "19.44%",
+    "20.83%"
+   ],
+   "answer": 0,
+   "explanation": "16/72 = 0.2222 = 22.22%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 16/72 as a decimal?",
+   "choices": [
+    "0.2222",
+    "0.1806",
+    "0.1944",
+    "0.2083"
+   ],
+   "answer": 0,
+   "explanation": "16/72 = 0.2222 = 22.22%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 17/72 as a percentage?",
+   "choices": [
+    "19.44%",
+    "20.83%",
+    "22.22%",
+    "23.61%"
+   ],
+   "answer": 3,
+   "explanation": "17/72 = 0.2361 = 23.61%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 17/72 as a decimal?",
+   "choices": [
+    "0.1944",
+    "0.2361",
+    "0.2083",
+    "0.2222"
+   ],
+   "answer": 1,
+   "explanation": "17/72 = 0.2361 = 23.61%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 18/72 as a percentage?",
+   "choices": [
+    "20.83%",
+    "22.22%",
+    "25.00%",
+    "23.61%"
+   ],
+   "answer": 2,
+   "explanation": "18/72 = 0.2500 = 25.00%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 18/72 as a decimal?",
+   "choices": [
+    "0.2083",
+    "0.2222",
+    "0.2361",
+    "0.2500"
+   ],
+   "answer": 3,
+   "explanation": "18/72 = 0.2500 = 25.00%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 19/72 as a percentage?",
+   "choices": [
+    "22.22%",
+    "23.61%",
+    "25.00%",
+    "26.39%"
+   ],
+   "answer": 3,
+   "explanation": "19/72 = 0.2639 = 26.39%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 19/72 as a decimal?",
+   "choices": [
+    "0.2222",
+    "0.2361",
+    "0.2500",
+    "0.2639"
+   ],
+   "answer": 3,
+   "explanation": "19/72 = 0.2639 = 26.39%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 20/72 as a percentage?",
+   "choices": [
+    "23.61%",
+    "27.78%",
+    "25.00%",
+    "26.39%"
+   ],
+   "answer": 1,
+   "explanation": "20/72 = 0.2778 = 27.78%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 20/72 as a decimal?",
+   "choices": [
+    "0.2778",
+    "0.2361",
+    "0.2500",
+    "0.2639"
+   ],
+   "answer": 0,
+   "explanation": "20/72 = 0.2778 = 27.78%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 21/72 as a percentage?",
+   "choices": [
+    "25.00%",
+    "26.39%",
+    "29.17%",
+    "27.78%"
+   ],
+   "answer": 2,
+   "explanation": "21/72 = 0.2917 = 29.17%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 21/72 as a decimal?",
+   "choices": [
+    "0.2500",
+    "0.2639",
+    "0.2778",
+    "0.2917"
+   ],
+   "answer": 3,
+   "explanation": "21/72 = 0.2917 = 29.17%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 22/72 as a percentage?",
+   "choices": [
+    "26.39%",
+    "27.78%",
+    "30.56%",
+    "29.17%"
+   ],
+   "answer": 2,
+   "explanation": "22/72 = 0.3056 = 30.56%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 22/72 as a decimal?",
+   "choices": [
+    "0.2639",
+    "0.2778",
+    "0.2917",
+    "0.3056"
+   ],
+   "answer": 3,
+   "explanation": "22/72 = 0.3056 = 30.56%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 23/72 as a percentage?",
+   "choices": [
+    "31.94%",
+    "27.78%",
+    "29.17%",
+    "30.56%"
+   ],
+   "answer": 0,
+   "explanation": "23/72 = 0.3194 = 31.94%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 23/72 as a decimal?",
+   "choices": [
+    "0.2778",
+    "0.3194",
+    "0.2917",
+    "0.3056"
+   ],
+   "answer": 1,
+   "explanation": "23/72 = 0.3194 = 31.94%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 24/72 as a percentage?",
+   "choices": [
+    "33.33%",
+    "29.17%",
+    "30.56%",
+    "31.94%"
+   ],
+   "answer": 0,
+   "explanation": "24/72 = 0.3333 = 33.33%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 24/72 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.2917",
+    "0.3056",
+    "0.3194"
+   ],
+   "answer": 0,
+   "explanation": "24/72 = 0.3333 = 33.33%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 25/72 as a percentage?",
+   "choices": [
+    "30.56%",
+    "31.94%",
+    "33.33%",
+    "34.72%"
+   ],
+   "answer": 3,
+   "explanation": "25/72 = 0.3472 = 34.72%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 25/72 as a decimal?",
+   "choices": [
+    "0.3056",
+    "0.3472",
+    "0.3194",
+    "0.3333"
+   ],
+   "answer": 1,
+   "explanation": "25/72 = 0.3472 = 34.72%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 26/72 as a percentage?",
+   "choices": [
+    "31.94%",
+    "33.33%",
+    "36.11%",
+    "34.72%"
+   ],
+   "answer": 2,
+   "explanation": "26/72 = 0.3611 = 36.11%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 26/72 as a decimal?",
+   "choices": [
+    "0.3194",
+    "0.3333",
+    "0.3472",
+    "0.3611"
+   ],
+   "answer": 3,
+   "explanation": "26/72 = 0.3611 = 36.11%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 27/72 as a percentage?",
+   "choices": [
+    "33.33%",
+    "34.72%",
+    "36.11%",
+    "37.50%"
+   ],
+   "answer": 3,
+   "explanation": "27/72 = 0.3750 = 37.50%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 27/72 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.3472",
+    "0.3750",
+    "0.3611"
+   ],
+   "answer": 2,
+   "explanation": "27/72 = 0.3750 = 37.50%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 28/72 as a percentage?",
+   "choices": [
+    "34.72%",
+    "36.11%",
+    "37.50%",
+    "38.89%"
+   ],
+   "answer": 3,
+   "explanation": "28/72 = 0.3889 = 38.89%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 28/72 as a decimal?",
+   "choices": [
+    "0.3889",
+    "0.3472",
+    "0.3611",
+    "0.3750"
+   ],
+   "answer": 0,
+   "explanation": "28/72 = 0.3889 = 38.89%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 29/72 as a percentage?",
+   "choices": [
+    "36.11%",
+    "40.28%",
+    "37.50%",
+    "38.89%"
+   ],
+   "answer": 1,
+   "explanation": "29/72 = 0.4028 = 40.28%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 29/72 as a decimal?",
+   "choices": [
+    "0.3611",
+    "0.3750",
+    "0.4028",
+    "0.3889"
+   ],
+   "answer": 2,
+   "explanation": "29/72 = 0.4028 = 40.28%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 30/72 as a percentage?",
+   "choices": [
+    "37.50%",
+    "41.67%",
+    "38.89%",
+    "40.28%"
+   ],
+   "answer": 1,
+   "explanation": "30/72 = 0.4167 = 41.67%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 30/72 as a decimal?",
+   "choices": [
+    "0.3750",
+    "0.3889",
+    "0.4028",
+    "0.4167"
+   ],
+   "answer": 3,
+   "explanation": "30/72 = 0.4167 = 41.67%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 31/72 as a percentage?",
+   "choices": [
+    "38.89%",
+    "40.28%",
+    "43.06%",
+    "41.67%"
+   ],
+   "answer": 2,
+   "explanation": "31/72 = 0.4306 = 43.06%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 31/72 as a decimal?",
+   "choices": [
+    "0.3889",
+    "0.4028",
+    "0.4167",
+    "0.4306"
+   ],
+   "answer": 3,
+   "explanation": "31/72 = 0.4306 = 43.06%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 32/72 as a percentage?",
+   "choices": [
+    "40.28%",
+    "44.44%",
+    "41.67%",
+    "43.06%"
+   ],
+   "answer": 1,
+   "explanation": "32/72 = 0.4444 = 44.44%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 32/72 as a decimal?",
+   "choices": [
+    "0.4444",
+    "0.4028",
+    "0.4167",
+    "0.4306"
+   ],
+   "answer": 0,
+   "explanation": "32/72 = 0.4444 = 44.44%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 33/72 as a percentage?",
+   "choices": [
+    "41.67%",
+    "43.06%",
+    "44.44%",
+    "45.83%"
+   ],
+   "answer": 3,
+   "explanation": "33/72 = 0.4583 = 45.83%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 33/72 as a decimal?",
+   "choices": [
+    "0.4583",
+    "0.4167",
+    "0.4306",
+    "0.4444"
+   ],
+   "answer": 0,
+   "explanation": "33/72 = 0.4583 = 45.83%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 34/72 as a percentage?",
+   "choices": [
+    "43.06%",
+    "47.22%",
+    "44.44%",
+    "45.83%"
+   ],
+   "answer": 1,
+   "explanation": "34/72 = 0.4722 = 47.22%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 34/72 as a decimal?",
+   "choices": [
+    "0.4722",
+    "0.4306",
+    "0.4444",
+    "0.4583"
+   ],
+   "answer": 0,
+   "explanation": "34/72 = 0.4722 = 47.22%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 35/72 as a percentage?",
+   "choices": [
+    "48.61%",
+    "44.44%",
+    "45.83%",
+    "47.22%"
+   ],
+   "answer": 0,
+   "explanation": "35/72 = 0.4861 = 48.61%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 35/72 as a decimal?",
+   "choices": [
+    "0.4444",
+    "0.4583",
+    "0.4861",
+    "0.4722"
+   ],
+   "answer": 2,
+   "explanation": "35/72 = 0.4861 = 48.61%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 36/72 as a percentage?",
+   "choices": [
+    "50.00%",
+    "45.83%",
+    "47.22%",
+    "48.61%"
+   ],
+   "answer": 0,
+   "explanation": "36/72 = 0.5000 = 50.00%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 36/72 as a decimal?",
+   "choices": [
+    "0.5000",
+    "0.4583",
+    "0.4722",
+    "0.4861"
+   ],
+   "answer": 0,
+   "explanation": "36/72 = 0.5000 = 50.00%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 37/72 as a percentage?",
+   "choices": [
+    "47.22%",
+    "48.61%",
+    "50.00%",
+    "51.39%"
+   ],
+   "answer": 3,
+   "explanation": "37/72 = 0.5139 = 51.39%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 37/72 as a decimal?",
+   "choices": [
+    "0.4722",
+    "0.4861",
+    "0.5000",
+    "0.5139"
+   ],
+   "answer": 3,
+   "explanation": "37/72 = 0.5139 = 51.39%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 38/72 as a percentage?",
+   "choices": [
+    "52.78%",
+    "48.61%",
+    "50.00%",
+    "51.39%"
+   ],
+   "answer": 0,
+   "explanation": "38/72 = 0.5278 = 52.78%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 38/72 as a decimal?",
+   "choices": [
+    "0.4861",
+    "0.5278",
+    "0.5000",
+    "0.5139"
+   ],
+   "answer": 1,
+   "explanation": "38/72 = 0.5278 = 52.78%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 39/72 as a percentage?",
+   "choices": [
+    "50.00%",
+    "54.17%",
+    "51.39%",
+    "52.78%"
+   ],
+   "answer": 1,
+   "explanation": "39/72 = 0.5417 = 54.17%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 39/72 as a decimal?",
+   "choices": [
+    "0.5000",
+    "0.5139",
+    "0.5417",
+    "0.5278"
+   ],
+   "answer": 2,
+   "explanation": "39/72 = 0.5417 = 54.17%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 40/72 as a percentage?",
+   "choices": [
+    "51.39%",
+    "52.78%",
+    "54.17%",
+    "55.56%"
+   ],
+   "answer": 3,
+   "explanation": "40/72 = 0.5556 = 55.56%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 40/72 as a decimal?",
+   "choices": [
+    "0.5556",
+    "0.5139",
+    "0.5278",
+    "0.5417"
+   ],
+   "answer": 0,
+   "explanation": "40/72 = 0.5556 = 55.56%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 41/72 as a percentage?",
+   "choices": [
+    "52.78%",
+    "56.94%",
+    "54.17%",
+    "55.56%"
+   ],
+   "answer": 1,
+   "explanation": "41/72 = 0.5694 = 56.94%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 41/72 as a decimal?",
+   "choices": [
+    "0.5694",
+    "0.5278",
+    "0.5417",
+    "0.5556"
+   ],
+   "answer": 0,
+   "explanation": "41/72 = 0.5694 = 56.94%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 42/72 as a percentage?",
+   "choices": [
+    "58.33%",
+    "54.17%",
+    "55.56%",
+    "56.94%"
+   ],
+   "answer": 0,
+   "explanation": "42/72 = 0.5833 = 58.33%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 42/72 as a decimal?",
+   "choices": [
+    "0.5417",
+    "0.5556",
+    "0.5694",
+    "0.5833"
+   ],
+   "answer": 3,
+   "explanation": "42/72 = 0.5833 = 58.33%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 43/72 as a percentage?",
+   "choices": [
+    "55.56%",
+    "56.94%",
+    "59.72%",
+    "58.33%"
+   ],
+   "answer": 2,
+   "explanation": "43/72 = 0.5972 = 59.72%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 43/72 as a decimal?",
+   "choices": [
+    "0.5556",
+    "0.5972",
+    "0.5694",
+    "0.5833"
+   ],
+   "answer": 1,
+   "explanation": "43/72 = 0.5972 = 59.72%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 44/72 as a percentage?",
+   "choices": [
+    "56.94%",
+    "58.33%",
+    "61.11%",
+    "59.72%"
+   ],
+   "answer": 2,
+   "explanation": "44/72 = 0.6111 = 61.11%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 44/72 as a decimal?",
+   "choices": [
+    "0.5694",
+    "0.5833",
+    "0.6111",
+    "0.5972"
+   ],
+   "answer": 2,
+   "explanation": "44/72 = 0.6111 = 61.11%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 45/72 as a percentage?",
+   "choices": [
+    "58.33%",
+    "62.50%",
+    "59.72%",
+    "61.11%"
+   ],
+   "answer": 1,
+   "explanation": "45/72 = 0.6250 = 62.50%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 45/72 as a decimal?",
+   "choices": [
+    "0.5833",
+    "0.5972",
+    "0.6250",
+    "0.6111"
+   ],
+   "answer": 2,
+   "explanation": "45/72 = 0.6250 = 62.50%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 46/72 as a percentage?",
+   "choices": [
+    "59.72%",
+    "63.89%",
+    "61.11%",
+    "62.50%"
+   ],
+   "answer": 1,
+   "explanation": "46/72 = 0.6389 = 63.89%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 46/72 as a decimal?",
+   "choices": [
+    "0.5972",
+    "0.6389",
+    "0.6111",
+    "0.6250"
+   ],
+   "answer": 1,
+   "explanation": "46/72 = 0.6389 = 63.89%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 47/72 as a percentage?",
+   "choices": [
+    "61.11%",
+    "65.28%",
+    "62.50%",
+    "63.89%"
+   ],
+   "answer": 1,
+   "explanation": "47/72 = 0.6528 = 65.28%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 47/72 as a decimal?",
+   "choices": [
+    "0.6111",
+    "0.6528",
+    "0.6250",
+    "0.6389"
+   ],
+   "answer": 1,
+   "explanation": "47/72 = 0.6528 = 65.28%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 48/72 as a percentage?",
+   "choices": [
+    "62.50%",
+    "66.67%",
+    "63.89%",
+    "65.28%"
+   ],
+   "answer": 1,
+   "explanation": "48/72 = 0.6667 = 66.67%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 48/72 as a decimal?",
+   "choices": [
+    "0.6250",
+    "0.6389",
+    "0.6528",
+    "0.6667"
+   ],
+   "answer": 3,
+   "explanation": "48/72 = 0.6667 = 66.67%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 49/72 as a percentage?",
+   "choices": [
+    "63.89%",
+    "65.28%",
+    "66.67%",
+    "68.06%"
+   ],
+   "answer": 3,
+   "explanation": "49/72 = 0.6806 = 68.06%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 49/72 as a decimal?",
+   "choices": [
+    "0.6389",
+    "0.6806",
+    "0.6528",
+    "0.6667"
+   ],
+   "answer": 1,
+   "explanation": "49/72 = 0.6806 = 68.06%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 50/72 as a percentage?",
+   "choices": [
+    "69.44%",
+    "65.28%",
+    "66.67%",
+    "68.06%"
+   ],
+   "answer": 0,
+   "explanation": "50/72 = 0.6944 = 69.44%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 50/72 as a decimal?",
+   "choices": [
+    "0.6528",
+    "0.6667",
+    "0.6944",
+    "0.6806"
+   ],
+   "answer": 2,
+   "explanation": "50/72 = 0.6944 = 69.44%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 51/72 as a percentage?",
+   "choices": [
+    "66.67%",
+    "70.83%",
+    "68.06%",
+    "69.44%"
+   ],
+   "answer": 1,
+   "explanation": "51/72 = 0.7083 = 70.83%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 51/72 as a decimal?",
+   "choices": [
+    "0.6667",
+    "0.6806",
+    "0.7083",
+    "0.6944"
+   ],
+   "answer": 2,
+   "explanation": "51/72 = 0.7083 = 70.83%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 52/72 as a percentage?",
+   "choices": [
+    "68.06%",
+    "69.44%",
+    "72.22%",
+    "70.83%"
+   ],
+   "answer": 2,
+   "explanation": "52/72 = 0.7222 = 72.22%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 52/72 as a decimal?",
+   "choices": [
+    "0.7222",
+    "0.6806",
+    "0.6944",
+    "0.7083"
+   ],
+   "answer": 0,
+   "explanation": "52/72 = 0.7222 = 72.22%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 53/72 as a percentage?",
+   "choices": [
+    "69.44%",
+    "73.61%",
+    "70.83%",
+    "72.22%"
+   ],
+   "answer": 1,
+   "explanation": "53/72 = 0.7361 = 73.61%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 53/72 as a decimal?",
+   "choices": [
+    "0.6944",
+    "0.7361",
+    "0.7083",
+    "0.7222"
+   ],
+   "answer": 1,
+   "explanation": "53/72 = 0.7361 = 73.61%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 54/72 as a percentage?",
+   "choices": [
+    "70.83%",
+    "72.22%",
+    "75.00%",
+    "73.61%"
+   ],
+   "answer": 2,
+   "explanation": "54/72 = 0.7500 = 75.00%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 54/72 as a decimal?",
+   "choices": [
+    "0.7083",
+    "0.7222",
+    "0.7361",
+    "0.7500"
+   ],
+   "answer": 3,
+   "explanation": "54/72 = 0.7500 = 75.00%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 55/72 as a percentage?",
+   "choices": [
+    "72.22%",
+    "73.61%",
+    "75.00%",
+    "76.39%"
+   ],
+   "answer": 3,
+   "explanation": "55/72 = 0.7639 = 76.39%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 55/72 as a decimal?",
+   "choices": [
+    "0.7639",
+    "0.7222",
+    "0.7361",
+    "0.7500"
+   ],
+   "answer": 0,
+   "explanation": "55/72 = 0.7639 = 76.39%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 56/72 as a percentage?",
+   "choices": [
+    "73.61%",
+    "77.78%",
+    "75.00%",
+    "76.39%"
+   ],
+   "answer": 1,
+   "explanation": "56/72 = 0.7778 = 77.78%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 56/72 as a decimal?",
+   "choices": [
+    "0.7361",
+    "0.7500",
+    "0.7778",
+    "0.7639"
+   ],
+   "answer": 2,
+   "explanation": "56/72 = 0.7778 = 77.78%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 57/72 as a percentage?",
+   "choices": [
+    "75.00%",
+    "76.39%",
+    "77.78%",
+    "79.17%"
+   ],
+   "answer": 3,
+   "explanation": "57/72 = 0.7917 = 79.17%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 57/72 as a decimal?",
+   "choices": [
+    "0.7500",
+    "0.7639",
+    "0.7917",
+    "0.7778"
+   ],
+   "answer": 2,
+   "explanation": "57/72 = 0.7917 = 79.17%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 58/72 as a percentage?",
+   "choices": [
+    "76.39%",
+    "77.78%",
+    "79.17%",
+    "80.56%"
+   ],
+   "answer": 3,
+   "explanation": "58/72 = 0.8056 = 80.56%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 58/72 as a decimal?",
+   "choices": [
+    "0.8056",
+    "0.7639",
+    "0.7778",
+    "0.7917"
+   ],
+   "answer": 0,
+   "explanation": "58/72 = 0.8056 = 80.56%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 59/72 as a percentage?",
+   "choices": [
+    "81.94%",
+    "77.78%",
+    "79.17%",
+    "80.56%"
+   ],
+   "answer": 0,
+   "explanation": "59/72 = 0.8194 = 81.94%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 59/72 as a decimal?",
+   "choices": [
+    "0.7778",
+    "0.7917",
+    "0.8194",
+    "0.8056"
+   ],
+   "answer": 2,
+   "explanation": "59/72 = 0.8194 = 81.94%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 60/72 as a percentage?",
+   "choices": [
+    "83.33%",
+    "79.17%",
+    "80.56%",
+    "81.94%"
+   ],
+   "answer": 0,
+   "explanation": "60/72 = 0.8333 = 83.33%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 60/72 as a decimal?",
+   "choices": [
+    "0.7917",
+    "0.8056",
+    "0.8194",
+    "0.8333"
+   ],
+   "answer": 3,
+   "explanation": "60/72 = 0.8333 = 83.33%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 61/72 as a percentage?",
+   "choices": [
+    "80.56%",
+    "81.94%",
+    "84.72%",
+    "83.33%"
+   ],
+   "answer": 2,
+   "explanation": "61/72 = 0.8472 = 84.72%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 61/72 as a decimal?",
+   "choices": [
+    "0.8056",
+    "0.8472",
+    "0.8194",
+    "0.8333"
+   ],
+   "answer": 1,
+   "explanation": "61/72 = 0.8472 = 84.72%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 62/72 as a percentage?",
+   "choices": [
+    "86.11%",
+    "81.94%",
+    "83.33%",
+    "84.72%"
+   ],
+   "answer": 0,
+   "explanation": "62/72 = 0.8611 = 86.11%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 62/72 as a decimal?",
+   "choices": [
+    "0.8194",
+    "0.8333",
+    "0.8472",
+    "0.8611"
+   ],
+   "answer": 3,
+   "explanation": "62/72 = 0.8611 = 86.11%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 63/72 as a percentage?",
+   "choices": [
+    "83.33%",
+    "87.50%",
+    "84.72%",
+    "86.11%"
+   ],
+   "answer": 1,
+   "explanation": "63/72 = 0.8750 = 87.50%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 63/72 as a decimal?",
+   "choices": [
+    "0.8333",
+    "0.8472",
+    "0.8611",
+    "0.8750"
+   ],
+   "answer": 3,
+   "explanation": "63/72 = 0.8750 = 87.50%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 64/72 as a percentage?",
+   "choices": [
+    "84.72%",
+    "88.89%",
+    "86.11%",
+    "87.50%"
+   ],
+   "answer": 1,
+   "explanation": "64/72 = 0.8889 = 88.89%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 64/72 as a decimal?",
+   "choices": [
+    "0.8889",
+    "0.8472",
+    "0.8611",
+    "0.8750"
+   ],
+   "answer": 0,
+   "explanation": "64/72 = 0.8889 = 88.89%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 65/72 as a percentage?",
+   "choices": [
+    "86.11%",
+    "87.50%",
+    "88.89%",
+    "90.28%"
+   ],
+   "answer": 3,
+   "explanation": "65/72 = 0.9028 = 90.28%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 65/72 as a decimal?",
+   "choices": [
+    "0.9028",
+    "0.8611",
+    "0.8750",
+    "0.8889"
+   ],
+   "answer": 0,
+   "explanation": "65/72 = 0.9028 = 90.28%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 66/72 as a percentage?",
+   "choices": [
+    "91.67%",
+    "87.50%",
+    "88.89%",
+    "90.28%"
+   ],
+   "answer": 0,
+   "explanation": "66/72 = 0.9167 = 91.67%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 66/72 as a decimal?",
+   "choices": [
+    "0.8750",
+    "0.9167",
+    "0.8889",
+    "0.9028"
+   ],
+   "answer": 1,
+   "explanation": "66/72 = 0.9167 = 91.67%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 67/72 as a percentage?",
+   "choices": [
+    "88.89%",
+    "90.28%",
+    "91.67%",
+    "93.06%"
+   ],
+   "answer": 3,
+   "explanation": "67/72 = 0.9306 = 93.06%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 67/72 as a decimal?",
+   "choices": [
+    "0.9306",
+    "0.8889",
+    "0.9028",
+    "0.9167"
+   ],
+   "answer": 0,
+   "explanation": "67/72 = 0.9306 = 93.06%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 68/72 as a percentage?",
+   "choices": [
+    "90.28%",
+    "91.67%",
+    "93.06%",
+    "94.44%"
+   ],
+   "answer": 3,
+   "explanation": "68/72 = 0.9444 = 94.44%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 68/72 as a decimal?",
+   "choices": [
+    "0.9444",
+    "0.9028",
+    "0.9167",
+    "0.9306"
+   ],
+   "answer": 0,
+   "explanation": "68/72 = 0.9444 = 94.44%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 69/72 as a percentage?",
+   "choices": [
+    "95.83%",
+    "91.67%",
+    "93.06%",
+    "94.44%"
+   ],
+   "answer": 0,
+   "explanation": "69/72 = 0.9583 = 95.83%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 69/72 as a decimal?",
+   "choices": [
+    "0.9167",
+    "0.9306",
+    "0.9444",
+    "0.9583"
+   ],
+   "answer": 3,
+   "explanation": "69/72 = 0.9583 = 95.83%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 70/72 as a percentage?",
+   "choices": [
+    "93.06%",
+    "94.44%",
+    "95.83%",
+    "97.22%"
+   ],
+   "answer": 3,
+   "explanation": "70/72 = 0.9722 = 97.22%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 70/72 as a decimal?",
+   "choices": [
+    "0.9722",
+    "0.9306",
+    "0.9444",
+    "0.9583"
+   ],
+   "answer": 0,
+   "explanation": "70/72 = 0.9722 = 97.22%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 71/72 as a percentage?",
+   "choices": [
+    "94.44%",
+    "95.83%",
+    "97.22%",
+    "98.61%"
+   ],
+   "answer": 3,
+   "explanation": "71/72 = 0.9861 = 98.61%",
+   "source": "X/72"
+  },
+  {
+   "question": "What is 71/72 as a decimal?",
+   "choices": [
+    "0.9444",
+    "0.9583",
+    "0.9722",
+    "0.9861"
+   ],
+   "answer": 3,
+   "explanation": "71/72 = 0.9861 = 98.61%",
+   "source": "X/72"
+  }
+ ]
+}

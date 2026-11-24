@@ -1,0 +1,2308 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/97 as a percentage?",
+   "choices": [
+    "1.03%",
+    "2.06%",
+    "3.09%",
+    "4.12%"
+   ],
+   "answer": 0,
+   "explanation": "1/97 = 0.0103 = 1.03%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 1/97 as a decimal?",
+   "choices": [
+    "0.0206",
+    "0.0309",
+    "0.0412",
+    "0.0103"
+   ],
+   "answer": 3,
+   "explanation": "1/97 = 0.0103 = 1.03%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 2/97 as a percentage?",
+   "choices": [
+    "2.06%",
+    "1.03%",
+    "3.09%",
+    "4.12%"
+   ],
+   "answer": 0,
+   "explanation": "2/97 = 0.0206 = 2.06%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 2/97 as a decimal?",
+   "choices": [
+    "0.0103",
+    "0.0309",
+    "0.0412",
+    "0.0206"
+   ],
+   "answer": 3,
+   "explanation": "2/97 = 0.0206 = 2.06%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 3/97 as a percentage?",
+   "choices": [
+    "1.03%",
+    "2.06%",
+    "3.09%",
+    "4.12%"
+   ],
+   "answer": 2,
+   "explanation": "3/97 = 0.0309 = 3.09%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 3/97 as a decimal?",
+   "choices": [
+    "0.0103",
+    "0.0309",
+    "0.0206",
+    "0.0412"
+   ],
+   "answer": 1,
+   "explanation": "3/97 = 0.0309 = 3.09%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 4/97 as a percentage?",
+   "choices": [
+    "1.03%",
+    "2.06%",
+    "3.09%",
+    "4.12%"
+   ],
+   "answer": 3,
+   "explanation": "4/97 = 0.0412 = 4.12%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 4/97 as a decimal?",
+   "choices": [
+    "0.0412",
+    "0.0103",
+    "0.0206",
+    "0.0309"
+   ],
+   "answer": 0,
+   "explanation": "4/97 = 0.0412 = 4.12%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 5/97 as a percentage?",
+   "choices": [
+    "2.06%",
+    "5.15%",
+    "3.09%",
+    "4.12%"
+   ],
+   "answer": 1,
+   "explanation": "5/97 = 0.0515 = 5.15%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 5/97 as a decimal?",
+   "choices": [
+    "0.0515",
+    "0.0206",
+    "0.0309",
+    "0.0412"
+   ],
+   "answer": 0,
+   "explanation": "5/97 = 0.0515 = 5.15%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 6/97 as a percentage?",
+   "choices": [
+    "3.09%",
+    "4.12%",
+    "5.15%",
+    "6.19%"
+   ],
+   "answer": 3,
+   "explanation": "6/97 = 0.0619 = 6.19%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 6/97 as a decimal?",
+   "choices": [
+    "0.0619",
+    "0.0309",
+    "0.0412",
+    "0.0515"
+   ],
+   "answer": 0,
+   "explanation": "6/97 = 0.0619 = 6.19%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 7/97 as a percentage?",
+   "choices": [
+    "7.22%",
+    "4.12%",
+    "5.15%",
+    "6.19%"
+   ],
+   "answer": 0,
+   "explanation": "7/97 = 0.0722 = 7.22%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 7/97 as a decimal?",
+   "choices": [
+    "0.0722",
+    "0.0412",
+    "0.0515",
+    "0.0619"
+   ],
+   "answer": 0,
+   "explanation": "7/97 = 0.0722 = 7.22%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 8/97 as a percentage?",
+   "choices": [
+    "8.25%",
+    "5.15%",
+    "6.19%",
+    "7.22%"
+   ],
+   "answer": 0,
+   "explanation": "8/97 = 0.0825 = 8.25%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 8/97 as a decimal?",
+   "choices": [
+    "0.0825",
+    "0.0515",
+    "0.0619",
+    "0.0722"
+   ],
+   "answer": 0,
+   "explanation": "8/97 = 0.0825 = 8.25%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 9/97 as a percentage?",
+   "choices": [
+    "9.28%",
+    "6.19%",
+    "7.22%",
+    "8.25%"
+   ],
+   "answer": 0,
+   "explanation": "9/97 = 0.0928 = 9.28%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 9/97 as a decimal?",
+   "choices": [
+    "0.0619",
+    "0.0722",
+    "0.0825",
+    "0.0928"
+   ],
+   "answer": 3,
+   "explanation": "9/97 = 0.0928 = 9.28%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 10/97 as a percentage?",
+   "choices": [
+    "7.22%",
+    "8.25%",
+    "9.28%",
+    "10.31%"
+   ],
+   "answer": 3,
+   "explanation": "10/97 = 0.1031 = 10.31%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 10/97 as a decimal?",
+   "choices": [
+    "0.0722",
+    "0.0825",
+    "0.1031",
+    "0.0928"
+   ],
+   "answer": 2,
+   "explanation": "10/97 = 0.1031 = 10.31%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 11/97 as a percentage?",
+   "choices": [
+    "8.25%",
+    "9.28%",
+    "11.34%",
+    "10.31%"
+   ],
+   "answer": 2,
+   "explanation": "11/97 = 0.1134 = 11.34%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 11/97 as a decimal?",
+   "choices": [
+    "0.1134",
+    "0.0825",
+    "0.0928",
+    "0.1031"
+   ],
+   "answer": 0,
+   "explanation": "11/97 = 0.1134 = 11.34%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 12/97 as a percentage?",
+   "choices": [
+    "12.37%",
+    "9.28%",
+    "10.31%",
+    "11.34%"
+   ],
+   "answer": 0,
+   "explanation": "12/97 = 0.1237 = 12.37%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 12/97 as a decimal?",
+   "choices": [
+    "0.0928",
+    "0.1031",
+    "0.1237",
+    "0.1134"
+   ],
+   "answer": 2,
+   "explanation": "12/97 = 0.1237 = 12.37%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 13/97 as a percentage?",
+   "choices": [
+    "10.31%",
+    "11.34%",
+    "13.40%",
+    "12.37%"
+   ],
+   "answer": 2,
+   "explanation": "13/97 = 0.1340 = 13.40%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 13/97 as a decimal?",
+   "choices": [
+    "0.1340",
+    "0.1031",
+    "0.1134",
+    "0.1237"
+   ],
+   "answer": 0,
+   "explanation": "13/97 = 0.1340 = 13.40%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 14/97 as a percentage?",
+   "choices": [
+    "11.34%",
+    "14.43%",
+    "12.37%",
+    "13.40%"
+   ],
+   "answer": 1,
+   "explanation": "14/97 = 0.1443 = 14.43%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 14/97 as a decimal?",
+   "choices": [
+    "0.1134",
+    "0.1237",
+    "0.1340",
+    "0.1443"
+   ],
+   "answer": 3,
+   "explanation": "14/97 = 0.1443 = 14.43%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 15/97 as a percentage?",
+   "choices": [
+    "12.37%",
+    "15.46%",
+    "13.40%",
+    "14.43%"
+   ],
+   "answer": 1,
+   "explanation": "15/97 = 0.1546 = 15.46%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 15/97 as a decimal?",
+   "choices": [
+    "0.1237",
+    "0.1340",
+    "0.1546",
+    "0.1443"
+   ],
+   "answer": 2,
+   "explanation": "15/97 = 0.1546 = 15.46%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 16/97 as a percentage?",
+   "choices": [
+    "13.40%",
+    "16.49%",
+    "14.43%",
+    "15.46%"
+   ],
+   "answer": 1,
+   "explanation": "16/97 = 0.1649 = 16.49%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 16/97 as a decimal?",
+   "choices": [
+    "0.1340",
+    "0.1443",
+    "0.1649",
+    "0.1546"
+   ],
+   "answer": 2,
+   "explanation": "16/97 = 0.1649 = 16.49%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 17/97 as a percentage?",
+   "choices": [
+    "14.43%",
+    "15.46%",
+    "17.53%",
+    "16.49%"
+   ],
+   "answer": 2,
+   "explanation": "17/97 = 0.1753 = 17.53%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 17/97 as a decimal?",
+   "choices": [
+    "0.1443",
+    "0.1753",
+    "0.1546",
+    "0.1649"
+   ],
+   "answer": 1,
+   "explanation": "17/97 = 0.1753 = 17.53%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 18/97 as a percentage?",
+   "choices": [
+    "15.46%",
+    "16.49%",
+    "18.56%",
+    "17.53%"
+   ],
+   "answer": 2,
+   "explanation": "18/97 = 0.1856 = 18.56%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 18/97 as a decimal?",
+   "choices": [
+    "0.1546",
+    "0.1649",
+    "0.1753",
+    "0.1856"
+   ],
+   "answer": 3,
+   "explanation": "18/97 = 0.1856 = 18.56%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 19/97 as a percentage?",
+   "choices": [
+    "16.49%",
+    "19.59%",
+    "17.53%",
+    "18.56%"
+   ],
+   "answer": 1,
+   "explanation": "19/97 = 0.1959 = 19.59%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 19/97 as a decimal?",
+   "choices": [
+    "0.1649",
+    "0.1753",
+    "0.1856",
+    "0.1959"
+   ],
+   "answer": 3,
+   "explanation": "19/97 = 0.1959 = 19.59%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 20/97 as a percentage?",
+   "choices": [
+    "17.53%",
+    "18.56%",
+    "19.59%",
+    "20.62%"
+   ],
+   "answer": 3,
+   "explanation": "20/97 = 0.2062 = 20.62%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 20/97 as a decimal?",
+   "choices": [
+    "0.2062",
+    "0.1753",
+    "0.1856",
+    "0.1959"
+   ],
+   "answer": 0,
+   "explanation": "20/97 = 0.2062 = 20.62%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 21/97 as a percentage?",
+   "choices": [
+    "18.56%",
+    "21.65%",
+    "19.59%",
+    "20.62%"
+   ],
+   "answer": 1,
+   "explanation": "21/97 = 0.2165 = 21.65%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 21/97 as a decimal?",
+   "choices": [
+    "0.2165",
+    "0.1856",
+    "0.1959",
+    "0.2062"
+   ],
+   "answer": 0,
+   "explanation": "21/97 = 0.2165 = 21.65%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 22/97 as a percentage?",
+   "choices": [
+    "19.59%",
+    "20.62%",
+    "21.65%",
+    "22.68%"
+   ],
+   "answer": 3,
+   "explanation": "22/97 = 0.2268 = 22.68%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 22/97 as a decimal?",
+   "choices": [
+    "0.1959",
+    "0.2062",
+    "0.2268",
+    "0.2165"
+   ],
+   "answer": 2,
+   "explanation": "22/97 = 0.2268 = 22.68%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 23/97 as a percentage?",
+   "choices": [
+    "20.62%",
+    "21.65%",
+    "23.71%",
+    "22.68%"
+   ],
+   "answer": 2,
+   "explanation": "23/97 = 0.2371 = 23.71%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 23/97 as a decimal?",
+   "choices": [
+    "0.2062",
+    "0.2371",
+    "0.2165",
+    "0.2268"
+   ],
+   "answer": 1,
+   "explanation": "23/97 = 0.2371 = 23.71%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 24/97 as a percentage?",
+   "choices": [
+    "21.65%",
+    "24.74%",
+    "22.68%",
+    "23.71%"
+   ],
+   "answer": 1,
+   "explanation": "24/97 = 0.2474 = 24.74%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 24/97 as a decimal?",
+   "choices": [
+    "0.2165",
+    "0.2474",
+    "0.2268",
+    "0.2371"
+   ],
+   "answer": 1,
+   "explanation": "24/97 = 0.2474 = 24.74%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 25/97 as a percentage?",
+   "choices": [
+    "22.68%",
+    "25.77%",
+    "23.71%",
+    "24.74%"
+   ],
+   "answer": 1,
+   "explanation": "25/97 = 0.2577 = 25.77%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 25/97 as a decimal?",
+   "choices": [
+    "0.2268",
+    "0.2371",
+    "0.2474",
+    "0.2577"
+   ],
+   "answer": 3,
+   "explanation": "25/97 = 0.2577 = 25.77%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 26/97 as a percentage?",
+   "choices": [
+    "23.71%",
+    "26.80%",
+    "24.74%",
+    "25.77%"
+   ],
+   "answer": 1,
+   "explanation": "26/97 = 0.2680 = 26.80%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 26/97 as a decimal?",
+   "choices": [
+    "0.2680",
+    "0.2371",
+    "0.2474",
+    "0.2577"
+   ],
+   "answer": 0,
+   "explanation": "26/97 = 0.2680 = 26.80%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 27/97 as a percentage?",
+   "choices": [
+    "24.74%",
+    "25.77%",
+    "27.84%",
+    "26.80%"
+   ],
+   "answer": 2,
+   "explanation": "27/97 = 0.2784 = 27.84%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 27/97 as a decimal?",
+   "choices": [
+    "0.2474",
+    "0.2577",
+    "0.2680",
+    "0.2784"
+   ],
+   "answer": 3,
+   "explanation": "27/97 = 0.2784 = 27.84%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 28/97 as a percentage?",
+   "choices": [
+    "25.77%",
+    "26.80%",
+    "28.87%",
+    "27.84%"
+   ],
+   "answer": 2,
+   "explanation": "28/97 = 0.2887 = 28.87%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 28/97 as a decimal?",
+   "choices": [
+    "0.2887",
+    "0.2577",
+    "0.2680",
+    "0.2784"
+   ],
+   "answer": 0,
+   "explanation": "28/97 = 0.2887 = 28.87%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 29/97 as a percentage?",
+   "choices": [
+    "26.80%",
+    "27.84%",
+    "29.90%",
+    "28.87%"
+   ],
+   "answer": 2,
+   "explanation": "29/97 = 0.2990 = 29.90%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 29/97 as a decimal?",
+   "choices": [
+    "0.2990",
+    "0.2680",
+    "0.2784",
+    "0.2887"
+   ],
+   "answer": 0,
+   "explanation": "29/97 = 0.2990 = 29.90%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 30/97 as a percentage?",
+   "choices": [
+    "27.84%",
+    "28.87%",
+    "30.93%",
+    "29.90%"
+   ],
+   "answer": 2,
+   "explanation": "30/97 = 0.3093 = 30.93%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 30/97 as a decimal?",
+   "choices": [
+    "0.2784",
+    "0.3093",
+    "0.2887",
+    "0.2990"
+   ],
+   "answer": 1,
+   "explanation": "30/97 = 0.3093 = 30.93%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 31/97 as a percentage?",
+   "choices": [
+    "28.87%",
+    "29.90%",
+    "31.96%",
+    "30.93%"
+   ],
+   "answer": 2,
+   "explanation": "31/97 = 0.3196 = 31.96%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 31/97 as a decimal?",
+   "choices": [
+    "0.2887",
+    "0.2990",
+    "0.3093",
+    "0.3196"
+   ],
+   "answer": 3,
+   "explanation": "31/97 = 0.3196 = 31.96%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 32/97 as a percentage?",
+   "choices": [
+    "29.90%",
+    "32.99%",
+    "30.93%",
+    "31.96%"
+   ],
+   "answer": 1,
+   "explanation": "32/97 = 0.3299 = 32.99%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 32/97 as a decimal?",
+   "choices": [
+    "0.2990",
+    "0.3093",
+    "0.3299",
+    "0.3196"
+   ],
+   "answer": 2,
+   "explanation": "32/97 = 0.3299 = 32.99%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 33/97 as a percentage?",
+   "choices": [
+    "30.93%",
+    "31.96%",
+    "32.99%",
+    "34.02%"
+   ],
+   "answer": 3,
+   "explanation": "33/97 = 0.3402 = 34.02%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 33/97 as a decimal?",
+   "choices": [
+    "0.3093",
+    "0.3402",
+    "0.3196",
+    "0.3299"
+   ],
+   "answer": 1,
+   "explanation": "33/97 = 0.3402 = 34.02%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 34/97 as a percentage?",
+   "choices": [
+    "35.05%",
+    "31.96%",
+    "32.99%",
+    "34.02%"
+   ],
+   "answer": 0,
+   "explanation": "34/97 = 0.3505 = 35.05%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 34/97 as a decimal?",
+   "choices": [
+    "0.3196",
+    "0.3505",
+    "0.3299",
+    "0.3402"
+   ],
+   "answer": 1,
+   "explanation": "34/97 = 0.3505 = 35.05%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 35/97 as a percentage?",
+   "choices": [
+    "32.99%",
+    "36.08%",
+    "34.02%",
+    "35.05%"
+   ],
+   "answer": 1,
+   "explanation": "35/97 = 0.3608 = 36.08%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 35/97 as a decimal?",
+   "choices": [
+    "0.3608",
+    "0.3299",
+    "0.3402",
+    "0.3505"
+   ],
+   "answer": 0,
+   "explanation": "35/97 = 0.3608 = 36.08%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 36/97 as a percentage?",
+   "choices": [
+    "34.02%",
+    "37.11%",
+    "35.05%",
+    "36.08%"
+   ],
+   "answer": 1,
+   "explanation": "36/97 = 0.3711 = 37.11%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 36/97 as a decimal?",
+   "choices": [
+    "0.3402",
+    "0.3505",
+    "0.3608",
+    "0.3711"
+   ],
+   "answer": 3,
+   "explanation": "36/97 = 0.3711 = 37.11%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 37/97 as a percentage?",
+   "choices": [
+    "35.05%",
+    "36.08%",
+    "38.14%",
+    "37.11%"
+   ],
+   "answer": 2,
+   "explanation": "37/97 = 0.3814 = 38.14%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 37/97 as a decimal?",
+   "choices": [
+    "0.3505",
+    "0.3814",
+    "0.3608",
+    "0.3711"
+   ],
+   "answer": 1,
+   "explanation": "37/97 = 0.3814 = 38.14%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 38/97 as a percentage?",
+   "choices": [
+    "36.08%",
+    "37.11%",
+    "38.14%",
+    "39.18%"
+   ],
+   "answer": 3,
+   "explanation": "38/97 = 0.3918 = 39.18%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 38/97 as a decimal?",
+   "choices": [
+    "0.3918",
+    "0.3608",
+    "0.3711",
+    "0.3814"
+   ],
+   "answer": 0,
+   "explanation": "38/97 = 0.3918 = 39.18%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 39/97 as a percentage?",
+   "choices": [
+    "37.11%",
+    "38.14%",
+    "39.18%",
+    "40.21%"
+   ],
+   "answer": 3,
+   "explanation": "39/97 = 0.4021 = 40.21%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 39/97 as a decimal?",
+   "choices": [
+    "0.3711",
+    "0.4021",
+    "0.3814",
+    "0.3918"
+   ],
+   "answer": 1,
+   "explanation": "39/97 = 0.4021 = 40.21%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 40/97 as a percentage?",
+   "choices": [
+    "38.14%",
+    "41.24%",
+    "39.18%",
+    "40.21%"
+   ],
+   "answer": 1,
+   "explanation": "40/97 = 0.4124 = 41.24%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 40/97 as a decimal?",
+   "choices": [
+    "0.3814",
+    "0.4124",
+    "0.3918",
+    "0.4021"
+   ],
+   "answer": 1,
+   "explanation": "40/97 = 0.4124 = 41.24%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 41/97 as a percentage?",
+   "choices": [
+    "42.27%",
+    "39.18%",
+    "40.21%",
+    "41.24%"
+   ],
+   "answer": 0,
+   "explanation": "41/97 = 0.4227 = 42.27%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 41/97 as a decimal?",
+   "choices": [
+    "0.3918",
+    "0.4021",
+    "0.4227",
+    "0.4124"
+   ],
+   "answer": 2,
+   "explanation": "41/97 = 0.4227 = 42.27%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 42/97 as a percentage?",
+   "choices": [
+    "43.30%",
+    "40.21%",
+    "41.24%",
+    "42.27%"
+   ],
+   "answer": 0,
+   "explanation": "42/97 = 0.4330 = 43.30%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 42/97 as a decimal?",
+   "choices": [
+    "0.4330",
+    "0.4021",
+    "0.4124",
+    "0.4227"
+   ],
+   "answer": 0,
+   "explanation": "42/97 = 0.4330 = 43.30%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 43/97 as a percentage?",
+   "choices": [
+    "44.33%",
+    "41.24%",
+    "42.27%",
+    "43.30%"
+   ],
+   "answer": 0,
+   "explanation": "43/97 = 0.4433 = 44.33%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 43/97 as a decimal?",
+   "choices": [
+    "0.4433",
+    "0.4124",
+    "0.4227",
+    "0.4330"
+   ],
+   "answer": 0,
+   "explanation": "43/97 = 0.4433 = 44.33%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 44/97 as a percentage?",
+   "choices": [
+    "42.27%",
+    "45.36%",
+    "43.30%",
+    "44.33%"
+   ],
+   "answer": 1,
+   "explanation": "44/97 = 0.4536 = 45.36%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 44/97 as a decimal?",
+   "choices": [
+    "0.4227",
+    "0.4330",
+    "0.4536",
+    "0.4433"
+   ],
+   "answer": 2,
+   "explanation": "44/97 = 0.4536 = 45.36%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 45/97 as a percentage?",
+   "choices": [
+    "43.30%",
+    "44.33%",
+    "45.36%",
+    "46.39%"
+   ],
+   "answer": 3,
+   "explanation": "45/97 = 0.4639 = 46.39%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 45/97 as a decimal?",
+   "choices": [
+    "0.4639",
+    "0.4330",
+    "0.4433",
+    "0.4536"
+   ],
+   "answer": 0,
+   "explanation": "45/97 = 0.4639 = 46.39%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 46/97 as a percentage?",
+   "choices": [
+    "44.33%",
+    "45.36%",
+    "47.42%",
+    "46.39%"
+   ],
+   "answer": 2,
+   "explanation": "46/97 = 0.4742 = 47.42%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 46/97 as a decimal?",
+   "choices": [
+    "0.4433",
+    "0.4536",
+    "0.4639",
+    "0.4742"
+   ],
+   "answer": 3,
+   "explanation": "46/97 = 0.4742 = 47.42%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 47/97 as a percentage?",
+   "choices": [
+    "45.36%",
+    "46.39%",
+    "47.42%",
+    "48.45%"
+   ],
+   "answer": 3,
+   "explanation": "47/97 = 0.4845 = 48.45%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 47/97 as a decimal?",
+   "choices": [
+    "0.4536",
+    "0.4639",
+    "0.4845",
+    "0.4742"
+   ],
+   "answer": 2,
+   "explanation": "47/97 = 0.4845 = 48.45%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 48/97 as a percentage?",
+   "choices": [
+    "46.39%",
+    "49.48%",
+    "47.42%",
+    "48.45%"
+   ],
+   "answer": 1,
+   "explanation": "48/97 = 0.4948 = 49.48%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 48/97 as a decimal?",
+   "choices": [
+    "0.4948",
+    "0.4639",
+    "0.4742",
+    "0.4845"
+   ],
+   "answer": 0,
+   "explanation": "48/97 = 0.4948 = 49.48%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 49/97 as a percentage?",
+   "choices": [
+    "50.52%",
+    "47.42%",
+    "48.45%",
+    "49.48%"
+   ],
+   "answer": 0,
+   "explanation": "49/97 = 0.5052 = 50.52%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 49/97 as a decimal?",
+   "choices": [
+    "0.4742",
+    "0.5052",
+    "0.4845",
+    "0.4948"
+   ],
+   "answer": 1,
+   "explanation": "49/97 = 0.5052 = 50.52%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 50/97 as a percentage?",
+   "choices": [
+    "48.45%",
+    "49.48%",
+    "50.52%",
+    "51.55%"
+   ],
+   "answer": 3,
+   "explanation": "50/97 = 0.5155 = 51.55%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 50/97 as a decimal?",
+   "choices": [
+    "0.4845",
+    "0.5155",
+    "0.4948",
+    "0.5052"
+   ],
+   "answer": 1,
+   "explanation": "50/97 = 0.5155 = 51.55%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 51/97 as a percentage?",
+   "choices": [
+    "49.48%",
+    "50.52%",
+    "51.55%",
+    "52.58%"
+   ],
+   "answer": 3,
+   "explanation": "51/97 = 0.5258 = 52.58%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 51/97 as a decimal?",
+   "choices": [
+    "0.4948",
+    "0.5052",
+    "0.5155",
+    "0.5258"
+   ],
+   "answer": 3,
+   "explanation": "51/97 = 0.5258 = 52.58%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 52/97 as a percentage?",
+   "choices": [
+    "50.52%",
+    "53.61%",
+    "51.55%",
+    "52.58%"
+   ],
+   "answer": 1,
+   "explanation": "52/97 = 0.5361 = 53.61%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 52/97 as a decimal?",
+   "choices": [
+    "0.5052",
+    "0.5155",
+    "0.5258",
+    "0.5361"
+   ],
+   "answer": 3,
+   "explanation": "52/97 = 0.5361 = 53.61%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 53/97 as a percentage?",
+   "choices": [
+    "54.64%",
+    "51.55%",
+    "52.58%",
+    "53.61%"
+   ],
+   "answer": 0,
+   "explanation": "53/97 = 0.5464 = 54.64%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 53/97 as a decimal?",
+   "choices": [
+    "0.5155",
+    "0.5258",
+    "0.5361",
+    "0.5464"
+   ],
+   "answer": 3,
+   "explanation": "53/97 = 0.5464 = 54.64%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 54/97 as a percentage?",
+   "choices": [
+    "52.58%",
+    "55.67%",
+    "53.61%",
+    "54.64%"
+   ],
+   "answer": 1,
+   "explanation": "54/97 = 0.5567 = 55.67%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 54/97 as a decimal?",
+   "choices": [
+    "0.5258",
+    "0.5361",
+    "0.5567",
+    "0.5464"
+   ],
+   "answer": 2,
+   "explanation": "54/97 = 0.5567 = 55.67%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 55/97 as a percentage?",
+   "choices": [
+    "53.61%",
+    "56.70%",
+    "54.64%",
+    "55.67%"
+   ],
+   "answer": 1,
+   "explanation": "55/97 = 0.5670 = 56.70%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 55/97 as a decimal?",
+   "choices": [
+    "0.5361",
+    "0.5464",
+    "0.5567",
+    "0.5670"
+   ],
+   "answer": 3,
+   "explanation": "55/97 = 0.5670 = 56.70%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 56/97 as a percentage?",
+   "choices": [
+    "54.64%",
+    "57.73%",
+    "55.67%",
+    "56.70%"
+   ],
+   "answer": 1,
+   "explanation": "56/97 = 0.5773 = 57.73%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 56/97 as a decimal?",
+   "choices": [
+    "0.5464",
+    "0.5567",
+    "0.5773",
+    "0.5670"
+   ],
+   "answer": 2,
+   "explanation": "56/97 = 0.5773 = 57.73%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 57/97 as a percentage?",
+   "choices": [
+    "55.67%",
+    "58.76%",
+    "56.70%",
+    "57.73%"
+   ],
+   "answer": 1,
+   "explanation": "57/97 = 0.5876 = 58.76%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 57/97 as a decimal?",
+   "choices": [
+    "0.5876",
+    "0.5567",
+    "0.5670",
+    "0.5773"
+   ],
+   "answer": 0,
+   "explanation": "57/97 = 0.5876 = 58.76%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 58/97 as a percentage?",
+   "choices": [
+    "56.70%",
+    "57.73%",
+    "59.79%",
+    "58.76%"
+   ],
+   "answer": 2,
+   "explanation": "58/97 = 0.5979 = 59.79%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 58/97 as a decimal?",
+   "choices": [
+    "0.5670",
+    "0.5773",
+    "0.5979",
+    "0.5876"
+   ],
+   "answer": 2,
+   "explanation": "58/97 = 0.5979 = 59.79%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 59/97 as a percentage?",
+   "choices": [
+    "57.73%",
+    "60.82%",
+    "58.76%",
+    "59.79%"
+   ],
+   "answer": 1,
+   "explanation": "59/97 = 0.6082 = 60.82%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 59/97 as a decimal?",
+   "choices": [
+    "0.5773",
+    "0.5876",
+    "0.5979",
+    "0.6082"
+   ],
+   "answer": 3,
+   "explanation": "59/97 = 0.6082 = 60.82%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 60/97 as a percentage?",
+   "choices": [
+    "61.86%",
+    "58.76%",
+    "59.79%",
+    "60.82%"
+   ],
+   "answer": 0,
+   "explanation": "60/97 = 0.6186 = 61.86%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 60/97 as a decimal?",
+   "choices": [
+    "0.5876",
+    "0.5979",
+    "0.6186",
+    "0.6082"
+   ],
+   "answer": 2,
+   "explanation": "60/97 = 0.6186 = 61.86%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 61/97 as a percentage?",
+   "choices": [
+    "59.79%",
+    "62.89%",
+    "60.82%",
+    "61.86%"
+   ],
+   "answer": 1,
+   "explanation": "61/97 = 0.6289 = 62.89%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 61/97 as a decimal?",
+   "choices": [
+    "0.5979",
+    "0.6082",
+    "0.6186",
+    "0.6289"
+   ],
+   "answer": 3,
+   "explanation": "61/97 = 0.6289 = 62.89%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 62/97 as a percentage?",
+   "choices": [
+    "60.82%",
+    "63.92%",
+    "61.86%",
+    "62.89%"
+   ],
+   "answer": 1,
+   "explanation": "62/97 = 0.6392 = 63.92%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 62/97 as a decimal?",
+   "choices": [
+    "0.6392",
+    "0.6082",
+    "0.6186",
+    "0.6289"
+   ],
+   "answer": 0,
+   "explanation": "62/97 = 0.6392 = 63.92%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 63/97 as a percentage?",
+   "choices": [
+    "61.86%",
+    "62.89%",
+    "64.95%",
+    "63.92%"
+   ],
+   "answer": 2,
+   "explanation": "63/97 = 0.6495 = 64.95%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 63/97 as a decimal?",
+   "choices": [
+    "0.6186",
+    "0.6289",
+    "0.6392",
+    "0.6495"
+   ],
+   "answer": 3,
+   "explanation": "63/97 = 0.6495 = 64.95%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 64/97 as a percentage?",
+   "choices": [
+    "65.98%",
+    "62.89%",
+    "63.92%",
+    "64.95%"
+   ],
+   "answer": 0,
+   "explanation": "64/97 = 0.6598 = 65.98%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 64/97 as a decimal?",
+   "choices": [
+    "0.6289",
+    "0.6392",
+    "0.6495",
+    "0.6598"
+   ],
+   "answer": 3,
+   "explanation": "64/97 = 0.6598 = 65.98%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 65/97 as a percentage?",
+   "choices": [
+    "63.92%",
+    "64.95%",
+    "65.98%",
+    "67.01%"
+   ],
+   "answer": 3,
+   "explanation": "65/97 = 0.6701 = 67.01%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 65/97 as a decimal?",
+   "choices": [
+    "0.6392",
+    "0.6701",
+    "0.6495",
+    "0.6598"
+   ],
+   "answer": 1,
+   "explanation": "65/97 = 0.6701 = 67.01%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 66/97 as a percentage?",
+   "choices": [
+    "64.95%",
+    "68.04%",
+    "65.98%",
+    "67.01%"
+   ],
+   "answer": 1,
+   "explanation": "66/97 = 0.6804 = 68.04%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 66/97 as a decimal?",
+   "choices": [
+    "0.6495",
+    "0.6598",
+    "0.6701",
+    "0.6804"
+   ],
+   "answer": 3,
+   "explanation": "66/97 = 0.6804 = 68.04%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 67/97 as a percentage?",
+   "choices": [
+    "65.98%",
+    "67.01%",
+    "69.07%",
+    "68.04%"
+   ],
+   "answer": 2,
+   "explanation": "67/97 = 0.6907 = 69.07%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 67/97 as a decimal?",
+   "choices": [
+    "0.6598",
+    "0.6907",
+    "0.6701",
+    "0.6804"
+   ],
+   "answer": 1,
+   "explanation": "67/97 = 0.6907 = 69.07%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 68/97 as a percentage?",
+   "choices": [
+    "67.01%",
+    "70.10%",
+    "68.04%",
+    "69.07%"
+   ],
+   "answer": 1,
+   "explanation": "68/97 = 0.7010 = 70.10%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 68/97 as a decimal?",
+   "choices": [
+    "0.6701",
+    "0.6804",
+    "0.6907",
+    "0.7010"
+   ],
+   "answer": 3,
+   "explanation": "68/97 = 0.7010 = 70.10%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 69/97 as a percentage?",
+   "choices": [
+    "68.04%",
+    "69.07%",
+    "71.13%",
+    "70.10%"
+   ],
+   "answer": 2,
+   "explanation": "69/97 = 0.7113 = 71.13%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 69/97 as a decimal?",
+   "choices": [
+    "0.7113",
+    "0.6804",
+    "0.6907",
+    "0.7010"
+   ],
+   "answer": 0,
+   "explanation": "69/97 = 0.7113 = 71.13%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 70/97 as a percentage?",
+   "choices": [
+    "69.07%",
+    "72.16%",
+    "70.10%",
+    "71.13%"
+   ],
+   "answer": 1,
+   "explanation": "70/97 = 0.7216 = 72.16%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 70/97 as a decimal?",
+   "choices": [
+    "0.6907",
+    "0.7216",
+    "0.7010",
+    "0.7113"
+   ],
+   "answer": 1,
+   "explanation": "70/97 = 0.7216 = 72.16%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 71/97 as a percentage?",
+   "choices": [
+    "70.10%",
+    "71.13%",
+    "73.20%",
+    "72.16%"
+   ],
+   "answer": 2,
+   "explanation": "71/97 = 0.7320 = 73.20%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 71/97 as a decimal?",
+   "choices": [
+    "0.7010",
+    "0.7113",
+    "0.7320",
+    "0.7216"
+   ],
+   "answer": 2,
+   "explanation": "71/97 = 0.7320 = 73.20%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 72/97 as a percentage?",
+   "choices": [
+    "71.13%",
+    "72.16%",
+    "73.20%",
+    "74.23%"
+   ],
+   "answer": 3,
+   "explanation": "72/97 = 0.7423 = 74.23%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 72/97 as a decimal?",
+   "choices": [
+    "0.7113",
+    "0.7423",
+    "0.7216",
+    "0.7320"
+   ],
+   "answer": 1,
+   "explanation": "72/97 = 0.7423 = 74.23%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 73/97 as a percentage?",
+   "choices": [
+    "72.16%",
+    "73.20%",
+    "74.23%",
+    "75.26%"
+   ],
+   "answer": 3,
+   "explanation": "73/97 = 0.7526 = 75.26%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 73/97 as a decimal?",
+   "choices": [
+    "0.7216",
+    "0.7320",
+    "0.7526",
+    "0.7423"
+   ],
+   "answer": 2,
+   "explanation": "73/97 = 0.7526 = 75.26%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 74/97 as a percentage?",
+   "choices": [
+    "73.20%",
+    "76.29%",
+    "74.23%",
+    "75.26%"
+   ],
+   "answer": 1,
+   "explanation": "74/97 = 0.7629 = 76.29%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 74/97 as a decimal?",
+   "choices": [
+    "0.7320",
+    "0.7423",
+    "0.7629",
+    "0.7526"
+   ],
+   "answer": 2,
+   "explanation": "74/97 = 0.7629 = 76.29%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 75/97 as a percentage?",
+   "choices": [
+    "77.32%",
+    "74.23%",
+    "75.26%",
+    "76.29%"
+   ],
+   "answer": 0,
+   "explanation": "75/97 = 0.7732 = 77.32%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 75/97 as a decimal?",
+   "choices": [
+    "0.7423",
+    "0.7732",
+    "0.7526",
+    "0.7629"
+   ],
+   "answer": 1,
+   "explanation": "75/97 = 0.7732 = 77.32%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 76/97 as a percentage?",
+   "choices": [
+    "75.26%",
+    "76.29%",
+    "78.35%",
+    "77.32%"
+   ],
+   "answer": 2,
+   "explanation": "76/97 = 0.7835 = 78.35%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 76/97 as a decimal?",
+   "choices": [
+    "0.7526",
+    "0.7629",
+    "0.7835",
+    "0.7732"
+   ],
+   "answer": 2,
+   "explanation": "76/97 = 0.7835 = 78.35%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 77/97 as a percentage?",
+   "choices": [
+    "76.29%",
+    "77.32%",
+    "78.35%",
+    "79.38%"
+   ],
+   "answer": 3,
+   "explanation": "77/97 = 0.7938 = 79.38%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 77/97 as a decimal?",
+   "choices": [
+    "0.7629",
+    "0.7732",
+    "0.7835",
+    "0.7938"
+   ],
+   "answer": 3,
+   "explanation": "77/97 = 0.7938 = 79.38%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 78/97 as a percentage?",
+   "choices": [
+    "77.32%",
+    "80.41%",
+    "78.35%",
+    "79.38%"
+   ],
+   "answer": 1,
+   "explanation": "78/97 = 0.8041 = 80.41%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 78/97 as a decimal?",
+   "choices": [
+    "0.7732",
+    "0.8041",
+    "0.7835",
+    "0.7938"
+   ],
+   "answer": 1,
+   "explanation": "78/97 = 0.8041 = 80.41%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 79/97 as a percentage?",
+   "choices": [
+    "78.35%",
+    "79.38%",
+    "80.41%",
+    "81.44%"
+   ],
+   "answer": 3,
+   "explanation": "79/97 = 0.8144 = 81.44%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 79/97 as a decimal?",
+   "choices": [
+    "0.7835",
+    "0.7938",
+    "0.8041",
+    "0.8144"
+   ],
+   "answer": 3,
+   "explanation": "79/97 = 0.8144 = 81.44%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 80/97 as a percentage?",
+   "choices": [
+    "82.47%",
+    "79.38%",
+    "80.41%",
+    "81.44%"
+   ],
+   "answer": 0,
+   "explanation": "80/97 = 0.8247 = 82.47%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 80/97 as a decimal?",
+   "choices": [
+    "0.7938",
+    "0.8247",
+    "0.8041",
+    "0.8144"
+   ],
+   "answer": 1,
+   "explanation": "80/97 = 0.8247 = 82.47%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 81/97 as a percentage?",
+   "choices": [
+    "80.41%",
+    "83.51%",
+    "81.44%",
+    "82.47%"
+   ],
+   "answer": 1,
+   "explanation": "81/97 = 0.8351 = 83.51%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 81/97 as a decimal?",
+   "choices": [
+    "0.8351",
+    "0.8041",
+    "0.8144",
+    "0.8247"
+   ],
+   "answer": 0,
+   "explanation": "81/97 = 0.8351 = 83.51%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 82/97 as a percentage?",
+   "choices": [
+    "81.44%",
+    "84.54%",
+    "82.47%",
+    "83.51%"
+   ],
+   "answer": 1,
+   "explanation": "82/97 = 0.8454 = 84.54%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 82/97 as a decimal?",
+   "choices": [
+    "0.8454",
+    "0.8144",
+    "0.8247",
+    "0.8351"
+   ],
+   "answer": 0,
+   "explanation": "82/97 = 0.8454 = 84.54%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 83/97 as a percentage?",
+   "choices": [
+    "82.47%",
+    "85.57%",
+    "83.51%",
+    "84.54%"
+   ],
+   "answer": 1,
+   "explanation": "83/97 = 0.8557 = 85.57%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 83/97 as a decimal?",
+   "choices": [
+    "0.8247",
+    "0.8351",
+    "0.8557",
+    "0.8454"
+   ],
+   "answer": 2,
+   "explanation": "83/97 = 0.8557 = 85.57%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 84/97 as a percentage?",
+   "choices": [
+    "83.51%",
+    "84.54%",
+    "85.57%",
+    "86.60%"
+   ],
+   "answer": 3,
+   "explanation": "84/97 = 0.8660 = 86.60%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 84/97 as a decimal?",
+   "choices": [
+    "0.8660",
+    "0.8351",
+    "0.8454",
+    "0.8557"
+   ],
+   "answer": 0,
+   "explanation": "84/97 = 0.8660 = 86.60%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 85/97 as a percentage?",
+   "choices": [
+    "84.54%",
+    "85.57%",
+    "86.60%",
+    "87.63%"
+   ],
+   "answer": 3,
+   "explanation": "85/97 = 0.8763 = 87.63%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 85/97 as a decimal?",
+   "choices": [
+    "0.8454",
+    "0.8557",
+    "0.8763",
+    "0.8660"
+   ],
+   "answer": 2,
+   "explanation": "85/97 = 0.8763 = 87.63%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 86/97 as a percentage?",
+   "choices": [
+    "85.57%",
+    "86.60%",
+    "87.63%",
+    "88.66%"
+   ],
+   "answer": 3,
+   "explanation": "86/97 = 0.8866 = 88.66%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 86/97 as a decimal?",
+   "choices": [
+    "0.8866",
+    "0.8557",
+    "0.8660",
+    "0.8763"
+   ],
+   "answer": 0,
+   "explanation": "86/97 = 0.8866 = 88.66%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 87/97 as a percentage?",
+   "choices": [
+    "89.69%",
+    "86.60%",
+    "87.63%",
+    "88.66%"
+   ],
+   "answer": 0,
+   "explanation": "87/97 = 0.8969 = 89.69%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 87/97 as a decimal?",
+   "choices": [
+    "0.8660",
+    "0.8763",
+    "0.8969",
+    "0.8866"
+   ],
+   "answer": 2,
+   "explanation": "87/97 = 0.8969 = 89.69%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 88/97 as a percentage?",
+   "choices": [
+    "87.63%",
+    "90.72%",
+    "88.66%",
+    "89.69%"
+   ],
+   "answer": 1,
+   "explanation": "88/97 = 0.9072 = 90.72%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 88/97 as a decimal?",
+   "choices": [
+    "0.8763",
+    "0.8866",
+    "0.8969",
+    "0.9072"
+   ],
+   "answer": 3,
+   "explanation": "88/97 = 0.9072 = 90.72%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 89/97 as a percentage?",
+   "choices": [
+    "88.66%",
+    "89.69%",
+    "90.72%",
+    "91.75%"
+   ],
+   "answer": 3,
+   "explanation": "89/97 = 0.9175 = 91.75%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 89/97 as a decimal?",
+   "choices": [
+    "0.9175",
+    "0.8866",
+    "0.8969",
+    "0.9072"
+   ],
+   "answer": 0,
+   "explanation": "89/97 = 0.9175 = 91.75%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 90/97 as a percentage?",
+   "choices": [
+    "89.69%",
+    "90.72%",
+    "91.75%",
+    "92.78%"
+   ],
+   "answer": 3,
+   "explanation": "90/97 = 0.9278 = 92.78%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 90/97 as a decimal?",
+   "choices": [
+    "0.8969",
+    "0.9072",
+    "0.9175",
+    "0.9278"
+   ],
+   "answer": 3,
+   "explanation": "90/97 = 0.9278 = 92.78%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 91/97 as a percentage?",
+   "choices": [
+    "90.72%",
+    "91.75%",
+    "93.81%",
+    "92.78%"
+   ],
+   "answer": 2,
+   "explanation": "91/97 = 0.9381 = 93.81%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 91/97 as a decimal?",
+   "choices": [
+    "0.9072",
+    "0.9175",
+    "0.9278",
+    "0.9381"
+   ],
+   "answer": 3,
+   "explanation": "91/97 = 0.9381 = 93.81%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 92/97 as a percentage?",
+   "choices": [
+    "91.75%",
+    "92.78%",
+    "93.81%",
+    "94.85%"
+   ],
+   "answer": 3,
+   "explanation": "92/97 = 0.9485 = 94.85%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 92/97 as a decimal?",
+   "choices": [
+    "0.9175",
+    "0.9485",
+    "0.9278",
+    "0.9381"
+   ],
+   "answer": 1,
+   "explanation": "92/97 = 0.9485 = 94.85%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 93/97 as a percentage?",
+   "choices": [
+    "92.78%",
+    "93.81%",
+    "94.85%",
+    "95.88%"
+   ],
+   "answer": 3,
+   "explanation": "93/97 = 0.9588 = 95.88%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 93/97 as a decimal?",
+   "choices": [
+    "0.9278",
+    "0.9381",
+    "0.9485",
+    "0.9588"
+   ],
+   "answer": 3,
+   "explanation": "93/97 = 0.9588 = 95.88%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 94/97 as a percentage?",
+   "choices": [
+    "93.81%",
+    "94.85%",
+    "96.91%",
+    "95.88%"
+   ],
+   "answer": 2,
+   "explanation": "94/97 = 0.9691 = 96.91%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 94/97 as a decimal?",
+   "choices": [
+    "0.9381",
+    "0.9691",
+    "0.9485",
+    "0.9588"
+   ],
+   "answer": 1,
+   "explanation": "94/97 = 0.9691 = 96.91%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 95/97 as a percentage?",
+   "choices": [
+    "97.94%",
+    "94.85%",
+    "95.88%",
+    "96.91%"
+   ],
+   "answer": 0,
+   "explanation": "95/97 = 0.9794 = 97.94%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 95/97 as a decimal?",
+   "choices": [
+    "0.9485",
+    "0.9794",
+    "0.9588",
+    "0.9691"
+   ],
+   "answer": 1,
+   "explanation": "95/97 = 0.9794 = 97.94%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 96/97 as a percentage?",
+   "choices": [
+    "98.97%",
+    "95.88%",
+    "96.91%",
+    "97.94%"
+   ],
+   "answer": 0,
+   "explanation": "96/97 = 0.9897 = 98.97%",
+   "source": "X/97"
+  },
+  {
+   "question": "What is 96/97 as a decimal?",
+   "choices": [
+    "0.9588",
+    "0.9691",
+    "0.9897",
+    "0.9794"
+   ],
+   "answer": 2,
+   "explanation": "96/97 = 0.9897 = 98.97%",
+   "source": "X/97"
+  }
+ ]
+}

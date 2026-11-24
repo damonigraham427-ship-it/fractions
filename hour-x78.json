@@ -1,0 +1,1852 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/78 as a percentage?",
+   "choices": [
+    "2.56%",
+    "1.28%",
+    "3.85%",
+    "5.13%"
+   ],
+   "answer": 1,
+   "explanation": "1/78 = 0.0128 = 1.28%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 1/78 as a decimal?",
+   "choices": [
+    "0.0256",
+    "0.0385",
+    "0.0128",
+    "0.0513"
+   ],
+   "answer": 2,
+   "explanation": "1/78 = 0.0128 = 1.28%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 2/78 as a percentage?",
+   "choices": [
+    "1.28%",
+    "3.85%",
+    "5.13%",
+    "2.56%"
+   ],
+   "answer": 3,
+   "explanation": "2/78 = 0.0256 = 2.56%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 2/78 as a decimal?",
+   "choices": [
+    "0.0128",
+    "0.0256",
+    "0.0385",
+    "0.0513"
+   ],
+   "answer": 1,
+   "explanation": "2/78 = 0.0256 = 2.56%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 3/78 as a percentage?",
+   "choices": [
+    "3.85%",
+    "1.28%",
+    "2.56%",
+    "5.13%"
+   ],
+   "answer": 0,
+   "explanation": "3/78 = 0.0385 = 3.85%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 3/78 as a decimal?",
+   "choices": [
+    "0.0385",
+    "0.0128",
+    "0.0256",
+    "0.0513"
+   ],
+   "answer": 0,
+   "explanation": "3/78 = 0.0385 = 3.85%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 4/78 as a percentage?",
+   "choices": [
+    "1.28%",
+    "2.56%",
+    "5.13%",
+    "3.85%"
+   ],
+   "answer": 2,
+   "explanation": "4/78 = 0.0513 = 5.13%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 4/78 as a decimal?",
+   "choices": [
+    "0.0128",
+    "0.0256",
+    "0.0513",
+    "0.0385"
+   ],
+   "answer": 2,
+   "explanation": "4/78 = 0.0513 = 5.13%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 5/78 as a percentage?",
+   "choices": [
+    "2.56%",
+    "6.41%",
+    "3.85%",
+    "5.13%"
+   ],
+   "answer": 1,
+   "explanation": "5/78 = 0.0641 = 6.41%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 5/78 as a decimal?",
+   "choices": [
+    "0.0256",
+    "0.0385",
+    "0.0641",
+    "0.0513"
+   ],
+   "answer": 2,
+   "explanation": "5/78 = 0.0641 = 6.41%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 6/78 as a percentage?",
+   "choices": [
+    "3.85%",
+    "7.69%",
+    "5.13%",
+    "6.41%"
+   ],
+   "answer": 1,
+   "explanation": "6/78 = 0.0769 = 7.69%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 6/78 as a decimal?",
+   "choices": [
+    "0.0385",
+    "0.0513",
+    "0.0769",
+    "0.0641"
+   ],
+   "answer": 2,
+   "explanation": "6/78 = 0.0769 = 7.69%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 7/78 as a percentage?",
+   "choices": [
+    "5.13%",
+    "6.41%",
+    "8.97%",
+    "7.69%"
+   ],
+   "answer": 2,
+   "explanation": "7/78 = 0.0897 = 8.97%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 7/78 as a decimal?",
+   "choices": [
+    "0.0897",
+    "0.0513",
+    "0.0641",
+    "0.0769"
+   ],
+   "answer": 0,
+   "explanation": "7/78 = 0.0897 = 8.97%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 8/78 as a percentage?",
+   "choices": [
+    "6.41%",
+    "10.26%",
+    "7.69%",
+    "8.97%"
+   ],
+   "answer": 1,
+   "explanation": "8/78 = 0.1026 = 10.26%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 8/78 as a decimal?",
+   "choices": [
+    "0.1026",
+    "0.0641",
+    "0.0769",
+    "0.0897"
+   ],
+   "answer": 0,
+   "explanation": "8/78 = 0.1026 = 10.26%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 9/78 as a percentage?",
+   "choices": [
+    "11.54%",
+    "7.69%",
+    "8.97%",
+    "10.26%"
+   ],
+   "answer": 0,
+   "explanation": "9/78 = 0.1154 = 11.54%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 9/78 as a decimal?",
+   "choices": [
+    "0.0769",
+    "0.0897",
+    "0.1026",
+    "0.1154"
+   ],
+   "answer": 3,
+   "explanation": "9/78 = 0.1154 = 11.54%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 10/78 as a percentage?",
+   "choices": [
+    "8.97%",
+    "12.82%",
+    "10.26%",
+    "11.54%"
+   ],
+   "answer": 1,
+   "explanation": "10/78 = 0.1282 = 12.82%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 10/78 as a decimal?",
+   "choices": [
+    "0.1282",
+    "0.0897",
+    "0.1026",
+    "0.1154"
+   ],
+   "answer": 0,
+   "explanation": "10/78 = 0.1282 = 12.82%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 11/78 as a percentage?",
+   "choices": [
+    "10.26%",
+    "11.54%",
+    "14.10%",
+    "12.82%"
+   ],
+   "answer": 2,
+   "explanation": "11/78 = 0.1410 = 14.10%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 11/78 as a decimal?",
+   "choices": [
+    "0.1026",
+    "0.1154",
+    "0.1410",
+    "0.1282"
+   ],
+   "answer": 2,
+   "explanation": "11/78 = 0.1410 = 14.10%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 12/78 as a percentage?",
+   "choices": [
+    "11.54%",
+    "12.82%",
+    "14.10%",
+    "15.38%"
+   ],
+   "answer": 3,
+   "explanation": "12/78 = 0.1538 = 15.38%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 12/78 as a decimal?",
+   "choices": [
+    "0.1154",
+    "0.1282",
+    "0.1410",
+    "0.1538"
+   ],
+   "answer": 3,
+   "explanation": "12/78 = 0.1538 = 15.38%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 13/78 as a percentage?",
+   "choices": [
+    "12.82%",
+    "14.10%",
+    "15.38%",
+    "16.67%"
+   ],
+   "answer": 3,
+   "explanation": "13/78 = 0.1667 = 16.67%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 13/78 as a decimal?",
+   "choices": [
+    "0.1282",
+    "0.1410",
+    "0.1667",
+    "0.1538"
+   ],
+   "answer": 2,
+   "explanation": "13/78 = 0.1667 = 16.67%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 14/78 as a percentage?",
+   "choices": [
+    "14.10%",
+    "15.38%",
+    "16.67%",
+    "17.95%"
+   ],
+   "answer": 3,
+   "explanation": "14/78 = 0.1795 = 17.95%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 14/78 as a decimal?",
+   "choices": [
+    "0.1795",
+    "0.1410",
+    "0.1538",
+    "0.1667"
+   ],
+   "answer": 0,
+   "explanation": "14/78 = 0.1795 = 17.95%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 15/78 as a percentage?",
+   "choices": [
+    "15.38%",
+    "16.67%",
+    "17.95%",
+    "19.23%"
+   ],
+   "answer": 3,
+   "explanation": "15/78 = 0.1923 = 19.23%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 15/78 as a decimal?",
+   "choices": [
+    "0.1538",
+    "0.1923",
+    "0.1667",
+    "0.1795"
+   ],
+   "answer": 1,
+   "explanation": "15/78 = 0.1923 = 19.23%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 16/78 as a percentage?",
+   "choices": [
+    "20.51%",
+    "16.67%",
+    "17.95%",
+    "19.23%"
+   ],
+   "answer": 0,
+   "explanation": "16/78 = 0.2051 = 20.51%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 16/78 as a decimal?",
+   "choices": [
+    "0.1667",
+    "0.1795",
+    "0.2051",
+    "0.1923"
+   ],
+   "answer": 2,
+   "explanation": "16/78 = 0.2051 = 20.51%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 17/78 as a percentage?",
+   "choices": [
+    "21.79%",
+    "17.95%",
+    "19.23%",
+    "20.51%"
+   ],
+   "answer": 0,
+   "explanation": "17/78 = 0.2179 = 21.79%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 17/78 as a decimal?",
+   "choices": [
+    "0.1795",
+    "0.1923",
+    "0.2179",
+    "0.2051"
+   ],
+   "answer": 2,
+   "explanation": "17/78 = 0.2179 = 21.79%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 18/78 as a percentage?",
+   "choices": [
+    "19.23%",
+    "20.51%",
+    "23.08%",
+    "21.79%"
+   ],
+   "answer": 2,
+   "explanation": "18/78 = 0.2308 = 23.08%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 18/78 as a decimal?",
+   "choices": [
+    "0.1923",
+    "0.2308",
+    "0.2051",
+    "0.2179"
+   ],
+   "answer": 1,
+   "explanation": "18/78 = 0.2308 = 23.08%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 19/78 as a percentage?",
+   "choices": [
+    "20.51%",
+    "21.79%",
+    "23.08%",
+    "24.36%"
+   ],
+   "answer": 3,
+   "explanation": "19/78 = 0.2436 = 24.36%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 19/78 as a decimal?",
+   "choices": [
+    "0.2436",
+    "0.2051",
+    "0.2179",
+    "0.2308"
+   ],
+   "answer": 0,
+   "explanation": "19/78 = 0.2436 = 24.36%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 20/78 as a percentage?",
+   "choices": [
+    "25.64%",
+    "21.79%",
+    "23.08%",
+    "24.36%"
+   ],
+   "answer": 0,
+   "explanation": "20/78 = 0.2564 = 25.64%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 20/78 as a decimal?",
+   "choices": [
+    "0.2564",
+    "0.2179",
+    "0.2308",
+    "0.2436"
+   ],
+   "answer": 0,
+   "explanation": "20/78 = 0.2564 = 25.64%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 21/78 as a percentage?",
+   "choices": [
+    "23.08%",
+    "24.36%",
+    "26.92%",
+    "25.64%"
+   ],
+   "answer": 2,
+   "explanation": "21/78 = 0.2692 = 26.92%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 21/78 as a decimal?",
+   "choices": [
+    "0.2308",
+    "0.2436",
+    "0.2564",
+    "0.2692"
+   ],
+   "answer": 3,
+   "explanation": "21/78 = 0.2692 = 26.92%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 22/78 as a percentage?",
+   "choices": [
+    "24.36%",
+    "25.64%",
+    "26.92%",
+    "28.21%"
+   ],
+   "answer": 3,
+   "explanation": "22/78 = 0.2821 = 28.21%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 22/78 as a decimal?",
+   "choices": [
+    "0.2436",
+    "0.2564",
+    "0.2692",
+    "0.2821"
+   ],
+   "answer": 3,
+   "explanation": "22/78 = 0.2821 = 28.21%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 23/78 as a percentage?",
+   "choices": [
+    "25.64%",
+    "29.49%",
+    "26.92%",
+    "28.21%"
+   ],
+   "answer": 1,
+   "explanation": "23/78 = 0.2949 = 29.49%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 23/78 as a decimal?",
+   "choices": [
+    "0.2564",
+    "0.2692",
+    "0.2821",
+    "0.2949"
+   ],
+   "answer": 3,
+   "explanation": "23/78 = 0.2949 = 29.49%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 24/78 as a percentage?",
+   "choices": [
+    "26.92%",
+    "30.77%",
+    "28.21%",
+    "29.49%"
+   ],
+   "answer": 1,
+   "explanation": "24/78 = 0.3077 = 30.77%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 24/78 as a decimal?",
+   "choices": [
+    "0.2692",
+    "0.2821",
+    "0.2949",
+    "0.3077"
+   ],
+   "answer": 3,
+   "explanation": "24/78 = 0.3077 = 30.77%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 25/78 as a percentage?",
+   "choices": [
+    "28.21%",
+    "29.49%",
+    "30.77%",
+    "32.05%"
+   ],
+   "answer": 3,
+   "explanation": "25/78 = 0.3205 = 32.05%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 25/78 as a decimal?",
+   "choices": [
+    "0.2821",
+    "0.3205",
+    "0.2949",
+    "0.3077"
+   ],
+   "answer": 1,
+   "explanation": "25/78 = 0.3205 = 32.05%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 26/78 as a percentage?",
+   "choices": [
+    "29.49%",
+    "30.77%",
+    "32.05%",
+    "33.33%"
+   ],
+   "answer": 3,
+   "explanation": "26/78 = 0.3333 = 33.33%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 26/78 as a decimal?",
+   "choices": [
+    "0.2949",
+    "0.3077",
+    "0.3333",
+    "0.3205"
+   ],
+   "answer": 2,
+   "explanation": "26/78 = 0.3333 = 33.33%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 27/78 as a percentage?",
+   "choices": [
+    "30.77%",
+    "32.05%",
+    "34.62%",
+    "33.33%"
+   ],
+   "answer": 2,
+   "explanation": "27/78 = 0.3462 = 34.62%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 27/78 as a decimal?",
+   "choices": [
+    "0.3077",
+    "0.3205",
+    "0.3333",
+    "0.3462"
+   ],
+   "answer": 3,
+   "explanation": "27/78 = 0.3462 = 34.62%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 28/78 as a percentage?",
+   "choices": [
+    "35.90%",
+    "32.05%",
+    "33.33%",
+    "34.62%"
+   ],
+   "answer": 0,
+   "explanation": "28/78 = 0.3590 = 35.90%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 28/78 as a decimal?",
+   "choices": [
+    "0.3205",
+    "0.3333",
+    "0.3590",
+    "0.3462"
+   ],
+   "answer": 2,
+   "explanation": "28/78 = 0.3590 = 35.90%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 29/78 as a percentage?",
+   "choices": [
+    "37.18%",
+    "33.33%",
+    "34.62%",
+    "35.90%"
+   ],
+   "answer": 0,
+   "explanation": "29/78 = 0.3718 = 37.18%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 29/78 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.3462",
+    "0.3718",
+    "0.3590"
+   ],
+   "answer": 2,
+   "explanation": "29/78 = 0.3718 = 37.18%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 30/78 as a percentage?",
+   "choices": [
+    "34.62%",
+    "35.90%",
+    "37.18%",
+    "38.46%"
+   ],
+   "answer": 3,
+   "explanation": "30/78 = 0.3846 = 38.46%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 30/78 as a decimal?",
+   "choices": [
+    "0.3846",
+    "0.3462",
+    "0.3590",
+    "0.3718"
+   ],
+   "answer": 0,
+   "explanation": "30/78 = 0.3846 = 38.46%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 31/78 as a percentage?",
+   "choices": [
+    "35.90%",
+    "37.18%",
+    "38.46%",
+    "39.74%"
+   ],
+   "answer": 3,
+   "explanation": "31/78 = 0.3974 = 39.74%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 31/78 as a decimal?",
+   "choices": [
+    "0.3590",
+    "0.3718",
+    "0.3974",
+    "0.3846"
+   ],
+   "answer": 2,
+   "explanation": "31/78 = 0.3974 = 39.74%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 32/78 as a percentage?",
+   "choices": [
+    "37.18%",
+    "38.46%",
+    "41.03%",
+    "39.74%"
+   ],
+   "answer": 2,
+   "explanation": "32/78 = 0.4103 = 41.03%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 32/78 as a decimal?",
+   "choices": [
+    "0.4103",
+    "0.3718",
+    "0.3846",
+    "0.3974"
+   ],
+   "answer": 0,
+   "explanation": "32/78 = 0.4103 = 41.03%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 33/78 as a percentage?",
+   "choices": [
+    "38.46%",
+    "42.31%",
+    "39.74%",
+    "41.03%"
+   ],
+   "answer": 1,
+   "explanation": "33/78 = 0.4231 = 42.31%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 33/78 as a decimal?",
+   "choices": [
+    "0.3846",
+    "0.4231",
+    "0.3974",
+    "0.4103"
+   ],
+   "answer": 1,
+   "explanation": "33/78 = 0.4231 = 42.31%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 34/78 as a percentage?",
+   "choices": [
+    "39.74%",
+    "41.03%",
+    "43.59%",
+    "42.31%"
+   ],
+   "answer": 2,
+   "explanation": "34/78 = 0.4359 = 43.59%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 34/78 as a decimal?",
+   "choices": [
+    "0.3974",
+    "0.4359",
+    "0.4103",
+    "0.4231"
+   ],
+   "answer": 1,
+   "explanation": "34/78 = 0.4359 = 43.59%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 35/78 as a percentage?",
+   "choices": [
+    "41.03%",
+    "42.31%",
+    "44.87%",
+    "43.59%"
+   ],
+   "answer": 2,
+   "explanation": "35/78 = 0.4487 = 44.87%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 35/78 as a decimal?",
+   "choices": [
+    "0.4103",
+    "0.4231",
+    "0.4487",
+    "0.4359"
+   ],
+   "answer": 2,
+   "explanation": "35/78 = 0.4487 = 44.87%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 36/78 as a percentage?",
+   "choices": [
+    "42.31%",
+    "43.59%",
+    "46.15%",
+    "44.87%"
+   ],
+   "answer": 2,
+   "explanation": "36/78 = 0.4615 = 46.15%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 36/78 as a decimal?",
+   "choices": [
+    "0.4231",
+    "0.4359",
+    "0.4487",
+    "0.4615"
+   ],
+   "answer": 3,
+   "explanation": "36/78 = 0.4615 = 46.15%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 37/78 as a percentage?",
+   "choices": [
+    "43.59%",
+    "47.44%",
+    "44.87%",
+    "46.15%"
+   ],
+   "answer": 1,
+   "explanation": "37/78 = 0.4744 = 47.44%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 37/78 as a decimal?",
+   "choices": [
+    "0.4744",
+    "0.4359",
+    "0.4487",
+    "0.4615"
+   ],
+   "answer": 0,
+   "explanation": "37/78 = 0.4744 = 47.44%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 38/78 as a percentage?",
+   "choices": [
+    "48.72%",
+    "44.87%",
+    "46.15%",
+    "47.44%"
+   ],
+   "answer": 0,
+   "explanation": "38/78 = 0.4872 = 48.72%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 38/78 as a decimal?",
+   "choices": [
+    "0.4487",
+    "0.4615",
+    "0.4744",
+    "0.4872"
+   ],
+   "answer": 3,
+   "explanation": "38/78 = 0.4872 = 48.72%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 39/78 as a percentage?",
+   "choices": [
+    "50.00%",
+    "46.15%",
+    "47.44%",
+    "48.72%"
+   ],
+   "answer": 0,
+   "explanation": "39/78 = 0.5000 = 50.00%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 39/78 as a decimal?",
+   "choices": [
+    "0.5000",
+    "0.4615",
+    "0.4744",
+    "0.4872"
+   ],
+   "answer": 0,
+   "explanation": "39/78 = 0.5000 = 50.00%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 40/78 as a percentage?",
+   "choices": [
+    "47.44%",
+    "51.28%",
+    "48.72%",
+    "50.00%"
+   ],
+   "answer": 1,
+   "explanation": "40/78 = 0.5128 = 51.28%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 40/78 as a decimal?",
+   "choices": [
+    "0.4744",
+    "0.4872",
+    "0.5128",
+    "0.5000"
+   ],
+   "answer": 2,
+   "explanation": "40/78 = 0.5128 = 51.28%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 41/78 as a percentage?",
+   "choices": [
+    "52.56%",
+    "48.72%",
+    "50.00%",
+    "51.28%"
+   ],
+   "answer": 0,
+   "explanation": "41/78 = 0.5256 = 52.56%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 41/78 as a decimal?",
+   "choices": [
+    "0.4872",
+    "0.5000",
+    "0.5128",
+    "0.5256"
+   ],
+   "answer": 3,
+   "explanation": "41/78 = 0.5256 = 52.56%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 42/78 as a percentage?",
+   "choices": [
+    "50.00%",
+    "51.28%",
+    "53.85%",
+    "52.56%"
+   ],
+   "answer": 2,
+   "explanation": "42/78 = 0.5385 = 53.85%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 42/78 as a decimal?",
+   "choices": [
+    "0.5000",
+    "0.5128",
+    "0.5256",
+    "0.5385"
+   ],
+   "answer": 3,
+   "explanation": "42/78 = 0.5385 = 53.85%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 43/78 as a percentage?",
+   "choices": [
+    "55.13%",
+    "51.28%",
+    "52.56%",
+    "53.85%"
+   ],
+   "answer": 0,
+   "explanation": "43/78 = 0.5513 = 55.13%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 43/78 as a decimal?",
+   "choices": [
+    "0.5128",
+    "0.5513",
+    "0.5256",
+    "0.5385"
+   ],
+   "answer": 1,
+   "explanation": "43/78 = 0.5513 = 55.13%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 44/78 as a percentage?",
+   "choices": [
+    "52.56%",
+    "53.85%",
+    "55.13%",
+    "56.41%"
+   ],
+   "answer": 3,
+   "explanation": "44/78 = 0.5641 = 56.41%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 44/78 as a decimal?",
+   "choices": [
+    "0.5256",
+    "0.5641",
+    "0.5385",
+    "0.5513"
+   ],
+   "answer": 1,
+   "explanation": "44/78 = 0.5641 = 56.41%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 45/78 as a percentage?",
+   "choices": [
+    "53.85%",
+    "55.13%",
+    "57.69%",
+    "56.41%"
+   ],
+   "answer": 2,
+   "explanation": "45/78 = 0.5769 = 57.69%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 45/78 as a decimal?",
+   "choices": [
+    "0.5385",
+    "0.5769",
+    "0.5513",
+    "0.5641"
+   ],
+   "answer": 1,
+   "explanation": "45/78 = 0.5769 = 57.69%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 46/78 as a percentage?",
+   "choices": [
+    "55.13%",
+    "58.97%",
+    "56.41%",
+    "57.69%"
+   ],
+   "answer": 1,
+   "explanation": "46/78 = 0.5897 = 58.97%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 46/78 as a decimal?",
+   "choices": [
+    "0.5513",
+    "0.5897",
+    "0.5641",
+    "0.5769"
+   ],
+   "answer": 1,
+   "explanation": "46/78 = 0.5897 = 58.97%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 47/78 as a percentage?",
+   "choices": [
+    "56.41%",
+    "57.69%",
+    "60.26%",
+    "58.97%"
+   ],
+   "answer": 2,
+   "explanation": "47/78 = 0.6026 = 60.26%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 47/78 as a decimal?",
+   "choices": [
+    "0.5641",
+    "0.5769",
+    "0.6026",
+    "0.5897"
+   ],
+   "answer": 2,
+   "explanation": "47/78 = 0.6026 = 60.26%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 48/78 as a percentage?",
+   "choices": [
+    "57.69%",
+    "61.54%",
+    "58.97%",
+    "60.26%"
+   ],
+   "answer": 1,
+   "explanation": "48/78 = 0.6154 = 61.54%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 48/78 as a decimal?",
+   "choices": [
+    "0.6154",
+    "0.5769",
+    "0.5897",
+    "0.6026"
+   ],
+   "answer": 0,
+   "explanation": "48/78 = 0.6154 = 61.54%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 49/78 as a percentage?",
+   "choices": [
+    "62.82%",
+    "58.97%",
+    "60.26%",
+    "61.54%"
+   ],
+   "answer": 0,
+   "explanation": "49/78 = 0.6282 = 62.82%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 49/78 as a decimal?",
+   "choices": [
+    "0.5897",
+    "0.6026",
+    "0.6282",
+    "0.6154"
+   ],
+   "answer": 2,
+   "explanation": "49/78 = 0.6282 = 62.82%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 50/78 as a percentage?",
+   "choices": [
+    "60.26%",
+    "61.54%",
+    "62.82%",
+    "64.10%"
+   ],
+   "answer": 3,
+   "explanation": "50/78 = 0.6410 = 64.10%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 50/78 as a decimal?",
+   "choices": [
+    "0.6026",
+    "0.6154",
+    "0.6410",
+    "0.6282"
+   ],
+   "answer": 2,
+   "explanation": "50/78 = 0.6410 = 64.10%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 51/78 as a percentage?",
+   "choices": [
+    "61.54%",
+    "65.38%",
+    "62.82%",
+    "64.10%"
+   ],
+   "answer": 1,
+   "explanation": "51/78 = 0.6538 = 65.38%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 51/78 as a decimal?",
+   "choices": [
+    "0.6538",
+    "0.6154",
+    "0.6282",
+    "0.6410"
+   ],
+   "answer": 0,
+   "explanation": "51/78 = 0.6538 = 65.38%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 52/78 as a percentage?",
+   "choices": [
+    "62.82%",
+    "64.10%",
+    "65.38%",
+    "66.67%"
+   ],
+   "answer": 3,
+   "explanation": "52/78 = 0.6667 = 66.67%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 52/78 as a decimal?",
+   "choices": [
+    "0.6282",
+    "0.6410",
+    "0.6538",
+    "0.6667"
+   ],
+   "answer": 3,
+   "explanation": "52/78 = 0.6667 = 66.67%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 53/78 as a percentage?",
+   "choices": [
+    "64.10%",
+    "67.95%",
+    "65.38%",
+    "66.67%"
+   ],
+   "answer": 1,
+   "explanation": "53/78 = 0.6795 = 67.95%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 53/78 as a decimal?",
+   "choices": [
+    "0.6410",
+    "0.6795",
+    "0.6538",
+    "0.6667"
+   ],
+   "answer": 1,
+   "explanation": "53/78 = 0.6795 = 67.95%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 54/78 as a percentage?",
+   "choices": [
+    "65.38%",
+    "69.23%",
+    "66.67%",
+    "67.95%"
+   ],
+   "answer": 1,
+   "explanation": "54/78 = 0.6923 = 69.23%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 54/78 as a decimal?",
+   "choices": [
+    "0.6538",
+    "0.6667",
+    "0.6923",
+    "0.6795"
+   ],
+   "answer": 2,
+   "explanation": "54/78 = 0.6923 = 69.23%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 55/78 as a percentage?",
+   "choices": [
+    "70.51%",
+    "66.67%",
+    "67.95%",
+    "69.23%"
+   ],
+   "answer": 0,
+   "explanation": "55/78 = 0.7051 = 70.51%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 55/78 as a decimal?",
+   "choices": [
+    "0.7051",
+    "0.6667",
+    "0.6795",
+    "0.6923"
+   ],
+   "answer": 0,
+   "explanation": "55/78 = 0.7051 = 70.51%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 56/78 as a percentage?",
+   "choices": [
+    "71.79%",
+    "67.95%",
+    "69.23%",
+    "70.51%"
+   ],
+   "answer": 0,
+   "explanation": "56/78 = 0.7179 = 71.79%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 56/78 as a decimal?",
+   "choices": [
+    "0.6795",
+    "0.6923",
+    "0.7179",
+    "0.7051"
+   ],
+   "answer": 2,
+   "explanation": "56/78 = 0.7179 = 71.79%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 57/78 as a percentage?",
+   "choices": [
+    "69.23%",
+    "73.08%",
+    "70.51%",
+    "71.79%"
+   ],
+   "answer": 1,
+   "explanation": "57/78 = 0.7308 = 73.08%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 57/78 as a decimal?",
+   "choices": [
+    "0.6923",
+    "0.7051",
+    "0.7308",
+    "0.7179"
+   ],
+   "answer": 2,
+   "explanation": "57/78 = 0.7308 = 73.08%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 58/78 as a percentage?",
+   "choices": [
+    "70.51%",
+    "71.79%",
+    "74.36%",
+    "73.08%"
+   ],
+   "answer": 2,
+   "explanation": "58/78 = 0.7436 = 74.36%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 58/78 as a decimal?",
+   "choices": [
+    "0.7436",
+    "0.7051",
+    "0.7179",
+    "0.7308"
+   ],
+   "answer": 0,
+   "explanation": "58/78 = 0.7436 = 74.36%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 59/78 as a percentage?",
+   "choices": [
+    "71.79%",
+    "73.08%",
+    "74.36%",
+    "75.64%"
+   ],
+   "answer": 3,
+   "explanation": "59/78 = 0.7564 = 75.64%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 59/78 as a decimal?",
+   "choices": [
+    "0.7179",
+    "0.7564",
+    "0.7308",
+    "0.7436"
+   ],
+   "answer": 1,
+   "explanation": "59/78 = 0.7564 = 75.64%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 60/78 as a percentage?",
+   "choices": [
+    "73.08%",
+    "74.36%",
+    "75.64%",
+    "76.92%"
+   ],
+   "answer": 3,
+   "explanation": "60/78 = 0.7692 = 76.92%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 60/78 as a decimal?",
+   "choices": [
+    "0.7308",
+    "0.7692",
+    "0.7436",
+    "0.7564"
+   ],
+   "answer": 1,
+   "explanation": "60/78 = 0.7692 = 76.92%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 61/78 as a percentage?",
+   "choices": [
+    "78.21%",
+    "74.36%",
+    "75.64%",
+    "76.92%"
+   ],
+   "answer": 0,
+   "explanation": "61/78 = 0.7821 = 78.21%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 61/78 as a decimal?",
+   "choices": [
+    "0.7821",
+    "0.7436",
+    "0.7564",
+    "0.7692"
+   ],
+   "answer": 0,
+   "explanation": "61/78 = 0.7821 = 78.21%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 62/78 as a percentage?",
+   "choices": [
+    "79.49%",
+    "75.64%",
+    "76.92%",
+    "78.21%"
+   ],
+   "answer": 0,
+   "explanation": "62/78 = 0.7949 = 79.49%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 62/78 as a decimal?",
+   "choices": [
+    "0.7564",
+    "0.7692",
+    "0.7821",
+    "0.7949"
+   ],
+   "answer": 3,
+   "explanation": "62/78 = 0.7949 = 79.49%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 63/78 as a percentage?",
+   "choices": [
+    "76.92%",
+    "80.77%",
+    "78.21%",
+    "79.49%"
+   ],
+   "answer": 1,
+   "explanation": "63/78 = 0.8077 = 80.77%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 63/78 as a decimal?",
+   "choices": [
+    "0.7692",
+    "0.7821",
+    "0.7949",
+    "0.8077"
+   ],
+   "answer": 3,
+   "explanation": "63/78 = 0.8077 = 80.77%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 64/78 as a percentage?",
+   "choices": [
+    "78.21%",
+    "79.49%",
+    "80.77%",
+    "82.05%"
+   ],
+   "answer": 3,
+   "explanation": "64/78 = 0.8205 = 82.05%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 64/78 as a decimal?",
+   "choices": [
+    "0.7821",
+    "0.8205",
+    "0.7949",
+    "0.8077"
+   ],
+   "answer": 1,
+   "explanation": "64/78 = 0.8205 = 82.05%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 65/78 as a percentage?",
+   "choices": [
+    "79.49%",
+    "80.77%",
+    "83.33%",
+    "82.05%"
+   ],
+   "answer": 2,
+   "explanation": "65/78 = 0.8333 = 83.33%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 65/78 as a decimal?",
+   "choices": [
+    "0.8333",
+    "0.7949",
+    "0.8077",
+    "0.8205"
+   ],
+   "answer": 0,
+   "explanation": "65/78 = 0.8333 = 83.33%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 66/78 as a percentage?",
+   "choices": [
+    "80.77%",
+    "84.62%",
+    "82.05%",
+    "83.33%"
+   ],
+   "answer": 1,
+   "explanation": "66/78 = 0.8462 = 84.62%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 66/78 as a decimal?",
+   "choices": [
+    "0.8077",
+    "0.8205",
+    "0.8462",
+    "0.8333"
+   ],
+   "answer": 2,
+   "explanation": "66/78 = 0.8462 = 84.62%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 67/78 as a percentage?",
+   "choices": [
+    "82.05%",
+    "83.33%",
+    "84.62%",
+    "85.90%"
+   ],
+   "answer": 3,
+   "explanation": "67/78 = 0.8590 = 85.90%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 67/78 as a decimal?",
+   "choices": [
+    "0.8205",
+    "0.8333",
+    "0.8590",
+    "0.8462"
+   ],
+   "answer": 2,
+   "explanation": "67/78 = 0.8590 = 85.90%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 68/78 as a percentage?",
+   "choices": [
+    "83.33%",
+    "84.62%",
+    "85.90%",
+    "87.18%"
+   ],
+   "answer": 3,
+   "explanation": "68/78 = 0.8718 = 87.18%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 68/78 as a decimal?",
+   "choices": [
+    "0.8333",
+    "0.8462",
+    "0.8590",
+    "0.8718"
+   ],
+   "answer": 3,
+   "explanation": "68/78 = 0.8718 = 87.18%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 69/78 as a percentage?",
+   "choices": [
+    "84.62%",
+    "85.90%",
+    "88.46%",
+    "87.18%"
+   ],
+   "answer": 2,
+   "explanation": "69/78 = 0.8846 = 88.46%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 69/78 as a decimal?",
+   "choices": [
+    "0.8462",
+    "0.8846",
+    "0.8590",
+    "0.8718"
+   ],
+   "answer": 1,
+   "explanation": "69/78 = 0.8846 = 88.46%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 70/78 as a percentage?",
+   "choices": [
+    "85.90%",
+    "87.18%",
+    "88.46%",
+    "89.74%"
+   ],
+   "answer": 3,
+   "explanation": "70/78 = 0.8974 = 89.74%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 70/78 as a decimal?",
+   "choices": [
+    "0.8590",
+    "0.8718",
+    "0.8846",
+    "0.8974"
+   ],
+   "answer": 3,
+   "explanation": "70/78 = 0.8974 = 89.74%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 71/78 as a percentage?",
+   "choices": [
+    "87.18%",
+    "88.46%",
+    "89.74%",
+    "91.03%"
+   ],
+   "answer": 3,
+   "explanation": "71/78 = 0.9103 = 91.03%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 71/78 as a decimal?",
+   "choices": [
+    "0.8718",
+    "0.9103",
+    "0.8846",
+    "0.8974"
+   ],
+   "answer": 1,
+   "explanation": "71/78 = 0.9103 = 91.03%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 72/78 as a percentage?",
+   "choices": [
+    "88.46%",
+    "89.74%",
+    "92.31%",
+    "91.03%"
+   ],
+   "answer": 2,
+   "explanation": "72/78 = 0.9231 = 92.31%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 72/78 as a decimal?",
+   "choices": [
+    "0.9231",
+    "0.8846",
+    "0.8974",
+    "0.9103"
+   ],
+   "answer": 0,
+   "explanation": "72/78 = 0.9231 = 92.31%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 73/78 as a percentage?",
+   "choices": [
+    "89.74%",
+    "91.03%",
+    "93.59%",
+    "92.31%"
+   ],
+   "answer": 2,
+   "explanation": "73/78 = 0.9359 = 93.59%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 73/78 as a decimal?",
+   "choices": [
+    "0.8974",
+    "0.9103",
+    "0.9231",
+    "0.9359"
+   ],
+   "answer": 3,
+   "explanation": "73/78 = 0.9359 = 93.59%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 74/78 as a percentage?",
+   "choices": [
+    "91.03%",
+    "92.31%",
+    "93.59%",
+    "94.87%"
+   ],
+   "answer": 3,
+   "explanation": "74/78 = 0.9487 = 94.87%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 74/78 as a decimal?",
+   "choices": [
+    "0.9103",
+    "0.9487",
+    "0.9231",
+    "0.9359"
+   ],
+   "answer": 1,
+   "explanation": "74/78 = 0.9487 = 94.87%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 75/78 as a percentage?",
+   "choices": [
+    "92.31%",
+    "93.59%",
+    "96.15%",
+    "94.87%"
+   ],
+   "answer": 2,
+   "explanation": "75/78 = 0.9615 = 96.15%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 75/78 as a decimal?",
+   "choices": [
+    "0.9231",
+    "0.9359",
+    "0.9487",
+    "0.9615"
+   ],
+   "answer": 3,
+   "explanation": "75/78 = 0.9615 = 96.15%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 76/78 as a percentage?",
+   "choices": [
+    "97.44%",
+    "93.59%",
+    "94.87%",
+    "96.15%"
+   ],
+   "answer": 0,
+   "explanation": "76/78 = 0.9744 = 97.44%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 76/78 as a decimal?",
+   "choices": [
+    "0.9744",
+    "0.9359",
+    "0.9487",
+    "0.9615"
+   ],
+   "answer": 0,
+   "explanation": "76/78 = 0.9744 = 97.44%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 77/78 as a percentage?",
+   "choices": [
+    "98.72%",
+    "94.87%",
+    "96.15%",
+    "97.44%"
+   ],
+   "answer": 0,
+   "explanation": "77/78 = 0.9872 = 98.72%",
+   "source": "X/78"
+  },
+  {
+   "question": "What is 77/78 as a decimal?",
+   "choices": [
+    "0.9872",
+    "0.9487",
+    "0.9615",
+    "0.9744"
+   ],
+   "answer": 0,
+   "explanation": "77/78 = 0.9872 = 98.72%",
+   "source": "X/78"
+  }
+ ]
+}

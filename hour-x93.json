@@ -1,0 +1,2212 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/93 as a percentage?",
+   "choices": [
+    "2.15%",
+    "3.23%",
+    "1.08%",
+    "4.30%"
+   ],
+   "answer": 2,
+   "explanation": "1/93 = 0.0108 = 1.08%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 1/93 as a decimal?",
+   "choices": [
+    "0.0215",
+    "0.0108",
+    "0.0323",
+    "0.0430"
+   ],
+   "answer": 1,
+   "explanation": "1/93 = 0.0108 = 1.08%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 2/93 as a percentage?",
+   "choices": [
+    "1.08%",
+    "3.23%",
+    "2.15%",
+    "4.30%"
+   ],
+   "answer": 2,
+   "explanation": "2/93 = 0.0215 = 2.15%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 2/93 as a decimal?",
+   "choices": [
+    "0.0215",
+    "0.0108",
+    "0.0323",
+    "0.0430"
+   ],
+   "answer": 0,
+   "explanation": "2/93 = 0.0215 = 2.15%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 3/93 as a percentage?",
+   "choices": [
+    "3.23%",
+    "1.08%",
+    "2.15%",
+    "4.30%"
+   ],
+   "answer": 0,
+   "explanation": "3/93 = 0.0323 = 3.23%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 3/93 as a decimal?",
+   "choices": [
+    "0.0108",
+    "0.0215",
+    "0.0323",
+    "0.0430"
+   ],
+   "answer": 2,
+   "explanation": "3/93 = 0.0323 = 3.23%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 4/93 as a percentage?",
+   "choices": [
+    "1.08%",
+    "4.30%",
+    "2.15%",
+    "3.23%"
+   ],
+   "answer": 1,
+   "explanation": "4/93 = 0.0430 = 4.30%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 4/93 as a decimal?",
+   "choices": [
+    "0.0108",
+    "0.0430",
+    "0.0215",
+    "0.0323"
+   ],
+   "answer": 1,
+   "explanation": "4/93 = 0.0430 = 4.30%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 5/93 as a percentage?",
+   "choices": [
+    "2.15%",
+    "5.38%",
+    "3.23%",
+    "4.30%"
+   ],
+   "answer": 1,
+   "explanation": "5/93 = 0.0538 = 5.38%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 5/93 as a decimal?",
+   "choices": [
+    "0.0538",
+    "0.0215",
+    "0.0323",
+    "0.0430"
+   ],
+   "answer": 0,
+   "explanation": "5/93 = 0.0538 = 5.38%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 6/93 as a percentage?",
+   "choices": [
+    "3.23%",
+    "6.45%",
+    "4.30%",
+    "5.38%"
+   ],
+   "answer": 1,
+   "explanation": "6/93 = 0.0645 = 6.45%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 6/93 as a decimal?",
+   "choices": [
+    "0.0645",
+    "0.0323",
+    "0.0430",
+    "0.0538"
+   ],
+   "answer": 0,
+   "explanation": "6/93 = 0.0645 = 6.45%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 7/93 as a percentage?",
+   "choices": [
+    "4.30%",
+    "5.38%",
+    "6.45%",
+    "7.53%"
+   ],
+   "answer": 3,
+   "explanation": "7/93 = 0.0753 = 7.53%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 7/93 as a decimal?",
+   "choices": [
+    "0.0430",
+    "0.0753",
+    "0.0538",
+    "0.0645"
+   ],
+   "answer": 1,
+   "explanation": "7/93 = 0.0753 = 7.53%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 8/93 as a percentage?",
+   "choices": [
+    "5.38%",
+    "8.60%",
+    "6.45%",
+    "7.53%"
+   ],
+   "answer": 1,
+   "explanation": "8/93 = 0.0860 = 8.60%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 8/93 as a decimal?",
+   "choices": [
+    "0.0538",
+    "0.0645",
+    "0.0753",
+    "0.0860"
+   ],
+   "answer": 3,
+   "explanation": "8/93 = 0.0860 = 8.60%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 9/93 as a percentage?",
+   "choices": [
+    "6.45%",
+    "7.53%",
+    "9.68%",
+    "8.60%"
+   ],
+   "answer": 2,
+   "explanation": "9/93 = 0.0968 = 9.68%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 9/93 as a decimal?",
+   "choices": [
+    "0.0645",
+    "0.0753",
+    "0.0968",
+    "0.0860"
+   ],
+   "answer": 2,
+   "explanation": "9/93 = 0.0968 = 9.68%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 10/93 as a percentage?",
+   "choices": [
+    "7.53%",
+    "8.60%",
+    "9.68%",
+    "10.75%"
+   ],
+   "answer": 3,
+   "explanation": "10/93 = 0.1075 = 10.75%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 10/93 as a decimal?",
+   "choices": [
+    "0.0753",
+    "0.1075",
+    "0.0860",
+    "0.0968"
+   ],
+   "answer": 1,
+   "explanation": "10/93 = 0.1075 = 10.75%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 11/93 as a percentage?",
+   "choices": [
+    "8.60%",
+    "11.83%",
+    "9.68%",
+    "10.75%"
+   ],
+   "answer": 1,
+   "explanation": "11/93 = 0.1183 = 11.83%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 11/93 as a decimal?",
+   "choices": [
+    "0.0860",
+    "0.0968",
+    "0.1075",
+    "0.1183"
+   ],
+   "answer": 3,
+   "explanation": "11/93 = 0.1183 = 11.83%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 12/93 as a percentage?",
+   "choices": [
+    "12.90%",
+    "9.68%",
+    "10.75%",
+    "11.83%"
+   ],
+   "answer": 0,
+   "explanation": "12/93 = 0.1290 = 12.90%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 12/93 as a decimal?",
+   "choices": [
+    "0.1290",
+    "0.0968",
+    "0.1075",
+    "0.1183"
+   ],
+   "answer": 0,
+   "explanation": "12/93 = 0.1290 = 12.90%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 13/93 as a percentage?",
+   "choices": [
+    "13.98%",
+    "10.75%",
+    "11.83%",
+    "12.90%"
+   ],
+   "answer": 0,
+   "explanation": "13/93 = 0.1398 = 13.98%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 13/93 as a decimal?",
+   "choices": [
+    "0.1075",
+    "0.1183",
+    "0.1398",
+    "0.1290"
+   ],
+   "answer": 2,
+   "explanation": "13/93 = 0.1398 = 13.98%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 14/93 as a percentage?",
+   "choices": [
+    "11.83%",
+    "15.05%",
+    "12.90%",
+    "13.98%"
+   ],
+   "answer": 1,
+   "explanation": "14/93 = 0.1505 = 15.05%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 14/93 as a decimal?",
+   "choices": [
+    "0.1183",
+    "0.1290",
+    "0.1398",
+    "0.1505"
+   ],
+   "answer": 3,
+   "explanation": "14/93 = 0.1505 = 15.05%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 15/93 as a percentage?",
+   "choices": [
+    "16.13%",
+    "12.90%",
+    "13.98%",
+    "15.05%"
+   ],
+   "answer": 0,
+   "explanation": "15/93 = 0.1613 = 16.13%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 15/93 as a decimal?",
+   "choices": [
+    "0.1290",
+    "0.1398",
+    "0.1505",
+    "0.1613"
+   ],
+   "answer": 3,
+   "explanation": "15/93 = 0.1613 = 16.13%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 16/93 as a percentage?",
+   "choices": [
+    "13.98%",
+    "15.05%",
+    "17.20%",
+    "16.13%"
+   ],
+   "answer": 2,
+   "explanation": "16/93 = 0.1720 = 17.20%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 16/93 as a decimal?",
+   "choices": [
+    "0.1398",
+    "0.1505",
+    "0.1613",
+    "0.1720"
+   ],
+   "answer": 3,
+   "explanation": "16/93 = 0.1720 = 17.20%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 17/93 as a percentage?",
+   "choices": [
+    "15.05%",
+    "16.13%",
+    "18.28%",
+    "17.20%"
+   ],
+   "answer": 2,
+   "explanation": "17/93 = 0.1828 = 18.28%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 17/93 as a decimal?",
+   "choices": [
+    "0.1505",
+    "0.1828",
+    "0.1613",
+    "0.1720"
+   ],
+   "answer": 1,
+   "explanation": "17/93 = 0.1828 = 18.28%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 18/93 as a percentage?",
+   "choices": [
+    "16.13%",
+    "17.20%",
+    "19.35%",
+    "18.28%"
+   ],
+   "answer": 2,
+   "explanation": "18/93 = 0.1935 = 19.35%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 18/93 as a decimal?",
+   "choices": [
+    "0.1613",
+    "0.1935",
+    "0.1720",
+    "0.1828"
+   ],
+   "answer": 1,
+   "explanation": "18/93 = 0.1935 = 19.35%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 19/93 as a percentage?",
+   "choices": [
+    "17.20%",
+    "18.28%",
+    "20.43%",
+    "19.35%"
+   ],
+   "answer": 2,
+   "explanation": "19/93 = 0.2043 = 20.43%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 19/93 as a decimal?",
+   "choices": [
+    "0.1720",
+    "0.1828",
+    "0.2043",
+    "0.1935"
+   ],
+   "answer": 2,
+   "explanation": "19/93 = 0.2043 = 20.43%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 20/93 as a percentage?",
+   "choices": [
+    "21.51%",
+    "18.28%",
+    "19.35%",
+    "20.43%"
+   ],
+   "answer": 0,
+   "explanation": "20/93 = 0.2151 = 21.51%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 20/93 as a decimal?",
+   "choices": [
+    "0.1828",
+    "0.1935",
+    "0.2151",
+    "0.2043"
+   ],
+   "answer": 2,
+   "explanation": "20/93 = 0.2151 = 21.51%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 21/93 as a percentage?",
+   "choices": [
+    "19.35%",
+    "22.58%",
+    "20.43%",
+    "21.51%"
+   ],
+   "answer": 1,
+   "explanation": "21/93 = 0.2258 = 22.58%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 21/93 as a decimal?",
+   "choices": [
+    "0.1935",
+    "0.2043",
+    "0.2258",
+    "0.2151"
+   ],
+   "answer": 2,
+   "explanation": "21/93 = 0.2258 = 22.58%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 22/93 as a percentage?",
+   "choices": [
+    "20.43%",
+    "23.66%",
+    "21.51%",
+    "22.58%"
+   ],
+   "answer": 1,
+   "explanation": "22/93 = 0.2366 = 23.66%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 22/93 as a decimal?",
+   "choices": [
+    "0.2043",
+    "0.2366",
+    "0.2151",
+    "0.2258"
+   ],
+   "answer": 1,
+   "explanation": "22/93 = 0.2366 = 23.66%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 23/93 as a percentage?",
+   "choices": [
+    "21.51%",
+    "24.73%",
+    "22.58%",
+    "23.66%"
+   ],
+   "answer": 1,
+   "explanation": "23/93 = 0.2473 = 24.73%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 23/93 as a decimal?",
+   "choices": [
+    "0.2151",
+    "0.2473",
+    "0.2258",
+    "0.2366"
+   ],
+   "answer": 1,
+   "explanation": "23/93 = 0.2473 = 24.73%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 24/93 as a percentage?",
+   "choices": [
+    "22.58%",
+    "23.66%",
+    "25.81%",
+    "24.73%"
+   ],
+   "answer": 2,
+   "explanation": "24/93 = 0.2581 = 25.81%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 24/93 as a decimal?",
+   "choices": [
+    "0.2258",
+    "0.2366",
+    "0.2581",
+    "0.2473"
+   ],
+   "answer": 2,
+   "explanation": "24/93 = 0.2581 = 25.81%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 25/93 as a percentage?",
+   "choices": [
+    "26.88%",
+    "23.66%",
+    "24.73%",
+    "25.81%"
+   ],
+   "answer": 0,
+   "explanation": "25/93 = 0.2688 = 26.88%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 25/93 as a decimal?",
+   "choices": [
+    "0.2366",
+    "0.2473",
+    "0.2581",
+    "0.2688"
+   ],
+   "answer": 3,
+   "explanation": "25/93 = 0.2688 = 26.88%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 26/93 as a percentage?",
+   "choices": [
+    "24.73%",
+    "25.81%",
+    "27.96%",
+    "26.88%"
+   ],
+   "answer": 2,
+   "explanation": "26/93 = 0.2796 = 27.96%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 26/93 as a decimal?",
+   "choices": [
+    "0.2473",
+    "0.2796",
+    "0.2581",
+    "0.2688"
+   ],
+   "answer": 1,
+   "explanation": "26/93 = 0.2796 = 27.96%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 27/93 as a percentage?",
+   "choices": [
+    "29.03%",
+    "25.81%",
+    "26.88%",
+    "27.96%"
+   ],
+   "answer": 0,
+   "explanation": "27/93 = 0.2903 = 29.03%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 27/93 as a decimal?",
+   "choices": [
+    "0.2581",
+    "0.2688",
+    "0.2903",
+    "0.2796"
+   ],
+   "answer": 2,
+   "explanation": "27/93 = 0.2903 = 29.03%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 28/93 as a percentage?",
+   "choices": [
+    "26.88%",
+    "27.96%",
+    "29.03%",
+    "30.11%"
+   ],
+   "answer": 3,
+   "explanation": "28/93 = 0.3011 = 30.11%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 28/93 as a decimal?",
+   "choices": [
+    "0.2688",
+    "0.2796",
+    "0.3011",
+    "0.2903"
+   ],
+   "answer": 2,
+   "explanation": "28/93 = 0.3011 = 30.11%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 29/93 as a percentage?",
+   "choices": [
+    "27.96%",
+    "29.03%",
+    "30.11%",
+    "31.18%"
+   ],
+   "answer": 3,
+   "explanation": "29/93 = 0.3118 = 31.18%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 29/93 as a decimal?",
+   "choices": [
+    "0.2796",
+    "0.3118",
+    "0.2903",
+    "0.3011"
+   ],
+   "answer": 1,
+   "explanation": "29/93 = 0.3118 = 31.18%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 30/93 as a percentage?",
+   "choices": [
+    "29.03%",
+    "32.26%",
+    "30.11%",
+    "31.18%"
+   ],
+   "answer": 1,
+   "explanation": "30/93 = 0.3226 = 32.26%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 30/93 as a decimal?",
+   "choices": [
+    "0.3226",
+    "0.2903",
+    "0.3011",
+    "0.3118"
+   ],
+   "answer": 0,
+   "explanation": "30/93 = 0.3226 = 32.26%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 31/93 as a percentage?",
+   "choices": [
+    "33.33%",
+    "30.11%",
+    "31.18%",
+    "32.26%"
+   ],
+   "answer": 0,
+   "explanation": "31/93 = 0.3333 = 33.33%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 31/93 as a decimal?",
+   "choices": [
+    "0.3011",
+    "0.3333",
+    "0.3118",
+    "0.3226"
+   ],
+   "answer": 1,
+   "explanation": "31/93 = 0.3333 = 33.33%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 32/93 as a percentage?",
+   "choices": [
+    "31.18%",
+    "34.41%",
+    "32.26%",
+    "33.33%"
+   ],
+   "answer": 1,
+   "explanation": "32/93 = 0.3441 = 34.41%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 32/93 as a decimal?",
+   "choices": [
+    "0.3118",
+    "0.3226",
+    "0.3441",
+    "0.3333"
+   ],
+   "answer": 2,
+   "explanation": "32/93 = 0.3441 = 34.41%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 33/93 as a percentage?",
+   "choices": [
+    "32.26%",
+    "33.33%",
+    "35.48%",
+    "34.41%"
+   ],
+   "answer": 2,
+   "explanation": "33/93 = 0.3548 = 35.48%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 33/93 as a decimal?",
+   "choices": [
+    "0.3226",
+    "0.3333",
+    "0.3548",
+    "0.3441"
+   ],
+   "answer": 2,
+   "explanation": "33/93 = 0.3548 = 35.48%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 34/93 as a percentage?",
+   "choices": [
+    "36.56%",
+    "33.33%",
+    "34.41%",
+    "35.48%"
+   ],
+   "answer": 0,
+   "explanation": "34/93 = 0.3656 = 36.56%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 34/93 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.3441",
+    "0.3656",
+    "0.3548"
+   ],
+   "answer": 2,
+   "explanation": "34/93 = 0.3656 = 36.56%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 35/93 as a percentage?",
+   "choices": [
+    "34.41%",
+    "35.48%",
+    "36.56%",
+    "37.63%"
+   ],
+   "answer": 3,
+   "explanation": "35/93 = 0.3763 = 37.63%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 35/93 as a decimal?",
+   "choices": [
+    "0.3441",
+    "0.3548",
+    "0.3656",
+    "0.3763"
+   ],
+   "answer": 3,
+   "explanation": "35/93 = 0.3763 = 37.63%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 36/93 as a percentage?",
+   "choices": [
+    "35.48%",
+    "36.56%",
+    "37.63%",
+    "38.71%"
+   ],
+   "answer": 3,
+   "explanation": "36/93 = 0.3871 = 38.71%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 36/93 as a decimal?",
+   "choices": [
+    "0.3548",
+    "0.3656",
+    "0.3763",
+    "0.3871"
+   ],
+   "answer": 3,
+   "explanation": "36/93 = 0.3871 = 38.71%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 37/93 as a percentage?",
+   "choices": [
+    "36.56%",
+    "39.78%",
+    "37.63%",
+    "38.71%"
+   ],
+   "answer": 1,
+   "explanation": "37/93 = 0.3978 = 39.78%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 37/93 as a decimal?",
+   "choices": [
+    "0.3978",
+    "0.3656",
+    "0.3763",
+    "0.3871"
+   ],
+   "answer": 0,
+   "explanation": "37/93 = 0.3978 = 39.78%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 38/93 as a percentage?",
+   "choices": [
+    "37.63%",
+    "40.86%",
+    "38.71%",
+    "39.78%"
+   ],
+   "answer": 1,
+   "explanation": "38/93 = 0.4086 = 40.86%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 38/93 as a decimal?",
+   "choices": [
+    "0.3763",
+    "0.3871",
+    "0.3978",
+    "0.4086"
+   ],
+   "answer": 3,
+   "explanation": "38/93 = 0.4086 = 40.86%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 39/93 as a percentage?",
+   "choices": [
+    "38.71%",
+    "39.78%",
+    "40.86%",
+    "41.94%"
+   ],
+   "answer": 3,
+   "explanation": "39/93 = 0.4194 = 41.94%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 39/93 as a decimal?",
+   "choices": [
+    "0.3871",
+    "0.4194",
+    "0.3978",
+    "0.4086"
+   ],
+   "answer": 1,
+   "explanation": "39/93 = 0.4194 = 41.94%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 40/93 as a percentage?",
+   "choices": [
+    "39.78%",
+    "40.86%",
+    "41.94%",
+    "43.01%"
+   ],
+   "answer": 3,
+   "explanation": "40/93 = 0.4301 = 43.01%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 40/93 as a decimal?",
+   "choices": [
+    "0.3978",
+    "0.4086",
+    "0.4194",
+    "0.4301"
+   ],
+   "answer": 3,
+   "explanation": "40/93 = 0.4301 = 43.01%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 41/93 as a percentage?",
+   "choices": [
+    "40.86%",
+    "44.09%",
+    "41.94%",
+    "43.01%"
+   ],
+   "answer": 1,
+   "explanation": "41/93 = 0.4409 = 44.09%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 41/93 as a decimal?",
+   "choices": [
+    "0.4086",
+    "0.4409",
+    "0.4194",
+    "0.4301"
+   ],
+   "answer": 1,
+   "explanation": "41/93 = 0.4409 = 44.09%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 42/93 as a percentage?",
+   "choices": [
+    "41.94%",
+    "43.01%",
+    "45.16%",
+    "44.09%"
+   ],
+   "answer": 2,
+   "explanation": "42/93 = 0.4516 = 45.16%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 42/93 as a decimal?",
+   "choices": [
+    "0.4194",
+    "0.4516",
+    "0.4301",
+    "0.4409"
+   ],
+   "answer": 1,
+   "explanation": "42/93 = 0.4516 = 45.16%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 43/93 as a percentage?",
+   "choices": [
+    "43.01%",
+    "44.09%",
+    "46.24%",
+    "45.16%"
+   ],
+   "answer": 2,
+   "explanation": "43/93 = 0.4624 = 46.24%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 43/93 as a decimal?",
+   "choices": [
+    "0.4301",
+    "0.4624",
+    "0.4409",
+    "0.4516"
+   ],
+   "answer": 1,
+   "explanation": "43/93 = 0.4624 = 46.24%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 44/93 as a percentage?",
+   "choices": [
+    "44.09%",
+    "45.16%",
+    "46.24%",
+    "47.31%"
+   ],
+   "answer": 3,
+   "explanation": "44/93 = 0.4731 = 47.31%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 44/93 as a decimal?",
+   "choices": [
+    "0.4731",
+    "0.4409",
+    "0.4516",
+    "0.4624"
+   ],
+   "answer": 0,
+   "explanation": "44/93 = 0.4731 = 47.31%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 45/93 as a percentage?",
+   "choices": [
+    "48.39%",
+    "45.16%",
+    "46.24%",
+    "47.31%"
+   ],
+   "answer": 0,
+   "explanation": "45/93 = 0.4839 = 48.39%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 45/93 as a decimal?",
+   "choices": [
+    "0.4516",
+    "0.4624",
+    "0.4839",
+    "0.4731"
+   ],
+   "answer": 2,
+   "explanation": "45/93 = 0.4839 = 48.39%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 46/93 as a percentage?",
+   "choices": [
+    "49.46%",
+    "46.24%",
+    "47.31%",
+    "48.39%"
+   ],
+   "answer": 0,
+   "explanation": "46/93 = 0.4946 = 49.46%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 46/93 as a decimal?",
+   "choices": [
+    "0.4946",
+    "0.4624",
+    "0.4731",
+    "0.4839"
+   ],
+   "answer": 0,
+   "explanation": "46/93 = 0.4946 = 49.46%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 47/93 as a percentage?",
+   "choices": [
+    "47.31%",
+    "48.39%",
+    "49.46%",
+    "50.54%"
+   ],
+   "answer": 3,
+   "explanation": "47/93 = 0.5054 = 50.54%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 47/93 as a decimal?",
+   "choices": [
+    "0.4731",
+    "0.4839",
+    "0.5054",
+    "0.4946"
+   ],
+   "answer": 2,
+   "explanation": "47/93 = 0.5054 = 50.54%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 48/93 as a percentage?",
+   "choices": [
+    "48.39%",
+    "49.46%",
+    "50.54%",
+    "51.61%"
+   ],
+   "answer": 3,
+   "explanation": "48/93 = 0.5161 = 51.61%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 48/93 as a decimal?",
+   "choices": [
+    "0.4839",
+    "0.4946",
+    "0.5161",
+    "0.5054"
+   ],
+   "answer": 2,
+   "explanation": "48/93 = 0.5161 = 51.61%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 49/93 as a percentage?",
+   "choices": [
+    "52.69%",
+    "49.46%",
+    "50.54%",
+    "51.61%"
+   ],
+   "answer": 0,
+   "explanation": "49/93 = 0.5269 = 52.69%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 49/93 as a decimal?",
+   "choices": [
+    "0.5269",
+    "0.4946",
+    "0.5054",
+    "0.5161"
+   ],
+   "answer": 0,
+   "explanation": "49/93 = 0.5269 = 52.69%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 50/93 as a percentage?",
+   "choices": [
+    "50.54%",
+    "53.76%",
+    "51.61%",
+    "52.69%"
+   ],
+   "answer": 1,
+   "explanation": "50/93 = 0.5376 = 53.76%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 50/93 as a decimal?",
+   "choices": [
+    "0.5054",
+    "0.5161",
+    "0.5269",
+    "0.5376"
+   ],
+   "answer": 3,
+   "explanation": "50/93 = 0.5376 = 53.76%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 51/93 as a percentage?",
+   "choices": [
+    "51.61%",
+    "54.84%",
+    "52.69%",
+    "53.76%"
+   ],
+   "answer": 1,
+   "explanation": "51/93 = 0.5484 = 54.84%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 51/93 as a decimal?",
+   "choices": [
+    "0.5484",
+    "0.5161",
+    "0.5269",
+    "0.5376"
+   ],
+   "answer": 0,
+   "explanation": "51/93 = 0.5484 = 54.84%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 52/93 as a percentage?",
+   "choices": [
+    "52.69%",
+    "53.76%",
+    "55.91%",
+    "54.84%"
+   ],
+   "answer": 2,
+   "explanation": "52/93 = 0.5591 = 55.91%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 52/93 as a decimal?",
+   "choices": [
+    "0.5269",
+    "0.5376",
+    "0.5591",
+    "0.5484"
+   ],
+   "answer": 2,
+   "explanation": "52/93 = 0.5591 = 55.91%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 53/93 as a percentage?",
+   "choices": [
+    "53.76%",
+    "54.84%",
+    "56.99%",
+    "55.91%"
+   ],
+   "answer": 2,
+   "explanation": "53/93 = 0.5699 = 56.99%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 53/93 as a decimal?",
+   "choices": [
+    "0.5376",
+    "0.5484",
+    "0.5699",
+    "0.5591"
+   ],
+   "answer": 2,
+   "explanation": "53/93 = 0.5699 = 56.99%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 54/93 as a percentage?",
+   "choices": [
+    "54.84%",
+    "55.91%",
+    "58.06%",
+    "56.99%"
+   ],
+   "answer": 2,
+   "explanation": "54/93 = 0.5806 = 58.06%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 54/93 as a decimal?",
+   "choices": [
+    "0.5806",
+    "0.5484",
+    "0.5591",
+    "0.5699"
+   ],
+   "answer": 0,
+   "explanation": "54/93 = 0.5806 = 58.06%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 55/93 as a percentage?",
+   "choices": [
+    "55.91%",
+    "56.99%",
+    "59.14%",
+    "58.06%"
+   ],
+   "answer": 2,
+   "explanation": "55/93 = 0.5914 = 59.14%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 55/93 as a decimal?",
+   "choices": [
+    "0.5591",
+    "0.5914",
+    "0.5699",
+    "0.5806"
+   ],
+   "answer": 1,
+   "explanation": "55/93 = 0.5914 = 59.14%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 56/93 as a percentage?",
+   "choices": [
+    "56.99%",
+    "58.06%",
+    "60.22%",
+    "59.14%"
+   ],
+   "answer": 2,
+   "explanation": "56/93 = 0.6022 = 60.22%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 56/93 as a decimal?",
+   "choices": [
+    "0.5699",
+    "0.5806",
+    "0.5914",
+    "0.6022"
+   ],
+   "answer": 3,
+   "explanation": "56/93 = 0.6022 = 60.22%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 57/93 as a percentage?",
+   "choices": [
+    "58.06%",
+    "59.14%",
+    "60.22%",
+    "61.29%"
+   ],
+   "answer": 3,
+   "explanation": "57/93 = 0.6129 = 61.29%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 57/93 as a decimal?",
+   "choices": [
+    "0.6129",
+    "0.5806",
+    "0.5914",
+    "0.6022"
+   ],
+   "answer": 0,
+   "explanation": "57/93 = 0.6129 = 61.29%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 58/93 as a percentage?",
+   "choices": [
+    "62.37%",
+    "59.14%",
+    "60.22%",
+    "61.29%"
+   ],
+   "answer": 0,
+   "explanation": "58/93 = 0.6237 = 62.37%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 58/93 as a decimal?",
+   "choices": [
+    "0.6237",
+    "0.5914",
+    "0.6022",
+    "0.6129"
+   ],
+   "answer": 0,
+   "explanation": "58/93 = 0.6237 = 62.37%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 59/93 as a percentage?",
+   "choices": [
+    "63.44%",
+    "60.22%",
+    "61.29%",
+    "62.37%"
+   ],
+   "answer": 0,
+   "explanation": "59/93 = 0.6344 = 63.44%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 59/93 as a decimal?",
+   "choices": [
+    "0.6022",
+    "0.6129",
+    "0.6237",
+    "0.6344"
+   ],
+   "answer": 3,
+   "explanation": "59/93 = 0.6344 = 63.44%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 60/93 as a percentage?",
+   "choices": [
+    "61.29%",
+    "64.52%",
+    "62.37%",
+    "63.44%"
+   ],
+   "answer": 1,
+   "explanation": "60/93 = 0.6452 = 64.52%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 60/93 as a decimal?",
+   "choices": [
+    "0.6129",
+    "0.6237",
+    "0.6344",
+    "0.6452"
+   ],
+   "answer": 3,
+   "explanation": "60/93 = 0.6452 = 64.52%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 61/93 as a percentage?",
+   "choices": [
+    "62.37%",
+    "63.44%",
+    "65.59%",
+    "64.52%"
+   ],
+   "answer": 2,
+   "explanation": "61/93 = 0.6559 = 65.59%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 61/93 as a decimal?",
+   "choices": [
+    "0.6559",
+    "0.6237",
+    "0.6344",
+    "0.6452"
+   ],
+   "answer": 0,
+   "explanation": "61/93 = 0.6559 = 65.59%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 62/93 as a percentage?",
+   "choices": [
+    "63.44%",
+    "64.52%",
+    "65.59%",
+    "66.67%"
+   ],
+   "answer": 3,
+   "explanation": "62/93 = 0.6667 = 66.67%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 62/93 as a decimal?",
+   "choices": [
+    "0.6667",
+    "0.6344",
+    "0.6452",
+    "0.6559"
+   ],
+   "answer": 0,
+   "explanation": "62/93 = 0.6667 = 66.67%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 63/93 as a percentage?",
+   "choices": [
+    "67.74%",
+    "64.52%",
+    "65.59%",
+    "66.67%"
+   ],
+   "answer": 0,
+   "explanation": "63/93 = 0.6774 = 67.74%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 63/93 as a decimal?",
+   "choices": [
+    "0.6452",
+    "0.6559",
+    "0.6667",
+    "0.6774"
+   ],
+   "answer": 3,
+   "explanation": "63/93 = 0.6774 = 67.74%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 64/93 as a percentage?",
+   "choices": [
+    "65.59%",
+    "68.82%",
+    "66.67%",
+    "67.74%"
+   ],
+   "answer": 1,
+   "explanation": "64/93 = 0.6882 = 68.82%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 64/93 as a decimal?",
+   "choices": [
+    "0.6882",
+    "0.6559",
+    "0.6667",
+    "0.6774"
+   ],
+   "answer": 0,
+   "explanation": "64/93 = 0.6882 = 68.82%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 65/93 as a percentage?",
+   "choices": [
+    "66.67%",
+    "67.74%",
+    "68.82%",
+    "69.89%"
+   ],
+   "answer": 3,
+   "explanation": "65/93 = 0.6989 = 69.89%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 65/93 as a decimal?",
+   "choices": [
+    "0.6989",
+    "0.6667",
+    "0.6774",
+    "0.6882"
+   ],
+   "answer": 0,
+   "explanation": "65/93 = 0.6989 = 69.89%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 66/93 as a percentage?",
+   "choices": [
+    "67.74%",
+    "70.97%",
+    "68.82%",
+    "69.89%"
+   ],
+   "answer": 1,
+   "explanation": "66/93 = 0.7097 = 70.97%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 66/93 as a decimal?",
+   "choices": [
+    "0.7097",
+    "0.6774",
+    "0.6882",
+    "0.6989"
+   ],
+   "answer": 0,
+   "explanation": "66/93 = 0.7097 = 70.97%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 67/93 as a percentage?",
+   "choices": [
+    "72.04%",
+    "68.82%",
+    "69.89%",
+    "70.97%"
+   ],
+   "answer": 0,
+   "explanation": "67/93 = 0.7204 = 72.04%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 67/93 as a decimal?",
+   "choices": [
+    "0.6882",
+    "0.6989",
+    "0.7204",
+    "0.7097"
+   ],
+   "answer": 2,
+   "explanation": "67/93 = 0.7204 = 72.04%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 68/93 as a percentage?",
+   "choices": [
+    "73.12%",
+    "69.89%",
+    "70.97%",
+    "72.04%"
+   ],
+   "answer": 0,
+   "explanation": "68/93 = 0.7312 = 73.12%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 68/93 as a decimal?",
+   "choices": [
+    "0.7312",
+    "0.6989",
+    "0.7097",
+    "0.7204"
+   ],
+   "answer": 0,
+   "explanation": "68/93 = 0.7312 = 73.12%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 69/93 as a percentage?",
+   "choices": [
+    "70.97%",
+    "74.19%",
+    "72.04%",
+    "73.12%"
+   ],
+   "answer": 1,
+   "explanation": "69/93 = 0.7419 = 74.19%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 69/93 as a decimal?",
+   "choices": [
+    "0.7097",
+    "0.7419",
+    "0.7204",
+    "0.7312"
+   ],
+   "answer": 1,
+   "explanation": "69/93 = 0.7419 = 74.19%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 70/93 as a percentage?",
+   "choices": [
+    "75.27%",
+    "72.04%",
+    "73.12%",
+    "74.19%"
+   ],
+   "answer": 0,
+   "explanation": "70/93 = 0.7527 = 75.27%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 70/93 as a decimal?",
+   "choices": [
+    "0.7204",
+    "0.7312",
+    "0.7419",
+    "0.7527"
+   ],
+   "answer": 3,
+   "explanation": "70/93 = 0.7527 = 75.27%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 71/93 as a percentage?",
+   "choices": [
+    "73.12%",
+    "76.34%",
+    "74.19%",
+    "75.27%"
+   ],
+   "answer": 1,
+   "explanation": "71/93 = 0.7634 = 76.34%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 71/93 as a decimal?",
+   "choices": [
+    "0.7312",
+    "0.7419",
+    "0.7634",
+    "0.7527"
+   ],
+   "answer": 2,
+   "explanation": "71/93 = 0.7634 = 76.34%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 72/93 as a percentage?",
+   "choices": [
+    "74.19%",
+    "75.27%",
+    "77.42%",
+    "76.34%"
+   ],
+   "answer": 2,
+   "explanation": "72/93 = 0.7742 = 77.42%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 72/93 as a decimal?",
+   "choices": [
+    "0.7742",
+    "0.7419",
+    "0.7527",
+    "0.7634"
+   ],
+   "answer": 0,
+   "explanation": "72/93 = 0.7742 = 77.42%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 73/93 as a percentage?",
+   "choices": [
+    "75.27%",
+    "76.34%",
+    "77.42%",
+    "78.49%"
+   ],
+   "answer": 3,
+   "explanation": "73/93 = 0.7849 = 78.49%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 73/93 as a decimal?",
+   "choices": [
+    "0.7849",
+    "0.7527",
+    "0.7634",
+    "0.7742"
+   ],
+   "answer": 0,
+   "explanation": "73/93 = 0.7849 = 78.49%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 74/93 as a percentage?",
+   "choices": [
+    "76.34%",
+    "77.42%",
+    "78.49%",
+    "79.57%"
+   ],
+   "answer": 3,
+   "explanation": "74/93 = 0.7957 = 79.57%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 74/93 as a decimal?",
+   "choices": [
+    "0.7634",
+    "0.7957",
+    "0.7742",
+    "0.7849"
+   ],
+   "answer": 1,
+   "explanation": "74/93 = 0.7957 = 79.57%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 75/93 as a percentage?",
+   "choices": [
+    "77.42%",
+    "78.49%",
+    "80.65%",
+    "79.57%"
+   ],
+   "answer": 2,
+   "explanation": "75/93 = 0.8065 = 80.65%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 75/93 as a decimal?",
+   "choices": [
+    "0.7742",
+    "0.8065",
+    "0.7849",
+    "0.7957"
+   ],
+   "answer": 1,
+   "explanation": "75/93 = 0.8065 = 80.65%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 76/93 as a percentage?",
+   "choices": [
+    "78.49%",
+    "81.72%",
+    "79.57%",
+    "80.65%"
+   ],
+   "answer": 1,
+   "explanation": "76/93 = 0.8172 = 81.72%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 76/93 as a decimal?",
+   "choices": [
+    "0.8172",
+    "0.7849",
+    "0.7957",
+    "0.8065"
+   ],
+   "answer": 0,
+   "explanation": "76/93 = 0.8172 = 81.72%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 77/93 as a percentage?",
+   "choices": [
+    "82.80%",
+    "79.57%",
+    "80.65%",
+    "81.72%"
+   ],
+   "answer": 0,
+   "explanation": "77/93 = 0.8280 = 82.80%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 77/93 as a decimal?",
+   "choices": [
+    "0.7957",
+    "0.8065",
+    "0.8172",
+    "0.8280"
+   ],
+   "answer": 3,
+   "explanation": "77/93 = 0.8280 = 82.80%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 78/93 as a percentage?",
+   "choices": [
+    "80.65%",
+    "81.72%",
+    "83.87%",
+    "82.80%"
+   ],
+   "answer": 2,
+   "explanation": "78/93 = 0.8387 = 83.87%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 78/93 as a decimal?",
+   "choices": [
+    "0.8065",
+    "0.8387",
+    "0.8172",
+    "0.8280"
+   ],
+   "answer": 1,
+   "explanation": "78/93 = 0.8387 = 83.87%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 79/93 as a percentage?",
+   "choices": [
+    "81.72%",
+    "82.80%",
+    "84.95%",
+    "83.87%"
+   ],
+   "answer": 2,
+   "explanation": "79/93 = 0.8495 = 84.95%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 79/93 as a decimal?",
+   "choices": [
+    "0.8172",
+    "0.8280",
+    "0.8495",
+    "0.8387"
+   ],
+   "answer": 2,
+   "explanation": "79/93 = 0.8495 = 84.95%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 80/93 as a percentage?",
+   "choices": [
+    "82.80%",
+    "83.87%",
+    "86.02%",
+    "84.95%"
+   ],
+   "answer": 2,
+   "explanation": "80/93 = 0.8602 = 86.02%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 80/93 as a decimal?",
+   "choices": [
+    "0.8280",
+    "0.8387",
+    "0.8602",
+    "0.8495"
+   ],
+   "answer": 2,
+   "explanation": "80/93 = 0.8602 = 86.02%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 81/93 as a percentage?",
+   "choices": [
+    "83.87%",
+    "84.95%",
+    "87.10%",
+    "86.02%"
+   ],
+   "answer": 2,
+   "explanation": "81/93 = 0.8710 = 87.10%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 81/93 as a decimal?",
+   "choices": [
+    "0.8387",
+    "0.8710",
+    "0.8495",
+    "0.8602"
+   ],
+   "answer": 1,
+   "explanation": "81/93 = 0.8710 = 87.10%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 82/93 as a percentage?",
+   "choices": [
+    "84.95%",
+    "86.02%",
+    "88.17%",
+    "87.10%"
+   ],
+   "answer": 2,
+   "explanation": "82/93 = 0.8817 = 88.17%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 82/93 as a decimal?",
+   "choices": [
+    "0.8495",
+    "0.8817",
+    "0.8602",
+    "0.8710"
+   ],
+   "answer": 1,
+   "explanation": "82/93 = 0.8817 = 88.17%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 83/93 as a percentage?",
+   "choices": [
+    "86.02%",
+    "89.25%",
+    "87.10%",
+    "88.17%"
+   ],
+   "answer": 1,
+   "explanation": "83/93 = 0.8925 = 89.25%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 83/93 as a decimal?",
+   "choices": [
+    "0.8602",
+    "0.8925",
+    "0.8710",
+    "0.8817"
+   ],
+   "answer": 1,
+   "explanation": "83/93 = 0.8925 = 89.25%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 84/93 as a percentage?",
+   "choices": [
+    "87.10%",
+    "90.32%",
+    "88.17%",
+    "89.25%"
+   ],
+   "answer": 1,
+   "explanation": "84/93 = 0.9032 = 90.32%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 84/93 as a decimal?",
+   "choices": [
+    "0.9032",
+    "0.8710",
+    "0.8817",
+    "0.8925"
+   ],
+   "answer": 0,
+   "explanation": "84/93 = 0.9032 = 90.32%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 85/93 as a percentage?",
+   "choices": [
+    "91.40%",
+    "88.17%",
+    "89.25%",
+    "90.32%"
+   ],
+   "answer": 0,
+   "explanation": "85/93 = 0.9140 = 91.40%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 85/93 as a decimal?",
+   "choices": [
+    "0.8817",
+    "0.9140",
+    "0.8925",
+    "0.9032"
+   ],
+   "answer": 1,
+   "explanation": "85/93 = 0.9140 = 91.40%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 86/93 as a percentage?",
+   "choices": [
+    "89.25%",
+    "92.47%",
+    "90.32%",
+    "91.40%"
+   ],
+   "answer": 1,
+   "explanation": "86/93 = 0.9247 = 92.47%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 86/93 as a decimal?",
+   "choices": [
+    "0.8925",
+    "0.9032",
+    "0.9247",
+    "0.9140"
+   ],
+   "answer": 2,
+   "explanation": "86/93 = 0.9247 = 92.47%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 87/93 as a percentage?",
+   "choices": [
+    "90.32%",
+    "91.40%",
+    "92.47%",
+    "93.55%"
+   ],
+   "answer": 3,
+   "explanation": "87/93 = 0.9355 = 93.55%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 87/93 as a decimal?",
+   "choices": [
+    "0.9355",
+    "0.9032",
+    "0.9140",
+    "0.9247"
+   ],
+   "answer": 0,
+   "explanation": "87/93 = 0.9355 = 93.55%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 88/93 as a percentage?",
+   "choices": [
+    "91.40%",
+    "92.47%",
+    "94.62%",
+    "93.55%"
+   ],
+   "answer": 2,
+   "explanation": "88/93 = 0.9462 = 94.62%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 88/93 as a decimal?",
+   "choices": [
+    "0.9140",
+    "0.9247",
+    "0.9462",
+    "0.9355"
+   ],
+   "answer": 2,
+   "explanation": "88/93 = 0.9462 = 94.62%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 89/93 as a percentage?",
+   "choices": [
+    "95.70%",
+    "92.47%",
+    "93.55%",
+    "94.62%"
+   ],
+   "answer": 0,
+   "explanation": "89/93 = 0.9570 = 95.70%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 89/93 as a decimal?",
+   "choices": [
+    "0.9570",
+    "0.9247",
+    "0.9355",
+    "0.9462"
+   ],
+   "answer": 0,
+   "explanation": "89/93 = 0.9570 = 95.70%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 90/93 as a percentage?",
+   "choices": [
+    "93.55%",
+    "94.62%",
+    "95.70%",
+    "96.77%"
+   ],
+   "answer": 3,
+   "explanation": "90/93 = 0.9677 = 96.77%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 90/93 as a decimal?",
+   "choices": [
+    "0.9355",
+    "0.9462",
+    "0.9570",
+    "0.9677"
+   ],
+   "answer": 3,
+   "explanation": "90/93 = 0.9677 = 96.77%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 91/93 as a percentage?",
+   "choices": [
+    "94.62%",
+    "97.85%",
+    "95.70%",
+    "96.77%"
+   ],
+   "answer": 1,
+   "explanation": "91/93 = 0.9785 = 97.85%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 91/93 as a decimal?",
+   "choices": [
+    "0.9785",
+    "0.9462",
+    "0.9570",
+    "0.9677"
+   ],
+   "answer": 0,
+   "explanation": "91/93 = 0.9785 = 97.85%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 92/93 as a percentage?",
+   "choices": [
+    "98.92%",
+    "95.70%",
+    "96.77%",
+    "97.85%"
+   ],
+   "answer": 0,
+   "explanation": "92/93 = 0.9892 = 98.92%",
+   "source": "X/93"
+  },
+  {
+   "question": "What is 92/93 as a decimal?",
+   "choices": [
+    "0.9892",
+    "0.9570",
+    "0.9677",
+    "0.9785"
+   ],
+   "answer": 0,
+   "explanation": "92/93 = 0.9892 = 98.92%",
+   "source": "X/93"
+  }
+ ]
+}

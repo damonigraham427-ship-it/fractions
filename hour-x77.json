@@ -1,0 +1,1828 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/77 as a percentage?",
+   "choices": [
+    "2.60%",
+    "3.90%",
+    "5.19%",
+    "1.30%"
+   ],
+   "answer": 3,
+   "explanation": "1/77 = 0.0130 = 1.30%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 1/77 as a decimal?",
+   "choices": [
+    "0.0260",
+    "0.0390",
+    "0.0519",
+    "0.0130"
+   ],
+   "answer": 3,
+   "explanation": "1/77 = 0.0130 = 1.30%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 2/77 as a percentage?",
+   "choices": [
+    "2.60%",
+    "1.30%",
+    "3.90%",
+    "5.19%"
+   ],
+   "answer": 0,
+   "explanation": "2/77 = 0.0260 = 2.60%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 2/77 as a decimal?",
+   "choices": [
+    "0.0130",
+    "0.0390",
+    "0.0260",
+    "0.0519"
+   ],
+   "answer": 2,
+   "explanation": "2/77 = 0.0260 = 2.60%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 3/77 as a percentage?",
+   "choices": [
+    "3.90%",
+    "1.30%",
+    "2.60%",
+    "5.19%"
+   ],
+   "answer": 0,
+   "explanation": "3/77 = 0.0390 = 3.90%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 3/77 as a decimal?",
+   "choices": [
+    "0.0390",
+    "0.0130",
+    "0.0260",
+    "0.0519"
+   ],
+   "answer": 0,
+   "explanation": "3/77 = 0.0390 = 3.90%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 4/77 as a percentage?",
+   "choices": [
+    "1.30%",
+    "2.60%",
+    "3.90%",
+    "5.19%"
+   ],
+   "answer": 3,
+   "explanation": "4/77 = 0.0519 = 5.19%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 4/77 as a decimal?",
+   "choices": [
+    "0.0130",
+    "0.0519",
+    "0.0260",
+    "0.0390"
+   ],
+   "answer": 1,
+   "explanation": "4/77 = 0.0519 = 5.19%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 5/77 as a percentage?",
+   "choices": [
+    "2.60%",
+    "6.49%",
+    "3.90%",
+    "5.19%"
+   ],
+   "answer": 1,
+   "explanation": "5/77 = 0.0649 = 6.49%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 5/77 as a decimal?",
+   "choices": [
+    "0.0260",
+    "0.0390",
+    "0.0649",
+    "0.0519"
+   ],
+   "answer": 2,
+   "explanation": "5/77 = 0.0649 = 6.49%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 6/77 as a percentage?",
+   "choices": [
+    "3.90%",
+    "7.79%",
+    "5.19%",
+    "6.49%"
+   ],
+   "answer": 1,
+   "explanation": "6/77 = 0.0779 = 7.79%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 6/77 as a decimal?",
+   "choices": [
+    "0.0390",
+    "0.0519",
+    "0.0779",
+    "0.0649"
+   ],
+   "answer": 2,
+   "explanation": "6/77 = 0.0779 = 7.79%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 7/77 as a percentage?",
+   "choices": [
+    "9.09%",
+    "5.19%",
+    "6.49%",
+    "7.79%"
+   ],
+   "answer": 0,
+   "explanation": "7/77 = 0.0909 = 9.09%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 7/77 as a decimal?",
+   "choices": [
+    "0.0519",
+    "0.0649",
+    "0.0779",
+    "0.0909"
+   ],
+   "answer": 3,
+   "explanation": "7/77 = 0.0909 = 9.09%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 8/77 as a percentage?",
+   "choices": [
+    "6.49%",
+    "7.79%",
+    "10.39%",
+    "9.09%"
+   ],
+   "answer": 2,
+   "explanation": "8/77 = 0.1039 = 10.39%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 8/77 as a decimal?",
+   "choices": [
+    "0.0649",
+    "0.0779",
+    "0.0909",
+    "0.1039"
+   ],
+   "answer": 3,
+   "explanation": "8/77 = 0.1039 = 10.39%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 9/77 as a percentage?",
+   "choices": [
+    "7.79%",
+    "9.09%",
+    "10.39%",
+    "11.69%"
+   ],
+   "answer": 3,
+   "explanation": "9/77 = 0.1169 = 11.69%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 9/77 as a decimal?",
+   "choices": [
+    "0.0779",
+    "0.0909",
+    "0.1039",
+    "0.1169"
+   ],
+   "answer": 3,
+   "explanation": "9/77 = 0.1169 = 11.69%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 10/77 as a percentage?",
+   "choices": [
+    "9.09%",
+    "12.99%",
+    "10.39%",
+    "11.69%"
+   ],
+   "answer": 1,
+   "explanation": "10/77 = 0.1299 = 12.99%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 10/77 as a decimal?",
+   "choices": [
+    "0.0909",
+    "0.1299",
+    "0.1039",
+    "0.1169"
+   ],
+   "answer": 1,
+   "explanation": "10/77 = 0.1299 = 12.99%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 11/77 as a percentage?",
+   "choices": [
+    "10.39%",
+    "11.69%",
+    "14.29%",
+    "12.99%"
+   ],
+   "answer": 2,
+   "explanation": "11/77 = 0.1429 = 14.29%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 11/77 as a decimal?",
+   "choices": [
+    "0.1039",
+    "0.1429",
+    "0.1169",
+    "0.1299"
+   ],
+   "answer": 1,
+   "explanation": "11/77 = 0.1429 = 14.29%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 12/77 as a percentage?",
+   "choices": [
+    "11.69%",
+    "12.99%",
+    "14.29%",
+    "15.58%"
+   ],
+   "answer": 3,
+   "explanation": "12/77 = 0.1558 = 15.58%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 12/77 as a decimal?",
+   "choices": [
+    "0.1558",
+    "0.1169",
+    "0.1299",
+    "0.1429"
+   ],
+   "answer": 0,
+   "explanation": "12/77 = 0.1558 = 15.58%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 13/77 as a percentage?",
+   "choices": [
+    "12.99%",
+    "14.29%",
+    "16.88%",
+    "15.58%"
+   ],
+   "answer": 2,
+   "explanation": "13/77 = 0.1688 = 16.88%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 13/77 as a decimal?",
+   "choices": [
+    "0.1688",
+    "0.1299",
+    "0.1429",
+    "0.1558"
+   ],
+   "answer": 0,
+   "explanation": "13/77 = 0.1688 = 16.88%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 14/77 as a percentage?",
+   "choices": [
+    "14.29%",
+    "15.58%",
+    "16.88%",
+    "18.18%"
+   ],
+   "answer": 3,
+   "explanation": "14/77 = 0.1818 = 18.18%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 14/77 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.1818",
+    "0.1558",
+    "0.1688"
+   ],
+   "answer": 1,
+   "explanation": "14/77 = 0.1818 = 18.18%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 15/77 as a percentage?",
+   "choices": [
+    "15.58%",
+    "19.48%",
+    "16.88%",
+    "18.18%"
+   ],
+   "answer": 1,
+   "explanation": "15/77 = 0.1948 = 19.48%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 15/77 as a decimal?",
+   "choices": [
+    "0.1558",
+    "0.1948",
+    "0.1688",
+    "0.1818"
+   ],
+   "answer": 1,
+   "explanation": "15/77 = 0.1948 = 19.48%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 16/77 as a percentage?",
+   "choices": [
+    "16.88%",
+    "18.18%",
+    "20.78%",
+    "19.48%"
+   ],
+   "answer": 2,
+   "explanation": "16/77 = 0.2078 = 20.78%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 16/77 as a decimal?",
+   "choices": [
+    "0.2078",
+    "0.1688",
+    "0.1818",
+    "0.1948"
+   ],
+   "answer": 0,
+   "explanation": "16/77 = 0.2078 = 20.78%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 17/77 as a percentage?",
+   "choices": [
+    "18.18%",
+    "19.48%",
+    "20.78%",
+    "22.08%"
+   ],
+   "answer": 3,
+   "explanation": "17/77 = 0.2208 = 22.08%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 17/77 as a decimal?",
+   "choices": [
+    "0.1818",
+    "0.1948",
+    "0.2208",
+    "0.2078"
+   ],
+   "answer": 2,
+   "explanation": "17/77 = 0.2208 = 22.08%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 18/77 as a percentage?",
+   "choices": [
+    "19.48%",
+    "23.38%",
+    "20.78%",
+    "22.08%"
+   ],
+   "answer": 1,
+   "explanation": "18/77 = 0.2338 = 23.38%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 18/77 as a decimal?",
+   "choices": [
+    "0.2338",
+    "0.1948",
+    "0.2078",
+    "0.2208"
+   ],
+   "answer": 0,
+   "explanation": "18/77 = 0.2338 = 23.38%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 19/77 as a percentage?",
+   "choices": [
+    "20.78%",
+    "22.08%",
+    "24.68%",
+    "23.38%"
+   ],
+   "answer": 2,
+   "explanation": "19/77 = 0.2468 = 24.68%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 19/77 as a decimal?",
+   "choices": [
+    "0.2078",
+    "0.2468",
+    "0.2208",
+    "0.2338"
+   ],
+   "answer": 1,
+   "explanation": "19/77 = 0.2468 = 24.68%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 20/77 as a percentage?",
+   "choices": [
+    "22.08%",
+    "23.38%",
+    "24.68%",
+    "25.97%"
+   ],
+   "answer": 3,
+   "explanation": "20/77 = 0.2597 = 25.97%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 20/77 as a decimal?",
+   "choices": [
+    "0.2208",
+    "0.2338",
+    "0.2468",
+    "0.2597"
+   ],
+   "answer": 3,
+   "explanation": "20/77 = 0.2597 = 25.97%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 21/77 as a percentage?",
+   "choices": [
+    "23.38%",
+    "24.68%",
+    "27.27%",
+    "25.97%"
+   ],
+   "answer": 2,
+   "explanation": "21/77 = 0.2727 = 27.27%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 21/77 as a decimal?",
+   "choices": [
+    "0.2338",
+    "0.2468",
+    "0.2597",
+    "0.2727"
+   ],
+   "answer": 3,
+   "explanation": "21/77 = 0.2727 = 27.27%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 22/77 as a percentage?",
+   "choices": [
+    "24.68%",
+    "28.57%",
+    "25.97%",
+    "27.27%"
+   ],
+   "answer": 1,
+   "explanation": "22/77 = 0.2857 = 28.57%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 22/77 as a decimal?",
+   "choices": [
+    "0.2468",
+    "0.2597",
+    "0.2727",
+    "0.2857"
+   ],
+   "answer": 3,
+   "explanation": "22/77 = 0.2857 = 28.57%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 23/77 as a percentage?",
+   "choices": [
+    "25.97%",
+    "29.87%",
+    "27.27%",
+    "28.57%"
+   ],
+   "answer": 1,
+   "explanation": "23/77 = 0.2987 = 29.87%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 23/77 as a decimal?",
+   "choices": [
+    "0.2597",
+    "0.2987",
+    "0.2727",
+    "0.2857"
+   ],
+   "answer": 1,
+   "explanation": "23/77 = 0.2987 = 29.87%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 24/77 as a percentage?",
+   "choices": [
+    "27.27%",
+    "31.17%",
+    "28.57%",
+    "29.87%"
+   ],
+   "answer": 1,
+   "explanation": "24/77 = 0.3117 = 31.17%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 24/77 as a decimal?",
+   "choices": [
+    "0.2727",
+    "0.2857",
+    "0.3117",
+    "0.2987"
+   ],
+   "answer": 2,
+   "explanation": "24/77 = 0.3117 = 31.17%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 25/77 as a percentage?",
+   "choices": [
+    "28.57%",
+    "32.47%",
+    "29.87%",
+    "31.17%"
+   ],
+   "answer": 1,
+   "explanation": "25/77 = 0.3247 = 32.47%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 25/77 as a decimal?",
+   "choices": [
+    "0.2857",
+    "0.2987",
+    "0.3117",
+    "0.3247"
+   ],
+   "answer": 3,
+   "explanation": "25/77 = 0.3247 = 32.47%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 26/77 as a percentage?",
+   "choices": [
+    "29.87%",
+    "33.77%",
+    "31.17%",
+    "32.47%"
+   ],
+   "answer": 1,
+   "explanation": "26/77 = 0.3377 = 33.77%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 26/77 as a decimal?",
+   "choices": [
+    "0.2987",
+    "0.3117",
+    "0.3377",
+    "0.3247"
+   ],
+   "answer": 2,
+   "explanation": "26/77 = 0.3377 = 33.77%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 27/77 as a percentage?",
+   "choices": [
+    "31.17%",
+    "35.06%",
+    "32.47%",
+    "33.77%"
+   ],
+   "answer": 1,
+   "explanation": "27/77 = 0.3506 = 35.06%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 27/77 as a decimal?",
+   "choices": [
+    "0.3117",
+    "0.3247",
+    "0.3377",
+    "0.3506"
+   ],
+   "answer": 3,
+   "explanation": "27/77 = 0.3506 = 35.06%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 28/77 as a percentage?",
+   "choices": [
+    "32.47%",
+    "36.36%",
+    "33.77%",
+    "35.06%"
+   ],
+   "answer": 1,
+   "explanation": "28/77 = 0.3636 = 36.36%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 28/77 as a decimal?",
+   "choices": [
+    "0.3247",
+    "0.3636",
+    "0.3377",
+    "0.3506"
+   ],
+   "answer": 1,
+   "explanation": "28/77 = 0.3636 = 36.36%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 29/77 as a percentage?",
+   "choices": [
+    "33.77%",
+    "37.66%",
+    "35.06%",
+    "36.36%"
+   ],
+   "answer": 1,
+   "explanation": "29/77 = 0.3766 = 37.66%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 29/77 as a decimal?",
+   "choices": [
+    "0.3766",
+    "0.3377",
+    "0.3506",
+    "0.3636"
+   ],
+   "answer": 0,
+   "explanation": "29/77 = 0.3766 = 37.66%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 30/77 as a percentage?",
+   "choices": [
+    "35.06%",
+    "38.96%",
+    "36.36%",
+    "37.66%"
+   ],
+   "answer": 1,
+   "explanation": "30/77 = 0.3896 = 38.96%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 30/77 as a decimal?",
+   "choices": [
+    "0.3896",
+    "0.3506",
+    "0.3636",
+    "0.3766"
+   ],
+   "answer": 0,
+   "explanation": "30/77 = 0.3896 = 38.96%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 31/77 as a percentage?",
+   "choices": [
+    "36.36%",
+    "37.66%",
+    "40.26%",
+    "38.96%"
+   ],
+   "answer": 2,
+   "explanation": "31/77 = 0.4026 = 40.26%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 31/77 as a decimal?",
+   "choices": [
+    "0.3636",
+    "0.4026",
+    "0.3766",
+    "0.3896"
+   ],
+   "answer": 1,
+   "explanation": "31/77 = 0.4026 = 40.26%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 32/77 as a percentage?",
+   "choices": [
+    "37.66%",
+    "41.56%",
+    "38.96%",
+    "40.26%"
+   ],
+   "answer": 1,
+   "explanation": "32/77 = 0.4156 = 41.56%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 32/77 as a decimal?",
+   "choices": [
+    "0.4156",
+    "0.3766",
+    "0.3896",
+    "0.4026"
+   ],
+   "answer": 0,
+   "explanation": "32/77 = 0.4156 = 41.56%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 33/77 as a percentage?",
+   "choices": [
+    "42.86%",
+    "38.96%",
+    "40.26%",
+    "41.56%"
+   ],
+   "answer": 0,
+   "explanation": "33/77 = 0.4286 = 42.86%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 33/77 as a decimal?",
+   "choices": [
+    "0.3896",
+    "0.4026",
+    "0.4286",
+    "0.4156"
+   ],
+   "answer": 2,
+   "explanation": "33/77 = 0.4286 = 42.86%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 34/77 as a percentage?",
+   "choices": [
+    "40.26%",
+    "41.56%",
+    "44.16%",
+    "42.86%"
+   ],
+   "answer": 2,
+   "explanation": "34/77 = 0.4416 = 44.16%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 34/77 as a decimal?",
+   "choices": [
+    "0.4026",
+    "0.4156",
+    "0.4286",
+    "0.4416"
+   ],
+   "answer": 3,
+   "explanation": "34/77 = 0.4416 = 44.16%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 35/77 as a percentage?",
+   "choices": [
+    "45.45%",
+    "41.56%",
+    "42.86%",
+    "44.16%"
+   ],
+   "answer": 0,
+   "explanation": "35/77 = 0.4545 = 45.45%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 35/77 as a decimal?",
+   "choices": [
+    "0.4156",
+    "0.4545",
+    "0.4286",
+    "0.4416"
+   ],
+   "answer": 1,
+   "explanation": "35/77 = 0.4545 = 45.45%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 36/77 as a percentage?",
+   "choices": [
+    "42.86%",
+    "44.16%",
+    "45.45%",
+    "46.75%"
+   ],
+   "answer": 3,
+   "explanation": "36/77 = 0.4675 = 46.75%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 36/77 as a decimal?",
+   "choices": [
+    "0.4286",
+    "0.4416",
+    "0.4675",
+    "0.4545"
+   ],
+   "answer": 2,
+   "explanation": "36/77 = 0.4675 = 46.75%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 37/77 as a percentage?",
+   "choices": [
+    "44.16%",
+    "45.45%",
+    "48.05%",
+    "46.75%"
+   ],
+   "answer": 2,
+   "explanation": "37/77 = 0.4805 = 48.05%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 37/77 as a decimal?",
+   "choices": [
+    "0.4416",
+    "0.4805",
+    "0.4545",
+    "0.4675"
+   ],
+   "answer": 1,
+   "explanation": "37/77 = 0.4805 = 48.05%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 38/77 as a percentage?",
+   "choices": [
+    "45.45%",
+    "46.75%",
+    "49.35%",
+    "48.05%"
+   ],
+   "answer": 2,
+   "explanation": "38/77 = 0.4935 = 49.35%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 38/77 as a decimal?",
+   "choices": [
+    "0.4935",
+    "0.4545",
+    "0.4675",
+    "0.4805"
+   ],
+   "answer": 0,
+   "explanation": "38/77 = 0.4935 = 49.35%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 39/77 as a percentage?",
+   "choices": [
+    "46.75%",
+    "50.65%",
+    "48.05%",
+    "49.35%"
+   ],
+   "answer": 1,
+   "explanation": "39/77 = 0.5065 = 50.65%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 39/77 as a decimal?",
+   "choices": [
+    "0.4675",
+    "0.5065",
+    "0.4805",
+    "0.4935"
+   ],
+   "answer": 1,
+   "explanation": "39/77 = 0.5065 = 50.65%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 40/77 as a percentage?",
+   "choices": [
+    "48.05%",
+    "51.95%",
+    "49.35%",
+    "50.65%"
+   ],
+   "answer": 1,
+   "explanation": "40/77 = 0.5195 = 51.95%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 40/77 as a decimal?",
+   "choices": [
+    "0.4805",
+    "0.4935",
+    "0.5065",
+    "0.5195"
+   ],
+   "answer": 3,
+   "explanation": "40/77 = 0.5195 = 51.95%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 41/77 as a percentage?",
+   "choices": [
+    "49.35%",
+    "50.65%",
+    "51.95%",
+    "53.25%"
+   ],
+   "answer": 3,
+   "explanation": "41/77 = 0.5325 = 53.25%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 41/77 as a decimal?",
+   "choices": [
+    "0.4935",
+    "0.5065",
+    "0.5325",
+    "0.5195"
+   ],
+   "answer": 2,
+   "explanation": "41/77 = 0.5325 = 53.25%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 42/77 as a percentage?",
+   "choices": [
+    "50.65%",
+    "51.95%",
+    "54.55%",
+    "53.25%"
+   ],
+   "answer": 2,
+   "explanation": "42/77 = 0.5455 = 54.55%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 42/77 as a decimal?",
+   "choices": [
+    "0.5065",
+    "0.5195",
+    "0.5455",
+    "0.5325"
+   ],
+   "answer": 2,
+   "explanation": "42/77 = 0.5455 = 54.55%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 43/77 as a percentage?",
+   "choices": [
+    "55.84%",
+    "51.95%",
+    "53.25%",
+    "54.55%"
+   ],
+   "answer": 0,
+   "explanation": "43/77 = 0.5584 = 55.84%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 43/77 as a decimal?",
+   "choices": [
+    "0.5195",
+    "0.5325",
+    "0.5584",
+    "0.5455"
+   ],
+   "answer": 2,
+   "explanation": "43/77 = 0.5584 = 55.84%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 44/77 as a percentage?",
+   "choices": [
+    "53.25%",
+    "57.14%",
+    "54.55%",
+    "55.84%"
+   ],
+   "answer": 1,
+   "explanation": "44/77 = 0.5714 = 57.14%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 44/77 as a decimal?",
+   "choices": [
+    "0.5714",
+    "0.5325",
+    "0.5455",
+    "0.5584"
+   ],
+   "answer": 0,
+   "explanation": "44/77 = 0.5714 = 57.14%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 45/77 as a percentage?",
+   "choices": [
+    "54.55%",
+    "55.84%",
+    "58.44%",
+    "57.14%"
+   ],
+   "answer": 2,
+   "explanation": "45/77 = 0.5844 = 58.44%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 45/77 as a decimal?",
+   "choices": [
+    "0.5455",
+    "0.5584",
+    "0.5714",
+    "0.5844"
+   ],
+   "answer": 3,
+   "explanation": "45/77 = 0.5844 = 58.44%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 46/77 as a percentage?",
+   "choices": [
+    "55.84%",
+    "57.14%",
+    "59.74%",
+    "58.44%"
+   ],
+   "answer": 2,
+   "explanation": "46/77 = 0.5974 = 59.74%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 46/77 as a decimal?",
+   "choices": [
+    "0.5584",
+    "0.5714",
+    "0.5974",
+    "0.5844"
+   ],
+   "answer": 2,
+   "explanation": "46/77 = 0.5974 = 59.74%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 47/77 as a percentage?",
+   "choices": [
+    "57.14%",
+    "61.04%",
+    "58.44%",
+    "59.74%"
+   ],
+   "answer": 1,
+   "explanation": "47/77 = 0.6104 = 61.04%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 47/77 as a decimal?",
+   "choices": [
+    "0.5714",
+    "0.5844",
+    "0.6104",
+    "0.5974"
+   ],
+   "answer": 2,
+   "explanation": "47/77 = 0.6104 = 61.04%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 48/77 as a percentage?",
+   "choices": [
+    "58.44%",
+    "59.74%",
+    "62.34%",
+    "61.04%"
+   ],
+   "answer": 2,
+   "explanation": "48/77 = 0.6234 = 62.34%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 48/77 as a decimal?",
+   "choices": [
+    "0.6234",
+    "0.5844",
+    "0.5974",
+    "0.6104"
+   ],
+   "answer": 0,
+   "explanation": "48/77 = 0.6234 = 62.34%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 49/77 as a percentage?",
+   "choices": [
+    "59.74%",
+    "63.64%",
+    "61.04%",
+    "62.34%"
+   ],
+   "answer": 1,
+   "explanation": "49/77 = 0.6364 = 63.64%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 49/77 as a decimal?",
+   "choices": [
+    "0.5974",
+    "0.6364",
+    "0.6104",
+    "0.6234"
+   ],
+   "answer": 1,
+   "explanation": "49/77 = 0.6364 = 63.64%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 50/77 as a percentage?",
+   "choices": [
+    "61.04%",
+    "62.34%",
+    "64.94%",
+    "63.64%"
+   ],
+   "answer": 2,
+   "explanation": "50/77 = 0.6494 = 64.94%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 50/77 as a decimal?",
+   "choices": [
+    "0.6104",
+    "0.6494",
+    "0.6234",
+    "0.6364"
+   ],
+   "answer": 1,
+   "explanation": "50/77 = 0.6494 = 64.94%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 51/77 as a percentage?",
+   "choices": [
+    "62.34%",
+    "63.64%",
+    "64.94%",
+    "66.23%"
+   ],
+   "answer": 3,
+   "explanation": "51/77 = 0.6623 = 66.23%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 51/77 as a decimal?",
+   "choices": [
+    "0.6234",
+    "0.6364",
+    "0.6623",
+    "0.6494"
+   ],
+   "answer": 2,
+   "explanation": "51/77 = 0.6623 = 66.23%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 52/77 as a percentage?",
+   "choices": [
+    "63.64%",
+    "67.53%",
+    "64.94%",
+    "66.23%"
+   ],
+   "answer": 1,
+   "explanation": "52/77 = 0.6753 = 67.53%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 52/77 as a decimal?",
+   "choices": [
+    "0.6753",
+    "0.6364",
+    "0.6494",
+    "0.6623"
+   ],
+   "answer": 0,
+   "explanation": "52/77 = 0.6753 = 67.53%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 53/77 as a percentage?",
+   "choices": [
+    "64.94%",
+    "66.23%",
+    "68.83%",
+    "67.53%"
+   ],
+   "answer": 2,
+   "explanation": "53/77 = 0.6883 = 68.83%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 53/77 as a decimal?",
+   "choices": [
+    "0.6883",
+    "0.6494",
+    "0.6623",
+    "0.6753"
+   ],
+   "answer": 0,
+   "explanation": "53/77 = 0.6883 = 68.83%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 54/77 as a percentage?",
+   "choices": [
+    "66.23%",
+    "67.53%",
+    "68.83%",
+    "70.13%"
+   ],
+   "answer": 3,
+   "explanation": "54/77 = 0.7013 = 70.13%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 54/77 as a decimal?",
+   "choices": [
+    "0.7013",
+    "0.6623",
+    "0.6753",
+    "0.6883"
+   ],
+   "answer": 0,
+   "explanation": "54/77 = 0.7013 = 70.13%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 55/77 as a percentage?",
+   "choices": [
+    "67.53%",
+    "68.83%",
+    "71.43%",
+    "70.13%"
+   ],
+   "answer": 2,
+   "explanation": "55/77 = 0.7143 = 71.43%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 55/77 as a decimal?",
+   "choices": [
+    "0.6753",
+    "0.7143",
+    "0.6883",
+    "0.7013"
+   ],
+   "answer": 1,
+   "explanation": "55/77 = 0.7143 = 71.43%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 56/77 as a percentage?",
+   "choices": [
+    "72.73%",
+    "68.83%",
+    "70.13%",
+    "71.43%"
+   ],
+   "answer": 0,
+   "explanation": "56/77 = 0.7273 = 72.73%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 56/77 as a decimal?",
+   "choices": [
+    "0.6883",
+    "0.7273",
+    "0.7013",
+    "0.7143"
+   ],
+   "answer": 1,
+   "explanation": "56/77 = 0.7273 = 72.73%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 57/77 as a percentage?",
+   "choices": [
+    "70.13%",
+    "71.43%",
+    "74.03%",
+    "72.73%"
+   ],
+   "answer": 2,
+   "explanation": "57/77 = 0.7403 = 74.03%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 57/77 as a decimal?",
+   "choices": [
+    "0.7013",
+    "0.7143",
+    "0.7273",
+    "0.7403"
+   ],
+   "answer": 3,
+   "explanation": "57/77 = 0.7403 = 74.03%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 58/77 as a percentage?",
+   "choices": [
+    "75.32%",
+    "71.43%",
+    "72.73%",
+    "74.03%"
+   ],
+   "answer": 0,
+   "explanation": "58/77 = 0.7532 = 75.32%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 58/77 as a decimal?",
+   "choices": [
+    "0.7532",
+    "0.7143",
+    "0.7273",
+    "0.7403"
+   ],
+   "answer": 0,
+   "explanation": "58/77 = 0.7532 = 75.32%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 59/77 as a percentage?",
+   "choices": [
+    "72.73%",
+    "74.03%",
+    "76.62%",
+    "75.32%"
+   ],
+   "answer": 2,
+   "explanation": "59/77 = 0.7662 = 76.62%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 59/77 as a decimal?",
+   "choices": [
+    "0.7662",
+    "0.7273",
+    "0.7403",
+    "0.7532"
+   ],
+   "answer": 0,
+   "explanation": "59/77 = 0.7662 = 76.62%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 60/77 as a percentage?",
+   "choices": [
+    "74.03%",
+    "75.32%",
+    "77.92%",
+    "76.62%"
+   ],
+   "answer": 2,
+   "explanation": "60/77 = 0.7792 = 77.92%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 60/77 as a decimal?",
+   "choices": [
+    "0.7403",
+    "0.7532",
+    "0.7662",
+    "0.7792"
+   ],
+   "answer": 3,
+   "explanation": "60/77 = 0.7792 = 77.92%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 61/77 as a percentage?",
+   "choices": [
+    "79.22%",
+    "75.32%",
+    "76.62%",
+    "77.92%"
+   ],
+   "answer": 0,
+   "explanation": "61/77 = 0.7922 = 79.22%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 61/77 as a decimal?",
+   "choices": [
+    "0.7922",
+    "0.7532",
+    "0.7662",
+    "0.7792"
+   ],
+   "answer": 0,
+   "explanation": "61/77 = 0.7922 = 79.22%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 62/77 as a percentage?",
+   "choices": [
+    "76.62%",
+    "77.92%",
+    "79.22%",
+    "80.52%"
+   ],
+   "answer": 3,
+   "explanation": "62/77 = 0.8052 = 80.52%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 62/77 as a decimal?",
+   "choices": [
+    "0.7662",
+    "0.8052",
+    "0.7792",
+    "0.7922"
+   ],
+   "answer": 1,
+   "explanation": "62/77 = 0.8052 = 80.52%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 63/77 as a percentage?",
+   "choices": [
+    "77.92%",
+    "79.22%",
+    "81.82%",
+    "80.52%"
+   ],
+   "answer": 2,
+   "explanation": "63/77 = 0.8182 = 81.82%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 63/77 as a decimal?",
+   "choices": [
+    "0.7792",
+    "0.8182",
+    "0.7922",
+    "0.8052"
+   ],
+   "answer": 1,
+   "explanation": "63/77 = 0.8182 = 81.82%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 64/77 as a percentage?",
+   "choices": [
+    "79.22%",
+    "80.52%",
+    "81.82%",
+    "83.12%"
+   ],
+   "answer": 3,
+   "explanation": "64/77 = 0.8312 = 83.12%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 64/77 as a decimal?",
+   "choices": [
+    "0.8312",
+    "0.7922",
+    "0.8052",
+    "0.8182"
+   ],
+   "answer": 0,
+   "explanation": "64/77 = 0.8312 = 83.12%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 65/77 as a percentage?",
+   "choices": [
+    "80.52%",
+    "84.42%",
+    "81.82%",
+    "83.12%"
+   ],
+   "answer": 1,
+   "explanation": "65/77 = 0.8442 = 84.42%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 65/77 as a decimal?",
+   "choices": [
+    "0.8052",
+    "0.8442",
+    "0.8182",
+    "0.8312"
+   ],
+   "answer": 1,
+   "explanation": "65/77 = 0.8442 = 84.42%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 66/77 as a percentage?",
+   "choices": [
+    "81.82%",
+    "85.71%",
+    "83.12%",
+    "84.42%"
+   ],
+   "answer": 1,
+   "explanation": "66/77 = 0.8571 = 85.71%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 66/77 as a decimal?",
+   "choices": [
+    "0.8182",
+    "0.8312",
+    "0.8571",
+    "0.8442"
+   ],
+   "answer": 2,
+   "explanation": "66/77 = 0.8571 = 85.71%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 67/77 as a percentage?",
+   "choices": [
+    "87.01%",
+    "83.12%",
+    "84.42%",
+    "85.71%"
+   ],
+   "answer": 0,
+   "explanation": "67/77 = 0.8701 = 87.01%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 67/77 as a decimal?",
+   "choices": [
+    "0.8312",
+    "0.8442",
+    "0.8571",
+    "0.8701"
+   ],
+   "answer": 3,
+   "explanation": "67/77 = 0.8701 = 87.01%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 68/77 as a percentage?",
+   "choices": [
+    "88.31%",
+    "84.42%",
+    "85.71%",
+    "87.01%"
+   ],
+   "answer": 0,
+   "explanation": "68/77 = 0.8831 = 88.31%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 68/77 as a decimal?",
+   "choices": [
+    "0.8831",
+    "0.8442",
+    "0.8571",
+    "0.8701"
+   ],
+   "answer": 0,
+   "explanation": "68/77 = 0.8831 = 88.31%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 69/77 as a percentage?",
+   "choices": [
+    "85.71%",
+    "89.61%",
+    "87.01%",
+    "88.31%"
+   ],
+   "answer": 1,
+   "explanation": "69/77 = 0.8961 = 89.61%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 69/77 as a decimal?",
+   "choices": [
+    "0.8571",
+    "0.8701",
+    "0.8961",
+    "0.8831"
+   ],
+   "answer": 2,
+   "explanation": "69/77 = 0.8961 = 89.61%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 70/77 as a percentage?",
+   "choices": [
+    "90.91%",
+    "87.01%",
+    "88.31%",
+    "89.61%"
+   ],
+   "answer": 0,
+   "explanation": "70/77 = 0.9091 = 90.91%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 70/77 as a decimal?",
+   "choices": [
+    "0.9091",
+    "0.8701",
+    "0.8831",
+    "0.8961"
+   ],
+   "answer": 0,
+   "explanation": "70/77 = 0.9091 = 90.91%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 71/77 as a percentage?",
+   "choices": [
+    "88.31%",
+    "89.61%",
+    "92.21%",
+    "90.91%"
+   ],
+   "answer": 2,
+   "explanation": "71/77 = 0.9221 = 92.21%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 71/77 as a decimal?",
+   "choices": [
+    "0.8831",
+    "0.9221",
+    "0.8961",
+    "0.9091"
+   ],
+   "answer": 1,
+   "explanation": "71/77 = 0.9221 = 92.21%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 72/77 as a percentage?",
+   "choices": [
+    "93.51%",
+    "89.61%",
+    "90.91%",
+    "92.21%"
+   ],
+   "answer": 0,
+   "explanation": "72/77 = 0.9351 = 93.51%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 72/77 as a decimal?",
+   "choices": [
+    "0.8961",
+    "0.9091",
+    "0.9351",
+    "0.9221"
+   ],
+   "answer": 2,
+   "explanation": "72/77 = 0.9351 = 93.51%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 73/77 as a percentage?",
+   "choices": [
+    "90.91%",
+    "92.21%",
+    "93.51%",
+    "94.81%"
+   ],
+   "answer": 3,
+   "explanation": "73/77 = 0.9481 = 94.81%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 73/77 as a decimal?",
+   "choices": [
+    "0.9091",
+    "0.9221",
+    "0.9481",
+    "0.9351"
+   ],
+   "answer": 2,
+   "explanation": "73/77 = 0.9481 = 94.81%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 74/77 as a percentage?",
+   "choices": [
+    "92.21%",
+    "96.10%",
+    "93.51%",
+    "94.81%"
+   ],
+   "answer": 1,
+   "explanation": "74/77 = 0.9610 = 96.10%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 74/77 as a decimal?",
+   "choices": [
+    "0.9221",
+    "0.9610",
+    "0.9351",
+    "0.9481"
+   ],
+   "answer": 1,
+   "explanation": "74/77 = 0.9610 = 96.10%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 75/77 as a percentage?",
+   "choices": [
+    "93.51%",
+    "94.81%",
+    "96.10%",
+    "97.40%"
+   ],
+   "answer": 3,
+   "explanation": "75/77 = 0.9740 = 97.40%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 75/77 as a decimal?",
+   "choices": [
+    "0.9351",
+    "0.9740",
+    "0.9481",
+    "0.9610"
+   ],
+   "answer": 1,
+   "explanation": "75/77 = 0.9740 = 97.40%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 76/77 as a percentage?",
+   "choices": [
+    "94.81%",
+    "96.10%",
+    "97.40%",
+    "98.70%"
+   ],
+   "answer": 3,
+   "explanation": "76/77 = 0.9870 = 98.70%",
+   "source": "X/77"
+  },
+  {
+   "question": "What is 76/77 as a decimal?",
+   "choices": [
+    "0.9870",
+    "0.9481",
+    "0.9610",
+    "0.9740"
+   ],
+   "answer": 0,
+   "explanation": "76/77 = 0.9870 = 98.70%",
+   "source": "X/77"
+  }
+ ]
+}
