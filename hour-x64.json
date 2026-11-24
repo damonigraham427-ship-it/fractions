@@ -1,0 +1,1516 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/64 as a percentage?",
+   "choices": [
+    "1.56%",
+    "3.12%",
+    "4.69%",
+    "6.25%"
+   ],
+   "answer": 0,
+   "explanation": "1/64 = 0.0156 = 1.56%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 1/64 as a decimal?",
+   "choices": [
+    "0.0156",
+    "0.0312",
+    "0.0469",
+    "0.0625"
+   ],
+   "answer": 0,
+   "explanation": "1/64 = 0.0156 = 1.56%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 2/64 as a percentage?",
+   "choices": [
+    "1.56%",
+    "3.12%",
+    "4.69%",
+    "6.25%"
+   ],
+   "answer": 1,
+   "explanation": "2/64 = 0.0312 = 3.12%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 2/64 as a decimal?",
+   "choices": [
+    "0.0156",
+    "0.0469",
+    "0.0625",
+    "0.0312"
+   ],
+   "answer": 3,
+   "explanation": "2/64 = 0.0312 = 3.12%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 3/64 as a percentage?",
+   "choices": [
+    "4.69%",
+    "1.56%",
+    "3.12%",
+    "6.25%"
+   ],
+   "answer": 0,
+   "explanation": "3/64 = 0.0469 = 4.69%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 3/64 as a decimal?",
+   "choices": [
+    "0.0156",
+    "0.0312",
+    "0.0625",
+    "0.0469"
+   ],
+   "answer": 3,
+   "explanation": "3/64 = 0.0469 = 4.69%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 4/64 as a percentage?",
+   "choices": [
+    "1.56%",
+    "3.12%",
+    "4.69%",
+    "6.25%"
+   ],
+   "answer": 3,
+   "explanation": "4/64 = 0.0625 = 6.25%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 4/64 as a decimal?",
+   "choices": [
+    "0.0156",
+    "0.0312",
+    "0.0625",
+    "0.0469"
+   ],
+   "answer": 2,
+   "explanation": "4/64 = 0.0625 = 6.25%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 5/64 as a percentage?",
+   "choices": [
+    "3.12%",
+    "4.69%",
+    "6.25%",
+    "7.81%"
+   ],
+   "answer": 3,
+   "explanation": "5/64 = 0.0781 = 7.81%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 5/64 as a decimal?",
+   "choices": [
+    "0.0312",
+    "0.0469",
+    "0.0781",
+    "0.0625"
+   ],
+   "answer": 2,
+   "explanation": "5/64 = 0.0781 = 7.81%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 6/64 as a percentage?",
+   "choices": [
+    "4.69%",
+    "9.38%",
+    "6.25%",
+    "7.81%"
+   ],
+   "answer": 1,
+   "explanation": "6/64 = 0.0938 = 9.38%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 6/64 as a decimal?",
+   "choices": [
+    "0.0469",
+    "0.0938",
+    "0.0625",
+    "0.0781"
+   ],
+   "answer": 1,
+   "explanation": "6/64 = 0.0938 = 9.38%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 7/64 as a percentage?",
+   "choices": [
+    "6.25%",
+    "10.94%",
+    "7.81%",
+    "9.38%"
+   ],
+   "answer": 1,
+   "explanation": "7/64 = 0.1094 = 10.94%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 7/64 as a decimal?",
+   "choices": [
+    "0.0625",
+    "0.0781",
+    "0.1094",
+    "0.0938"
+   ],
+   "answer": 2,
+   "explanation": "7/64 = 0.1094 = 10.94%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 8/64 as a percentage?",
+   "choices": [
+    "12.50%",
+    "7.81%",
+    "9.38%",
+    "10.94%"
+   ],
+   "answer": 0,
+   "explanation": "8/64 = 0.1250 = 12.50%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 8/64 as a decimal?",
+   "choices": [
+    "0.0781",
+    "0.0938",
+    "0.1250",
+    "0.1094"
+   ],
+   "answer": 2,
+   "explanation": "8/64 = 0.1250 = 12.50%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 9/64 as a percentage?",
+   "choices": [
+    "14.06%",
+    "9.38%",
+    "10.94%",
+    "12.50%"
+   ],
+   "answer": 0,
+   "explanation": "9/64 = 0.1406 = 14.06%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 9/64 as a decimal?",
+   "choices": [
+    "0.1406",
+    "0.0938",
+    "0.1094",
+    "0.1250"
+   ],
+   "answer": 0,
+   "explanation": "9/64 = 0.1406 = 14.06%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 10/64 as a percentage?",
+   "choices": [
+    "10.94%",
+    "12.50%",
+    "14.06%",
+    "15.62%"
+   ],
+   "answer": 3,
+   "explanation": "10/64 = 0.1562 = 15.62%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 10/64 as a decimal?",
+   "choices": [
+    "0.1094",
+    "0.1562",
+    "0.1250",
+    "0.1406"
+   ],
+   "answer": 1,
+   "explanation": "10/64 = 0.1562 = 15.62%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 11/64 as a percentage?",
+   "choices": [
+    "12.50%",
+    "14.06%",
+    "15.62%",
+    "17.19%"
+   ],
+   "answer": 3,
+   "explanation": "11/64 = 0.1719 = 17.19%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 11/64 as a decimal?",
+   "choices": [
+    "0.1250",
+    "0.1719",
+    "0.1406",
+    "0.1562"
+   ],
+   "answer": 1,
+   "explanation": "11/64 = 0.1719 = 17.19%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 12/64 as a percentage?",
+   "choices": [
+    "18.75%",
+    "14.06%",
+    "15.62%",
+    "17.19%"
+   ],
+   "answer": 0,
+   "explanation": "12/64 = 0.1875 = 18.75%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 12/64 as a decimal?",
+   "choices": [
+    "0.1406",
+    "0.1562",
+    "0.1875",
+    "0.1719"
+   ],
+   "answer": 2,
+   "explanation": "12/64 = 0.1875 = 18.75%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 13/64 as a percentage?",
+   "choices": [
+    "15.62%",
+    "17.19%",
+    "20.31%",
+    "18.75%"
+   ],
+   "answer": 2,
+   "explanation": "13/64 = 0.2031 = 20.31%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 13/64 as a decimal?",
+   "choices": [
+    "0.2031",
+    "0.1562",
+    "0.1719",
+    "0.1875"
+   ],
+   "answer": 0,
+   "explanation": "13/64 = 0.2031 = 20.31%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 14/64 as a percentage?",
+   "choices": [
+    "17.19%",
+    "18.75%",
+    "21.88%",
+    "20.31%"
+   ],
+   "answer": 2,
+   "explanation": "14/64 = 0.2188 = 21.88%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 14/64 as a decimal?",
+   "choices": [
+    "0.2188",
+    "0.1719",
+    "0.1875",
+    "0.2031"
+   ],
+   "answer": 0,
+   "explanation": "14/64 = 0.2188 = 21.88%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 15/64 as a percentage?",
+   "choices": [
+    "18.75%",
+    "20.31%",
+    "21.88%",
+    "23.44%"
+   ],
+   "answer": 3,
+   "explanation": "15/64 = 0.2344 = 23.44%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 15/64 as a decimal?",
+   "choices": [
+    "0.2344",
+    "0.1875",
+    "0.2031",
+    "0.2188"
+   ],
+   "answer": 0,
+   "explanation": "15/64 = 0.2344 = 23.44%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 16/64 as a percentage?",
+   "choices": [
+    "20.31%",
+    "25.00%",
+    "21.88%",
+    "23.44%"
+   ],
+   "answer": 1,
+   "explanation": "16/64 = 0.2500 = 25.00%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 16/64 as a decimal?",
+   "choices": [
+    "0.2031",
+    "0.2188",
+    "0.2500",
+    "0.2344"
+   ],
+   "answer": 2,
+   "explanation": "16/64 = 0.2500 = 25.00%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 17/64 as a percentage?",
+   "choices": [
+    "21.88%",
+    "26.56%",
+    "23.44%",
+    "25.00%"
+   ],
+   "answer": 1,
+   "explanation": "17/64 = 0.2656 = 26.56%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 17/64 as a decimal?",
+   "choices": [
+    "0.2656",
+    "0.2188",
+    "0.2344",
+    "0.2500"
+   ],
+   "answer": 0,
+   "explanation": "17/64 = 0.2656 = 26.56%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 18/64 as a percentage?",
+   "choices": [
+    "28.12%",
+    "23.44%",
+    "25.00%",
+    "26.56%"
+   ],
+   "answer": 0,
+   "explanation": "18/64 = 0.2812 = 28.12%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 18/64 as a decimal?",
+   "choices": [
+    "0.2344",
+    "0.2500",
+    "0.2656",
+    "0.2812"
+   ],
+   "answer": 3,
+   "explanation": "18/64 = 0.2812 = 28.12%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 19/64 as a percentage?",
+   "choices": [
+    "25.00%",
+    "29.69%",
+    "26.56%",
+    "28.12%"
+   ],
+   "answer": 1,
+   "explanation": "19/64 = 0.2969 = 29.69%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 19/64 as a decimal?",
+   "choices": [
+    "0.2500",
+    "0.2656",
+    "0.2969",
+    "0.2812"
+   ],
+   "answer": 2,
+   "explanation": "19/64 = 0.2969 = 29.69%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 20/64 as a percentage?",
+   "choices": [
+    "26.56%",
+    "28.12%",
+    "31.25%",
+    "29.69%"
+   ],
+   "answer": 2,
+   "explanation": "20/64 = 0.3125 = 31.25%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 20/64 as a decimal?",
+   "choices": [
+    "0.3125",
+    "0.2656",
+    "0.2812",
+    "0.2969"
+   ],
+   "answer": 0,
+   "explanation": "20/64 = 0.3125 = 31.25%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 21/64 as a percentage?",
+   "choices": [
+    "28.12%",
+    "29.69%",
+    "32.81%",
+    "31.25%"
+   ],
+   "answer": 2,
+   "explanation": "21/64 = 0.3281 = 32.81%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 21/64 as a decimal?",
+   "choices": [
+    "0.2812",
+    "0.2969",
+    "0.3281",
+    "0.3125"
+   ],
+   "answer": 2,
+   "explanation": "21/64 = 0.3281 = 32.81%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 22/64 as a percentage?",
+   "choices": [
+    "29.69%",
+    "31.25%",
+    "34.38%",
+    "32.81%"
+   ],
+   "answer": 2,
+   "explanation": "22/64 = 0.3438 = 34.38%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 22/64 as a decimal?",
+   "choices": [
+    "0.2969",
+    "0.3125",
+    "0.3438",
+    "0.3281"
+   ],
+   "answer": 2,
+   "explanation": "22/64 = 0.3438 = 34.38%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 23/64 as a percentage?",
+   "choices": [
+    "31.25%",
+    "35.94%",
+    "32.81%",
+    "34.38%"
+   ],
+   "answer": 1,
+   "explanation": "23/64 = 0.3594 = 35.94%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 23/64 as a decimal?",
+   "choices": [
+    "0.3125",
+    "0.3594",
+    "0.3281",
+    "0.3438"
+   ],
+   "answer": 1,
+   "explanation": "23/64 = 0.3594 = 35.94%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 24/64 as a percentage?",
+   "choices": [
+    "37.50%",
+    "32.81%",
+    "34.38%",
+    "35.94%"
+   ],
+   "answer": 0,
+   "explanation": "24/64 = 0.3750 = 37.50%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 24/64 as a decimal?",
+   "choices": [
+    "0.3281",
+    "0.3438",
+    "0.3750",
+    "0.3594"
+   ],
+   "answer": 2,
+   "explanation": "24/64 = 0.3750 = 37.50%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 25/64 as a percentage?",
+   "choices": [
+    "34.38%",
+    "35.94%",
+    "39.06%",
+    "37.50%"
+   ],
+   "answer": 2,
+   "explanation": "25/64 = 0.3906 = 39.06%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 25/64 as a decimal?",
+   "choices": [
+    "0.3438",
+    "0.3594",
+    "0.3750",
+    "0.3906"
+   ],
+   "answer": 3,
+   "explanation": "25/64 = 0.3906 = 39.06%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 26/64 as a percentage?",
+   "choices": [
+    "35.94%",
+    "40.62%",
+    "37.50%",
+    "39.06%"
+   ],
+   "answer": 1,
+   "explanation": "26/64 = 0.4062 = 40.62%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 26/64 as a decimal?",
+   "choices": [
+    "0.3594",
+    "0.3750",
+    "0.4062",
+    "0.3906"
+   ],
+   "answer": 2,
+   "explanation": "26/64 = 0.4062 = 40.62%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 27/64 as a percentage?",
+   "choices": [
+    "42.19%",
+    "37.50%",
+    "39.06%",
+    "40.62%"
+   ],
+   "answer": 0,
+   "explanation": "27/64 = 0.4219 = 42.19%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 27/64 as a decimal?",
+   "choices": [
+    "0.4219",
+    "0.3750",
+    "0.3906",
+    "0.4062"
+   ],
+   "answer": 0,
+   "explanation": "27/64 = 0.4219 = 42.19%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 28/64 as a percentage?",
+   "choices": [
+    "39.06%",
+    "40.62%",
+    "43.75%",
+    "42.19%"
+   ],
+   "answer": 2,
+   "explanation": "28/64 = 0.4375 = 43.75%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 28/64 as a decimal?",
+   "choices": [
+    "0.3906",
+    "0.4375",
+    "0.4062",
+    "0.4219"
+   ],
+   "answer": 1,
+   "explanation": "28/64 = 0.4375 = 43.75%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 29/64 as a percentage?",
+   "choices": [
+    "40.62%",
+    "42.19%",
+    "43.75%",
+    "45.31%"
+   ],
+   "answer": 3,
+   "explanation": "29/64 = 0.4531 = 45.31%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 29/64 as a decimal?",
+   "choices": [
+    "0.4062",
+    "0.4219",
+    "0.4375",
+    "0.4531"
+   ],
+   "answer": 3,
+   "explanation": "29/64 = 0.4531 = 45.31%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 30/64 as a percentage?",
+   "choices": [
+    "42.19%",
+    "46.88%",
+    "43.75%",
+    "45.31%"
+   ],
+   "answer": 1,
+   "explanation": "30/64 = 0.4688 = 46.88%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 30/64 as a decimal?",
+   "choices": [
+    "0.4219",
+    "0.4375",
+    "0.4688",
+    "0.4531"
+   ],
+   "answer": 2,
+   "explanation": "30/64 = 0.4688 = 46.88%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 31/64 as a percentage?",
+   "choices": [
+    "43.75%",
+    "45.31%",
+    "48.44%",
+    "46.88%"
+   ],
+   "answer": 2,
+   "explanation": "31/64 = 0.4844 = 48.44%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 31/64 as a decimal?",
+   "choices": [
+    "0.4375",
+    "0.4531",
+    "0.4844",
+    "0.4688"
+   ],
+   "answer": 2,
+   "explanation": "31/64 = 0.4844 = 48.44%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 32/64 as a percentage?",
+   "choices": [
+    "50.00%",
+    "45.31%",
+    "46.88%",
+    "48.44%"
+   ],
+   "answer": 0,
+   "explanation": "32/64 = 0.5000 = 50.00%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 32/64 as a decimal?",
+   "choices": [
+    "0.4531",
+    "0.4688",
+    "0.4844",
+    "0.5000"
+   ],
+   "answer": 3,
+   "explanation": "32/64 = 0.5000 = 50.00%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 33/64 as a percentage?",
+   "choices": [
+    "46.88%",
+    "48.44%",
+    "50.00%",
+    "51.56%"
+   ],
+   "answer": 3,
+   "explanation": "33/64 = 0.5156 = 51.56%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 33/64 as a decimal?",
+   "choices": [
+    "0.4688",
+    "0.4844",
+    "0.5156",
+    "0.5000"
+   ],
+   "answer": 2,
+   "explanation": "33/64 = 0.5156 = 51.56%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 34/64 as a percentage?",
+   "choices": [
+    "48.44%",
+    "50.00%",
+    "53.12%",
+    "51.56%"
+   ],
+   "answer": 2,
+   "explanation": "34/64 = 0.5312 = 53.12%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 34/64 as a decimal?",
+   "choices": [
+    "0.4844",
+    "0.5000",
+    "0.5156",
+    "0.5312"
+   ],
+   "answer": 3,
+   "explanation": "34/64 = 0.5312 = 53.12%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 35/64 as a percentage?",
+   "choices": [
+    "50.00%",
+    "51.56%",
+    "53.12%",
+    "54.69%"
+   ],
+   "answer": 3,
+   "explanation": "35/64 = 0.5469 = 54.69%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 35/64 as a decimal?",
+   "choices": [
+    "0.5000",
+    "0.5469",
+    "0.5156",
+    "0.5312"
+   ],
+   "answer": 1,
+   "explanation": "35/64 = 0.5469 = 54.69%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 36/64 as a percentage?",
+   "choices": [
+    "51.56%",
+    "53.12%",
+    "56.25%",
+    "54.69%"
+   ],
+   "answer": 2,
+   "explanation": "36/64 = 0.5625 = 56.25%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 36/64 as a decimal?",
+   "choices": [
+    "0.5156",
+    "0.5312",
+    "0.5469",
+    "0.5625"
+   ],
+   "answer": 3,
+   "explanation": "36/64 = 0.5625 = 56.25%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 37/64 as a percentage?",
+   "choices": [
+    "53.12%",
+    "54.69%",
+    "56.25%",
+    "57.81%"
+   ],
+   "answer": 3,
+   "explanation": "37/64 = 0.5781 = 57.81%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 37/64 as a decimal?",
+   "choices": [
+    "0.5781",
+    "0.5312",
+    "0.5469",
+    "0.5625"
+   ],
+   "answer": 0,
+   "explanation": "37/64 = 0.5781 = 57.81%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 38/64 as a percentage?",
+   "choices": [
+    "54.69%",
+    "56.25%",
+    "59.38%",
+    "57.81%"
+   ],
+   "answer": 2,
+   "explanation": "38/64 = 0.5938 = 59.38%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 38/64 as a decimal?",
+   "choices": [
+    "0.5938",
+    "0.5469",
+    "0.5625",
+    "0.5781"
+   ],
+   "answer": 0,
+   "explanation": "38/64 = 0.5938 = 59.38%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 39/64 as a percentage?",
+   "choices": [
+    "56.25%",
+    "60.94%",
+    "57.81%",
+    "59.38%"
+   ],
+   "answer": 1,
+   "explanation": "39/64 = 0.6094 = 60.94%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 39/64 as a decimal?",
+   "choices": [
+    "0.6094",
+    "0.5625",
+    "0.5781",
+    "0.5938"
+   ],
+   "answer": 0,
+   "explanation": "39/64 = 0.6094 = 60.94%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 40/64 as a percentage?",
+   "choices": [
+    "57.81%",
+    "59.38%",
+    "60.94%",
+    "62.50%"
+   ],
+   "answer": 3,
+   "explanation": "40/64 = 0.6250 = 62.50%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 40/64 as a decimal?",
+   "choices": [
+    "0.6250",
+    "0.5781",
+    "0.5938",
+    "0.6094"
+   ],
+   "answer": 0,
+   "explanation": "40/64 = 0.6250 = 62.50%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 41/64 as a percentage?",
+   "choices": [
+    "64.06%",
+    "59.38%",
+    "60.94%",
+    "62.50%"
+   ],
+   "answer": 0,
+   "explanation": "41/64 = 0.6406 = 64.06%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 41/64 as a decimal?",
+   "choices": [
+    "0.5938",
+    "0.6094",
+    "0.6406",
+    "0.6250"
+   ],
+   "answer": 2,
+   "explanation": "41/64 = 0.6406 = 64.06%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 42/64 as a percentage?",
+   "choices": [
+    "60.94%",
+    "65.62%",
+    "62.50%",
+    "64.06%"
+   ],
+   "answer": 1,
+   "explanation": "42/64 = 0.6562 = 65.62%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 42/64 as a decimal?",
+   "choices": [
+    "0.6094",
+    "0.6250",
+    "0.6406",
+    "0.6562"
+   ],
+   "answer": 3,
+   "explanation": "42/64 = 0.6562 = 65.62%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 43/64 as a percentage?",
+   "choices": [
+    "67.19%",
+    "62.50%",
+    "64.06%",
+    "65.62%"
+   ],
+   "answer": 0,
+   "explanation": "43/64 = 0.6719 = 67.19%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 43/64 as a decimal?",
+   "choices": [
+    "0.6719",
+    "0.6250",
+    "0.6406",
+    "0.6562"
+   ],
+   "answer": 0,
+   "explanation": "43/64 = 0.6719 = 67.19%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 44/64 as a percentage?",
+   "choices": [
+    "64.06%",
+    "65.62%",
+    "68.75%",
+    "67.19%"
+   ],
+   "answer": 2,
+   "explanation": "44/64 = 0.6875 = 68.75%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 44/64 as a decimal?",
+   "choices": [
+    "0.6406",
+    "0.6562",
+    "0.6875",
+    "0.6719"
+   ],
+   "answer": 2,
+   "explanation": "44/64 = 0.6875 = 68.75%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 45/64 as a percentage?",
+   "choices": [
+    "70.31%",
+    "65.62%",
+    "67.19%",
+    "68.75%"
+   ],
+   "answer": 0,
+   "explanation": "45/64 = 0.7031 = 70.31%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 45/64 as a decimal?",
+   "choices": [
+    "0.6562",
+    "0.7031",
+    "0.6719",
+    "0.6875"
+   ],
+   "answer": 1,
+   "explanation": "45/64 = 0.7031 = 70.31%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 46/64 as a percentage?",
+   "choices": [
+    "67.19%",
+    "71.88%",
+    "68.75%",
+    "70.31%"
+   ],
+   "answer": 1,
+   "explanation": "46/64 = 0.7188 = 71.88%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 46/64 as a decimal?",
+   "choices": [
+    "0.6719",
+    "0.7188",
+    "0.6875",
+    "0.7031"
+   ],
+   "answer": 1,
+   "explanation": "46/64 = 0.7188 = 71.88%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 47/64 as a percentage?",
+   "choices": [
+    "68.75%",
+    "70.31%",
+    "73.44%",
+    "71.88%"
+   ],
+   "answer": 2,
+   "explanation": "47/64 = 0.7344 = 73.44%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 47/64 as a decimal?",
+   "choices": [
+    "0.7344",
+    "0.6875",
+    "0.7031",
+    "0.7188"
+   ],
+   "answer": 0,
+   "explanation": "47/64 = 0.7344 = 73.44%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 48/64 as a percentage?",
+   "choices": [
+    "70.31%",
+    "75.00%",
+    "71.88%",
+    "73.44%"
+   ],
+   "answer": 1,
+   "explanation": "48/64 = 0.7500 = 75.00%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 48/64 as a decimal?",
+   "choices": [
+    "0.7031",
+    "0.7188",
+    "0.7500",
+    "0.7344"
+   ],
+   "answer": 2,
+   "explanation": "48/64 = 0.7500 = 75.00%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 49/64 as a percentage?",
+   "choices": [
+    "76.56%",
+    "71.88%",
+    "73.44%",
+    "75.00%"
+   ],
+   "answer": 0,
+   "explanation": "49/64 = 0.7656 = 76.56%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 49/64 as a decimal?",
+   "choices": [
+    "0.7656",
+    "0.7188",
+    "0.7344",
+    "0.7500"
+   ],
+   "answer": 0,
+   "explanation": "49/64 = 0.7656 = 76.56%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 50/64 as a percentage?",
+   "choices": [
+    "73.44%",
+    "75.00%",
+    "78.12%",
+    "76.56%"
+   ],
+   "answer": 2,
+   "explanation": "50/64 = 0.7812 = 78.12%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 50/64 as a decimal?",
+   "choices": [
+    "0.7344",
+    "0.7812",
+    "0.7500",
+    "0.7656"
+   ],
+   "answer": 1,
+   "explanation": "50/64 = 0.7812 = 78.12%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 51/64 as a percentage?",
+   "choices": [
+    "75.00%",
+    "79.69%",
+    "76.56%",
+    "78.12%"
+   ],
+   "answer": 1,
+   "explanation": "51/64 = 0.7969 = 79.69%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 51/64 as a decimal?",
+   "choices": [
+    "0.7500",
+    "0.7656",
+    "0.7812",
+    "0.7969"
+   ],
+   "answer": 3,
+   "explanation": "51/64 = 0.7969 = 79.69%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 52/64 as a percentage?",
+   "choices": [
+    "76.56%",
+    "78.12%",
+    "81.25%",
+    "79.69%"
+   ],
+   "answer": 2,
+   "explanation": "52/64 = 0.8125 = 81.25%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 52/64 as a decimal?",
+   "choices": [
+    "0.8125",
+    "0.7656",
+    "0.7812",
+    "0.7969"
+   ],
+   "answer": 0,
+   "explanation": "52/64 = 0.8125 = 81.25%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 53/64 as a percentage?",
+   "choices": [
+    "78.12%",
+    "82.81%",
+    "79.69%",
+    "81.25%"
+   ],
+   "answer": 1,
+   "explanation": "53/64 = 0.8281 = 82.81%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 53/64 as a decimal?",
+   "choices": [
+    "0.7812",
+    "0.7969",
+    "0.8281",
+    "0.8125"
+   ],
+   "answer": 2,
+   "explanation": "53/64 = 0.8281 = 82.81%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 54/64 as a percentage?",
+   "choices": [
+    "79.69%",
+    "81.25%",
+    "84.38%",
+    "82.81%"
+   ],
+   "answer": 2,
+   "explanation": "54/64 = 0.8438 = 84.38%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 54/64 as a decimal?",
+   "choices": [
+    "0.7969",
+    "0.8438",
+    "0.8125",
+    "0.8281"
+   ],
+   "answer": 1,
+   "explanation": "54/64 = 0.8438 = 84.38%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 55/64 as a percentage?",
+   "choices": [
+    "81.25%",
+    "82.81%",
+    "84.38%",
+    "85.94%"
+   ],
+   "answer": 3,
+   "explanation": "55/64 = 0.8594 = 85.94%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 55/64 as a decimal?",
+   "choices": [
+    "0.8125",
+    "0.8281",
+    "0.8594",
+    "0.8438"
+   ],
+   "answer": 2,
+   "explanation": "55/64 = 0.8594 = 85.94%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 56/64 as a percentage?",
+   "choices": [
+    "82.81%",
+    "84.38%",
+    "85.94%",
+    "87.50%"
+   ],
+   "answer": 3,
+   "explanation": "56/64 = 0.8750 = 87.50%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 56/64 as a decimal?",
+   "choices": [
+    "0.8281",
+    "0.8438",
+    "0.8750",
+    "0.8594"
+   ],
+   "answer": 2,
+   "explanation": "56/64 = 0.8750 = 87.50%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 57/64 as a percentage?",
+   "choices": [
+    "84.38%",
+    "85.94%",
+    "87.50%",
+    "89.06%"
+   ],
+   "answer": 3,
+   "explanation": "57/64 = 0.8906 = 89.06%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 57/64 as a decimal?",
+   "choices": [
+    "0.8906",
+    "0.8438",
+    "0.8594",
+    "0.8750"
+   ],
+   "answer": 0,
+   "explanation": "57/64 = 0.8906 = 89.06%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 58/64 as a percentage?",
+   "choices": [
+    "90.62%",
+    "85.94%",
+    "87.50%",
+    "89.06%"
+   ],
+   "answer": 0,
+   "explanation": "58/64 = 0.9062 = 90.62%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 58/64 as a decimal?",
+   "choices": [
+    "0.8594",
+    "0.9062",
+    "0.8750",
+    "0.8906"
+   ],
+   "answer": 1,
+   "explanation": "58/64 = 0.9062 = 90.62%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 59/64 as a percentage?",
+   "choices": [
+    "92.19%",
+    "87.50%",
+    "89.06%",
+    "90.62%"
+   ],
+   "answer": 0,
+   "explanation": "59/64 = 0.9219 = 92.19%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 59/64 as a decimal?",
+   "choices": [
+    "0.8750",
+    "0.8906",
+    "0.9062",
+    "0.9219"
+   ],
+   "answer": 3,
+   "explanation": "59/64 = 0.9219 = 92.19%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 60/64 as a percentage?",
+   "choices": [
+    "89.06%",
+    "90.62%",
+    "93.75%",
+    "92.19%"
+   ],
+   "answer": 2,
+   "explanation": "60/64 = 0.9375 = 93.75%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 60/64 as a decimal?",
+   "choices": [
+    "0.8906",
+    "0.9062",
+    "0.9219",
+    "0.9375"
+   ],
+   "answer": 3,
+   "explanation": "60/64 = 0.9375 = 93.75%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 61/64 as a percentage?",
+   "choices": [
+    "95.31%",
+    "90.62%",
+    "92.19%",
+    "93.75%"
+   ],
+   "answer": 0,
+   "explanation": "61/64 = 0.9531 = 95.31%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 61/64 as a decimal?",
+   "choices": [
+    "0.9062",
+    "0.9219",
+    "0.9531",
+    "0.9375"
+   ],
+   "answer": 2,
+   "explanation": "61/64 = 0.9531 = 95.31%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 62/64 as a percentage?",
+   "choices": [
+    "92.19%",
+    "93.75%",
+    "95.31%",
+    "96.88%"
+   ],
+   "answer": 3,
+   "explanation": "62/64 = 0.9688 = 96.88%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 62/64 as a decimal?",
+   "choices": [
+    "0.9688",
+    "0.9219",
+    "0.9375",
+    "0.9531"
+   ],
+   "answer": 0,
+   "explanation": "62/64 = 0.9688 = 96.88%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 63/64 as a percentage?",
+   "choices": [
+    "93.75%",
+    "98.44%",
+    "95.31%",
+    "96.88%"
+   ],
+   "answer": 1,
+   "explanation": "63/64 = 0.9844 = 98.44%",
+   "source": "X/64"
+  },
+  {
+   "question": "What is 63/64 as a decimal?",
+   "choices": [
+    "0.9375",
+    "0.9844",
+    "0.9531",
+    "0.9688"
+   ],
+   "answer": 1,
+   "explanation": "63/64 = 0.9844 = 98.44%",
+   "source": "X/64"
+  }
+ ]
+}

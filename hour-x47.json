@@ -1,0 +1,1108 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/47 as a percentage?",
+   "choices": [
+    "4.26%",
+    "6.38%",
+    "8.51%",
+    "2.13%"
+   ],
+   "answer": 3,
+   "explanation": "1/47 = 0.0213 = 2.13%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 1/47 as a decimal?",
+   "choices": [
+    "0.0426",
+    "0.0213",
+    "0.0638",
+    "0.0851"
+   ],
+   "answer": 1,
+   "explanation": "1/47 = 0.0213 = 2.13%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 2/47 as a percentage?",
+   "choices": [
+    "2.13%",
+    "6.38%",
+    "8.51%",
+    "4.26%"
+   ],
+   "answer": 3,
+   "explanation": "2/47 = 0.0426 = 4.26%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 2/47 as a decimal?",
+   "choices": [
+    "0.0426",
+    "0.0213",
+    "0.0638",
+    "0.0851"
+   ],
+   "answer": 0,
+   "explanation": "2/47 = 0.0426 = 4.26%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 3/47 as a percentage?",
+   "choices": [
+    "2.13%",
+    "4.26%",
+    "6.38%",
+    "8.51%"
+   ],
+   "answer": 2,
+   "explanation": "3/47 = 0.0638 = 6.38%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 3/47 as a decimal?",
+   "choices": [
+    "0.0213",
+    "0.0426",
+    "0.0851",
+    "0.0638"
+   ],
+   "answer": 3,
+   "explanation": "3/47 = 0.0638 = 6.38%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 4/47 as a percentage?",
+   "choices": [
+    "2.13%",
+    "4.26%",
+    "8.51%",
+    "6.38%"
+   ],
+   "answer": 2,
+   "explanation": "4/47 = 0.0851 = 8.51%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 4/47 as a decimal?",
+   "choices": [
+    "0.0851",
+    "0.0213",
+    "0.0426",
+    "0.0638"
+   ],
+   "answer": 0,
+   "explanation": "4/47 = 0.0851 = 8.51%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 5/47 as a percentage?",
+   "choices": [
+    "4.26%",
+    "6.38%",
+    "10.64%",
+    "8.51%"
+   ],
+   "answer": 2,
+   "explanation": "5/47 = 0.1064 = 10.64%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 5/47 as a decimal?",
+   "choices": [
+    "0.0426",
+    "0.0638",
+    "0.0851",
+    "0.1064"
+   ],
+   "answer": 3,
+   "explanation": "5/47 = 0.1064 = 10.64%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 6/47 as a percentage?",
+   "choices": [
+    "6.38%",
+    "8.51%",
+    "12.77%",
+    "10.64%"
+   ],
+   "answer": 2,
+   "explanation": "6/47 = 0.1277 = 12.77%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 6/47 as a decimal?",
+   "choices": [
+    "0.0638",
+    "0.0851",
+    "0.1277",
+    "0.1064"
+   ],
+   "answer": 2,
+   "explanation": "6/47 = 0.1277 = 12.77%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 7/47 as a percentage?",
+   "choices": [
+    "8.51%",
+    "10.64%",
+    "14.89%",
+    "12.77%"
+   ],
+   "answer": 2,
+   "explanation": "7/47 = 0.1489 = 14.89%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 7/47 as a decimal?",
+   "choices": [
+    "0.0851",
+    "0.1064",
+    "0.1489",
+    "0.1277"
+   ],
+   "answer": 2,
+   "explanation": "7/47 = 0.1489 = 14.89%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 8/47 as a percentage?",
+   "choices": [
+    "10.64%",
+    "12.77%",
+    "17.02%",
+    "14.89%"
+   ],
+   "answer": 2,
+   "explanation": "8/47 = 0.1702 = 17.02%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 8/47 as a decimal?",
+   "choices": [
+    "0.1702",
+    "0.1064",
+    "0.1277",
+    "0.1489"
+   ],
+   "answer": 0,
+   "explanation": "8/47 = 0.1702 = 17.02%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 9/47 as a percentage?",
+   "choices": [
+    "19.15%",
+    "12.77%",
+    "14.89%",
+    "17.02%"
+   ],
+   "answer": 0,
+   "explanation": "9/47 = 0.1915 = 19.15%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 9/47 as a decimal?",
+   "choices": [
+    "0.1277",
+    "0.1489",
+    "0.1915",
+    "0.1702"
+   ],
+   "answer": 2,
+   "explanation": "9/47 = 0.1915 = 19.15%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 10/47 as a percentage?",
+   "choices": [
+    "14.89%",
+    "21.28%",
+    "17.02%",
+    "19.15%"
+   ],
+   "answer": 1,
+   "explanation": "10/47 = 0.2128 = 21.28%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 10/47 as a decimal?",
+   "choices": [
+    "0.1489",
+    "0.1702",
+    "0.2128",
+    "0.1915"
+   ],
+   "answer": 2,
+   "explanation": "10/47 = 0.2128 = 21.28%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 11/47 as a percentage?",
+   "choices": [
+    "17.02%",
+    "19.15%",
+    "21.28%",
+    "23.40%"
+   ],
+   "answer": 3,
+   "explanation": "11/47 = 0.2340 = 23.40%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 11/47 as a decimal?",
+   "choices": [
+    "0.1702",
+    "0.1915",
+    "0.2128",
+    "0.2340"
+   ],
+   "answer": 3,
+   "explanation": "11/47 = 0.2340 = 23.40%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 12/47 as a percentage?",
+   "choices": [
+    "19.15%",
+    "21.28%",
+    "23.40%",
+    "25.53%"
+   ],
+   "answer": 3,
+   "explanation": "12/47 = 0.2553 = 25.53%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 12/47 as a decimal?",
+   "choices": [
+    "0.1915",
+    "0.2128",
+    "0.2553",
+    "0.2340"
+   ],
+   "answer": 2,
+   "explanation": "12/47 = 0.2553 = 25.53%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 13/47 as a percentage?",
+   "choices": [
+    "21.28%",
+    "23.40%",
+    "25.53%",
+    "27.66%"
+   ],
+   "answer": 3,
+   "explanation": "13/47 = 0.2766 = 27.66%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 13/47 as a decimal?",
+   "choices": [
+    "0.2766",
+    "0.2128",
+    "0.2340",
+    "0.2553"
+   ],
+   "answer": 0,
+   "explanation": "13/47 = 0.2766 = 27.66%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 14/47 as a percentage?",
+   "choices": [
+    "29.79%",
+    "23.40%",
+    "25.53%",
+    "27.66%"
+   ],
+   "answer": 0,
+   "explanation": "14/47 = 0.2979 = 29.79%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 14/47 as a decimal?",
+   "choices": [
+    "0.2340",
+    "0.2553",
+    "0.2766",
+    "0.2979"
+   ],
+   "answer": 3,
+   "explanation": "14/47 = 0.2979 = 29.79%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 15/47 as a percentage?",
+   "choices": [
+    "31.91%",
+    "25.53%",
+    "27.66%",
+    "29.79%"
+   ],
+   "answer": 0,
+   "explanation": "15/47 = 0.3191 = 31.91%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 15/47 as a decimal?",
+   "choices": [
+    "0.2553",
+    "0.2766",
+    "0.3191",
+    "0.2979"
+   ],
+   "answer": 2,
+   "explanation": "15/47 = 0.3191 = 31.91%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 16/47 as a percentage?",
+   "choices": [
+    "27.66%",
+    "29.79%",
+    "34.04%",
+    "31.91%"
+   ],
+   "answer": 2,
+   "explanation": "16/47 = 0.3404 = 34.04%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 16/47 as a decimal?",
+   "choices": [
+    "0.2766",
+    "0.2979",
+    "0.3404",
+    "0.3191"
+   ],
+   "answer": 2,
+   "explanation": "16/47 = 0.3404 = 34.04%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 17/47 as a percentage?",
+   "choices": [
+    "29.79%",
+    "36.17%",
+    "31.91%",
+    "34.04%"
+   ],
+   "answer": 1,
+   "explanation": "17/47 = 0.3617 = 36.17%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 17/47 as a decimal?",
+   "choices": [
+    "0.2979",
+    "0.3617",
+    "0.3191",
+    "0.3404"
+   ],
+   "answer": 1,
+   "explanation": "17/47 = 0.3617 = 36.17%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 18/47 as a percentage?",
+   "choices": [
+    "31.91%",
+    "38.30%",
+    "34.04%",
+    "36.17%"
+   ],
+   "answer": 1,
+   "explanation": "18/47 = 0.3830 = 38.30%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 18/47 as a decimal?",
+   "choices": [
+    "0.3830",
+    "0.3191",
+    "0.3404",
+    "0.3617"
+   ],
+   "answer": 0,
+   "explanation": "18/47 = 0.3830 = 38.30%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 19/47 as a percentage?",
+   "choices": [
+    "34.04%",
+    "36.17%",
+    "38.30%",
+    "40.43%"
+   ],
+   "answer": 3,
+   "explanation": "19/47 = 0.4043 = 40.43%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 19/47 as a decimal?",
+   "choices": [
+    "0.4043",
+    "0.3404",
+    "0.3617",
+    "0.3830"
+   ],
+   "answer": 0,
+   "explanation": "19/47 = 0.4043 = 40.43%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 20/47 as a percentage?",
+   "choices": [
+    "42.55%",
+    "36.17%",
+    "38.30%",
+    "40.43%"
+   ],
+   "answer": 0,
+   "explanation": "20/47 = 0.4255 = 42.55%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 20/47 as a decimal?",
+   "choices": [
+    "0.3617",
+    "0.3830",
+    "0.4043",
+    "0.4255"
+   ],
+   "answer": 3,
+   "explanation": "20/47 = 0.4255 = 42.55%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 21/47 as a percentage?",
+   "choices": [
+    "38.30%",
+    "44.68%",
+    "40.43%",
+    "42.55%"
+   ],
+   "answer": 1,
+   "explanation": "21/47 = 0.4468 = 44.68%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 21/47 as a decimal?",
+   "choices": [
+    "0.3830",
+    "0.4043",
+    "0.4255",
+    "0.4468"
+   ],
+   "answer": 3,
+   "explanation": "21/47 = 0.4468 = 44.68%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 22/47 as a percentage?",
+   "choices": [
+    "40.43%",
+    "46.81%",
+    "42.55%",
+    "44.68%"
+   ],
+   "answer": 1,
+   "explanation": "22/47 = 0.4681 = 46.81%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 22/47 as a decimal?",
+   "choices": [
+    "0.4043",
+    "0.4681",
+    "0.4255",
+    "0.4468"
+   ],
+   "answer": 1,
+   "explanation": "22/47 = 0.4681 = 46.81%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 23/47 as a percentage?",
+   "choices": [
+    "42.55%",
+    "44.68%",
+    "46.81%",
+    "48.94%"
+   ],
+   "answer": 3,
+   "explanation": "23/47 = 0.4894 = 48.94%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 23/47 as a decimal?",
+   "choices": [
+    "0.4255",
+    "0.4468",
+    "0.4894",
+    "0.4681"
+   ],
+   "answer": 2,
+   "explanation": "23/47 = 0.4894 = 48.94%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 24/47 as a percentage?",
+   "choices": [
+    "44.68%",
+    "46.81%",
+    "51.06%",
+    "48.94%"
+   ],
+   "answer": 2,
+   "explanation": "24/47 = 0.5106 = 51.06%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 24/47 as a decimal?",
+   "choices": [
+    "0.5106",
+    "0.4468",
+    "0.4681",
+    "0.4894"
+   ],
+   "answer": 0,
+   "explanation": "24/47 = 0.5106 = 51.06%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 25/47 as a percentage?",
+   "choices": [
+    "53.19%",
+    "46.81%",
+    "48.94%",
+    "51.06%"
+   ],
+   "answer": 0,
+   "explanation": "25/47 = 0.5319 = 53.19%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 25/47 as a decimal?",
+   "choices": [
+    "0.4681",
+    "0.4894",
+    "0.5319",
+    "0.5106"
+   ],
+   "answer": 2,
+   "explanation": "25/47 = 0.5319 = 53.19%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 26/47 as a percentage?",
+   "choices": [
+    "55.32%",
+    "48.94%",
+    "51.06%",
+    "53.19%"
+   ],
+   "answer": 0,
+   "explanation": "26/47 = 0.5532 = 55.32%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 26/47 as a decimal?",
+   "choices": [
+    "0.4894",
+    "0.5106",
+    "0.5319",
+    "0.5532"
+   ],
+   "answer": 3,
+   "explanation": "26/47 = 0.5532 = 55.32%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 27/47 as a percentage?",
+   "choices": [
+    "51.06%",
+    "53.19%",
+    "57.45%",
+    "55.32%"
+   ],
+   "answer": 2,
+   "explanation": "27/47 = 0.5745 = 57.45%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 27/47 as a decimal?",
+   "choices": [
+    "0.5106",
+    "0.5745",
+    "0.5319",
+    "0.5532"
+   ],
+   "answer": 1,
+   "explanation": "27/47 = 0.5745 = 57.45%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 28/47 as a percentage?",
+   "choices": [
+    "59.57%",
+    "53.19%",
+    "55.32%",
+    "57.45%"
+   ],
+   "answer": 0,
+   "explanation": "28/47 = 0.5957 = 59.57%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 28/47 as a decimal?",
+   "choices": [
+    "0.5957",
+    "0.5319",
+    "0.5532",
+    "0.5745"
+   ],
+   "answer": 0,
+   "explanation": "28/47 = 0.5957 = 59.57%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 29/47 as a percentage?",
+   "choices": [
+    "61.70%",
+    "55.32%",
+    "57.45%",
+    "59.57%"
+   ],
+   "answer": 0,
+   "explanation": "29/47 = 0.6170 = 61.70%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 29/47 as a decimal?",
+   "choices": [
+    "0.6170",
+    "0.5532",
+    "0.5745",
+    "0.5957"
+   ],
+   "answer": 0,
+   "explanation": "29/47 = 0.6170 = 61.70%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 30/47 as a percentage?",
+   "choices": [
+    "63.83%",
+    "57.45%",
+    "59.57%",
+    "61.70%"
+   ],
+   "answer": 0,
+   "explanation": "30/47 = 0.6383 = 63.83%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 30/47 as a decimal?",
+   "choices": [
+    "0.5745",
+    "0.6383",
+    "0.5957",
+    "0.6170"
+   ],
+   "answer": 1,
+   "explanation": "30/47 = 0.6383 = 63.83%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 31/47 as a percentage?",
+   "choices": [
+    "59.57%",
+    "61.70%",
+    "65.96%",
+    "63.83%"
+   ],
+   "answer": 2,
+   "explanation": "31/47 = 0.6596 = 65.96%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 31/47 as a decimal?",
+   "choices": [
+    "0.5957",
+    "0.6170",
+    "0.6596",
+    "0.6383"
+   ],
+   "answer": 2,
+   "explanation": "31/47 = 0.6596 = 65.96%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 32/47 as a percentage?",
+   "choices": [
+    "61.70%",
+    "63.83%",
+    "68.09%",
+    "65.96%"
+   ],
+   "answer": 2,
+   "explanation": "32/47 = 0.6809 = 68.09%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 32/47 as a decimal?",
+   "choices": [
+    "0.6809",
+    "0.6170",
+    "0.6383",
+    "0.6596"
+   ],
+   "answer": 0,
+   "explanation": "32/47 = 0.6809 = 68.09%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 33/47 as a percentage?",
+   "choices": [
+    "63.83%",
+    "65.96%",
+    "70.21%",
+    "68.09%"
+   ],
+   "answer": 2,
+   "explanation": "33/47 = 0.7021 = 70.21%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 33/47 as a decimal?",
+   "choices": [
+    "0.6383",
+    "0.6596",
+    "0.6809",
+    "0.7021"
+   ],
+   "answer": 3,
+   "explanation": "33/47 = 0.7021 = 70.21%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 34/47 as a percentage?",
+   "choices": [
+    "65.96%",
+    "68.09%",
+    "72.34%",
+    "70.21%"
+   ],
+   "answer": 2,
+   "explanation": "34/47 = 0.7234 = 72.34%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 34/47 as a decimal?",
+   "choices": [
+    "0.6596",
+    "0.6809",
+    "0.7234",
+    "0.7021"
+   ],
+   "answer": 2,
+   "explanation": "34/47 = 0.7234 = 72.34%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 35/47 as a percentage?",
+   "choices": [
+    "68.09%",
+    "70.21%",
+    "72.34%",
+    "74.47%"
+   ],
+   "answer": 3,
+   "explanation": "35/47 = 0.7447 = 74.47%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 35/47 as a decimal?",
+   "choices": [
+    "0.7447",
+    "0.6809",
+    "0.7021",
+    "0.7234"
+   ],
+   "answer": 0,
+   "explanation": "35/47 = 0.7447 = 74.47%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 36/47 as a percentage?",
+   "choices": [
+    "70.21%",
+    "76.60%",
+    "72.34%",
+    "74.47%"
+   ],
+   "answer": 1,
+   "explanation": "36/47 = 0.7660 = 76.60%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 36/47 as a decimal?",
+   "choices": [
+    "0.7021",
+    "0.7660",
+    "0.7234",
+    "0.7447"
+   ],
+   "answer": 1,
+   "explanation": "36/47 = 0.7660 = 76.60%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 37/47 as a percentage?",
+   "choices": [
+    "72.34%",
+    "78.72%",
+    "74.47%",
+    "76.60%"
+   ],
+   "answer": 1,
+   "explanation": "37/47 = 0.7872 = 78.72%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 37/47 as a decimal?",
+   "choices": [
+    "0.7872",
+    "0.7234",
+    "0.7447",
+    "0.7660"
+   ],
+   "answer": 0,
+   "explanation": "37/47 = 0.7872 = 78.72%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 38/47 as a percentage?",
+   "choices": [
+    "74.47%",
+    "80.85%",
+    "76.60%",
+    "78.72%"
+   ],
+   "answer": 1,
+   "explanation": "38/47 = 0.8085 = 80.85%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 38/47 as a decimal?",
+   "choices": [
+    "0.8085",
+    "0.7447",
+    "0.7660",
+    "0.7872"
+   ],
+   "answer": 0,
+   "explanation": "38/47 = 0.8085 = 80.85%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 39/47 as a percentage?",
+   "choices": [
+    "76.60%",
+    "78.72%",
+    "80.85%",
+    "82.98%"
+   ],
+   "answer": 3,
+   "explanation": "39/47 = 0.8298 = 82.98%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 39/47 as a decimal?",
+   "choices": [
+    "0.7660",
+    "0.7872",
+    "0.8298",
+    "0.8085"
+   ],
+   "answer": 2,
+   "explanation": "39/47 = 0.8298 = 82.98%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 40/47 as a percentage?",
+   "choices": [
+    "78.72%",
+    "80.85%",
+    "85.11%",
+    "82.98%"
+   ],
+   "answer": 2,
+   "explanation": "40/47 = 0.8511 = 85.11%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 40/47 as a decimal?",
+   "choices": [
+    "0.7872",
+    "0.8085",
+    "0.8298",
+    "0.8511"
+   ],
+   "answer": 3,
+   "explanation": "40/47 = 0.8511 = 85.11%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 41/47 as a percentage?",
+   "choices": [
+    "80.85%",
+    "82.98%",
+    "87.23%",
+    "85.11%"
+   ],
+   "answer": 2,
+   "explanation": "41/47 = 0.8723 = 87.23%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 41/47 as a decimal?",
+   "choices": [
+    "0.8085",
+    "0.8298",
+    "0.8511",
+    "0.8723"
+   ],
+   "answer": 3,
+   "explanation": "41/47 = 0.8723 = 87.23%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 42/47 as a percentage?",
+   "choices": [
+    "82.98%",
+    "85.11%",
+    "89.36%",
+    "87.23%"
+   ],
+   "answer": 2,
+   "explanation": "42/47 = 0.8936 = 89.36%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 42/47 as a decimal?",
+   "choices": [
+    "0.8298",
+    "0.8511",
+    "0.8723",
+    "0.8936"
+   ],
+   "answer": 3,
+   "explanation": "42/47 = 0.8936 = 89.36%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 43/47 as a percentage?",
+   "choices": [
+    "85.11%",
+    "87.23%",
+    "91.49%",
+    "89.36%"
+   ],
+   "answer": 2,
+   "explanation": "43/47 = 0.9149 = 91.49%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 43/47 as a decimal?",
+   "choices": [
+    "0.9149",
+    "0.8511",
+    "0.8723",
+    "0.8936"
+   ],
+   "answer": 0,
+   "explanation": "43/47 = 0.9149 = 91.49%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 44/47 as a percentage?",
+   "choices": [
+    "87.23%",
+    "89.36%",
+    "93.62%",
+    "91.49%"
+   ],
+   "answer": 2,
+   "explanation": "44/47 = 0.9362 = 93.62%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 44/47 as a decimal?",
+   "choices": [
+    "0.8723",
+    "0.8936",
+    "0.9362",
+    "0.9149"
+   ],
+   "answer": 2,
+   "explanation": "44/47 = 0.9362 = 93.62%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 45/47 as a percentage?",
+   "choices": [
+    "89.36%",
+    "95.74%",
+    "91.49%",
+    "93.62%"
+   ],
+   "answer": 1,
+   "explanation": "45/47 = 0.9574 = 95.74%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 45/47 as a decimal?",
+   "choices": [
+    "0.9574",
+    "0.8936",
+    "0.9149",
+    "0.9362"
+   ],
+   "answer": 0,
+   "explanation": "45/47 = 0.9574 = 95.74%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 46/47 as a percentage?",
+   "choices": [
+    "97.87%",
+    "91.49%",
+    "93.62%",
+    "95.74%"
+   ],
+   "answer": 0,
+   "explanation": "46/47 = 0.9787 = 97.87%",
+   "source": "X/47"
+  },
+  {
+   "question": "What is 46/47 as a decimal?",
+   "choices": [
+    "0.9149",
+    "0.9787",
+    "0.9362",
+    "0.9574"
+   ],
+   "answer": 1,
+   "explanation": "46/47 = 0.9787 = 97.87%",
+   "source": "X/47"
+  }
+ ]
+}

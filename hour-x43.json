@@ -1,0 +1,1012 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/43 as a percentage?",
+   "choices": [
+    "4.65%",
+    "6.98%",
+    "2.33%",
+    "9.30%"
+   ],
+   "answer": 2,
+   "explanation": "1/43 = 0.0233 = 2.33%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 1/43 as a decimal?",
+   "choices": [
+    "0.0465",
+    "0.0698",
+    "0.0930",
+    "0.0233"
+   ],
+   "answer": 3,
+   "explanation": "1/43 = 0.0233 = 2.33%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 2/43 as a percentage?",
+   "choices": [
+    "2.33%",
+    "6.98%",
+    "4.65%",
+    "9.30%"
+   ],
+   "answer": 2,
+   "explanation": "2/43 = 0.0465 = 4.65%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 2/43 as a decimal?",
+   "choices": [
+    "0.0233",
+    "0.0465",
+    "0.0698",
+    "0.0930"
+   ],
+   "answer": 1,
+   "explanation": "2/43 = 0.0465 = 4.65%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 3/43 as a percentage?",
+   "choices": [
+    "2.33%",
+    "4.65%",
+    "9.30%",
+    "6.98%"
+   ],
+   "answer": 3,
+   "explanation": "3/43 = 0.0698 = 6.98%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 3/43 as a decimal?",
+   "choices": [
+    "0.0698",
+    "0.0233",
+    "0.0465",
+    "0.0930"
+   ],
+   "answer": 0,
+   "explanation": "3/43 = 0.0698 = 6.98%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 4/43 as a percentage?",
+   "choices": [
+    "9.30%",
+    "2.33%",
+    "4.65%",
+    "6.98%"
+   ],
+   "answer": 0,
+   "explanation": "4/43 = 0.0930 = 9.30%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 4/43 as a decimal?",
+   "choices": [
+    "0.0233",
+    "0.0930",
+    "0.0465",
+    "0.0698"
+   ],
+   "answer": 1,
+   "explanation": "4/43 = 0.0930 = 9.30%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 5/43 as a percentage?",
+   "choices": [
+    "11.63%",
+    "4.65%",
+    "6.98%",
+    "9.30%"
+   ],
+   "answer": 0,
+   "explanation": "5/43 = 0.1163 = 11.63%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 5/43 as a decimal?",
+   "choices": [
+    "0.0465",
+    "0.0698",
+    "0.1163",
+    "0.0930"
+   ],
+   "answer": 2,
+   "explanation": "5/43 = 0.1163 = 11.63%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 6/43 as a percentage?",
+   "choices": [
+    "6.98%",
+    "13.95%",
+    "9.30%",
+    "11.63%"
+   ],
+   "answer": 1,
+   "explanation": "6/43 = 0.1395 = 13.95%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 6/43 as a decimal?",
+   "choices": [
+    "0.0698",
+    "0.0930",
+    "0.1163",
+    "0.1395"
+   ],
+   "answer": 3,
+   "explanation": "6/43 = 0.1395 = 13.95%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 7/43 as a percentage?",
+   "choices": [
+    "9.30%",
+    "16.28%",
+    "11.63%",
+    "13.95%"
+   ],
+   "answer": 1,
+   "explanation": "7/43 = 0.1628 = 16.28%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 7/43 as a decimal?",
+   "choices": [
+    "0.0930",
+    "0.1163",
+    "0.1628",
+    "0.1395"
+   ],
+   "answer": 2,
+   "explanation": "7/43 = 0.1628 = 16.28%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 8/43 as a percentage?",
+   "choices": [
+    "11.63%",
+    "18.60%",
+    "13.95%",
+    "16.28%"
+   ],
+   "answer": 1,
+   "explanation": "8/43 = 0.1860 = 18.60%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 8/43 as a decimal?",
+   "choices": [
+    "0.1163",
+    "0.1395",
+    "0.1860",
+    "0.1628"
+   ],
+   "answer": 2,
+   "explanation": "8/43 = 0.1860 = 18.60%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 9/43 as a percentage?",
+   "choices": [
+    "13.95%",
+    "16.28%",
+    "20.93%",
+    "18.60%"
+   ],
+   "answer": 2,
+   "explanation": "9/43 = 0.2093 = 20.93%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 9/43 as a decimal?",
+   "choices": [
+    "0.1395",
+    "0.1628",
+    "0.2093",
+    "0.1860"
+   ],
+   "answer": 2,
+   "explanation": "9/43 = 0.2093 = 20.93%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 10/43 as a percentage?",
+   "choices": [
+    "16.28%",
+    "23.26%",
+    "18.60%",
+    "20.93%"
+   ],
+   "answer": 1,
+   "explanation": "10/43 = 0.2326 = 23.26%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 10/43 as a decimal?",
+   "choices": [
+    "0.1628",
+    "0.1860",
+    "0.2093",
+    "0.2326"
+   ],
+   "answer": 3,
+   "explanation": "10/43 = 0.2326 = 23.26%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 11/43 as a percentage?",
+   "choices": [
+    "18.60%",
+    "20.93%",
+    "23.26%",
+    "25.58%"
+   ],
+   "answer": 3,
+   "explanation": "11/43 = 0.2558 = 25.58%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 11/43 as a decimal?",
+   "choices": [
+    "0.1860",
+    "0.2558",
+    "0.2093",
+    "0.2326"
+   ],
+   "answer": 1,
+   "explanation": "11/43 = 0.2558 = 25.58%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 12/43 as a percentage?",
+   "choices": [
+    "20.93%",
+    "23.26%",
+    "27.91%",
+    "25.58%"
+   ],
+   "answer": 2,
+   "explanation": "12/43 = 0.2791 = 27.91%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 12/43 as a decimal?",
+   "choices": [
+    "0.2791",
+    "0.2093",
+    "0.2326",
+    "0.2558"
+   ],
+   "answer": 0,
+   "explanation": "12/43 = 0.2791 = 27.91%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 13/43 as a percentage?",
+   "choices": [
+    "23.26%",
+    "25.58%",
+    "30.23%",
+    "27.91%"
+   ],
+   "answer": 2,
+   "explanation": "13/43 = 0.3023 = 30.23%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 13/43 as a decimal?",
+   "choices": [
+    "0.2326",
+    "0.2558",
+    "0.2791",
+    "0.3023"
+   ],
+   "answer": 3,
+   "explanation": "13/43 = 0.3023 = 30.23%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 14/43 as a percentage?",
+   "choices": [
+    "25.58%",
+    "32.56%",
+    "27.91%",
+    "30.23%"
+   ],
+   "answer": 1,
+   "explanation": "14/43 = 0.3256 = 32.56%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 14/43 as a decimal?",
+   "choices": [
+    "0.2558",
+    "0.2791",
+    "0.3023",
+    "0.3256"
+   ],
+   "answer": 3,
+   "explanation": "14/43 = 0.3256 = 32.56%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 15/43 as a percentage?",
+   "choices": [
+    "34.88%",
+    "27.91%",
+    "30.23%",
+    "32.56%"
+   ],
+   "answer": 0,
+   "explanation": "15/43 = 0.3488 = 34.88%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 15/43 as a decimal?",
+   "choices": [
+    "0.2791",
+    "0.3488",
+    "0.3023",
+    "0.3256"
+   ],
+   "answer": 1,
+   "explanation": "15/43 = 0.3488 = 34.88%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 16/43 as a percentage?",
+   "choices": [
+    "30.23%",
+    "37.21%",
+    "32.56%",
+    "34.88%"
+   ],
+   "answer": 1,
+   "explanation": "16/43 = 0.3721 = 37.21%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 16/43 as a decimal?",
+   "choices": [
+    "0.3721",
+    "0.3023",
+    "0.3256",
+    "0.3488"
+   ],
+   "answer": 0,
+   "explanation": "16/43 = 0.3721 = 37.21%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 17/43 as a percentage?",
+   "choices": [
+    "39.53%",
+    "32.56%",
+    "34.88%",
+    "37.21%"
+   ],
+   "answer": 0,
+   "explanation": "17/43 = 0.3953 = 39.53%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 17/43 as a decimal?",
+   "choices": [
+    "0.3256",
+    "0.3953",
+    "0.3488",
+    "0.3721"
+   ],
+   "answer": 1,
+   "explanation": "17/43 = 0.3953 = 39.53%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 18/43 as a percentage?",
+   "choices": [
+    "41.86%",
+    "34.88%",
+    "37.21%",
+    "39.53%"
+   ],
+   "answer": 0,
+   "explanation": "18/43 = 0.4186 = 41.86%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 18/43 as a decimal?",
+   "choices": [
+    "0.3488",
+    "0.3721",
+    "0.3953",
+    "0.4186"
+   ],
+   "answer": 3,
+   "explanation": "18/43 = 0.4186 = 41.86%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 19/43 as a percentage?",
+   "choices": [
+    "37.21%",
+    "44.19%",
+    "39.53%",
+    "41.86%"
+   ],
+   "answer": 1,
+   "explanation": "19/43 = 0.4419 = 44.19%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 19/43 as a decimal?",
+   "choices": [
+    "0.4419",
+    "0.3721",
+    "0.3953",
+    "0.4186"
+   ],
+   "answer": 0,
+   "explanation": "19/43 = 0.4419 = 44.19%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 20/43 as a percentage?",
+   "choices": [
+    "39.53%",
+    "46.51%",
+    "41.86%",
+    "44.19%"
+   ],
+   "answer": 1,
+   "explanation": "20/43 = 0.4651 = 46.51%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 20/43 as a decimal?",
+   "choices": [
+    "0.3953",
+    "0.4186",
+    "0.4651",
+    "0.4419"
+   ],
+   "answer": 2,
+   "explanation": "20/43 = 0.4651 = 46.51%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 21/43 as a percentage?",
+   "choices": [
+    "48.84%",
+    "41.86%",
+    "44.19%",
+    "46.51%"
+   ],
+   "answer": 0,
+   "explanation": "21/43 = 0.4884 = 48.84%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 21/43 as a decimal?",
+   "choices": [
+    "0.4186",
+    "0.4419",
+    "0.4884",
+    "0.4651"
+   ],
+   "answer": 2,
+   "explanation": "21/43 = 0.4884 = 48.84%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 22/43 as a percentage?",
+   "choices": [
+    "51.16%",
+    "44.19%",
+    "46.51%",
+    "48.84%"
+   ],
+   "answer": 0,
+   "explanation": "22/43 = 0.5116 = 51.16%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 22/43 as a decimal?",
+   "choices": [
+    "0.5116",
+    "0.4419",
+    "0.4651",
+    "0.4884"
+   ],
+   "answer": 0,
+   "explanation": "22/43 = 0.5116 = 51.16%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 23/43 as a percentage?",
+   "choices": [
+    "46.51%",
+    "53.49%",
+    "48.84%",
+    "51.16%"
+   ],
+   "answer": 1,
+   "explanation": "23/43 = 0.5349 = 53.49%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 23/43 as a decimal?",
+   "choices": [
+    "0.4651",
+    "0.4884",
+    "0.5116",
+    "0.5349"
+   ],
+   "answer": 3,
+   "explanation": "23/43 = 0.5349 = 53.49%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 24/43 as a percentage?",
+   "choices": [
+    "48.84%",
+    "55.81%",
+    "51.16%",
+    "53.49%"
+   ],
+   "answer": 1,
+   "explanation": "24/43 = 0.5581 = 55.81%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 24/43 as a decimal?",
+   "choices": [
+    "0.4884",
+    "0.5116",
+    "0.5581",
+    "0.5349"
+   ],
+   "answer": 2,
+   "explanation": "24/43 = 0.5581 = 55.81%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 25/43 as a percentage?",
+   "choices": [
+    "51.16%",
+    "53.49%",
+    "58.14%",
+    "55.81%"
+   ],
+   "answer": 2,
+   "explanation": "25/43 = 0.5814 = 58.14%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 25/43 as a decimal?",
+   "choices": [
+    "0.5116",
+    "0.5349",
+    "0.5581",
+    "0.5814"
+   ],
+   "answer": 3,
+   "explanation": "25/43 = 0.5814 = 58.14%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 26/43 as a percentage?",
+   "choices": [
+    "53.49%",
+    "60.47%",
+    "55.81%",
+    "58.14%"
+   ],
+   "answer": 1,
+   "explanation": "26/43 = 0.6047 = 60.47%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 26/43 as a decimal?",
+   "choices": [
+    "0.5349",
+    "0.5581",
+    "0.6047",
+    "0.5814"
+   ],
+   "answer": 2,
+   "explanation": "26/43 = 0.6047 = 60.47%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 27/43 as a percentage?",
+   "choices": [
+    "55.81%",
+    "58.14%",
+    "62.79%",
+    "60.47%"
+   ],
+   "answer": 2,
+   "explanation": "27/43 = 0.6279 = 62.79%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 27/43 as a decimal?",
+   "choices": [
+    "0.5581",
+    "0.5814",
+    "0.6279",
+    "0.6047"
+   ],
+   "answer": 2,
+   "explanation": "27/43 = 0.6279 = 62.79%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 28/43 as a percentage?",
+   "choices": [
+    "65.12%",
+    "58.14%",
+    "60.47%",
+    "62.79%"
+   ],
+   "answer": 0,
+   "explanation": "28/43 = 0.6512 = 65.12%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 28/43 as a decimal?",
+   "choices": [
+    "0.5814",
+    "0.6512",
+    "0.6047",
+    "0.6279"
+   ],
+   "answer": 1,
+   "explanation": "28/43 = 0.6512 = 65.12%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 29/43 as a percentage?",
+   "choices": [
+    "60.47%",
+    "62.79%",
+    "67.44%",
+    "65.12%"
+   ],
+   "answer": 2,
+   "explanation": "29/43 = 0.6744 = 67.44%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 29/43 as a decimal?",
+   "choices": [
+    "0.6047",
+    "0.6279",
+    "0.6512",
+    "0.6744"
+   ],
+   "answer": 3,
+   "explanation": "29/43 = 0.6744 = 67.44%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 30/43 as a percentage?",
+   "choices": [
+    "62.79%",
+    "65.12%",
+    "69.77%",
+    "67.44%"
+   ],
+   "answer": 2,
+   "explanation": "30/43 = 0.6977 = 69.77%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 30/43 as a decimal?",
+   "choices": [
+    "0.6279",
+    "0.6512",
+    "0.6744",
+    "0.6977"
+   ],
+   "answer": 3,
+   "explanation": "30/43 = 0.6977 = 69.77%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 31/43 as a percentage?",
+   "choices": [
+    "65.12%",
+    "67.44%",
+    "69.77%",
+    "72.09%"
+   ],
+   "answer": 3,
+   "explanation": "31/43 = 0.7209 = 72.09%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 31/43 as a decimal?",
+   "choices": [
+    "0.6512",
+    "0.7209",
+    "0.6744",
+    "0.6977"
+   ],
+   "answer": 1,
+   "explanation": "31/43 = 0.7209 = 72.09%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 32/43 as a percentage?",
+   "choices": [
+    "67.44%",
+    "69.77%",
+    "72.09%",
+    "74.42%"
+   ],
+   "answer": 3,
+   "explanation": "32/43 = 0.7442 = 74.42%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 32/43 as a decimal?",
+   "choices": [
+    "0.6744",
+    "0.6977",
+    "0.7209",
+    "0.7442"
+   ],
+   "answer": 3,
+   "explanation": "32/43 = 0.7442 = 74.42%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 33/43 as a percentage?",
+   "choices": [
+    "69.77%",
+    "72.09%",
+    "76.74%",
+    "74.42%"
+   ],
+   "answer": 2,
+   "explanation": "33/43 = 0.7674 = 76.74%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 33/43 as a decimal?",
+   "choices": [
+    "0.6977",
+    "0.7209",
+    "0.7442",
+    "0.7674"
+   ],
+   "answer": 3,
+   "explanation": "33/43 = 0.7674 = 76.74%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 34/43 as a percentage?",
+   "choices": [
+    "72.09%",
+    "74.42%",
+    "79.07%",
+    "76.74%"
+   ],
+   "answer": 2,
+   "explanation": "34/43 = 0.7907 = 79.07%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 34/43 as a decimal?",
+   "choices": [
+    "0.7209",
+    "0.7442",
+    "0.7674",
+    "0.7907"
+   ],
+   "answer": 3,
+   "explanation": "34/43 = 0.7907 = 79.07%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 35/43 as a percentage?",
+   "choices": [
+    "74.42%",
+    "76.74%",
+    "79.07%",
+    "81.40%"
+   ],
+   "answer": 3,
+   "explanation": "35/43 = 0.8140 = 81.40%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 35/43 as a decimal?",
+   "choices": [
+    "0.8140",
+    "0.7442",
+    "0.7674",
+    "0.7907"
+   ],
+   "answer": 0,
+   "explanation": "35/43 = 0.8140 = 81.40%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 36/43 as a percentage?",
+   "choices": [
+    "83.72%",
+    "76.74%",
+    "79.07%",
+    "81.40%"
+   ],
+   "answer": 0,
+   "explanation": "36/43 = 0.8372 = 83.72%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 36/43 as a decimal?",
+   "choices": [
+    "0.7674",
+    "0.7907",
+    "0.8140",
+    "0.8372"
+   ],
+   "answer": 3,
+   "explanation": "36/43 = 0.8372 = 83.72%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 37/43 as a percentage?",
+   "choices": [
+    "86.05%",
+    "79.07%",
+    "81.40%",
+    "83.72%"
+   ],
+   "answer": 0,
+   "explanation": "37/43 = 0.8605 = 86.05%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 37/43 as a decimal?",
+   "choices": [
+    "0.8605",
+    "0.7907",
+    "0.8140",
+    "0.8372"
+   ],
+   "answer": 0,
+   "explanation": "37/43 = 0.8605 = 86.05%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 38/43 as a percentage?",
+   "choices": [
+    "81.40%",
+    "88.37%",
+    "83.72%",
+    "86.05%"
+   ],
+   "answer": 1,
+   "explanation": "38/43 = 0.8837 = 88.37%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 38/43 as a decimal?",
+   "choices": [
+    "0.8140",
+    "0.8372",
+    "0.8837",
+    "0.8605"
+   ],
+   "answer": 2,
+   "explanation": "38/43 = 0.8837 = 88.37%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 39/43 as a percentage?",
+   "choices": [
+    "83.72%",
+    "86.05%",
+    "90.70%",
+    "88.37%"
+   ],
+   "answer": 2,
+   "explanation": "39/43 = 0.9070 = 90.70%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 39/43 as a decimal?",
+   "choices": [
+    "0.8372",
+    "0.8605",
+    "0.9070",
+    "0.8837"
+   ],
+   "answer": 2,
+   "explanation": "39/43 = 0.9070 = 90.70%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 40/43 as a percentage?",
+   "choices": [
+    "86.05%",
+    "88.37%",
+    "90.70%",
+    "93.02%"
+   ],
+   "answer": 3,
+   "explanation": "40/43 = 0.9302 = 93.02%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 40/43 as a decimal?",
+   "choices": [
+    "0.8605",
+    "0.8837",
+    "0.9070",
+    "0.9302"
+   ],
+   "answer": 3,
+   "explanation": "40/43 = 0.9302 = 93.02%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 41/43 as a percentage?",
+   "choices": [
+    "88.37%",
+    "90.70%",
+    "93.02%",
+    "95.35%"
+   ],
+   "answer": 3,
+   "explanation": "41/43 = 0.9535 = 95.35%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 41/43 as a decimal?",
+   "choices": [
+    "0.8837",
+    "0.9535",
+    "0.9070",
+    "0.9302"
+   ],
+   "answer": 1,
+   "explanation": "41/43 = 0.9535 = 95.35%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 42/43 as a percentage?",
+   "choices": [
+    "90.70%",
+    "93.02%",
+    "95.35%",
+    "97.67%"
+   ],
+   "answer": 3,
+   "explanation": "42/43 = 0.9767 = 97.67%",
+   "source": "X/43"
+  },
+  {
+   "question": "What is 42/43 as a decimal?",
+   "choices": [
+    "0.9070",
+    "0.9302",
+    "0.9535",
+    "0.9767"
+   ],
+   "answer": 3,
+   "explanation": "42/43 = 0.9767 = 97.67%",
+   "source": "X/43"
+  }
+ ]
+}

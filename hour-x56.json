@@ -1,0 +1,1324 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/56 as a percentage?",
+   "choices": [
+    "3.57%",
+    "5.36%",
+    "1.79%",
+    "7.14%"
+   ],
+   "answer": 2,
+   "explanation": "1/56 = 0.0179 = 1.79%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 1/56 as a decimal?",
+   "choices": [
+    "0.0357",
+    "0.0536",
+    "0.0179",
+    "0.0714"
+   ],
+   "answer": 2,
+   "explanation": "1/56 = 0.0179 = 1.79%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 2/56 as a percentage?",
+   "choices": [
+    "3.57%",
+    "1.79%",
+    "5.36%",
+    "7.14%"
+   ],
+   "answer": 0,
+   "explanation": "2/56 = 0.0357 = 3.57%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 2/56 as a decimal?",
+   "choices": [
+    "0.0179",
+    "0.0536",
+    "0.0714",
+    "0.0357"
+   ],
+   "answer": 3,
+   "explanation": "2/56 = 0.0357 = 3.57%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 3/56 as a percentage?",
+   "choices": [
+    "1.79%",
+    "3.57%",
+    "5.36%",
+    "7.14%"
+   ],
+   "answer": 2,
+   "explanation": "3/56 = 0.0536 = 5.36%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 3/56 as a decimal?",
+   "choices": [
+    "0.0536",
+    "0.0179",
+    "0.0357",
+    "0.0714"
+   ],
+   "answer": 0,
+   "explanation": "3/56 = 0.0536 = 5.36%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 4/56 as a percentage?",
+   "choices": [
+    "1.79%",
+    "3.57%",
+    "5.36%",
+    "7.14%"
+   ],
+   "answer": 3,
+   "explanation": "4/56 = 0.0714 = 7.14%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 4/56 as a decimal?",
+   "choices": [
+    "0.0179",
+    "0.0357",
+    "0.0536",
+    "0.0714"
+   ],
+   "answer": 3,
+   "explanation": "4/56 = 0.0714 = 7.14%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 5/56 as a percentage?",
+   "choices": [
+    "3.57%",
+    "8.93%",
+    "5.36%",
+    "7.14%"
+   ],
+   "answer": 1,
+   "explanation": "5/56 = 0.0893 = 8.93%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 5/56 as a decimal?",
+   "choices": [
+    "0.0357",
+    "0.0536",
+    "0.0893",
+    "0.0714"
+   ],
+   "answer": 2,
+   "explanation": "5/56 = 0.0893 = 8.93%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 6/56 as a percentage?",
+   "choices": [
+    "5.36%",
+    "10.71%",
+    "7.14%",
+    "8.93%"
+   ],
+   "answer": 1,
+   "explanation": "6/56 = 0.1071 = 10.71%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 6/56 as a decimal?",
+   "choices": [
+    "0.0536",
+    "0.0714",
+    "0.1071",
+    "0.0893"
+   ],
+   "answer": 2,
+   "explanation": "6/56 = 0.1071 = 10.71%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 7/56 as a percentage?",
+   "choices": [
+    "7.14%",
+    "8.93%",
+    "10.71%",
+    "12.50%"
+   ],
+   "answer": 3,
+   "explanation": "7/56 = 0.1250 = 12.50%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 7/56 as a decimal?",
+   "choices": [
+    "0.1250",
+    "0.0714",
+    "0.0893",
+    "0.1071"
+   ],
+   "answer": 0,
+   "explanation": "7/56 = 0.1250 = 12.50%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 8/56 as a percentage?",
+   "choices": [
+    "8.93%",
+    "14.29%",
+    "10.71%",
+    "12.50%"
+   ],
+   "answer": 1,
+   "explanation": "8/56 = 0.1429 = 14.29%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 8/56 as a decimal?",
+   "choices": [
+    "0.0893",
+    "0.1071",
+    "0.1429",
+    "0.1250"
+   ],
+   "answer": 2,
+   "explanation": "8/56 = 0.1429 = 14.29%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 9/56 as a percentage?",
+   "choices": [
+    "10.71%",
+    "12.50%",
+    "14.29%",
+    "16.07%"
+   ],
+   "answer": 3,
+   "explanation": "9/56 = 0.1607 = 16.07%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 9/56 as a decimal?",
+   "choices": [
+    "0.1071",
+    "0.1250",
+    "0.1607",
+    "0.1429"
+   ],
+   "answer": 2,
+   "explanation": "9/56 = 0.1607 = 16.07%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 10/56 as a percentage?",
+   "choices": [
+    "12.50%",
+    "14.29%",
+    "16.07%",
+    "17.86%"
+   ],
+   "answer": 3,
+   "explanation": "10/56 = 0.1786 = 17.86%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 10/56 as a decimal?",
+   "choices": [
+    "0.1250",
+    "0.1429",
+    "0.1786",
+    "0.1607"
+   ],
+   "answer": 2,
+   "explanation": "10/56 = 0.1786 = 17.86%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 11/56 as a percentage?",
+   "choices": [
+    "14.29%",
+    "16.07%",
+    "17.86%",
+    "19.64%"
+   ],
+   "answer": 3,
+   "explanation": "11/56 = 0.1964 = 19.64%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 11/56 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.1964",
+    "0.1607",
+    "0.1786"
+   ],
+   "answer": 1,
+   "explanation": "11/56 = 0.1964 = 19.64%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 12/56 as a percentage?",
+   "choices": [
+    "16.07%",
+    "17.86%",
+    "19.64%",
+    "21.43%"
+   ],
+   "answer": 3,
+   "explanation": "12/56 = 0.2143 = 21.43%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 12/56 as a decimal?",
+   "choices": [
+    "0.2143",
+    "0.1607",
+    "0.1786",
+    "0.1964"
+   ],
+   "answer": 0,
+   "explanation": "12/56 = 0.2143 = 21.43%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 13/56 as a percentage?",
+   "choices": [
+    "23.21%",
+    "17.86%",
+    "19.64%",
+    "21.43%"
+   ],
+   "answer": 0,
+   "explanation": "13/56 = 0.2321 = 23.21%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 13/56 as a decimal?",
+   "choices": [
+    "0.1786",
+    "0.1964",
+    "0.2143",
+    "0.2321"
+   ],
+   "answer": 3,
+   "explanation": "13/56 = 0.2321 = 23.21%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 14/56 as a percentage?",
+   "choices": [
+    "25.00%",
+    "19.64%",
+    "21.43%",
+    "23.21%"
+   ],
+   "answer": 0,
+   "explanation": "14/56 = 0.2500 = 25.00%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 14/56 as a decimal?",
+   "choices": [
+    "0.1964",
+    "0.2500",
+    "0.2143",
+    "0.2321"
+   ],
+   "answer": 1,
+   "explanation": "14/56 = 0.2500 = 25.00%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 15/56 as a percentage?",
+   "choices": [
+    "21.43%",
+    "26.79%",
+    "23.21%",
+    "25.00%"
+   ],
+   "answer": 1,
+   "explanation": "15/56 = 0.2679 = 26.79%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 15/56 as a decimal?",
+   "choices": [
+    "0.2679",
+    "0.2143",
+    "0.2321",
+    "0.2500"
+   ],
+   "answer": 0,
+   "explanation": "15/56 = 0.2679 = 26.79%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 16/56 as a percentage?",
+   "choices": [
+    "23.21%",
+    "25.00%",
+    "28.57%",
+    "26.79%"
+   ],
+   "answer": 2,
+   "explanation": "16/56 = 0.2857 = 28.57%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 16/56 as a decimal?",
+   "choices": [
+    "0.2857",
+    "0.2321",
+    "0.2500",
+    "0.2679"
+   ],
+   "answer": 0,
+   "explanation": "16/56 = 0.2857 = 28.57%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 17/56 as a percentage?",
+   "choices": [
+    "25.00%",
+    "26.79%",
+    "30.36%",
+    "28.57%"
+   ],
+   "answer": 2,
+   "explanation": "17/56 = 0.3036 = 30.36%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 17/56 as a decimal?",
+   "choices": [
+    "0.2500",
+    "0.3036",
+    "0.2679",
+    "0.2857"
+   ],
+   "answer": 1,
+   "explanation": "17/56 = 0.3036 = 30.36%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 18/56 as a percentage?",
+   "choices": [
+    "26.79%",
+    "28.57%",
+    "30.36%",
+    "32.14%"
+   ],
+   "answer": 3,
+   "explanation": "18/56 = 0.3214 = 32.14%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 18/56 as a decimal?",
+   "choices": [
+    "0.2679",
+    "0.3214",
+    "0.2857",
+    "0.3036"
+   ],
+   "answer": 1,
+   "explanation": "18/56 = 0.3214 = 32.14%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 19/56 as a percentage?",
+   "choices": [
+    "28.57%",
+    "30.36%",
+    "33.93%",
+    "32.14%"
+   ],
+   "answer": 2,
+   "explanation": "19/56 = 0.3393 = 33.93%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 19/56 as a decimal?",
+   "choices": [
+    "0.2857",
+    "0.3393",
+    "0.3036",
+    "0.3214"
+   ],
+   "answer": 1,
+   "explanation": "19/56 = 0.3393 = 33.93%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 20/56 as a percentage?",
+   "choices": [
+    "35.71%",
+    "30.36%",
+    "32.14%",
+    "33.93%"
+   ],
+   "answer": 0,
+   "explanation": "20/56 = 0.3571 = 35.71%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 20/56 as a decimal?",
+   "choices": [
+    "0.3036",
+    "0.3214",
+    "0.3393",
+    "0.3571"
+   ],
+   "answer": 3,
+   "explanation": "20/56 = 0.3571 = 35.71%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 21/56 as a percentage?",
+   "choices": [
+    "32.14%",
+    "33.93%",
+    "35.71%",
+    "37.50%"
+   ],
+   "answer": 3,
+   "explanation": "21/56 = 0.3750 = 37.50%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 21/56 as a decimal?",
+   "choices": [
+    "0.3214",
+    "0.3393",
+    "0.3571",
+    "0.3750"
+   ],
+   "answer": 3,
+   "explanation": "21/56 = 0.3750 = 37.50%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 22/56 as a percentage?",
+   "choices": [
+    "39.29%",
+    "33.93%",
+    "35.71%",
+    "37.50%"
+   ],
+   "answer": 0,
+   "explanation": "22/56 = 0.3929 = 39.29%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 22/56 as a decimal?",
+   "choices": [
+    "0.3393",
+    "0.3571",
+    "0.3750",
+    "0.3929"
+   ],
+   "answer": 3,
+   "explanation": "22/56 = 0.3929 = 39.29%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 23/56 as a percentage?",
+   "choices": [
+    "41.07%",
+    "35.71%",
+    "37.50%",
+    "39.29%"
+   ],
+   "answer": 0,
+   "explanation": "23/56 = 0.4107 = 41.07%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 23/56 as a decimal?",
+   "choices": [
+    "0.3571",
+    "0.4107",
+    "0.3750",
+    "0.3929"
+   ],
+   "answer": 1,
+   "explanation": "23/56 = 0.4107 = 41.07%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 24/56 as a percentage?",
+   "choices": [
+    "37.50%",
+    "39.29%",
+    "41.07%",
+    "42.86%"
+   ],
+   "answer": 3,
+   "explanation": "24/56 = 0.4286 = 42.86%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 24/56 as a decimal?",
+   "choices": [
+    "0.3750",
+    "0.4286",
+    "0.3929",
+    "0.4107"
+   ],
+   "answer": 1,
+   "explanation": "24/56 = 0.4286 = 42.86%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 25/56 as a percentage?",
+   "choices": [
+    "39.29%",
+    "41.07%",
+    "42.86%",
+    "44.64%"
+   ],
+   "answer": 3,
+   "explanation": "25/56 = 0.4464 = 44.64%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 25/56 as a decimal?",
+   "choices": [
+    "0.3929",
+    "0.4107",
+    "0.4286",
+    "0.4464"
+   ],
+   "answer": 3,
+   "explanation": "25/56 = 0.4464 = 44.64%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 26/56 as a percentage?",
+   "choices": [
+    "46.43%",
+    "41.07%",
+    "42.86%",
+    "44.64%"
+   ],
+   "answer": 0,
+   "explanation": "26/56 = 0.4643 = 46.43%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 26/56 as a decimal?",
+   "choices": [
+    "0.4107",
+    "0.4286",
+    "0.4464",
+    "0.4643"
+   ],
+   "answer": 3,
+   "explanation": "26/56 = 0.4643 = 46.43%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 27/56 as a percentage?",
+   "choices": [
+    "42.86%",
+    "44.64%",
+    "48.21%",
+    "46.43%"
+   ],
+   "answer": 2,
+   "explanation": "27/56 = 0.4821 = 48.21%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 27/56 as a decimal?",
+   "choices": [
+    "0.4286",
+    "0.4821",
+    "0.4464",
+    "0.4643"
+   ],
+   "answer": 1,
+   "explanation": "27/56 = 0.4821 = 48.21%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 28/56 as a percentage?",
+   "choices": [
+    "50.00%",
+    "44.64%",
+    "46.43%",
+    "48.21%"
+   ],
+   "answer": 0,
+   "explanation": "28/56 = 0.5000 = 50.00%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 28/56 as a decimal?",
+   "choices": [
+    "0.4464",
+    "0.5000",
+    "0.4643",
+    "0.4821"
+   ],
+   "answer": 1,
+   "explanation": "28/56 = 0.5000 = 50.00%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 29/56 as a percentage?",
+   "choices": [
+    "51.79%",
+    "46.43%",
+    "48.21%",
+    "50.00%"
+   ],
+   "answer": 0,
+   "explanation": "29/56 = 0.5179 = 51.79%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 29/56 as a decimal?",
+   "choices": [
+    "0.5179",
+    "0.4643",
+    "0.4821",
+    "0.5000"
+   ],
+   "answer": 0,
+   "explanation": "29/56 = 0.5179 = 51.79%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 30/56 as a percentage?",
+   "choices": [
+    "53.57%",
+    "48.21%",
+    "50.00%",
+    "51.79%"
+   ],
+   "answer": 0,
+   "explanation": "30/56 = 0.5357 = 53.57%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 30/56 as a decimal?",
+   "choices": [
+    "0.4821",
+    "0.5000",
+    "0.5179",
+    "0.5357"
+   ],
+   "answer": 3,
+   "explanation": "30/56 = 0.5357 = 53.57%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 31/56 as a percentage?",
+   "choices": [
+    "50.00%",
+    "51.79%",
+    "55.36%",
+    "53.57%"
+   ],
+   "answer": 2,
+   "explanation": "31/56 = 0.5536 = 55.36%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 31/56 as a decimal?",
+   "choices": [
+    "0.5000",
+    "0.5536",
+    "0.5179",
+    "0.5357"
+   ],
+   "answer": 1,
+   "explanation": "31/56 = 0.5536 = 55.36%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 32/56 as a percentage?",
+   "choices": [
+    "51.79%",
+    "53.57%",
+    "55.36%",
+    "57.14%"
+   ],
+   "answer": 3,
+   "explanation": "32/56 = 0.5714 = 57.14%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 32/56 as a decimal?",
+   "choices": [
+    "0.5179",
+    "0.5714",
+    "0.5357",
+    "0.5536"
+   ],
+   "answer": 1,
+   "explanation": "32/56 = 0.5714 = 57.14%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 33/56 as a percentage?",
+   "choices": [
+    "53.57%",
+    "58.93%",
+    "55.36%",
+    "57.14%"
+   ],
+   "answer": 1,
+   "explanation": "33/56 = 0.5893 = 58.93%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 33/56 as a decimal?",
+   "choices": [
+    "0.5357",
+    "0.5536",
+    "0.5893",
+    "0.5714"
+   ],
+   "answer": 2,
+   "explanation": "33/56 = 0.5893 = 58.93%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 34/56 as a percentage?",
+   "choices": [
+    "55.36%",
+    "57.14%",
+    "58.93%",
+    "60.71%"
+   ],
+   "answer": 3,
+   "explanation": "34/56 = 0.6071 = 60.71%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 34/56 as a decimal?",
+   "choices": [
+    "0.6071",
+    "0.5536",
+    "0.5714",
+    "0.5893"
+   ],
+   "answer": 0,
+   "explanation": "34/56 = 0.6071 = 60.71%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 35/56 as a percentage?",
+   "choices": [
+    "57.14%",
+    "62.50%",
+    "58.93%",
+    "60.71%"
+   ],
+   "answer": 1,
+   "explanation": "35/56 = 0.6250 = 62.50%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 35/56 as a decimal?",
+   "choices": [
+    "0.5714",
+    "0.5893",
+    "0.6250",
+    "0.6071"
+   ],
+   "answer": 2,
+   "explanation": "35/56 = 0.6250 = 62.50%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 36/56 as a percentage?",
+   "choices": [
+    "58.93%",
+    "60.71%",
+    "62.50%",
+    "64.29%"
+   ],
+   "answer": 3,
+   "explanation": "36/56 = 0.6429 = 64.29%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 36/56 as a decimal?",
+   "choices": [
+    "0.5893",
+    "0.6429",
+    "0.6071",
+    "0.6250"
+   ],
+   "answer": 1,
+   "explanation": "36/56 = 0.6429 = 64.29%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 37/56 as a percentage?",
+   "choices": [
+    "60.71%",
+    "66.07%",
+    "62.50%",
+    "64.29%"
+   ],
+   "answer": 1,
+   "explanation": "37/56 = 0.6607 = 66.07%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 37/56 as a decimal?",
+   "choices": [
+    "0.6607",
+    "0.6071",
+    "0.6250",
+    "0.6429"
+   ],
+   "answer": 0,
+   "explanation": "37/56 = 0.6607 = 66.07%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 38/56 as a percentage?",
+   "choices": [
+    "62.50%",
+    "64.29%",
+    "66.07%",
+    "67.86%"
+   ],
+   "answer": 3,
+   "explanation": "38/56 = 0.6786 = 67.86%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 38/56 as a decimal?",
+   "choices": [
+    "0.6250",
+    "0.6429",
+    "0.6607",
+    "0.6786"
+   ],
+   "answer": 3,
+   "explanation": "38/56 = 0.6786 = 67.86%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 39/56 as a percentage?",
+   "choices": [
+    "69.64%",
+    "64.29%",
+    "66.07%",
+    "67.86%"
+   ],
+   "answer": 0,
+   "explanation": "39/56 = 0.6964 = 69.64%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 39/56 as a decimal?",
+   "choices": [
+    "0.6429",
+    "0.6607",
+    "0.6964",
+    "0.6786"
+   ],
+   "answer": 2,
+   "explanation": "39/56 = 0.6964 = 69.64%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 40/56 as a percentage?",
+   "choices": [
+    "71.43%",
+    "66.07%",
+    "67.86%",
+    "69.64%"
+   ],
+   "answer": 0,
+   "explanation": "40/56 = 0.7143 = 71.43%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 40/56 as a decimal?",
+   "choices": [
+    "0.7143",
+    "0.6607",
+    "0.6786",
+    "0.6964"
+   ],
+   "answer": 0,
+   "explanation": "40/56 = 0.7143 = 71.43%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 41/56 as a percentage?",
+   "choices": [
+    "67.86%",
+    "69.64%",
+    "73.21%",
+    "71.43%"
+   ],
+   "answer": 2,
+   "explanation": "41/56 = 0.7321 = 73.21%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 41/56 as a decimal?",
+   "choices": [
+    "0.7321",
+    "0.6786",
+    "0.6964",
+    "0.7143"
+   ],
+   "answer": 0,
+   "explanation": "41/56 = 0.7321 = 73.21%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 42/56 as a percentage?",
+   "choices": [
+    "69.64%",
+    "71.43%",
+    "75.00%",
+    "73.21%"
+   ],
+   "answer": 2,
+   "explanation": "42/56 = 0.7500 = 75.00%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 42/56 as a decimal?",
+   "choices": [
+    "0.6964",
+    "0.7500",
+    "0.7143",
+    "0.7321"
+   ],
+   "answer": 1,
+   "explanation": "42/56 = 0.7500 = 75.00%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 43/56 as a percentage?",
+   "choices": [
+    "71.43%",
+    "73.21%",
+    "75.00%",
+    "76.79%"
+   ],
+   "answer": 3,
+   "explanation": "43/56 = 0.7679 = 76.79%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 43/56 as a decimal?",
+   "choices": [
+    "0.7679",
+    "0.7143",
+    "0.7321",
+    "0.7500"
+   ],
+   "answer": 0,
+   "explanation": "43/56 = 0.7679 = 76.79%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 44/56 as a percentage?",
+   "choices": [
+    "73.21%",
+    "75.00%",
+    "76.79%",
+    "78.57%"
+   ],
+   "answer": 3,
+   "explanation": "44/56 = 0.7857 = 78.57%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 44/56 as a decimal?",
+   "choices": [
+    "0.7321",
+    "0.7500",
+    "0.7679",
+    "0.7857"
+   ],
+   "answer": 3,
+   "explanation": "44/56 = 0.7857 = 78.57%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 45/56 as a percentage?",
+   "choices": [
+    "75.00%",
+    "76.79%",
+    "78.57%",
+    "80.36%"
+   ],
+   "answer": 3,
+   "explanation": "45/56 = 0.8036 = 80.36%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 45/56 as a decimal?",
+   "choices": [
+    "0.8036",
+    "0.7500",
+    "0.7679",
+    "0.7857"
+   ],
+   "answer": 0,
+   "explanation": "45/56 = 0.8036 = 80.36%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 46/56 as a percentage?",
+   "choices": [
+    "76.79%",
+    "78.57%",
+    "80.36%",
+    "82.14%"
+   ],
+   "answer": 3,
+   "explanation": "46/56 = 0.8214 = 82.14%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 46/56 as a decimal?",
+   "choices": [
+    "0.7679",
+    "0.7857",
+    "0.8036",
+    "0.8214"
+   ],
+   "answer": 3,
+   "explanation": "46/56 = 0.8214 = 82.14%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 47/56 as a percentage?",
+   "choices": [
+    "78.57%",
+    "83.93%",
+    "80.36%",
+    "82.14%"
+   ],
+   "answer": 1,
+   "explanation": "47/56 = 0.8393 = 83.93%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 47/56 as a decimal?",
+   "choices": [
+    "0.7857",
+    "0.8393",
+    "0.8036",
+    "0.8214"
+   ],
+   "answer": 1,
+   "explanation": "47/56 = 0.8393 = 83.93%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 48/56 as a percentage?",
+   "choices": [
+    "80.36%",
+    "85.71%",
+    "82.14%",
+    "83.93%"
+   ],
+   "answer": 1,
+   "explanation": "48/56 = 0.8571 = 85.71%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 48/56 as a decimal?",
+   "choices": [
+    "0.8036",
+    "0.8571",
+    "0.8214",
+    "0.8393"
+   ],
+   "answer": 1,
+   "explanation": "48/56 = 0.8571 = 85.71%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 49/56 as a percentage?",
+   "choices": [
+    "87.50%",
+    "82.14%",
+    "83.93%",
+    "85.71%"
+   ],
+   "answer": 0,
+   "explanation": "49/56 = 0.8750 = 87.50%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 49/56 as a decimal?",
+   "choices": [
+    "0.8214",
+    "0.8750",
+    "0.8393",
+    "0.8571"
+   ],
+   "answer": 1,
+   "explanation": "49/56 = 0.8750 = 87.50%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 50/56 as a percentage?",
+   "choices": [
+    "83.93%",
+    "85.71%",
+    "87.50%",
+    "89.29%"
+   ],
+   "answer": 3,
+   "explanation": "50/56 = 0.8929 = 89.29%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 50/56 as a decimal?",
+   "choices": [
+    "0.8393",
+    "0.8929",
+    "0.8571",
+    "0.8750"
+   ],
+   "answer": 1,
+   "explanation": "50/56 = 0.8929 = 89.29%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 51/56 as a percentage?",
+   "choices": [
+    "91.07%",
+    "85.71%",
+    "87.50%",
+    "89.29%"
+   ],
+   "answer": 0,
+   "explanation": "51/56 = 0.9107 = 91.07%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 51/56 as a decimal?",
+   "choices": [
+    "0.8571",
+    "0.9107",
+    "0.8750",
+    "0.8929"
+   ],
+   "answer": 1,
+   "explanation": "51/56 = 0.9107 = 91.07%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 52/56 as a percentage?",
+   "choices": [
+    "87.50%",
+    "89.29%",
+    "91.07%",
+    "92.86%"
+   ],
+   "answer": 3,
+   "explanation": "52/56 = 0.9286 = 92.86%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 52/56 as a decimal?",
+   "choices": [
+    "0.8750",
+    "0.8929",
+    "0.9107",
+    "0.9286"
+   ],
+   "answer": 3,
+   "explanation": "52/56 = 0.9286 = 92.86%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 53/56 as a percentage?",
+   "choices": [
+    "89.29%",
+    "94.64%",
+    "91.07%",
+    "92.86%"
+   ],
+   "answer": 1,
+   "explanation": "53/56 = 0.9464 = 94.64%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 53/56 as a decimal?",
+   "choices": [
+    "0.8929",
+    "0.9107",
+    "0.9464",
+    "0.9286"
+   ],
+   "answer": 2,
+   "explanation": "53/56 = 0.9464 = 94.64%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 54/56 as a percentage?",
+   "choices": [
+    "91.07%",
+    "92.86%",
+    "94.64%",
+    "96.43%"
+   ],
+   "answer": 3,
+   "explanation": "54/56 = 0.9643 = 96.43%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 54/56 as a decimal?",
+   "choices": [
+    "0.9107",
+    "0.9286",
+    "0.9464",
+    "0.9643"
+   ],
+   "answer": 3,
+   "explanation": "54/56 = 0.9643 = 96.43%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 55/56 as a percentage?",
+   "choices": [
+    "92.86%",
+    "98.21%",
+    "94.64%",
+    "96.43%"
+   ],
+   "answer": 1,
+   "explanation": "55/56 = 0.9821 = 98.21%",
+   "source": "X/56"
+  },
+  {
+   "question": "What is 55/56 as a decimal?",
+   "choices": [
+    "0.9286",
+    "0.9464",
+    "0.9821",
+    "0.9643"
+   ],
+   "answer": 2,
+   "explanation": "55/56 = 0.9821 = 98.21%",
+   "source": "X/56"
+  }
+ ]
+}

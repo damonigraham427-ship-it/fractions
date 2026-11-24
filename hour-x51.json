@@ -1,0 +1,1204 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/51 as a percentage?",
+   "choices": [
+    "1.96%",
+    "3.92%",
+    "5.88%",
+    "7.84%"
+   ],
+   "answer": 0,
+   "explanation": "1/51 = 0.0196 = 1.96%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 1/51 as a decimal?",
+   "choices": [
+    "0.0392",
+    "0.0588",
+    "0.0784",
+    "0.0196"
+   ],
+   "answer": 3,
+   "explanation": "1/51 = 0.0196 = 1.96%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 2/51 as a percentage?",
+   "choices": [
+    "1.96%",
+    "5.88%",
+    "3.92%",
+    "7.84%"
+   ],
+   "answer": 2,
+   "explanation": "2/51 = 0.0392 = 3.92%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 2/51 as a decimal?",
+   "choices": [
+    "0.0392",
+    "0.0196",
+    "0.0588",
+    "0.0784"
+   ],
+   "answer": 0,
+   "explanation": "2/51 = 0.0392 = 3.92%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 3/51 as a percentage?",
+   "choices": [
+    "1.96%",
+    "5.88%",
+    "3.92%",
+    "7.84%"
+   ],
+   "answer": 1,
+   "explanation": "3/51 = 0.0588 = 5.88%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 3/51 as a decimal?",
+   "choices": [
+    "0.0588",
+    "0.0196",
+    "0.0392",
+    "0.0784"
+   ],
+   "answer": 0,
+   "explanation": "3/51 = 0.0588 = 5.88%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 4/51 as a percentage?",
+   "choices": [
+    "1.96%",
+    "3.92%",
+    "5.88%",
+    "7.84%"
+   ],
+   "answer": 3,
+   "explanation": "4/51 = 0.0784 = 7.84%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 4/51 as a decimal?",
+   "choices": [
+    "0.0196",
+    "0.0392",
+    "0.0588",
+    "0.0784"
+   ],
+   "answer": 3,
+   "explanation": "4/51 = 0.0784 = 7.84%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 5/51 as a percentage?",
+   "choices": [
+    "9.80%",
+    "3.92%",
+    "5.88%",
+    "7.84%"
+   ],
+   "answer": 0,
+   "explanation": "5/51 = 0.0980 = 9.80%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 5/51 as a decimal?",
+   "choices": [
+    "0.0392",
+    "0.0588",
+    "0.0980",
+    "0.0784"
+   ],
+   "answer": 2,
+   "explanation": "5/51 = 0.0980 = 9.80%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 6/51 as a percentage?",
+   "choices": [
+    "5.88%",
+    "7.84%",
+    "9.80%",
+    "11.76%"
+   ],
+   "answer": 3,
+   "explanation": "6/51 = 0.1176 = 11.76%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 6/51 as a decimal?",
+   "choices": [
+    "0.0588",
+    "0.0784",
+    "0.0980",
+    "0.1176"
+   ],
+   "answer": 3,
+   "explanation": "6/51 = 0.1176 = 11.76%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 7/51 as a percentage?",
+   "choices": [
+    "7.84%",
+    "9.80%",
+    "13.73%",
+    "11.76%"
+   ],
+   "answer": 2,
+   "explanation": "7/51 = 0.1373 = 13.73%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 7/51 as a decimal?",
+   "choices": [
+    "0.0784",
+    "0.0980",
+    "0.1176",
+    "0.1373"
+   ],
+   "answer": 3,
+   "explanation": "7/51 = 0.1373 = 13.73%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 8/51 as a percentage?",
+   "choices": [
+    "9.80%",
+    "15.69%",
+    "11.76%",
+    "13.73%"
+   ],
+   "answer": 1,
+   "explanation": "8/51 = 0.1569 = 15.69%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 8/51 as a decimal?",
+   "choices": [
+    "0.1569",
+    "0.0980",
+    "0.1176",
+    "0.1373"
+   ],
+   "answer": 0,
+   "explanation": "8/51 = 0.1569 = 15.69%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 9/51 as a percentage?",
+   "choices": [
+    "17.65%",
+    "11.76%",
+    "13.73%",
+    "15.69%"
+   ],
+   "answer": 0,
+   "explanation": "9/51 = 0.1765 = 17.65%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 9/51 as a decimal?",
+   "choices": [
+    "0.1176",
+    "0.1765",
+    "0.1373",
+    "0.1569"
+   ],
+   "answer": 1,
+   "explanation": "9/51 = 0.1765 = 17.65%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 10/51 as a percentage?",
+   "choices": [
+    "13.73%",
+    "15.69%",
+    "19.61%",
+    "17.65%"
+   ],
+   "answer": 2,
+   "explanation": "10/51 = 0.1961 = 19.61%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 10/51 as a decimal?",
+   "choices": [
+    "0.1373",
+    "0.1569",
+    "0.1765",
+    "0.1961"
+   ],
+   "answer": 3,
+   "explanation": "10/51 = 0.1961 = 19.61%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 11/51 as a percentage?",
+   "choices": [
+    "21.57%",
+    "15.69%",
+    "17.65%",
+    "19.61%"
+   ],
+   "answer": 0,
+   "explanation": "11/51 = 0.2157 = 21.57%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 11/51 as a decimal?",
+   "choices": [
+    "0.2157",
+    "0.1569",
+    "0.1765",
+    "0.1961"
+   ],
+   "answer": 0,
+   "explanation": "11/51 = 0.2157 = 21.57%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 12/51 as a percentage?",
+   "choices": [
+    "17.65%",
+    "19.61%",
+    "21.57%",
+    "23.53%"
+   ],
+   "answer": 3,
+   "explanation": "12/51 = 0.2353 = 23.53%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 12/51 as a decimal?",
+   "choices": [
+    "0.2353",
+    "0.1765",
+    "0.1961",
+    "0.2157"
+   ],
+   "answer": 0,
+   "explanation": "12/51 = 0.2353 = 23.53%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 13/51 as a percentage?",
+   "choices": [
+    "19.61%",
+    "21.57%",
+    "23.53%",
+    "25.49%"
+   ],
+   "answer": 3,
+   "explanation": "13/51 = 0.2549 = 25.49%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 13/51 as a decimal?",
+   "choices": [
+    "0.1961",
+    "0.2549",
+    "0.2157",
+    "0.2353"
+   ],
+   "answer": 1,
+   "explanation": "13/51 = 0.2549 = 25.49%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 14/51 as a percentage?",
+   "choices": [
+    "21.57%",
+    "23.53%",
+    "27.45%",
+    "25.49%"
+   ],
+   "answer": 2,
+   "explanation": "14/51 = 0.2745 = 27.45%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 14/51 as a decimal?",
+   "choices": [
+    "0.2157",
+    "0.2353",
+    "0.2745",
+    "0.2549"
+   ],
+   "answer": 2,
+   "explanation": "14/51 = 0.2745 = 27.45%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 15/51 as a percentage?",
+   "choices": [
+    "29.41%",
+    "23.53%",
+    "25.49%",
+    "27.45%"
+   ],
+   "answer": 0,
+   "explanation": "15/51 = 0.2941 = 29.41%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 15/51 as a decimal?",
+   "choices": [
+    "0.2353",
+    "0.2941",
+    "0.2549",
+    "0.2745"
+   ],
+   "answer": 1,
+   "explanation": "15/51 = 0.2941 = 29.41%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 16/51 as a percentage?",
+   "choices": [
+    "25.49%",
+    "27.45%",
+    "31.37%",
+    "29.41%"
+   ],
+   "answer": 2,
+   "explanation": "16/51 = 0.3137 = 31.37%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 16/51 as a decimal?",
+   "choices": [
+    "0.3137",
+    "0.2549",
+    "0.2745",
+    "0.2941"
+   ],
+   "answer": 0,
+   "explanation": "16/51 = 0.3137 = 31.37%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 17/51 as a percentage?",
+   "choices": [
+    "33.33%",
+    "27.45%",
+    "29.41%",
+    "31.37%"
+   ],
+   "answer": 0,
+   "explanation": "17/51 = 0.3333 = 33.33%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 17/51 as a decimal?",
+   "choices": [
+    "0.2745",
+    "0.2941",
+    "0.3333",
+    "0.3137"
+   ],
+   "answer": 2,
+   "explanation": "17/51 = 0.3333 = 33.33%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 18/51 as a percentage?",
+   "choices": [
+    "35.29%",
+    "29.41%",
+    "31.37%",
+    "33.33%"
+   ],
+   "answer": 0,
+   "explanation": "18/51 = 0.3529 = 35.29%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 18/51 as a decimal?",
+   "choices": [
+    "0.3529",
+    "0.2941",
+    "0.3137",
+    "0.3333"
+   ],
+   "answer": 0,
+   "explanation": "18/51 = 0.3529 = 35.29%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 19/51 as a percentage?",
+   "choices": [
+    "31.37%",
+    "37.25%",
+    "33.33%",
+    "35.29%"
+   ],
+   "answer": 1,
+   "explanation": "19/51 = 0.3725 = 37.25%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 19/51 as a decimal?",
+   "choices": [
+    "0.3137",
+    "0.3333",
+    "0.3725",
+    "0.3529"
+   ],
+   "answer": 2,
+   "explanation": "19/51 = 0.3725 = 37.25%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 20/51 as a percentage?",
+   "choices": [
+    "33.33%",
+    "39.22%",
+    "35.29%",
+    "37.25%"
+   ],
+   "answer": 1,
+   "explanation": "20/51 = 0.3922 = 39.22%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 20/51 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.3529",
+    "0.3922",
+    "0.3725"
+   ],
+   "answer": 2,
+   "explanation": "20/51 = 0.3922 = 39.22%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 21/51 as a percentage?",
+   "choices": [
+    "35.29%",
+    "37.25%",
+    "41.18%",
+    "39.22%"
+   ],
+   "answer": 2,
+   "explanation": "21/51 = 0.4118 = 41.18%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 21/51 as a decimal?",
+   "choices": [
+    "0.3529",
+    "0.3725",
+    "0.3922",
+    "0.4118"
+   ],
+   "answer": 3,
+   "explanation": "21/51 = 0.4118 = 41.18%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 22/51 as a percentage?",
+   "choices": [
+    "37.25%",
+    "39.22%",
+    "43.14%",
+    "41.18%"
+   ],
+   "answer": 2,
+   "explanation": "22/51 = 0.4314 = 43.14%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 22/51 as a decimal?",
+   "choices": [
+    "0.3725",
+    "0.3922",
+    "0.4118",
+    "0.4314"
+   ],
+   "answer": 3,
+   "explanation": "22/51 = 0.4314 = 43.14%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 23/51 as a percentage?",
+   "choices": [
+    "39.22%",
+    "45.10%",
+    "41.18%",
+    "43.14%"
+   ],
+   "answer": 1,
+   "explanation": "23/51 = 0.4510 = 45.10%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 23/51 as a decimal?",
+   "choices": [
+    "0.3922",
+    "0.4118",
+    "0.4314",
+    "0.4510"
+   ],
+   "answer": 3,
+   "explanation": "23/51 = 0.4510 = 45.10%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 24/51 as a percentage?",
+   "choices": [
+    "41.18%",
+    "43.14%",
+    "47.06%",
+    "45.10%"
+   ],
+   "answer": 2,
+   "explanation": "24/51 = 0.4706 = 47.06%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 24/51 as a decimal?",
+   "choices": [
+    "0.4118",
+    "0.4314",
+    "0.4510",
+    "0.4706"
+   ],
+   "answer": 3,
+   "explanation": "24/51 = 0.4706 = 47.06%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 25/51 as a percentage?",
+   "choices": [
+    "49.02%",
+    "43.14%",
+    "45.10%",
+    "47.06%"
+   ],
+   "answer": 0,
+   "explanation": "25/51 = 0.4902 = 49.02%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 25/51 as a decimal?",
+   "choices": [
+    "0.4314",
+    "0.4510",
+    "0.4902",
+    "0.4706"
+   ],
+   "answer": 2,
+   "explanation": "25/51 = 0.4902 = 49.02%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 26/51 as a percentage?",
+   "choices": [
+    "50.98%",
+    "45.10%",
+    "47.06%",
+    "49.02%"
+   ],
+   "answer": 0,
+   "explanation": "26/51 = 0.5098 = 50.98%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 26/51 as a decimal?",
+   "choices": [
+    "0.4510",
+    "0.4706",
+    "0.4902",
+    "0.5098"
+   ],
+   "answer": 3,
+   "explanation": "26/51 = 0.5098 = 50.98%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 27/51 as a percentage?",
+   "choices": [
+    "47.06%",
+    "49.02%",
+    "52.94%",
+    "50.98%"
+   ],
+   "answer": 2,
+   "explanation": "27/51 = 0.5294 = 52.94%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 27/51 as a decimal?",
+   "choices": [
+    "0.4706",
+    "0.4902",
+    "0.5294",
+    "0.5098"
+   ],
+   "answer": 2,
+   "explanation": "27/51 = 0.5294 = 52.94%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 28/51 as a percentage?",
+   "choices": [
+    "49.02%",
+    "50.98%",
+    "54.90%",
+    "52.94%"
+   ],
+   "answer": 2,
+   "explanation": "28/51 = 0.5490 = 54.90%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 28/51 as a decimal?",
+   "choices": [
+    "0.4902",
+    "0.5490",
+    "0.5098",
+    "0.5294"
+   ],
+   "answer": 1,
+   "explanation": "28/51 = 0.5490 = 54.90%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 29/51 as a percentage?",
+   "choices": [
+    "56.86%",
+    "50.98%",
+    "52.94%",
+    "54.90%"
+   ],
+   "answer": 0,
+   "explanation": "29/51 = 0.5686 = 56.86%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 29/51 as a decimal?",
+   "choices": [
+    "0.5098",
+    "0.5686",
+    "0.5294",
+    "0.5490"
+   ],
+   "answer": 1,
+   "explanation": "29/51 = 0.5686 = 56.86%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 30/51 as a percentage?",
+   "choices": [
+    "52.94%",
+    "54.90%",
+    "56.86%",
+    "58.82%"
+   ],
+   "answer": 3,
+   "explanation": "30/51 = 0.5882 = 58.82%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 30/51 as a decimal?",
+   "choices": [
+    "0.5294",
+    "0.5882",
+    "0.5490",
+    "0.5686"
+   ],
+   "answer": 1,
+   "explanation": "30/51 = 0.5882 = 58.82%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 31/51 as a percentage?",
+   "choices": [
+    "54.90%",
+    "60.78%",
+    "56.86%",
+    "58.82%"
+   ],
+   "answer": 1,
+   "explanation": "31/51 = 0.6078 = 60.78%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 31/51 as a decimal?",
+   "choices": [
+    "0.6078",
+    "0.5490",
+    "0.5686",
+    "0.5882"
+   ],
+   "answer": 0,
+   "explanation": "31/51 = 0.6078 = 60.78%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 32/51 as a percentage?",
+   "choices": [
+    "56.86%",
+    "58.82%",
+    "60.78%",
+    "62.75%"
+   ],
+   "answer": 3,
+   "explanation": "32/51 = 0.6275 = 62.75%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 32/51 as a decimal?",
+   "choices": [
+    "0.5686",
+    "0.5882",
+    "0.6275",
+    "0.6078"
+   ],
+   "answer": 2,
+   "explanation": "32/51 = 0.6275 = 62.75%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 33/51 as a percentage?",
+   "choices": [
+    "58.82%",
+    "64.71%",
+    "60.78%",
+    "62.75%"
+   ],
+   "answer": 1,
+   "explanation": "33/51 = 0.6471 = 64.71%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 33/51 as a decimal?",
+   "choices": [
+    "0.5882",
+    "0.6078",
+    "0.6471",
+    "0.6275"
+   ],
+   "answer": 2,
+   "explanation": "33/51 = 0.6471 = 64.71%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 34/51 as a percentage?",
+   "choices": [
+    "60.78%",
+    "62.75%",
+    "64.71%",
+    "66.67%"
+   ],
+   "answer": 3,
+   "explanation": "34/51 = 0.6667 = 66.67%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 34/51 as a decimal?",
+   "choices": [
+    "0.6078",
+    "0.6667",
+    "0.6275",
+    "0.6471"
+   ],
+   "answer": 1,
+   "explanation": "34/51 = 0.6667 = 66.67%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 35/51 as a percentage?",
+   "choices": [
+    "62.75%",
+    "68.63%",
+    "64.71%",
+    "66.67%"
+   ],
+   "answer": 1,
+   "explanation": "35/51 = 0.6863 = 68.63%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 35/51 as a decimal?",
+   "choices": [
+    "0.6863",
+    "0.6275",
+    "0.6471",
+    "0.6667"
+   ],
+   "answer": 0,
+   "explanation": "35/51 = 0.6863 = 68.63%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 36/51 as a percentage?",
+   "choices": [
+    "64.71%",
+    "66.67%",
+    "68.63%",
+    "70.59%"
+   ],
+   "answer": 3,
+   "explanation": "36/51 = 0.7059 = 70.59%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 36/51 as a decimal?",
+   "choices": [
+    "0.7059",
+    "0.6471",
+    "0.6667",
+    "0.6863"
+   ],
+   "answer": 0,
+   "explanation": "36/51 = 0.7059 = 70.59%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 37/51 as a percentage?",
+   "choices": [
+    "66.67%",
+    "72.55%",
+    "68.63%",
+    "70.59%"
+   ],
+   "answer": 1,
+   "explanation": "37/51 = 0.7255 = 72.55%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 37/51 as a decimal?",
+   "choices": [
+    "0.7255",
+    "0.6667",
+    "0.6863",
+    "0.7059"
+   ],
+   "answer": 0,
+   "explanation": "37/51 = 0.7255 = 72.55%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 38/51 as a percentage?",
+   "choices": [
+    "68.63%",
+    "70.59%",
+    "74.51%",
+    "72.55%"
+   ],
+   "answer": 2,
+   "explanation": "38/51 = 0.7451 = 74.51%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 38/51 as a decimal?",
+   "choices": [
+    "0.6863",
+    "0.7059",
+    "0.7451",
+    "0.7255"
+   ],
+   "answer": 2,
+   "explanation": "38/51 = 0.7451 = 74.51%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 39/51 as a percentage?",
+   "choices": [
+    "70.59%",
+    "72.55%",
+    "74.51%",
+    "76.47%"
+   ],
+   "answer": 3,
+   "explanation": "39/51 = 0.7647 = 76.47%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 39/51 as a decimal?",
+   "choices": [
+    "0.7059",
+    "0.7255",
+    "0.7451",
+    "0.7647"
+   ],
+   "answer": 3,
+   "explanation": "39/51 = 0.7647 = 76.47%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 40/51 as a percentage?",
+   "choices": [
+    "72.55%",
+    "74.51%",
+    "78.43%",
+    "76.47%"
+   ],
+   "answer": 2,
+   "explanation": "40/51 = 0.7843 = 78.43%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 40/51 as a decimal?",
+   "choices": [
+    "0.7255",
+    "0.7451",
+    "0.7843",
+    "0.7647"
+   ],
+   "answer": 2,
+   "explanation": "40/51 = 0.7843 = 78.43%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 41/51 as a percentage?",
+   "choices": [
+    "74.51%",
+    "76.47%",
+    "80.39%",
+    "78.43%"
+   ],
+   "answer": 2,
+   "explanation": "41/51 = 0.8039 = 80.39%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 41/51 as a decimal?",
+   "choices": [
+    "0.7451",
+    "0.7647",
+    "0.7843",
+    "0.8039"
+   ],
+   "answer": 3,
+   "explanation": "41/51 = 0.8039 = 80.39%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 42/51 as a percentage?",
+   "choices": [
+    "82.35%",
+    "76.47%",
+    "78.43%",
+    "80.39%"
+   ],
+   "answer": 0,
+   "explanation": "42/51 = 0.8235 = 82.35%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 42/51 as a decimal?",
+   "choices": [
+    "0.8235",
+    "0.7647",
+    "0.7843",
+    "0.8039"
+   ],
+   "answer": 0,
+   "explanation": "42/51 = 0.8235 = 82.35%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 43/51 as a percentage?",
+   "choices": [
+    "84.31%",
+    "78.43%",
+    "80.39%",
+    "82.35%"
+   ],
+   "answer": 0,
+   "explanation": "43/51 = 0.8431 = 84.31%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 43/51 as a decimal?",
+   "choices": [
+    "0.8431",
+    "0.7843",
+    "0.8039",
+    "0.8235"
+   ],
+   "answer": 0,
+   "explanation": "43/51 = 0.8431 = 84.31%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 44/51 as a percentage?",
+   "choices": [
+    "80.39%",
+    "82.35%",
+    "86.27%",
+    "84.31%"
+   ],
+   "answer": 2,
+   "explanation": "44/51 = 0.8627 = 86.27%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 44/51 as a decimal?",
+   "choices": [
+    "0.8039",
+    "0.8235",
+    "0.8431",
+    "0.8627"
+   ],
+   "answer": 3,
+   "explanation": "44/51 = 0.8627 = 86.27%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 45/51 as a percentage?",
+   "choices": [
+    "88.24%",
+    "82.35%",
+    "84.31%",
+    "86.27%"
+   ],
+   "answer": 0,
+   "explanation": "45/51 = 0.8824 = 88.24%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 45/51 as a decimal?",
+   "choices": [
+    "0.8235",
+    "0.8824",
+    "0.8431",
+    "0.8627"
+   ],
+   "answer": 1,
+   "explanation": "45/51 = 0.8824 = 88.24%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 46/51 as a percentage?",
+   "choices": [
+    "84.31%",
+    "90.20%",
+    "86.27%",
+    "88.24%"
+   ],
+   "answer": 1,
+   "explanation": "46/51 = 0.9020 = 90.20%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 46/51 as a decimal?",
+   "choices": [
+    "0.8431",
+    "0.9020",
+    "0.8627",
+    "0.8824"
+   ],
+   "answer": 1,
+   "explanation": "46/51 = 0.9020 = 90.20%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 47/51 as a percentage?",
+   "choices": [
+    "86.27%",
+    "88.24%",
+    "92.16%",
+    "90.20%"
+   ],
+   "answer": 2,
+   "explanation": "47/51 = 0.9216 = 92.16%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 47/51 as a decimal?",
+   "choices": [
+    "0.8627",
+    "0.9216",
+    "0.8824",
+    "0.9020"
+   ],
+   "answer": 1,
+   "explanation": "47/51 = 0.9216 = 92.16%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 48/51 as a percentage?",
+   "choices": [
+    "88.24%",
+    "94.12%",
+    "90.20%",
+    "92.16%"
+   ],
+   "answer": 1,
+   "explanation": "48/51 = 0.9412 = 94.12%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 48/51 as a decimal?",
+   "choices": [
+    "0.8824",
+    "0.9020",
+    "0.9216",
+    "0.9412"
+   ],
+   "answer": 3,
+   "explanation": "48/51 = 0.9412 = 94.12%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 49/51 as a percentage?",
+   "choices": [
+    "96.08%",
+    "90.20%",
+    "92.16%",
+    "94.12%"
+   ],
+   "answer": 0,
+   "explanation": "49/51 = 0.9608 = 96.08%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 49/51 as a decimal?",
+   "choices": [
+    "0.9020",
+    "0.9216",
+    "0.9412",
+    "0.9608"
+   ],
+   "answer": 3,
+   "explanation": "49/51 = 0.9608 = 96.08%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 50/51 as a percentage?",
+   "choices": [
+    "92.16%",
+    "94.12%",
+    "96.08%",
+    "98.04%"
+   ],
+   "answer": 3,
+   "explanation": "50/51 = 0.9804 = 98.04%",
+   "source": "X/51"
+  },
+  {
+   "question": "What is 50/51 as a decimal?",
+   "choices": [
+    "0.9216",
+    "0.9412",
+    "0.9804",
+    "0.9608"
+   ],
+   "answer": 2,
+   "explanation": "50/51 = 0.9804 = 98.04%",
+   "source": "X/51"
+  }
+ ]
+}

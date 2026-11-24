@@ -1,0 +1,988 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/42 as a percentage?",
+   "choices": [
+    "4.76%",
+    "7.14%",
+    "9.52%",
+    "2.38%"
+   ],
+   "answer": 3,
+   "explanation": "1/42 = 0.0238 = 2.38%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 1/42 as a decimal?",
+   "choices": [
+    "0.0476",
+    "0.0238",
+    "0.0714",
+    "0.0952"
+   ],
+   "answer": 1,
+   "explanation": "1/42 = 0.0238 = 2.38%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 2/42 as a percentage?",
+   "choices": [
+    "2.38%",
+    "7.14%",
+    "9.52%",
+    "4.76%"
+   ],
+   "answer": 3,
+   "explanation": "2/42 = 0.0476 = 4.76%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 2/42 as a decimal?",
+   "choices": [
+    "0.0238",
+    "0.0476",
+    "0.0714",
+    "0.0952"
+   ],
+   "answer": 1,
+   "explanation": "2/42 = 0.0476 = 4.76%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 3/42 as a percentage?",
+   "choices": [
+    "2.38%",
+    "7.14%",
+    "4.76%",
+    "9.52%"
+   ],
+   "answer": 1,
+   "explanation": "3/42 = 0.0714 = 7.14%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 3/42 as a decimal?",
+   "choices": [
+    "0.0714",
+    "0.0238",
+    "0.0476",
+    "0.0952"
+   ],
+   "answer": 0,
+   "explanation": "3/42 = 0.0714 = 7.14%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 4/42 as a percentage?",
+   "choices": [
+    "9.52%",
+    "2.38%",
+    "4.76%",
+    "7.14%"
+   ],
+   "answer": 0,
+   "explanation": "4/42 = 0.0952 = 9.52%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 4/42 as a decimal?",
+   "choices": [
+    "0.0238",
+    "0.0952",
+    "0.0476",
+    "0.0714"
+   ],
+   "answer": 1,
+   "explanation": "4/42 = 0.0952 = 9.52%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 5/42 as a percentage?",
+   "choices": [
+    "4.76%",
+    "11.90%",
+    "7.14%",
+    "9.52%"
+   ],
+   "answer": 1,
+   "explanation": "5/42 = 0.1190 = 11.90%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 5/42 as a decimal?",
+   "choices": [
+    "0.1190",
+    "0.0476",
+    "0.0714",
+    "0.0952"
+   ],
+   "answer": 0,
+   "explanation": "5/42 = 0.1190 = 11.90%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 6/42 as a percentage?",
+   "choices": [
+    "14.29%",
+    "7.14%",
+    "9.52%",
+    "11.90%"
+   ],
+   "answer": 0,
+   "explanation": "6/42 = 0.1429 = 14.29%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 6/42 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.0714",
+    "0.0952",
+    "0.1190"
+   ],
+   "answer": 0,
+   "explanation": "6/42 = 0.1429 = 14.29%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 7/42 as a percentage?",
+   "choices": [
+    "9.52%",
+    "11.90%",
+    "16.67%",
+    "14.29%"
+   ],
+   "answer": 2,
+   "explanation": "7/42 = 0.1667 = 16.67%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 7/42 as a decimal?",
+   "choices": [
+    "0.1667",
+    "0.0952",
+    "0.1190",
+    "0.1429"
+   ],
+   "answer": 0,
+   "explanation": "7/42 = 0.1667 = 16.67%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 8/42 as a percentage?",
+   "choices": [
+    "11.90%",
+    "19.05%",
+    "14.29%",
+    "16.67%"
+   ],
+   "answer": 1,
+   "explanation": "8/42 = 0.1905 = 19.05%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 8/42 as a decimal?",
+   "choices": [
+    "0.1905",
+    "0.1190",
+    "0.1429",
+    "0.1667"
+   ],
+   "answer": 0,
+   "explanation": "8/42 = 0.1905 = 19.05%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 9/42 as a percentage?",
+   "choices": [
+    "14.29%",
+    "16.67%",
+    "21.43%",
+    "19.05%"
+   ],
+   "answer": 2,
+   "explanation": "9/42 = 0.2143 = 21.43%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 9/42 as a decimal?",
+   "choices": [
+    "0.2143",
+    "0.1429",
+    "0.1667",
+    "0.1905"
+   ],
+   "answer": 0,
+   "explanation": "9/42 = 0.2143 = 21.43%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 10/42 as a percentage?",
+   "choices": [
+    "16.67%",
+    "23.81%",
+    "19.05%",
+    "21.43%"
+   ],
+   "answer": 1,
+   "explanation": "10/42 = 0.2381 = 23.81%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 10/42 as a decimal?",
+   "choices": [
+    "0.1667",
+    "0.1905",
+    "0.2143",
+    "0.2381"
+   ],
+   "answer": 3,
+   "explanation": "10/42 = 0.2381 = 23.81%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 11/42 as a percentage?",
+   "choices": [
+    "19.05%",
+    "26.19%",
+    "21.43%",
+    "23.81%"
+   ],
+   "answer": 1,
+   "explanation": "11/42 = 0.2619 = 26.19%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 11/42 as a decimal?",
+   "choices": [
+    "0.2619",
+    "0.1905",
+    "0.2143",
+    "0.2381"
+   ],
+   "answer": 0,
+   "explanation": "11/42 = 0.2619 = 26.19%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 12/42 as a percentage?",
+   "choices": [
+    "21.43%",
+    "23.81%",
+    "28.57%",
+    "26.19%"
+   ],
+   "answer": 2,
+   "explanation": "12/42 = 0.2857 = 28.57%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 12/42 as a decimal?",
+   "choices": [
+    "0.2143",
+    "0.2857",
+    "0.2381",
+    "0.2619"
+   ],
+   "answer": 1,
+   "explanation": "12/42 = 0.2857 = 28.57%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 13/42 as a percentage?",
+   "choices": [
+    "30.95%",
+    "23.81%",
+    "26.19%",
+    "28.57%"
+   ],
+   "answer": 0,
+   "explanation": "13/42 = 0.3095 = 30.95%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 13/42 as a decimal?",
+   "choices": [
+    "0.3095",
+    "0.2381",
+    "0.2619",
+    "0.2857"
+   ],
+   "answer": 0,
+   "explanation": "13/42 = 0.3095 = 30.95%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 14/42 as a percentage?",
+   "choices": [
+    "26.19%",
+    "33.33%",
+    "28.57%",
+    "30.95%"
+   ],
+   "answer": 1,
+   "explanation": "14/42 = 0.3333 = 33.33%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 14/42 as a decimal?",
+   "choices": [
+    "0.2619",
+    "0.3333",
+    "0.2857",
+    "0.3095"
+   ],
+   "answer": 1,
+   "explanation": "14/42 = 0.3333 = 33.33%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 15/42 as a percentage?",
+   "choices": [
+    "28.57%",
+    "30.95%",
+    "35.71%",
+    "33.33%"
+   ],
+   "answer": 2,
+   "explanation": "15/42 = 0.3571 = 35.71%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 15/42 as a decimal?",
+   "choices": [
+    "0.2857",
+    "0.3095",
+    "0.3571",
+    "0.3333"
+   ],
+   "answer": 2,
+   "explanation": "15/42 = 0.3571 = 35.71%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 16/42 as a percentage?",
+   "choices": [
+    "30.95%",
+    "33.33%",
+    "35.71%",
+    "38.10%"
+   ],
+   "answer": 3,
+   "explanation": "16/42 = 0.3810 = 38.10%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 16/42 as a decimal?",
+   "choices": [
+    "0.3095",
+    "0.3333",
+    "0.3571",
+    "0.3810"
+   ],
+   "answer": 3,
+   "explanation": "16/42 = 0.3810 = 38.10%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 17/42 as a percentage?",
+   "choices": [
+    "33.33%",
+    "35.71%",
+    "38.10%",
+    "40.48%"
+   ],
+   "answer": 3,
+   "explanation": "17/42 = 0.4048 = 40.48%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 17/42 as a decimal?",
+   "choices": [
+    "0.4048",
+    "0.3333",
+    "0.3571",
+    "0.3810"
+   ],
+   "answer": 0,
+   "explanation": "17/42 = 0.4048 = 40.48%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 18/42 as a percentage?",
+   "choices": [
+    "42.86%",
+    "35.71%",
+    "38.10%",
+    "40.48%"
+   ],
+   "answer": 0,
+   "explanation": "18/42 = 0.4286 = 42.86%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 18/42 as a decimal?",
+   "choices": [
+    "0.3571",
+    "0.3810",
+    "0.4048",
+    "0.4286"
+   ],
+   "answer": 3,
+   "explanation": "18/42 = 0.4286 = 42.86%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 19/42 as a percentage?",
+   "choices": [
+    "45.24%",
+    "38.10%",
+    "40.48%",
+    "42.86%"
+   ],
+   "answer": 0,
+   "explanation": "19/42 = 0.4524 = 45.24%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 19/42 as a decimal?",
+   "choices": [
+    "0.3810",
+    "0.4048",
+    "0.4524",
+    "0.4286"
+   ],
+   "answer": 2,
+   "explanation": "19/42 = 0.4524 = 45.24%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 20/42 as a percentage?",
+   "choices": [
+    "40.48%",
+    "42.86%",
+    "47.62%",
+    "45.24%"
+   ],
+   "answer": 2,
+   "explanation": "20/42 = 0.4762 = 47.62%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 20/42 as a decimal?",
+   "choices": [
+    "0.4048",
+    "0.4286",
+    "0.4524",
+    "0.4762"
+   ],
+   "answer": 3,
+   "explanation": "20/42 = 0.4762 = 47.62%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 21/42 as a percentage?",
+   "choices": [
+    "42.86%",
+    "45.24%",
+    "50.00%",
+    "47.62%"
+   ],
+   "answer": 2,
+   "explanation": "21/42 = 0.5000 = 50.00%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 21/42 as a decimal?",
+   "choices": [
+    "0.4286",
+    "0.5000",
+    "0.4524",
+    "0.4762"
+   ],
+   "answer": 1,
+   "explanation": "21/42 = 0.5000 = 50.00%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 22/42 as a percentage?",
+   "choices": [
+    "52.38%",
+    "45.24%",
+    "47.62%",
+    "50.00%"
+   ],
+   "answer": 0,
+   "explanation": "22/42 = 0.5238 = 52.38%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 22/42 as a decimal?",
+   "choices": [
+    "0.4524",
+    "0.4762",
+    "0.5000",
+    "0.5238"
+   ],
+   "answer": 3,
+   "explanation": "22/42 = 0.5238 = 52.38%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 23/42 as a percentage?",
+   "choices": [
+    "47.62%",
+    "50.00%",
+    "52.38%",
+    "54.76%"
+   ],
+   "answer": 3,
+   "explanation": "23/42 = 0.5476 = 54.76%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 23/42 as a decimal?",
+   "choices": [
+    "0.4762",
+    "0.5000",
+    "0.5238",
+    "0.5476"
+   ],
+   "answer": 3,
+   "explanation": "23/42 = 0.5476 = 54.76%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 24/42 as a percentage?",
+   "choices": [
+    "57.14%",
+    "50.00%",
+    "52.38%",
+    "54.76%"
+   ],
+   "answer": 0,
+   "explanation": "24/42 = 0.5714 = 57.14%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 24/42 as a decimal?",
+   "choices": [
+    "0.5000",
+    "0.5238",
+    "0.5714",
+    "0.5476"
+   ],
+   "answer": 2,
+   "explanation": "24/42 = 0.5714 = 57.14%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 25/42 as a percentage?",
+   "choices": [
+    "52.38%",
+    "54.76%",
+    "57.14%",
+    "59.52%"
+   ],
+   "answer": 3,
+   "explanation": "25/42 = 0.5952 = 59.52%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 25/42 as a decimal?",
+   "choices": [
+    "0.5238",
+    "0.5952",
+    "0.5476",
+    "0.5714"
+   ],
+   "answer": 1,
+   "explanation": "25/42 = 0.5952 = 59.52%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 26/42 as a percentage?",
+   "choices": [
+    "61.90%",
+    "54.76%",
+    "57.14%",
+    "59.52%"
+   ],
+   "answer": 0,
+   "explanation": "26/42 = 0.6190 = 61.90%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 26/42 as a decimal?",
+   "choices": [
+    "0.6190",
+    "0.5476",
+    "0.5714",
+    "0.5952"
+   ],
+   "answer": 0,
+   "explanation": "26/42 = 0.6190 = 61.90%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 27/42 as a percentage?",
+   "choices": [
+    "57.14%",
+    "64.29%",
+    "59.52%",
+    "61.90%"
+   ],
+   "answer": 1,
+   "explanation": "27/42 = 0.6429 = 64.29%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 27/42 as a decimal?",
+   "choices": [
+    "0.6429",
+    "0.5714",
+    "0.5952",
+    "0.6190"
+   ],
+   "answer": 0,
+   "explanation": "27/42 = 0.6429 = 64.29%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 28/42 as a percentage?",
+   "choices": [
+    "59.52%",
+    "61.90%",
+    "66.67%",
+    "64.29%"
+   ],
+   "answer": 2,
+   "explanation": "28/42 = 0.6667 = 66.67%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 28/42 as a decimal?",
+   "choices": [
+    "0.5952",
+    "0.6667",
+    "0.6190",
+    "0.6429"
+   ],
+   "answer": 1,
+   "explanation": "28/42 = 0.6667 = 66.67%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 29/42 as a percentage?",
+   "choices": [
+    "69.05%",
+    "61.90%",
+    "64.29%",
+    "66.67%"
+   ],
+   "answer": 0,
+   "explanation": "29/42 = 0.6905 = 69.05%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 29/42 as a decimal?",
+   "choices": [
+    "0.6190",
+    "0.6905",
+    "0.6429",
+    "0.6667"
+   ],
+   "answer": 1,
+   "explanation": "29/42 = 0.6905 = 69.05%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 30/42 as a percentage?",
+   "choices": [
+    "64.29%",
+    "66.67%",
+    "71.43%",
+    "69.05%"
+   ],
+   "answer": 2,
+   "explanation": "30/42 = 0.7143 = 71.43%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 30/42 as a decimal?",
+   "choices": [
+    "0.6429",
+    "0.6667",
+    "0.6905",
+    "0.7143"
+   ],
+   "answer": 3,
+   "explanation": "30/42 = 0.7143 = 71.43%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 31/42 as a percentage?",
+   "choices": [
+    "66.67%",
+    "69.05%",
+    "73.81%",
+    "71.43%"
+   ],
+   "answer": 2,
+   "explanation": "31/42 = 0.7381 = 73.81%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 31/42 as a decimal?",
+   "choices": [
+    "0.6667",
+    "0.6905",
+    "0.7381",
+    "0.7143"
+   ],
+   "answer": 2,
+   "explanation": "31/42 = 0.7381 = 73.81%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 32/42 as a percentage?",
+   "choices": [
+    "69.05%",
+    "71.43%",
+    "76.19%",
+    "73.81%"
+   ],
+   "answer": 2,
+   "explanation": "32/42 = 0.7619 = 76.19%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 32/42 as a decimal?",
+   "choices": [
+    "0.6905",
+    "0.7619",
+    "0.7143",
+    "0.7381"
+   ],
+   "answer": 1,
+   "explanation": "32/42 = 0.7619 = 76.19%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 33/42 as a percentage?",
+   "choices": [
+    "78.57%",
+    "71.43%",
+    "73.81%",
+    "76.19%"
+   ],
+   "answer": 0,
+   "explanation": "33/42 = 0.7857 = 78.57%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 33/42 as a decimal?",
+   "choices": [
+    "0.7143",
+    "0.7381",
+    "0.7857",
+    "0.7619"
+   ],
+   "answer": 2,
+   "explanation": "33/42 = 0.7857 = 78.57%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 34/42 as a percentage?",
+   "choices": [
+    "73.81%",
+    "76.19%",
+    "78.57%",
+    "80.95%"
+   ],
+   "answer": 3,
+   "explanation": "34/42 = 0.8095 = 80.95%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 34/42 as a decimal?",
+   "choices": [
+    "0.7381",
+    "0.7619",
+    "0.8095",
+    "0.7857"
+   ],
+   "answer": 2,
+   "explanation": "34/42 = 0.8095 = 80.95%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 35/42 as a percentage?",
+   "choices": [
+    "83.33%",
+    "76.19%",
+    "78.57%",
+    "80.95%"
+   ],
+   "answer": 0,
+   "explanation": "35/42 = 0.8333 = 83.33%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 35/42 as a decimal?",
+   "choices": [
+    "0.7619",
+    "0.7857",
+    "0.8095",
+    "0.8333"
+   ],
+   "answer": 3,
+   "explanation": "35/42 = 0.8333 = 83.33%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 36/42 as a percentage?",
+   "choices": [
+    "78.57%",
+    "80.95%",
+    "85.71%",
+    "83.33%"
+   ],
+   "answer": 2,
+   "explanation": "36/42 = 0.8571 = 85.71%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 36/42 as a decimal?",
+   "choices": [
+    "0.7857",
+    "0.8095",
+    "0.8571",
+    "0.8333"
+   ],
+   "answer": 2,
+   "explanation": "36/42 = 0.8571 = 85.71%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 37/42 as a percentage?",
+   "choices": [
+    "80.95%",
+    "88.10%",
+    "83.33%",
+    "85.71%"
+   ],
+   "answer": 1,
+   "explanation": "37/42 = 0.8810 = 88.10%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 37/42 as a decimal?",
+   "choices": [
+    "0.8095",
+    "0.8333",
+    "0.8571",
+    "0.8810"
+   ],
+   "answer": 3,
+   "explanation": "37/42 = 0.8810 = 88.10%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 38/42 as a percentage?",
+   "choices": [
+    "83.33%",
+    "85.71%",
+    "90.48%",
+    "88.10%"
+   ],
+   "answer": 2,
+   "explanation": "38/42 = 0.9048 = 90.48%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 38/42 as a decimal?",
+   "choices": [
+    "0.9048",
+    "0.8333",
+    "0.8571",
+    "0.8810"
+   ],
+   "answer": 0,
+   "explanation": "38/42 = 0.9048 = 90.48%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 39/42 as a percentage?",
+   "choices": [
+    "85.71%",
+    "88.10%",
+    "92.86%",
+    "90.48%"
+   ],
+   "answer": 2,
+   "explanation": "39/42 = 0.9286 = 92.86%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 39/42 as a decimal?",
+   "choices": [
+    "0.9286",
+    "0.8571",
+    "0.8810",
+    "0.9048"
+   ],
+   "answer": 0,
+   "explanation": "39/42 = 0.9286 = 92.86%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 40/42 as a percentage?",
+   "choices": [
+    "88.10%",
+    "90.48%",
+    "92.86%",
+    "95.24%"
+   ],
+   "answer": 3,
+   "explanation": "40/42 = 0.9524 = 95.24%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 40/42 as a decimal?",
+   "choices": [
+    "0.8810",
+    "0.9048",
+    "0.9524",
+    "0.9286"
+   ],
+   "answer": 2,
+   "explanation": "40/42 = 0.9524 = 95.24%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 41/42 as a percentage?",
+   "choices": [
+    "90.48%",
+    "92.86%",
+    "95.24%",
+    "97.62%"
+   ],
+   "answer": 3,
+   "explanation": "41/42 = 0.9762 = 97.62%",
+   "source": "X/42"
+  },
+  {
+   "question": "What is 41/42 as a decimal?",
+   "choices": [
+    "0.9762",
+    "0.9048",
+    "0.9286",
+    "0.9524"
+   ],
+   "answer": 0,
+   "explanation": "41/42 = 0.9762 = 97.62%",
+   "source": "X/42"
+  }
+ ]
+}

@@ -1,0 +1,1252 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/53 as a percentage?",
+   "choices": [
+    "3.77%",
+    "1.89%",
+    "5.66%",
+    "7.55%"
+   ],
+   "answer": 1,
+   "explanation": "1/53 = 0.0189 = 1.89%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 1/53 as a decimal?",
+   "choices": [
+    "0.0377",
+    "0.0189",
+    "0.0566",
+    "0.0755"
+   ],
+   "answer": 1,
+   "explanation": "1/53 = 0.0189 = 1.89%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 2/53 as a percentage?",
+   "choices": [
+    "1.89%",
+    "3.77%",
+    "5.66%",
+    "7.55%"
+   ],
+   "answer": 1,
+   "explanation": "2/53 = 0.0377 = 3.77%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 2/53 as a decimal?",
+   "choices": [
+    "0.0377",
+    "0.0189",
+    "0.0566",
+    "0.0755"
+   ],
+   "answer": 0,
+   "explanation": "2/53 = 0.0377 = 3.77%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 3/53 as a percentage?",
+   "choices": [
+    "1.89%",
+    "3.77%",
+    "7.55%",
+    "5.66%"
+   ],
+   "answer": 3,
+   "explanation": "3/53 = 0.0566 = 5.66%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 3/53 as a decimal?",
+   "choices": [
+    "0.0189",
+    "0.0566",
+    "0.0377",
+    "0.0755"
+   ],
+   "answer": 1,
+   "explanation": "3/53 = 0.0566 = 5.66%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 4/53 as a percentage?",
+   "choices": [
+    "1.89%",
+    "7.55%",
+    "3.77%",
+    "5.66%"
+   ],
+   "answer": 1,
+   "explanation": "4/53 = 0.0755 = 7.55%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 4/53 as a decimal?",
+   "choices": [
+    "0.0189",
+    "0.0377",
+    "0.0755",
+    "0.0566"
+   ],
+   "answer": 2,
+   "explanation": "4/53 = 0.0755 = 7.55%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 5/53 as a percentage?",
+   "choices": [
+    "9.43%",
+    "3.77%",
+    "5.66%",
+    "7.55%"
+   ],
+   "answer": 0,
+   "explanation": "5/53 = 0.0943 = 9.43%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 5/53 as a decimal?",
+   "choices": [
+    "0.0377",
+    "0.0943",
+    "0.0566",
+    "0.0755"
+   ],
+   "answer": 1,
+   "explanation": "5/53 = 0.0943 = 9.43%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 6/53 as a percentage?",
+   "choices": [
+    "11.32%",
+    "5.66%",
+    "7.55%",
+    "9.43%"
+   ],
+   "answer": 0,
+   "explanation": "6/53 = 0.1132 = 11.32%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 6/53 as a decimal?",
+   "choices": [
+    "0.0566",
+    "0.0755",
+    "0.1132",
+    "0.0943"
+   ],
+   "answer": 2,
+   "explanation": "6/53 = 0.1132 = 11.32%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 7/53 as a percentage?",
+   "choices": [
+    "7.55%",
+    "13.21%",
+    "9.43%",
+    "11.32%"
+   ],
+   "answer": 1,
+   "explanation": "7/53 = 0.1321 = 13.21%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 7/53 as a decimal?",
+   "choices": [
+    "0.0755",
+    "0.0943",
+    "0.1132",
+    "0.1321"
+   ],
+   "answer": 3,
+   "explanation": "7/53 = 0.1321 = 13.21%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 8/53 as a percentage?",
+   "choices": [
+    "9.43%",
+    "11.32%",
+    "15.09%",
+    "13.21%"
+   ],
+   "answer": 2,
+   "explanation": "8/53 = 0.1509 = 15.09%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 8/53 as a decimal?",
+   "choices": [
+    "0.1509",
+    "0.0943",
+    "0.1132",
+    "0.1321"
+   ],
+   "answer": 0,
+   "explanation": "8/53 = 0.1509 = 15.09%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 9/53 as a percentage?",
+   "choices": [
+    "11.32%",
+    "16.98%",
+    "13.21%",
+    "15.09%"
+   ],
+   "answer": 1,
+   "explanation": "9/53 = 0.1698 = 16.98%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 9/53 as a decimal?",
+   "choices": [
+    "0.1698",
+    "0.1132",
+    "0.1321",
+    "0.1509"
+   ],
+   "answer": 0,
+   "explanation": "9/53 = 0.1698 = 16.98%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 10/53 as a percentage?",
+   "choices": [
+    "18.87%",
+    "13.21%",
+    "15.09%",
+    "16.98%"
+   ],
+   "answer": 0,
+   "explanation": "10/53 = 0.1887 = 18.87%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 10/53 as a decimal?",
+   "choices": [
+    "0.1887",
+    "0.1321",
+    "0.1509",
+    "0.1698"
+   ],
+   "answer": 0,
+   "explanation": "10/53 = 0.1887 = 18.87%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 11/53 as a percentage?",
+   "choices": [
+    "20.75%",
+    "15.09%",
+    "16.98%",
+    "18.87%"
+   ],
+   "answer": 0,
+   "explanation": "11/53 = 0.2075 = 20.75%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 11/53 as a decimal?",
+   "choices": [
+    "0.1509",
+    "0.1698",
+    "0.2075",
+    "0.1887"
+   ],
+   "answer": 2,
+   "explanation": "11/53 = 0.2075 = 20.75%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 12/53 as a percentage?",
+   "choices": [
+    "16.98%",
+    "22.64%",
+    "18.87%",
+    "20.75%"
+   ],
+   "answer": 1,
+   "explanation": "12/53 = 0.2264 = 22.64%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 12/53 as a decimal?",
+   "choices": [
+    "0.1698",
+    "0.1887",
+    "0.2264",
+    "0.2075"
+   ],
+   "answer": 2,
+   "explanation": "12/53 = 0.2264 = 22.64%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 13/53 as a percentage?",
+   "choices": [
+    "18.87%",
+    "24.53%",
+    "20.75%",
+    "22.64%"
+   ],
+   "answer": 1,
+   "explanation": "13/53 = 0.2453 = 24.53%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 13/53 as a decimal?",
+   "choices": [
+    "0.1887",
+    "0.2075",
+    "0.2264",
+    "0.2453"
+   ],
+   "answer": 3,
+   "explanation": "13/53 = 0.2453 = 24.53%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 14/53 as a percentage?",
+   "choices": [
+    "20.75%",
+    "22.64%",
+    "26.42%",
+    "24.53%"
+   ],
+   "answer": 2,
+   "explanation": "14/53 = 0.2642 = 26.42%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 14/53 as a decimal?",
+   "choices": [
+    "0.2642",
+    "0.2075",
+    "0.2264",
+    "0.2453"
+   ],
+   "answer": 0,
+   "explanation": "14/53 = 0.2642 = 26.42%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 15/53 as a percentage?",
+   "choices": [
+    "22.64%",
+    "24.53%",
+    "28.30%",
+    "26.42%"
+   ],
+   "answer": 2,
+   "explanation": "15/53 = 0.2830 = 28.30%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 15/53 as a decimal?",
+   "choices": [
+    "0.2264",
+    "0.2830",
+    "0.2453",
+    "0.2642"
+   ],
+   "answer": 1,
+   "explanation": "15/53 = 0.2830 = 28.30%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 16/53 as a percentage?",
+   "choices": [
+    "24.53%",
+    "30.19%",
+    "26.42%",
+    "28.30%"
+   ],
+   "answer": 1,
+   "explanation": "16/53 = 0.3019 = 30.19%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 16/53 as a decimal?",
+   "choices": [
+    "0.2453",
+    "0.3019",
+    "0.2642",
+    "0.2830"
+   ],
+   "answer": 1,
+   "explanation": "16/53 = 0.3019 = 30.19%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 17/53 as a percentage?",
+   "choices": [
+    "26.42%",
+    "28.30%",
+    "30.19%",
+    "32.08%"
+   ],
+   "answer": 3,
+   "explanation": "17/53 = 0.3208 = 32.08%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 17/53 as a decimal?",
+   "choices": [
+    "0.2642",
+    "0.2830",
+    "0.3208",
+    "0.3019"
+   ],
+   "answer": 2,
+   "explanation": "17/53 = 0.3208 = 32.08%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 18/53 as a percentage?",
+   "choices": [
+    "28.30%",
+    "33.96%",
+    "30.19%",
+    "32.08%"
+   ],
+   "answer": 1,
+   "explanation": "18/53 = 0.3396 = 33.96%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 18/53 as a decimal?",
+   "choices": [
+    "0.2830",
+    "0.3019",
+    "0.3208",
+    "0.3396"
+   ],
+   "answer": 3,
+   "explanation": "18/53 = 0.3396 = 33.96%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 19/53 as a percentage?",
+   "choices": [
+    "30.19%",
+    "32.08%",
+    "33.96%",
+    "35.85%"
+   ],
+   "answer": 3,
+   "explanation": "19/53 = 0.3585 = 35.85%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 19/53 as a decimal?",
+   "choices": [
+    "0.3019",
+    "0.3585",
+    "0.3208",
+    "0.3396"
+   ],
+   "answer": 1,
+   "explanation": "19/53 = 0.3585 = 35.85%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 20/53 as a percentage?",
+   "choices": [
+    "32.08%",
+    "33.96%",
+    "35.85%",
+    "37.74%"
+   ],
+   "answer": 3,
+   "explanation": "20/53 = 0.3774 = 37.74%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 20/53 as a decimal?",
+   "choices": [
+    "0.3774",
+    "0.3208",
+    "0.3396",
+    "0.3585"
+   ],
+   "answer": 0,
+   "explanation": "20/53 = 0.3774 = 37.74%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 21/53 as a percentage?",
+   "choices": [
+    "33.96%",
+    "35.85%",
+    "39.62%",
+    "37.74%"
+   ],
+   "answer": 2,
+   "explanation": "21/53 = 0.3962 = 39.62%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 21/53 as a decimal?",
+   "choices": [
+    "0.3396",
+    "0.3962",
+    "0.3585",
+    "0.3774"
+   ],
+   "answer": 1,
+   "explanation": "21/53 = 0.3962 = 39.62%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 22/53 as a percentage?",
+   "choices": [
+    "35.85%",
+    "37.74%",
+    "41.51%",
+    "39.62%"
+   ],
+   "answer": 2,
+   "explanation": "22/53 = 0.4151 = 41.51%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 22/53 as a decimal?",
+   "choices": [
+    "0.4151",
+    "0.3585",
+    "0.3774",
+    "0.3962"
+   ],
+   "answer": 0,
+   "explanation": "22/53 = 0.4151 = 41.51%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 23/53 as a percentage?",
+   "choices": [
+    "37.74%",
+    "39.62%",
+    "43.40%",
+    "41.51%"
+   ],
+   "answer": 2,
+   "explanation": "23/53 = 0.4340 = 43.40%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 23/53 as a decimal?",
+   "choices": [
+    "0.4340",
+    "0.3774",
+    "0.3962",
+    "0.4151"
+   ],
+   "answer": 0,
+   "explanation": "23/53 = 0.4340 = 43.40%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 24/53 as a percentage?",
+   "choices": [
+    "39.62%",
+    "41.51%",
+    "45.28%",
+    "43.40%"
+   ],
+   "answer": 2,
+   "explanation": "24/53 = 0.4528 = 45.28%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 24/53 as a decimal?",
+   "choices": [
+    "0.3962",
+    "0.4151",
+    "0.4528",
+    "0.4340"
+   ],
+   "answer": 2,
+   "explanation": "24/53 = 0.4528 = 45.28%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 25/53 as a percentage?",
+   "choices": [
+    "41.51%",
+    "43.40%",
+    "47.17%",
+    "45.28%"
+   ],
+   "answer": 2,
+   "explanation": "25/53 = 0.4717 = 47.17%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 25/53 as a decimal?",
+   "choices": [
+    "0.4151",
+    "0.4340",
+    "0.4717",
+    "0.4528"
+   ],
+   "answer": 2,
+   "explanation": "25/53 = 0.4717 = 47.17%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 26/53 as a percentage?",
+   "choices": [
+    "49.06%",
+    "43.40%",
+    "45.28%",
+    "47.17%"
+   ],
+   "answer": 0,
+   "explanation": "26/53 = 0.4906 = 49.06%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 26/53 as a decimal?",
+   "choices": [
+    "0.4340",
+    "0.4528",
+    "0.4717",
+    "0.4906"
+   ],
+   "answer": 3,
+   "explanation": "26/53 = 0.4906 = 49.06%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 27/53 as a percentage?",
+   "choices": [
+    "50.94%",
+    "45.28%",
+    "47.17%",
+    "49.06%"
+   ],
+   "answer": 0,
+   "explanation": "27/53 = 0.5094 = 50.94%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 27/53 as a decimal?",
+   "choices": [
+    "0.5094",
+    "0.4528",
+    "0.4717",
+    "0.4906"
+   ],
+   "answer": 0,
+   "explanation": "27/53 = 0.5094 = 50.94%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 28/53 as a percentage?",
+   "choices": [
+    "47.17%",
+    "49.06%",
+    "52.83%",
+    "50.94%"
+   ],
+   "answer": 2,
+   "explanation": "28/53 = 0.5283 = 52.83%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 28/53 as a decimal?",
+   "choices": [
+    "0.5283",
+    "0.4717",
+    "0.4906",
+    "0.5094"
+   ],
+   "answer": 0,
+   "explanation": "28/53 = 0.5283 = 52.83%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 29/53 as a percentage?",
+   "choices": [
+    "49.06%",
+    "50.94%",
+    "54.72%",
+    "52.83%"
+   ],
+   "answer": 2,
+   "explanation": "29/53 = 0.5472 = 54.72%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 29/53 as a decimal?",
+   "choices": [
+    "0.4906",
+    "0.5094",
+    "0.5472",
+    "0.5283"
+   ],
+   "answer": 2,
+   "explanation": "29/53 = 0.5472 = 54.72%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 30/53 as a percentage?",
+   "choices": [
+    "50.94%",
+    "52.83%",
+    "54.72%",
+    "56.60%"
+   ],
+   "answer": 3,
+   "explanation": "30/53 = 0.5660 = 56.60%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 30/53 as a decimal?",
+   "choices": [
+    "0.5660",
+    "0.5094",
+    "0.5283",
+    "0.5472"
+   ],
+   "answer": 0,
+   "explanation": "30/53 = 0.5660 = 56.60%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 31/53 as a percentage?",
+   "choices": [
+    "52.83%",
+    "54.72%",
+    "56.60%",
+    "58.49%"
+   ],
+   "answer": 3,
+   "explanation": "31/53 = 0.5849 = 58.49%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 31/53 as a decimal?",
+   "choices": [
+    "0.5283",
+    "0.5849",
+    "0.5472",
+    "0.5660"
+   ],
+   "answer": 1,
+   "explanation": "31/53 = 0.5849 = 58.49%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 32/53 as a percentage?",
+   "choices": [
+    "54.72%",
+    "60.38%",
+    "56.60%",
+    "58.49%"
+   ],
+   "answer": 1,
+   "explanation": "32/53 = 0.6038 = 60.38%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 32/53 as a decimal?",
+   "choices": [
+    "0.5472",
+    "0.6038",
+    "0.5660",
+    "0.5849"
+   ],
+   "answer": 1,
+   "explanation": "32/53 = 0.6038 = 60.38%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 33/53 as a percentage?",
+   "choices": [
+    "56.60%",
+    "58.49%",
+    "60.38%",
+    "62.26%"
+   ],
+   "answer": 3,
+   "explanation": "33/53 = 0.6226 = 62.26%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 33/53 as a decimal?",
+   "choices": [
+    "0.5660",
+    "0.5849",
+    "0.6038",
+    "0.6226"
+   ],
+   "answer": 3,
+   "explanation": "33/53 = 0.6226 = 62.26%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 34/53 as a percentage?",
+   "choices": [
+    "58.49%",
+    "60.38%",
+    "62.26%",
+    "64.15%"
+   ],
+   "answer": 3,
+   "explanation": "34/53 = 0.6415 = 64.15%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 34/53 as a decimal?",
+   "choices": [
+    "0.5849",
+    "0.6038",
+    "0.6226",
+    "0.6415"
+   ],
+   "answer": 3,
+   "explanation": "34/53 = 0.6415 = 64.15%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 35/53 as a percentage?",
+   "choices": [
+    "60.38%",
+    "62.26%",
+    "66.04%",
+    "64.15%"
+   ],
+   "answer": 2,
+   "explanation": "35/53 = 0.6604 = 66.04%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 35/53 as a decimal?",
+   "choices": [
+    "0.6038",
+    "0.6604",
+    "0.6226",
+    "0.6415"
+   ],
+   "answer": 1,
+   "explanation": "35/53 = 0.6604 = 66.04%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 36/53 as a percentage?",
+   "choices": [
+    "62.26%",
+    "64.15%",
+    "66.04%",
+    "67.92%"
+   ],
+   "answer": 3,
+   "explanation": "36/53 = 0.6792 = 67.92%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 36/53 as a decimal?",
+   "choices": [
+    "0.6226",
+    "0.6415",
+    "0.6604",
+    "0.6792"
+   ],
+   "answer": 3,
+   "explanation": "36/53 = 0.6792 = 67.92%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 37/53 as a percentage?",
+   "choices": [
+    "69.81%",
+    "64.15%",
+    "66.04%",
+    "67.92%"
+   ],
+   "answer": 0,
+   "explanation": "37/53 = 0.6981 = 69.81%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 37/53 as a decimal?",
+   "choices": [
+    "0.6415",
+    "0.6981",
+    "0.6604",
+    "0.6792"
+   ],
+   "answer": 1,
+   "explanation": "37/53 = 0.6981 = 69.81%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 38/53 as a percentage?",
+   "choices": [
+    "66.04%",
+    "67.92%",
+    "69.81%",
+    "71.70%"
+   ],
+   "answer": 3,
+   "explanation": "38/53 = 0.7170 = 71.70%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 38/53 as a decimal?",
+   "choices": [
+    "0.6604",
+    "0.7170",
+    "0.6792",
+    "0.6981"
+   ],
+   "answer": 1,
+   "explanation": "38/53 = 0.7170 = 71.70%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 39/53 as a percentage?",
+   "choices": [
+    "67.92%",
+    "73.58%",
+    "69.81%",
+    "71.70%"
+   ],
+   "answer": 1,
+   "explanation": "39/53 = 0.7358 = 73.58%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 39/53 as a decimal?",
+   "choices": [
+    "0.6792",
+    "0.6981",
+    "0.7358",
+    "0.7170"
+   ],
+   "answer": 2,
+   "explanation": "39/53 = 0.7358 = 73.58%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 40/53 as a percentage?",
+   "choices": [
+    "69.81%",
+    "75.47%",
+    "71.70%",
+    "73.58%"
+   ],
+   "answer": 1,
+   "explanation": "40/53 = 0.7547 = 75.47%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 40/53 as a decimal?",
+   "choices": [
+    "0.6981",
+    "0.7170",
+    "0.7547",
+    "0.7358"
+   ],
+   "answer": 2,
+   "explanation": "40/53 = 0.7547 = 75.47%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 41/53 as a percentage?",
+   "choices": [
+    "77.36%",
+    "71.70%",
+    "73.58%",
+    "75.47%"
+   ],
+   "answer": 0,
+   "explanation": "41/53 = 0.7736 = 77.36%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 41/53 as a decimal?",
+   "choices": [
+    "0.7736",
+    "0.7170",
+    "0.7358",
+    "0.7547"
+   ],
+   "answer": 0,
+   "explanation": "41/53 = 0.7736 = 77.36%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 42/53 as a percentage?",
+   "choices": [
+    "73.58%",
+    "75.47%",
+    "79.25%",
+    "77.36%"
+   ],
+   "answer": 2,
+   "explanation": "42/53 = 0.7925 = 79.25%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 42/53 as a decimal?",
+   "choices": [
+    "0.7358",
+    "0.7925",
+    "0.7547",
+    "0.7736"
+   ],
+   "answer": 1,
+   "explanation": "42/53 = 0.7925 = 79.25%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 43/53 as a percentage?",
+   "choices": [
+    "75.47%",
+    "81.13%",
+    "77.36%",
+    "79.25%"
+   ],
+   "answer": 1,
+   "explanation": "43/53 = 0.8113 = 81.13%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 43/53 as a decimal?",
+   "choices": [
+    "0.8113",
+    "0.7547",
+    "0.7736",
+    "0.7925"
+   ],
+   "answer": 0,
+   "explanation": "43/53 = 0.8113 = 81.13%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 44/53 as a percentage?",
+   "choices": [
+    "77.36%",
+    "79.25%",
+    "83.02%",
+    "81.13%"
+   ],
+   "answer": 2,
+   "explanation": "44/53 = 0.8302 = 83.02%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 44/53 as a decimal?",
+   "choices": [
+    "0.7736",
+    "0.8302",
+    "0.7925",
+    "0.8113"
+   ],
+   "answer": 1,
+   "explanation": "44/53 = 0.8302 = 83.02%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 45/53 as a percentage?",
+   "choices": [
+    "79.25%",
+    "81.13%",
+    "83.02%",
+    "84.91%"
+   ],
+   "answer": 3,
+   "explanation": "45/53 = 0.8491 = 84.91%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 45/53 as a decimal?",
+   "choices": [
+    "0.7925",
+    "0.8491",
+    "0.8113",
+    "0.8302"
+   ],
+   "answer": 1,
+   "explanation": "45/53 = 0.8491 = 84.91%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 46/53 as a percentage?",
+   "choices": [
+    "81.13%",
+    "83.02%",
+    "86.79%",
+    "84.91%"
+   ],
+   "answer": 2,
+   "explanation": "46/53 = 0.8679 = 86.79%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 46/53 as a decimal?",
+   "choices": [
+    "0.8113",
+    "0.8302",
+    "0.8679",
+    "0.8491"
+   ],
+   "answer": 2,
+   "explanation": "46/53 = 0.8679 = 86.79%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 47/53 as a percentage?",
+   "choices": [
+    "83.02%",
+    "88.68%",
+    "84.91%",
+    "86.79%"
+   ],
+   "answer": 1,
+   "explanation": "47/53 = 0.8868 = 88.68%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 47/53 as a decimal?",
+   "choices": [
+    "0.8302",
+    "0.8491",
+    "0.8679",
+    "0.8868"
+   ],
+   "answer": 3,
+   "explanation": "47/53 = 0.8868 = 88.68%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 48/53 as a percentage?",
+   "choices": [
+    "84.91%",
+    "86.79%",
+    "88.68%",
+    "90.57%"
+   ],
+   "answer": 3,
+   "explanation": "48/53 = 0.9057 = 90.57%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 48/53 as a decimal?",
+   "choices": [
+    "0.8491",
+    "0.8679",
+    "0.9057",
+    "0.8868"
+   ],
+   "answer": 2,
+   "explanation": "48/53 = 0.9057 = 90.57%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 49/53 as a percentage?",
+   "choices": [
+    "86.79%",
+    "88.68%",
+    "90.57%",
+    "92.45%"
+   ],
+   "answer": 3,
+   "explanation": "49/53 = 0.9245 = 92.45%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 49/53 as a decimal?",
+   "choices": [
+    "0.8679",
+    "0.8868",
+    "0.9057",
+    "0.9245"
+   ],
+   "answer": 3,
+   "explanation": "49/53 = 0.9245 = 92.45%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 50/53 as a percentage?",
+   "choices": [
+    "88.68%",
+    "90.57%",
+    "92.45%",
+    "94.34%"
+   ],
+   "answer": 3,
+   "explanation": "50/53 = 0.9434 = 94.34%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 50/53 as a decimal?",
+   "choices": [
+    "0.8868",
+    "0.9057",
+    "0.9434",
+    "0.9245"
+   ],
+   "answer": 2,
+   "explanation": "50/53 = 0.9434 = 94.34%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 51/53 as a percentage?",
+   "choices": [
+    "90.57%",
+    "92.45%",
+    "96.23%",
+    "94.34%"
+   ],
+   "answer": 2,
+   "explanation": "51/53 = 0.9623 = 96.23%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 51/53 as a decimal?",
+   "choices": [
+    "0.9623",
+    "0.9057",
+    "0.9245",
+    "0.9434"
+   ],
+   "answer": 0,
+   "explanation": "51/53 = 0.9623 = 96.23%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 52/53 as a percentage?",
+   "choices": [
+    "98.11%",
+    "92.45%",
+    "94.34%",
+    "96.23%"
+   ],
+   "answer": 0,
+   "explanation": "52/53 = 0.9811 = 98.11%",
+   "source": "X/53"
+  },
+  {
+   "question": "What is 52/53 as a decimal?",
+   "choices": [
+    "0.9245",
+    "0.9811",
+    "0.9434",
+    "0.9623"
+   ],
+   "answer": 1,
+   "explanation": "52/53 = 0.9811 = 98.11%",
+   "source": "X/53"
+  }
+ ]
+}

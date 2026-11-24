@@ -1,0 +1,1492 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/63 as a percentage?",
+   "choices": [
+    "3.17%",
+    "4.76%",
+    "6.35%",
+    "1.59%"
+   ],
+   "answer": 3,
+   "explanation": "1/63 = 0.0159 = 1.59%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 1/63 as a decimal?",
+   "choices": [
+    "0.0317",
+    "0.0476",
+    "0.0159",
+    "0.0635"
+   ],
+   "answer": 2,
+   "explanation": "1/63 = 0.0159 = 1.59%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 2/63 as a percentage?",
+   "choices": [
+    "1.59%",
+    "3.17%",
+    "4.76%",
+    "6.35%"
+   ],
+   "answer": 1,
+   "explanation": "2/63 = 0.0317 = 3.17%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 2/63 as a decimal?",
+   "choices": [
+    "0.0159",
+    "0.0476",
+    "0.0635",
+    "0.0317"
+   ],
+   "answer": 3,
+   "explanation": "2/63 = 0.0317 = 3.17%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 3/63 as a percentage?",
+   "choices": [
+    "1.59%",
+    "3.17%",
+    "4.76%",
+    "6.35%"
+   ],
+   "answer": 2,
+   "explanation": "3/63 = 0.0476 = 4.76%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 3/63 as a decimal?",
+   "choices": [
+    "0.0159",
+    "0.0317",
+    "0.0635",
+    "0.0476"
+   ],
+   "answer": 3,
+   "explanation": "3/63 = 0.0476 = 4.76%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 4/63 as a percentage?",
+   "choices": [
+    "1.59%",
+    "3.17%",
+    "6.35%",
+    "4.76%"
+   ],
+   "answer": 2,
+   "explanation": "4/63 = 0.0635 = 6.35%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 4/63 as a decimal?",
+   "choices": [
+    "0.0159",
+    "0.0317",
+    "0.0476",
+    "0.0635"
+   ],
+   "answer": 3,
+   "explanation": "4/63 = 0.0635 = 6.35%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 5/63 as a percentage?",
+   "choices": [
+    "3.17%",
+    "7.94%",
+    "4.76%",
+    "6.35%"
+   ],
+   "answer": 1,
+   "explanation": "5/63 = 0.0794 = 7.94%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 5/63 as a decimal?",
+   "choices": [
+    "0.0317",
+    "0.0476",
+    "0.0794",
+    "0.0635"
+   ],
+   "answer": 2,
+   "explanation": "5/63 = 0.0794 = 7.94%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 6/63 as a percentage?",
+   "choices": [
+    "4.76%",
+    "6.35%",
+    "9.52%",
+    "7.94%"
+   ],
+   "answer": 2,
+   "explanation": "6/63 = 0.0952 = 9.52%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 6/63 as a decimal?",
+   "choices": [
+    "0.0476",
+    "0.0635",
+    "0.0952",
+    "0.0794"
+   ],
+   "answer": 2,
+   "explanation": "6/63 = 0.0952 = 9.52%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 7/63 as a percentage?",
+   "choices": [
+    "6.35%",
+    "7.94%",
+    "11.11%",
+    "9.52%"
+   ],
+   "answer": 2,
+   "explanation": "7/63 = 0.1111 = 11.11%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 7/63 as a decimal?",
+   "choices": [
+    "0.1111",
+    "0.0635",
+    "0.0794",
+    "0.0952"
+   ],
+   "answer": 0,
+   "explanation": "7/63 = 0.1111 = 11.11%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 8/63 as a percentage?",
+   "choices": [
+    "7.94%",
+    "9.52%",
+    "12.70%",
+    "11.11%"
+   ],
+   "answer": 2,
+   "explanation": "8/63 = 0.1270 = 12.70%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 8/63 as a decimal?",
+   "choices": [
+    "0.0794",
+    "0.1270",
+    "0.0952",
+    "0.1111"
+   ],
+   "answer": 1,
+   "explanation": "8/63 = 0.1270 = 12.70%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 9/63 as a percentage?",
+   "choices": [
+    "9.52%",
+    "14.29%",
+    "11.11%",
+    "12.70%"
+   ],
+   "answer": 1,
+   "explanation": "9/63 = 0.1429 = 14.29%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 9/63 as a decimal?",
+   "choices": [
+    "0.0952",
+    "0.1111",
+    "0.1429",
+    "0.1270"
+   ],
+   "answer": 2,
+   "explanation": "9/63 = 0.1429 = 14.29%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 10/63 as a percentage?",
+   "choices": [
+    "11.11%",
+    "12.70%",
+    "15.87%",
+    "14.29%"
+   ],
+   "answer": 2,
+   "explanation": "10/63 = 0.1587 = 15.87%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 10/63 as a decimal?",
+   "choices": [
+    "0.1111",
+    "0.1270",
+    "0.1429",
+    "0.1587"
+   ],
+   "answer": 3,
+   "explanation": "10/63 = 0.1587 = 15.87%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 11/63 as a percentage?",
+   "choices": [
+    "17.46%",
+    "12.70%",
+    "14.29%",
+    "15.87%"
+   ],
+   "answer": 0,
+   "explanation": "11/63 = 0.1746 = 17.46%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 11/63 as a decimal?",
+   "choices": [
+    "0.1270",
+    "0.1429",
+    "0.1587",
+    "0.1746"
+   ],
+   "answer": 3,
+   "explanation": "11/63 = 0.1746 = 17.46%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 12/63 as a percentage?",
+   "choices": [
+    "19.05%",
+    "14.29%",
+    "15.87%",
+    "17.46%"
+   ],
+   "answer": 0,
+   "explanation": "12/63 = 0.1905 = 19.05%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 12/63 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.1905",
+    "0.1587",
+    "0.1746"
+   ],
+   "answer": 1,
+   "explanation": "12/63 = 0.1905 = 19.05%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 13/63 as a percentage?",
+   "choices": [
+    "15.87%",
+    "17.46%",
+    "19.05%",
+    "20.63%"
+   ],
+   "answer": 3,
+   "explanation": "13/63 = 0.2063 = 20.63%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 13/63 as a decimal?",
+   "choices": [
+    "0.1587",
+    "0.1746",
+    "0.1905",
+    "0.2063"
+   ],
+   "answer": 3,
+   "explanation": "13/63 = 0.2063 = 20.63%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 14/63 as a percentage?",
+   "choices": [
+    "17.46%",
+    "19.05%",
+    "20.63%",
+    "22.22%"
+   ],
+   "answer": 3,
+   "explanation": "14/63 = 0.2222 = 22.22%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 14/63 as a decimal?",
+   "choices": [
+    "0.1746",
+    "0.1905",
+    "0.2222",
+    "0.2063"
+   ],
+   "answer": 2,
+   "explanation": "14/63 = 0.2222 = 22.22%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 15/63 as a percentage?",
+   "choices": [
+    "19.05%",
+    "23.81%",
+    "20.63%",
+    "22.22%"
+   ],
+   "answer": 1,
+   "explanation": "15/63 = 0.2381 = 23.81%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 15/63 as a decimal?",
+   "choices": [
+    "0.1905",
+    "0.2063",
+    "0.2381",
+    "0.2222"
+   ],
+   "answer": 2,
+   "explanation": "15/63 = 0.2381 = 23.81%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 16/63 as a percentage?",
+   "choices": [
+    "20.63%",
+    "22.22%",
+    "25.40%",
+    "23.81%"
+   ],
+   "answer": 2,
+   "explanation": "16/63 = 0.2540 = 25.40%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 16/63 as a decimal?",
+   "choices": [
+    "0.2063",
+    "0.2540",
+    "0.2222",
+    "0.2381"
+   ],
+   "answer": 1,
+   "explanation": "16/63 = 0.2540 = 25.40%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 17/63 as a percentage?",
+   "choices": [
+    "26.98%",
+    "22.22%",
+    "23.81%",
+    "25.40%"
+   ],
+   "answer": 0,
+   "explanation": "17/63 = 0.2698 = 26.98%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 17/63 as a decimal?",
+   "choices": [
+    "0.2222",
+    "0.2381",
+    "0.2540",
+    "0.2698"
+   ],
+   "answer": 3,
+   "explanation": "17/63 = 0.2698 = 26.98%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 18/63 as a percentage?",
+   "choices": [
+    "23.81%",
+    "25.40%",
+    "28.57%",
+    "26.98%"
+   ],
+   "answer": 2,
+   "explanation": "18/63 = 0.2857 = 28.57%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 18/63 as a decimal?",
+   "choices": [
+    "0.2381",
+    "0.2540",
+    "0.2698",
+    "0.2857"
+   ],
+   "answer": 3,
+   "explanation": "18/63 = 0.2857 = 28.57%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 19/63 as a percentage?",
+   "choices": [
+    "25.40%",
+    "26.98%",
+    "30.16%",
+    "28.57%"
+   ],
+   "answer": 2,
+   "explanation": "19/63 = 0.3016 = 30.16%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 19/63 as a decimal?",
+   "choices": [
+    "0.2540",
+    "0.2698",
+    "0.2857",
+    "0.3016"
+   ],
+   "answer": 3,
+   "explanation": "19/63 = 0.3016 = 30.16%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 20/63 as a percentage?",
+   "choices": [
+    "26.98%",
+    "28.57%",
+    "31.75%",
+    "30.16%"
+   ],
+   "answer": 2,
+   "explanation": "20/63 = 0.3175 = 31.75%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 20/63 as a decimal?",
+   "choices": [
+    "0.2698",
+    "0.2857",
+    "0.3175",
+    "0.3016"
+   ],
+   "answer": 2,
+   "explanation": "20/63 = 0.3175 = 31.75%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 21/63 as a percentage?",
+   "choices": [
+    "28.57%",
+    "30.16%",
+    "33.33%",
+    "31.75%"
+   ],
+   "answer": 2,
+   "explanation": "21/63 = 0.3333 = 33.33%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 21/63 as a decimal?",
+   "choices": [
+    "0.2857",
+    "0.3016",
+    "0.3175",
+    "0.3333"
+   ],
+   "answer": 3,
+   "explanation": "21/63 = 0.3333 = 33.33%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 22/63 as a percentage?",
+   "choices": [
+    "30.16%",
+    "31.75%",
+    "34.92%",
+    "33.33%"
+   ],
+   "answer": 2,
+   "explanation": "22/63 = 0.3492 = 34.92%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 22/63 as a decimal?",
+   "choices": [
+    "0.3016",
+    "0.3175",
+    "0.3333",
+    "0.3492"
+   ],
+   "answer": 3,
+   "explanation": "22/63 = 0.3492 = 34.92%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 23/63 as a percentage?",
+   "choices": [
+    "36.51%",
+    "31.75%",
+    "33.33%",
+    "34.92%"
+   ],
+   "answer": 0,
+   "explanation": "23/63 = 0.3651 = 36.51%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 23/63 as a decimal?",
+   "choices": [
+    "0.3175",
+    "0.3333",
+    "0.3492",
+    "0.3651"
+   ],
+   "answer": 3,
+   "explanation": "23/63 = 0.3651 = 36.51%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 24/63 as a percentage?",
+   "choices": [
+    "33.33%",
+    "34.92%",
+    "36.51%",
+    "38.10%"
+   ],
+   "answer": 3,
+   "explanation": "24/63 = 0.3810 = 38.10%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 24/63 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.3492",
+    "0.3651",
+    "0.3810"
+   ],
+   "answer": 3,
+   "explanation": "24/63 = 0.3810 = 38.10%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 25/63 as a percentage?",
+   "choices": [
+    "39.68%",
+    "34.92%",
+    "36.51%",
+    "38.10%"
+   ],
+   "answer": 0,
+   "explanation": "25/63 = 0.3968 = 39.68%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 25/63 as a decimal?",
+   "choices": [
+    "0.3492",
+    "0.3651",
+    "0.3968",
+    "0.3810"
+   ],
+   "answer": 2,
+   "explanation": "25/63 = 0.3968 = 39.68%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 26/63 as a percentage?",
+   "choices": [
+    "41.27%",
+    "36.51%",
+    "38.10%",
+    "39.68%"
+   ],
+   "answer": 0,
+   "explanation": "26/63 = 0.4127 = 41.27%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 26/63 as a decimal?",
+   "choices": [
+    "0.3651",
+    "0.3810",
+    "0.4127",
+    "0.3968"
+   ],
+   "answer": 2,
+   "explanation": "26/63 = 0.4127 = 41.27%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 27/63 as a percentage?",
+   "choices": [
+    "38.10%",
+    "39.68%",
+    "41.27%",
+    "42.86%"
+   ],
+   "answer": 3,
+   "explanation": "27/63 = 0.4286 = 42.86%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 27/63 as a decimal?",
+   "choices": [
+    "0.3810",
+    "0.3968",
+    "0.4127",
+    "0.4286"
+   ],
+   "answer": 3,
+   "explanation": "27/63 = 0.4286 = 42.86%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 28/63 as a percentage?",
+   "choices": [
+    "39.68%",
+    "41.27%",
+    "42.86%",
+    "44.44%"
+   ],
+   "answer": 3,
+   "explanation": "28/63 = 0.4444 = 44.44%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 28/63 as a decimal?",
+   "choices": [
+    "0.3968",
+    "0.4127",
+    "0.4444",
+    "0.4286"
+   ],
+   "answer": 2,
+   "explanation": "28/63 = 0.4444 = 44.44%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 29/63 as a percentage?",
+   "choices": [
+    "46.03%",
+    "41.27%",
+    "42.86%",
+    "44.44%"
+   ],
+   "answer": 0,
+   "explanation": "29/63 = 0.4603 = 46.03%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 29/63 as a decimal?",
+   "choices": [
+    "0.4603",
+    "0.4127",
+    "0.4286",
+    "0.4444"
+   ],
+   "answer": 0,
+   "explanation": "29/63 = 0.4603 = 46.03%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 30/63 as a percentage?",
+   "choices": [
+    "42.86%",
+    "44.44%",
+    "46.03%",
+    "47.62%"
+   ],
+   "answer": 3,
+   "explanation": "30/63 = 0.4762 = 47.62%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 30/63 as a decimal?",
+   "choices": [
+    "0.4286",
+    "0.4444",
+    "0.4762",
+    "0.4603"
+   ],
+   "answer": 2,
+   "explanation": "30/63 = 0.4762 = 47.62%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 31/63 as a percentage?",
+   "choices": [
+    "44.44%",
+    "46.03%",
+    "47.62%",
+    "49.21%"
+   ],
+   "answer": 3,
+   "explanation": "31/63 = 0.4921 = 49.21%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 31/63 as a decimal?",
+   "choices": [
+    "0.4921",
+    "0.4444",
+    "0.4603",
+    "0.4762"
+   ],
+   "answer": 0,
+   "explanation": "31/63 = 0.4921 = 49.21%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 32/63 as a percentage?",
+   "choices": [
+    "46.03%",
+    "47.62%",
+    "50.79%",
+    "49.21%"
+   ],
+   "answer": 2,
+   "explanation": "32/63 = 0.5079 = 50.79%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 32/63 as a decimal?",
+   "choices": [
+    "0.4603",
+    "0.5079",
+    "0.4762",
+    "0.4921"
+   ],
+   "answer": 1,
+   "explanation": "32/63 = 0.5079 = 50.79%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 33/63 as a percentage?",
+   "choices": [
+    "47.62%",
+    "49.21%",
+    "52.38%",
+    "50.79%"
+   ],
+   "answer": 2,
+   "explanation": "33/63 = 0.5238 = 52.38%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 33/63 as a decimal?",
+   "choices": [
+    "0.4762",
+    "0.5238",
+    "0.4921",
+    "0.5079"
+   ],
+   "answer": 1,
+   "explanation": "33/63 = 0.5238 = 52.38%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 34/63 as a percentage?",
+   "choices": [
+    "49.21%",
+    "50.79%",
+    "53.97%",
+    "52.38%"
+   ],
+   "answer": 2,
+   "explanation": "34/63 = 0.5397 = 53.97%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 34/63 as a decimal?",
+   "choices": [
+    "0.4921",
+    "0.5079",
+    "0.5397",
+    "0.5238"
+   ],
+   "answer": 2,
+   "explanation": "34/63 = 0.5397 = 53.97%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 35/63 as a percentage?",
+   "choices": [
+    "55.56%",
+    "50.79%",
+    "52.38%",
+    "53.97%"
+   ],
+   "answer": 0,
+   "explanation": "35/63 = 0.5556 = 55.56%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 35/63 as a decimal?",
+   "choices": [
+    "0.5556",
+    "0.5079",
+    "0.5238",
+    "0.5397"
+   ],
+   "answer": 0,
+   "explanation": "35/63 = 0.5556 = 55.56%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 36/63 as a percentage?",
+   "choices": [
+    "57.14%",
+    "52.38%",
+    "53.97%",
+    "55.56%"
+   ],
+   "answer": 0,
+   "explanation": "36/63 = 0.5714 = 57.14%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 36/63 as a decimal?",
+   "choices": [
+    "0.5714",
+    "0.5238",
+    "0.5397",
+    "0.5556"
+   ],
+   "answer": 0,
+   "explanation": "36/63 = 0.5714 = 57.14%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 37/63 as a percentage?",
+   "choices": [
+    "53.97%",
+    "55.56%",
+    "57.14%",
+    "58.73%"
+   ],
+   "answer": 3,
+   "explanation": "37/63 = 0.5873 = 58.73%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 37/63 as a decimal?",
+   "choices": [
+    "0.5397",
+    "0.5556",
+    "0.5714",
+    "0.5873"
+   ],
+   "answer": 3,
+   "explanation": "37/63 = 0.5873 = 58.73%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 38/63 as a percentage?",
+   "choices": [
+    "55.56%",
+    "60.32%",
+    "57.14%",
+    "58.73%"
+   ],
+   "answer": 1,
+   "explanation": "38/63 = 0.6032 = 60.32%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 38/63 as a decimal?",
+   "choices": [
+    "0.5556",
+    "0.6032",
+    "0.5714",
+    "0.5873"
+   ],
+   "answer": 1,
+   "explanation": "38/63 = 0.6032 = 60.32%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 39/63 as a percentage?",
+   "choices": [
+    "57.14%",
+    "61.90%",
+    "58.73%",
+    "60.32%"
+   ],
+   "answer": 1,
+   "explanation": "39/63 = 0.6190 = 61.90%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 39/63 as a decimal?",
+   "choices": [
+    "0.5714",
+    "0.5873",
+    "0.6032",
+    "0.6190"
+   ],
+   "answer": 3,
+   "explanation": "39/63 = 0.6190 = 61.90%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 40/63 as a percentage?",
+   "choices": [
+    "58.73%",
+    "63.49%",
+    "60.32%",
+    "61.90%"
+   ],
+   "answer": 1,
+   "explanation": "40/63 = 0.6349 = 63.49%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 40/63 as a decimal?",
+   "choices": [
+    "0.5873",
+    "0.6032",
+    "0.6190",
+    "0.6349"
+   ],
+   "answer": 3,
+   "explanation": "40/63 = 0.6349 = 63.49%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 41/63 as a percentage?",
+   "choices": [
+    "60.32%",
+    "61.90%",
+    "63.49%",
+    "65.08%"
+   ],
+   "answer": 3,
+   "explanation": "41/63 = 0.6508 = 65.08%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 41/63 as a decimal?",
+   "choices": [
+    "0.6032",
+    "0.6508",
+    "0.6190",
+    "0.6349"
+   ],
+   "answer": 1,
+   "explanation": "41/63 = 0.6508 = 65.08%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 42/63 as a percentage?",
+   "choices": [
+    "66.67%",
+    "61.90%",
+    "63.49%",
+    "65.08%"
+   ],
+   "answer": 0,
+   "explanation": "42/63 = 0.6667 = 66.67%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 42/63 as a decimal?",
+   "choices": [
+    "0.6190",
+    "0.6349",
+    "0.6667",
+    "0.6508"
+   ],
+   "answer": 2,
+   "explanation": "42/63 = 0.6667 = 66.67%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 43/63 as a percentage?",
+   "choices": [
+    "63.49%",
+    "65.08%",
+    "66.67%",
+    "68.25%"
+   ],
+   "answer": 3,
+   "explanation": "43/63 = 0.6825 = 68.25%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 43/63 as a decimal?",
+   "choices": [
+    "0.6349",
+    "0.6825",
+    "0.6508",
+    "0.6667"
+   ],
+   "answer": 1,
+   "explanation": "43/63 = 0.6825 = 68.25%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 44/63 as a percentage?",
+   "choices": [
+    "65.08%",
+    "69.84%",
+    "66.67%",
+    "68.25%"
+   ],
+   "answer": 1,
+   "explanation": "44/63 = 0.6984 = 69.84%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 44/63 as a decimal?",
+   "choices": [
+    "0.6508",
+    "0.6667",
+    "0.6984",
+    "0.6825"
+   ],
+   "answer": 2,
+   "explanation": "44/63 = 0.6984 = 69.84%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 45/63 as a percentage?",
+   "choices": [
+    "66.67%",
+    "68.25%",
+    "69.84%",
+    "71.43%"
+   ],
+   "answer": 3,
+   "explanation": "45/63 = 0.7143 = 71.43%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 45/63 as a decimal?",
+   "choices": [
+    "0.6667",
+    "0.7143",
+    "0.6825",
+    "0.6984"
+   ],
+   "answer": 1,
+   "explanation": "45/63 = 0.7143 = 71.43%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 46/63 as a percentage?",
+   "choices": [
+    "68.25%",
+    "69.84%",
+    "73.02%",
+    "71.43%"
+   ],
+   "answer": 2,
+   "explanation": "46/63 = 0.7302 = 73.02%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 46/63 as a decimal?",
+   "choices": [
+    "0.6825",
+    "0.6984",
+    "0.7143",
+    "0.7302"
+   ],
+   "answer": 3,
+   "explanation": "46/63 = 0.7302 = 73.02%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 47/63 as a percentage?",
+   "choices": [
+    "69.84%",
+    "74.60%",
+    "71.43%",
+    "73.02%"
+   ],
+   "answer": 1,
+   "explanation": "47/63 = 0.7460 = 74.60%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 47/63 as a decimal?",
+   "choices": [
+    "0.6984",
+    "0.7143",
+    "0.7302",
+    "0.7460"
+   ],
+   "answer": 3,
+   "explanation": "47/63 = 0.7460 = 74.60%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 48/63 as a percentage?",
+   "choices": [
+    "71.43%",
+    "73.02%",
+    "76.19%",
+    "74.60%"
+   ],
+   "answer": 2,
+   "explanation": "48/63 = 0.7619 = 76.19%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 48/63 as a decimal?",
+   "choices": [
+    "0.7619",
+    "0.7143",
+    "0.7302",
+    "0.7460"
+   ],
+   "answer": 0,
+   "explanation": "48/63 = 0.7619 = 76.19%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 49/63 as a percentage?",
+   "choices": [
+    "73.02%",
+    "74.60%",
+    "76.19%",
+    "77.78%"
+   ],
+   "answer": 3,
+   "explanation": "49/63 = 0.7778 = 77.78%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 49/63 as a decimal?",
+   "choices": [
+    "0.7302",
+    "0.7460",
+    "0.7778",
+    "0.7619"
+   ],
+   "answer": 2,
+   "explanation": "49/63 = 0.7778 = 77.78%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 50/63 as a percentage?",
+   "choices": [
+    "74.60%",
+    "76.19%",
+    "77.78%",
+    "79.37%"
+   ],
+   "answer": 3,
+   "explanation": "50/63 = 0.7937 = 79.37%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 50/63 as a decimal?",
+   "choices": [
+    "0.7460",
+    "0.7619",
+    "0.7778",
+    "0.7937"
+   ],
+   "answer": 3,
+   "explanation": "50/63 = 0.7937 = 79.37%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 51/63 as a percentage?",
+   "choices": [
+    "76.19%",
+    "80.95%",
+    "77.78%",
+    "79.37%"
+   ],
+   "answer": 1,
+   "explanation": "51/63 = 0.8095 = 80.95%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 51/63 as a decimal?",
+   "choices": [
+    "0.7619",
+    "0.7778",
+    "0.8095",
+    "0.7937"
+   ],
+   "answer": 2,
+   "explanation": "51/63 = 0.8095 = 80.95%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 52/63 as a percentage?",
+   "choices": [
+    "82.54%",
+    "77.78%",
+    "79.37%",
+    "80.95%"
+   ],
+   "answer": 0,
+   "explanation": "52/63 = 0.8254 = 82.54%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 52/63 as a decimal?",
+   "choices": [
+    "0.8254",
+    "0.7778",
+    "0.7937",
+    "0.8095"
+   ],
+   "answer": 0,
+   "explanation": "52/63 = 0.8254 = 82.54%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 53/63 as a percentage?",
+   "choices": [
+    "79.37%",
+    "84.13%",
+    "80.95%",
+    "82.54%"
+   ],
+   "answer": 1,
+   "explanation": "53/63 = 0.8413 = 84.13%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 53/63 as a decimal?",
+   "choices": [
+    "0.7937",
+    "0.8095",
+    "0.8254",
+    "0.8413"
+   ],
+   "answer": 3,
+   "explanation": "53/63 = 0.8413 = 84.13%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 54/63 as a percentage?",
+   "choices": [
+    "80.95%",
+    "82.54%",
+    "84.13%",
+    "85.71%"
+   ],
+   "answer": 3,
+   "explanation": "54/63 = 0.8571 = 85.71%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 54/63 as a decimal?",
+   "choices": [
+    "0.8095",
+    "0.8254",
+    "0.8571",
+    "0.8413"
+   ],
+   "answer": 2,
+   "explanation": "54/63 = 0.8571 = 85.71%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 55/63 as a percentage?",
+   "choices": [
+    "82.54%",
+    "84.13%",
+    "87.30%",
+    "85.71%"
+   ],
+   "answer": 2,
+   "explanation": "55/63 = 0.8730 = 87.30%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 55/63 as a decimal?",
+   "choices": [
+    "0.8730",
+    "0.8254",
+    "0.8413",
+    "0.8571"
+   ],
+   "answer": 0,
+   "explanation": "55/63 = 0.8730 = 87.30%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 56/63 as a percentage?",
+   "choices": [
+    "84.13%",
+    "88.89%",
+    "85.71%",
+    "87.30%"
+   ],
+   "answer": 1,
+   "explanation": "56/63 = 0.8889 = 88.89%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 56/63 as a decimal?",
+   "choices": [
+    "0.8413",
+    "0.8571",
+    "0.8889",
+    "0.8730"
+   ],
+   "answer": 2,
+   "explanation": "56/63 = 0.8889 = 88.89%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 57/63 as a percentage?",
+   "choices": [
+    "90.48%",
+    "85.71%",
+    "87.30%",
+    "88.89%"
+   ],
+   "answer": 0,
+   "explanation": "57/63 = 0.9048 = 90.48%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 57/63 as a decimal?",
+   "choices": [
+    "0.8571",
+    "0.8730",
+    "0.9048",
+    "0.8889"
+   ],
+   "answer": 2,
+   "explanation": "57/63 = 0.9048 = 90.48%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 58/63 as a percentage?",
+   "choices": [
+    "87.30%",
+    "88.89%",
+    "92.06%",
+    "90.48%"
+   ],
+   "answer": 2,
+   "explanation": "58/63 = 0.9206 = 92.06%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 58/63 as a decimal?",
+   "choices": [
+    "0.8730",
+    "0.8889",
+    "0.9048",
+    "0.9206"
+   ],
+   "answer": 3,
+   "explanation": "58/63 = 0.9206 = 92.06%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 59/63 as a percentage?",
+   "choices": [
+    "93.65%",
+    "88.89%",
+    "90.48%",
+    "92.06%"
+   ],
+   "answer": 0,
+   "explanation": "59/63 = 0.9365 = 93.65%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 59/63 as a decimal?",
+   "choices": [
+    "0.9365",
+    "0.8889",
+    "0.9048",
+    "0.9206"
+   ],
+   "answer": 0,
+   "explanation": "59/63 = 0.9365 = 93.65%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 60/63 as a percentage?",
+   "choices": [
+    "90.48%",
+    "92.06%",
+    "95.24%",
+    "93.65%"
+   ],
+   "answer": 2,
+   "explanation": "60/63 = 0.9524 = 95.24%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 60/63 as a decimal?",
+   "choices": [
+    "0.9048",
+    "0.9206",
+    "0.9365",
+    "0.9524"
+   ],
+   "answer": 3,
+   "explanation": "60/63 = 0.9524 = 95.24%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 61/63 as a percentage?",
+   "choices": [
+    "92.06%",
+    "93.65%",
+    "96.83%",
+    "95.24%"
+   ],
+   "answer": 2,
+   "explanation": "61/63 = 0.9683 = 96.83%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 61/63 as a decimal?",
+   "choices": [
+    "0.9206",
+    "0.9683",
+    "0.9365",
+    "0.9524"
+   ],
+   "answer": 1,
+   "explanation": "61/63 = 0.9683 = 96.83%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 62/63 as a percentage?",
+   "choices": [
+    "93.65%",
+    "98.41%",
+    "95.24%",
+    "96.83%"
+   ],
+   "answer": 1,
+   "explanation": "62/63 = 0.9841 = 98.41%",
+   "source": "X/63"
+  },
+  {
+   "question": "What is 62/63 as a decimal?",
+   "choices": [
+    "0.9365",
+    "0.9524",
+    "0.9841",
+    "0.9683"
+   ],
+   "answer": 2,
+   "explanation": "62/63 = 0.9841 = 98.41%",
+   "source": "X/63"
+  }
+ ]
+}

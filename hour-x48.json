@@ -1,0 +1,1132 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/48 as a percentage?",
+   "choices": [
+    "4.17%",
+    "2.08%",
+    "6.25%",
+    "8.33%"
+   ],
+   "answer": 1,
+   "explanation": "1/48 = 0.0208 = 2.08%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 1/48 as a decimal?",
+   "choices": [
+    "0.0208",
+    "0.0417",
+    "0.0625",
+    "0.0833"
+   ],
+   "answer": 0,
+   "explanation": "1/48 = 0.0208 = 2.08%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 2/48 as a percentage?",
+   "choices": [
+    "2.08%",
+    "6.25%",
+    "8.33%",
+    "4.17%"
+   ],
+   "answer": 3,
+   "explanation": "2/48 = 0.0417 = 4.17%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 2/48 as a decimal?",
+   "choices": [
+    "0.0208",
+    "0.0417",
+    "0.0625",
+    "0.0833"
+   ],
+   "answer": 1,
+   "explanation": "2/48 = 0.0417 = 4.17%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 3/48 as a percentage?",
+   "choices": [
+    "2.08%",
+    "4.17%",
+    "6.25%",
+    "8.33%"
+   ],
+   "answer": 2,
+   "explanation": "3/48 = 0.0625 = 6.25%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 3/48 as a decimal?",
+   "choices": [
+    "0.0625",
+    "0.0208",
+    "0.0417",
+    "0.0833"
+   ],
+   "answer": 0,
+   "explanation": "3/48 = 0.0625 = 6.25%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 4/48 as a percentage?",
+   "choices": [
+    "2.08%",
+    "4.17%",
+    "6.25%",
+    "8.33%"
+   ],
+   "answer": 3,
+   "explanation": "4/48 = 0.0833 = 8.33%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 4/48 as a decimal?",
+   "choices": [
+    "0.0208",
+    "0.0417",
+    "0.0833",
+    "0.0625"
+   ],
+   "answer": 2,
+   "explanation": "4/48 = 0.0833 = 8.33%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 5/48 as a percentage?",
+   "choices": [
+    "4.17%",
+    "6.25%",
+    "8.33%",
+    "10.42%"
+   ],
+   "answer": 3,
+   "explanation": "5/48 = 0.1042 = 10.42%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 5/48 as a decimal?",
+   "choices": [
+    "0.0417",
+    "0.0625",
+    "0.1042",
+    "0.0833"
+   ],
+   "answer": 2,
+   "explanation": "5/48 = 0.1042 = 10.42%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 6/48 as a percentage?",
+   "choices": [
+    "6.25%",
+    "8.33%",
+    "10.42%",
+    "12.50%"
+   ],
+   "answer": 3,
+   "explanation": "6/48 = 0.1250 = 12.50%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 6/48 as a decimal?",
+   "choices": [
+    "0.0625",
+    "0.0833",
+    "0.1042",
+    "0.1250"
+   ],
+   "answer": 3,
+   "explanation": "6/48 = 0.1250 = 12.50%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 7/48 as a percentage?",
+   "choices": [
+    "8.33%",
+    "10.42%",
+    "12.50%",
+    "14.58%"
+   ],
+   "answer": 3,
+   "explanation": "7/48 = 0.1458 = 14.58%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 7/48 as a decimal?",
+   "choices": [
+    "0.0833",
+    "0.1458",
+    "0.1042",
+    "0.1250"
+   ],
+   "answer": 1,
+   "explanation": "7/48 = 0.1458 = 14.58%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 8/48 as a percentage?",
+   "choices": [
+    "10.42%",
+    "12.50%",
+    "14.58%",
+    "16.67%"
+   ],
+   "answer": 3,
+   "explanation": "8/48 = 0.1667 = 16.67%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 8/48 as a decimal?",
+   "choices": [
+    "0.1667",
+    "0.1042",
+    "0.1250",
+    "0.1458"
+   ],
+   "answer": 0,
+   "explanation": "8/48 = 0.1667 = 16.67%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 9/48 as a percentage?",
+   "choices": [
+    "18.75%",
+    "12.50%",
+    "14.58%",
+    "16.67%"
+   ],
+   "answer": 0,
+   "explanation": "9/48 = 0.1875 = 18.75%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 9/48 as a decimal?",
+   "choices": [
+    "0.1250",
+    "0.1875",
+    "0.1458",
+    "0.1667"
+   ],
+   "answer": 1,
+   "explanation": "9/48 = 0.1875 = 18.75%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 10/48 as a percentage?",
+   "choices": [
+    "14.58%",
+    "20.83%",
+    "16.67%",
+    "18.75%"
+   ],
+   "answer": 1,
+   "explanation": "10/48 = 0.2083 = 20.83%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 10/48 as a decimal?",
+   "choices": [
+    "0.1458",
+    "0.1667",
+    "0.1875",
+    "0.2083"
+   ],
+   "answer": 3,
+   "explanation": "10/48 = 0.2083 = 20.83%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 11/48 as a percentage?",
+   "choices": [
+    "16.67%",
+    "18.75%",
+    "20.83%",
+    "22.92%"
+   ],
+   "answer": 3,
+   "explanation": "11/48 = 0.2292 = 22.92%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 11/48 as a decimal?",
+   "choices": [
+    "0.1667",
+    "0.2292",
+    "0.1875",
+    "0.2083"
+   ],
+   "answer": 1,
+   "explanation": "11/48 = 0.2292 = 22.92%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 12/48 as a percentage?",
+   "choices": [
+    "18.75%",
+    "20.83%",
+    "22.92%",
+    "25.00%"
+   ],
+   "answer": 3,
+   "explanation": "12/48 = 0.2500 = 25.00%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 12/48 as a decimal?",
+   "choices": [
+    "0.2500",
+    "0.1875",
+    "0.2083",
+    "0.2292"
+   ],
+   "answer": 0,
+   "explanation": "12/48 = 0.2500 = 25.00%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 13/48 as a percentage?",
+   "choices": [
+    "20.83%",
+    "22.92%",
+    "25.00%",
+    "27.08%"
+   ],
+   "answer": 3,
+   "explanation": "13/48 = 0.2708 = 27.08%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 13/48 as a decimal?",
+   "choices": [
+    "0.2083",
+    "0.2708",
+    "0.2292",
+    "0.2500"
+   ],
+   "answer": 1,
+   "explanation": "13/48 = 0.2708 = 27.08%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 14/48 as a percentage?",
+   "choices": [
+    "29.17%",
+    "22.92%",
+    "25.00%",
+    "27.08%"
+   ],
+   "answer": 0,
+   "explanation": "14/48 = 0.2917 = 29.17%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 14/48 as a decimal?",
+   "choices": [
+    "0.2292",
+    "0.2917",
+    "0.2500",
+    "0.2708"
+   ],
+   "answer": 1,
+   "explanation": "14/48 = 0.2917 = 29.17%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 15/48 as a percentage?",
+   "choices": [
+    "31.25%",
+    "25.00%",
+    "27.08%",
+    "29.17%"
+   ],
+   "answer": 0,
+   "explanation": "15/48 = 0.3125 = 31.25%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 15/48 as a decimal?",
+   "choices": [
+    "0.3125",
+    "0.2500",
+    "0.2708",
+    "0.2917"
+   ],
+   "answer": 0,
+   "explanation": "15/48 = 0.3125 = 31.25%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 16/48 as a percentage?",
+   "choices": [
+    "27.08%",
+    "29.17%",
+    "33.33%",
+    "31.25%"
+   ],
+   "answer": 2,
+   "explanation": "16/48 = 0.3333 = 33.33%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 16/48 as a decimal?",
+   "choices": [
+    "0.2708",
+    "0.3333",
+    "0.2917",
+    "0.3125"
+   ],
+   "answer": 1,
+   "explanation": "16/48 = 0.3333 = 33.33%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 17/48 as a percentage?",
+   "choices": [
+    "29.17%",
+    "31.25%",
+    "35.42%",
+    "33.33%"
+   ],
+   "answer": 2,
+   "explanation": "17/48 = 0.3542 = 35.42%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 17/48 as a decimal?",
+   "choices": [
+    "0.2917",
+    "0.3125",
+    "0.3542",
+    "0.3333"
+   ],
+   "answer": 2,
+   "explanation": "17/48 = 0.3542 = 35.42%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 18/48 as a percentage?",
+   "choices": [
+    "31.25%",
+    "33.33%",
+    "35.42%",
+    "37.50%"
+   ],
+   "answer": 3,
+   "explanation": "18/48 = 0.3750 = 37.50%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 18/48 as a decimal?",
+   "choices": [
+    "0.3125",
+    "0.3333",
+    "0.3542",
+    "0.3750"
+   ],
+   "answer": 3,
+   "explanation": "18/48 = 0.3750 = 37.50%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 19/48 as a percentage?",
+   "choices": [
+    "33.33%",
+    "35.42%",
+    "37.50%",
+    "39.58%"
+   ],
+   "answer": 3,
+   "explanation": "19/48 = 0.3958 = 39.58%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 19/48 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.3542",
+    "0.3958",
+    "0.3750"
+   ],
+   "answer": 2,
+   "explanation": "19/48 = 0.3958 = 39.58%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 20/48 as a percentage?",
+   "choices": [
+    "35.42%",
+    "41.67%",
+    "37.50%",
+    "39.58%"
+   ],
+   "answer": 1,
+   "explanation": "20/48 = 0.4167 = 41.67%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 20/48 as a decimal?",
+   "choices": [
+    "0.4167",
+    "0.3542",
+    "0.3750",
+    "0.3958"
+   ],
+   "answer": 0,
+   "explanation": "20/48 = 0.4167 = 41.67%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 21/48 as a percentage?",
+   "choices": [
+    "37.50%",
+    "39.58%",
+    "41.67%",
+    "43.75%"
+   ],
+   "answer": 3,
+   "explanation": "21/48 = 0.4375 = 43.75%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 21/48 as a decimal?",
+   "choices": [
+    "0.3750",
+    "0.4375",
+    "0.3958",
+    "0.4167"
+   ],
+   "answer": 1,
+   "explanation": "21/48 = 0.4375 = 43.75%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 22/48 as a percentage?",
+   "choices": [
+    "39.58%",
+    "41.67%",
+    "45.83%",
+    "43.75%"
+   ],
+   "answer": 2,
+   "explanation": "22/48 = 0.4583 = 45.83%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 22/48 as a decimal?",
+   "choices": [
+    "0.3958",
+    "0.4167",
+    "0.4583",
+    "0.4375"
+   ],
+   "answer": 2,
+   "explanation": "22/48 = 0.4583 = 45.83%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 23/48 as a percentage?",
+   "choices": [
+    "41.67%",
+    "43.75%",
+    "45.83%",
+    "47.92%"
+   ],
+   "answer": 3,
+   "explanation": "23/48 = 0.4792 = 47.92%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 23/48 as a decimal?",
+   "choices": [
+    "0.4167",
+    "0.4792",
+    "0.4375",
+    "0.4583"
+   ],
+   "answer": 1,
+   "explanation": "23/48 = 0.4792 = 47.92%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 24/48 as a percentage?",
+   "choices": [
+    "43.75%",
+    "50.00%",
+    "45.83%",
+    "47.92%"
+   ],
+   "answer": 1,
+   "explanation": "24/48 = 0.5000 = 50.00%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 24/48 as a decimal?",
+   "choices": [
+    "0.4375",
+    "0.5000",
+    "0.4583",
+    "0.4792"
+   ],
+   "answer": 1,
+   "explanation": "24/48 = 0.5000 = 50.00%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 25/48 as a percentage?",
+   "choices": [
+    "45.83%",
+    "47.92%",
+    "50.00%",
+    "52.08%"
+   ],
+   "answer": 3,
+   "explanation": "25/48 = 0.5208 = 52.08%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 25/48 as a decimal?",
+   "choices": [
+    "0.5208",
+    "0.4583",
+    "0.4792",
+    "0.5000"
+   ],
+   "answer": 0,
+   "explanation": "25/48 = 0.5208 = 52.08%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 26/48 as a percentage?",
+   "choices": [
+    "47.92%",
+    "50.00%",
+    "54.17%",
+    "52.08%"
+   ],
+   "answer": 2,
+   "explanation": "26/48 = 0.5417 = 54.17%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 26/48 as a decimal?",
+   "choices": [
+    "0.4792",
+    "0.5000",
+    "0.5208",
+    "0.5417"
+   ],
+   "answer": 3,
+   "explanation": "26/48 = 0.5417 = 54.17%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 27/48 as a percentage?",
+   "choices": [
+    "50.00%",
+    "56.25%",
+    "52.08%",
+    "54.17%"
+   ],
+   "answer": 1,
+   "explanation": "27/48 = 0.5625 = 56.25%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 27/48 as a decimal?",
+   "choices": [
+    "0.5000",
+    "0.5208",
+    "0.5417",
+    "0.5625"
+   ],
+   "answer": 3,
+   "explanation": "27/48 = 0.5625 = 56.25%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 28/48 as a percentage?",
+   "choices": [
+    "52.08%",
+    "54.17%",
+    "58.33%",
+    "56.25%"
+   ],
+   "answer": 2,
+   "explanation": "28/48 = 0.5833 = 58.33%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 28/48 as a decimal?",
+   "choices": [
+    "0.5208",
+    "0.5833",
+    "0.5417",
+    "0.5625"
+   ],
+   "answer": 1,
+   "explanation": "28/48 = 0.5833 = 58.33%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 29/48 as a percentage?",
+   "choices": [
+    "54.17%",
+    "56.25%",
+    "60.42%",
+    "58.33%"
+   ],
+   "answer": 2,
+   "explanation": "29/48 = 0.6042 = 60.42%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 29/48 as a decimal?",
+   "choices": [
+    "0.5417",
+    "0.5625",
+    "0.6042",
+    "0.5833"
+   ],
+   "answer": 2,
+   "explanation": "29/48 = 0.6042 = 60.42%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 30/48 as a percentage?",
+   "choices": [
+    "62.50%",
+    "56.25%",
+    "58.33%",
+    "60.42%"
+   ],
+   "answer": 0,
+   "explanation": "30/48 = 0.6250 = 62.50%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 30/48 as a decimal?",
+   "choices": [
+    "0.5625",
+    "0.6250",
+    "0.5833",
+    "0.6042"
+   ],
+   "answer": 1,
+   "explanation": "30/48 = 0.6250 = 62.50%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 31/48 as a percentage?",
+   "choices": [
+    "58.33%",
+    "64.58%",
+    "60.42%",
+    "62.50%"
+   ],
+   "answer": 1,
+   "explanation": "31/48 = 0.6458 = 64.58%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 31/48 as a decimal?",
+   "choices": [
+    "0.5833",
+    "0.6458",
+    "0.6042",
+    "0.6250"
+   ],
+   "answer": 1,
+   "explanation": "31/48 = 0.6458 = 64.58%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 32/48 as a percentage?",
+   "choices": [
+    "60.42%",
+    "62.50%",
+    "64.58%",
+    "66.67%"
+   ],
+   "answer": 3,
+   "explanation": "32/48 = 0.6667 = 66.67%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 32/48 as a decimal?",
+   "choices": [
+    "0.6042",
+    "0.6250",
+    "0.6458",
+    "0.6667"
+   ],
+   "answer": 3,
+   "explanation": "32/48 = 0.6667 = 66.67%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 33/48 as a percentage?",
+   "choices": [
+    "62.50%",
+    "68.75%",
+    "64.58%",
+    "66.67%"
+   ],
+   "answer": 1,
+   "explanation": "33/48 = 0.6875 = 68.75%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 33/48 as a decimal?",
+   "choices": [
+    "0.6250",
+    "0.6458",
+    "0.6875",
+    "0.6667"
+   ],
+   "answer": 2,
+   "explanation": "33/48 = 0.6875 = 68.75%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 34/48 as a percentage?",
+   "choices": [
+    "70.83%",
+    "64.58%",
+    "66.67%",
+    "68.75%"
+   ],
+   "answer": 0,
+   "explanation": "34/48 = 0.7083 = 70.83%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 34/48 as a decimal?",
+   "choices": [
+    "0.6458",
+    "0.6667",
+    "0.7083",
+    "0.6875"
+   ],
+   "answer": 2,
+   "explanation": "34/48 = 0.7083 = 70.83%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 35/48 as a percentage?",
+   "choices": [
+    "66.67%",
+    "68.75%",
+    "72.92%",
+    "70.83%"
+   ],
+   "answer": 2,
+   "explanation": "35/48 = 0.7292 = 72.92%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 35/48 as a decimal?",
+   "choices": [
+    "0.6667",
+    "0.7292",
+    "0.6875",
+    "0.7083"
+   ],
+   "answer": 1,
+   "explanation": "35/48 = 0.7292 = 72.92%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 36/48 as a percentage?",
+   "choices": [
+    "75.00%",
+    "68.75%",
+    "70.83%",
+    "72.92%"
+   ],
+   "answer": 0,
+   "explanation": "36/48 = 0.7500 = 75.00%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 36/48 as a decimal?",
+   "choices": [
+    "0.7500",
+    "0.6875",
+    "0.7083",
+    "0.7292"
+   ],
+   "answer": 0,
+   "explanation": "36/48 = 0.7500 = 75.00%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 37/48 as a percentage?",
+   "choices": [
+    "77.08%",
+    "70.83%",
+    "72.92%",
+    "75.00%"
+   ],
+   "answer": 0,
+   "explanation": "37/48 = 0.7708 = 77.08%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 37/48 as a decimal?",
+   "choices": [
+    "0.7083",
+    "0.7292",
+    "0.7500",
+    "0.7708"
+   ],
+   "answer": 3,
+   "explanation": "37/48 = 0.7708 = 77.08%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 38/48 as a percentage?",
+   "choices": [
+    "79.17%",
+    "72.92%",
+    "75.00%",
+    "77.08%"
+   ],
+   "answer": 0,
+   "explanation": "38/48 = 0.7917 = 79.17%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 38/48 as a decimal?",
+   "choices": [
+    "0.7292",
+    "0.7917",
+    "0.7500",
+    "0.7708"
+   ],
+   "answer": 1,
+   "explanation": "38/48 = 0.7917 = 79.17%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 39/48 as a percentage?",
+   "choices": [
+    "81.25%",
+    "75.00%",
+    "77.08%",
+    "79.17%"
+   ],
+   "answer": 0,
+   "explanation": "39/48 = 0.8125 = 81.25%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 39/48 as a decimal?",
+   "choices": [
+    "0.8125",
+    "0.7500",
+    "0.7708",
+    "0.7917"
+   ],
+   "answer": 0,
+   "explanation": "39/48 = 0.8125 = 81.25%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 40/48 as a percentage?",
+   "choices": [
+    "83.33%",
+    "77.08%",
+    "79.17%",
+    "81.25%"
+   ],
+   "answer": 0,
+   "explanation": "40/48 = 0.8333 = 83.33%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 40/48 as a decimal?",
+   "choices": [
+    "0.7708",
+    "0.7917",
+    "0.8333",
+    "0.8125"
+   ],
+   "answer": 2,
+   "explanation": "40/48 = 0.8333 = 83.33%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 41/48 as a percentage?",
+   "choices": [
+    "85.42%",
+    "79.17%",
+    "81.25%",
+    "83.33%"
+   ],
+   "answer": 0,
+   "explanation": "41/48 = 0.8542 = 85.42%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 41/48 as a decimal?",
+   "choices": [
+    "0.7917",
+    "0.8125",
+    "0.8333",
+    "0.8542"
+   ],
+   "answer": 3,
+   "explanation": "41/48 = 0.8542 = 85.42%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 42/48 as a percentage?",
+   "choices": [
+    "81.25%",
+    "87.50%",
+    "83.33%",
+    "85.42%"
+   ],
+   "answer": 1,
+   "explanation": "42/48 = 0.8750 = 87.50%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 42/48 as a decimal?",
+   "choices": [
+    "0.8125",
+    "0.8333",
+    "0.8542",
+    "0.8750"
+   ],
+   "answer": 3,
+   "explanation": "42/48 = 0.8750 = 87.50%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 43/48 as a percentage?",
+   "choices": [
+    "83.33%",
+    "85.42%",
+    "87.50%",
+    "89.58%"
+   ],
+   "answer": 3,
+   "explanation": "43/48 = 0.8958 = 89.58%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 43/48 as a decimal?",
+   "choices": [
+    "0.8333",
+    "0.8542",
+    "0.8750",
+    "0.8958"
+   ],
+   "answer": 3,
+   "explanation": "43/48 = 0.8958 = 89.58%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 44/48 as a percentage?",
+   "choices": [
+    "85.42%",
+    "87.50%",
+    "89.58%",
+    "91.67%"
+   ],
+   "answer": 3,
+   "explanation": "44/48 = 0.9167 = 91.67%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 44/48 as a decimal?",
+   "choices": [
+    "0.8542",
+    "0.8750",
+    "0.9167",
+    "0.8958"
+   ],
+   "answer": 2,
+   "explanation": "44/48 = 0.9167 = 91.67%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 45/48 as a percentage?",
+   "choices": [
+    "93.75%",
+    "87.50%",
+    "89.58%",
+    "91.67%"
+   ],
+   "answer": 0,
+   "explanation": "45/48 = 0.9375 = 93.75%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 45/48 as a decimal?",
+   "choices": [
+    "0.9375",
+    "0.8750",
+    "0.8958",
+    "0.9167"
+   ],
+   "answer": 0,
+   "explanation": "45/48 = 0.9375 = 93.75%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 46/48 as a percentage?",
+   "choices": [
+    "95.83%",
+    "89.58%",
+    "91.67%",
+    "93.75%"
+   ],
+   "answer": 0,
+   "explanation": "46/48 = 0.9583 = 95.83%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 46/48 as a decimal?",
+   "choices": [
+    "0.8958",
+    "0.9583",
+    "0.9167",
+    "0.9375"
+   ],
+   "answer": 1,
+   "explanation": "46/48 = 0.9583 = 95.83%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 47/48 as a percentage?",
+   "choices": [
+    "97.92%",
+    "91.67%",
+    "93.75%",
+    "95.83%"
+   ],
+   "answer": 0,
+   "explanation": "47/48 = 0.9792 = 97.92%",
+   "source": "X/48"
+  },
+  {
+   "question": "What is 47/48 as a decimal?",
+   "choices": [
+    "0.9167",
+    "0.9375",
+    "0.9792",
+    "0.9583"
+   ],
+   "answer": 2,
+   "explanation": "47/48 = 0.9792 = 97.92%",
+   "source": "X/48"
+  }
+ ]
+}

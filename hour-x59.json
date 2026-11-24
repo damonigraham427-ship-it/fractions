@@ -1,0 +1,1396 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/59 as a percentage?",
+   "choices": [
+    "3.39%",
+    "1.69%",
+    "5.08%",
+    "6.78%"
+   ],
+   "answer": 1,
+   "explanation": "1/59 = 0.0169 = 1.69%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 1/59 as a decimal?",
+   "choices": [
+    "0.0339",
+    "0.0508",
+    "0.0169",
+    "0.0678"
+   ],
+   "answer": 2,
+   "explanation": "1/59 = 0.0169 = 1.69%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 2/59 as a percentage?",
+   "choices": [
+    "1.69%",
+    "3.39%",
+    "5.08%",
+    "6.78%"
+   ],
+   "answer": 1,
+   "explanation": "2/59 = 0.0339 = 3.39%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 2/59 as a decimal?",
+   "choices": [
+    "0.0169",
+    "0.0339",
+    "0.0508",
+    "0.0678"
+   ],
+   "answer": 1,
+   "explanation": "2/59 = 0.0339 = 3.39%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 3/59 as a percentage?",
+   "choices": [
+    "5.08%",
+    "1.69%",
+    "3.39%",
+    "6.78%"
+   ],
+   "answer": 0,
+   "explanation": "3/59 = 0.0508 = 5.08%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 3/59 as a decimal?",
+   "choices": [
+    "0.0169",
+    "0.0339",
+    "0.0678",
+    "0.0508"
+   ],
+   "answer": 3,
+   "explanation": "3/59 = 0.0508 = 5.08%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 4/59 as a percentage?",
+   "choices": [
+    "1.69%",
+    "3.39%",
+    "5.08%",
+    "6.78%"
+   ],
+   "answer": 3,
+   "explanation": "4/59 = 0.0678 = 6.78%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 4/59 as a decimal?",
+   "choices": [
+    "0.0169",
+    "0.0339",
+    "0.0678",
+    "0.0508"
+   ],
+   "answer": 2,
+   "explanation": "4/59 = 0.0678 = 6.78%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 5/59 as a percentage?",
+   "choices": [
+    "8.47%",
+    "3.39%",
+    "5.08%",
+    "6.78%"
+   ],
+   "answer": 0,
+   "explanation": "5/59 = 0.0847 = 8.47%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 5/59 as a decimal?",
+   "choices": [
+    "0.0339",
+    "0.0847",
+    "0.0508",
+    "0.0678"
+   ],
+   "answer": 1,
+   "explanation": "5/59 = 0.0847 = 8.47%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 6/59 as a percentage?",
+   "choices": [
+    "5.08%",
+    "6.78%",
+    "10.17%",
+    "8.47%"
+   ],
+   "answer": 2,
+   "explanation": "6/59 = 0.1017 = 10.17%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 6/59 as a decimal?",
+   "choices": [
+    "0.0508",
+    "0.0678",
+    "0.1017",
+    "0.0847"
+   ],
+   "answer": 2,
+   "explanation": "6/59 = 0.1017 = 10.17%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 7/59 as a percentage?",
+   "choices": [
+    "6.78%",
+    "8.47%",
+    "11.86%",
+    "10.17%"
+   ],
+   "answer": 2,
+   "explanation": "7/59 = 0.1186 = 11.86%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 7/59 as a decimal?",
+   "choices": [
+    "0.0678",
+    "0.0847",
+    "0.1186",
+    "0.1017"
+   ],
+   "answer": 2,
+   "explanation": "7/59 = 0.1186 = 11.86%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 8/59 as a percentage?",
+   "choices": [
+    "8.47%",
+    "10.17%",
+    "11.86%",
+    "13.56%"
+   ],
+   "answer": 3,
+   "explanation": "8/59 = 0.1356 = 13.56%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 8/59 as a decimal?",
+   "choices": [
+    "0.1356",
+    "0.0847",
+    "0.1017",
+    "0.1186"
+   ],
+   "answer": 0,
+   "explanation": "8/59 = 0.1356 = 13.56%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 9/59 as a percentage?",
+   "choices": [
+    "10.17%",
+    "11.86%",
+    "15.25%",
+    "13.56%"
+   ],
+   "answer": 2,
+   "explanation": "9/59 = 0.1525 = 15.25%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 9/59 as a decimal?",
+   "choices": [
+    "0.1017",
+    "0.1186",
+    "0.1525",
+    "0.1356"
+   ],
+   "answer": 2,
+   "explanation": "9/59 = 0.1525 = 15.25%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 10/59 as a percentage?",
+   "choices": [
+    "16.95%",
+    "11.86%",
+    "13.56%",
+    "15.25%"
+   ],
+   "answer": 0,
+   "explanation": "10/59 = 0.1695 = 16.95%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 10/59 as a decimal?",
+   "choices": [
+    "0.1186",
+    "0.1695",
+    "0.1356",
+    "0.1525"
+   ],
+   "answer": 1,
+   "explanation": "10/59 = 0.1695 = 16.95%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 11/59 as a percentage?",
+   "choices": [
+    "13.56%",
+    "18.64%",
+    "15.25%",
+    "16.95%"
+   ],
+   "answer": 1,
+   "explanation": "11/59 = 0.1864 = 18.64%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 11/59 as a decimal?",
+   "choices": [
+    "0.1356",
+    "0.1864",
+    "0.1525",
+    "0.1695"
+   ],
+   "answer": 1,
+   "explanation": "11/59 = 0.1864 = 18.64%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 12/59 as a percentage?",
+   "choices": [
+    "20.34%",
+    "15.25%",
+    "16.95%",
+    "18.64%"
+   ],
+   "answer": 0,
+   "explanation": "12/59 = 0.2034 = 20.34%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 12/59 as a decimal?",
+   "choices": [
+    "0.1525",
+    "0.2034",
+    "0.1695",
+    "0.1864"
+   ],
+   "answer": 1,
+   "explanation": "12/59 = 0.2034 = 20.34%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 13/59 as a percentage?",
+   "choices": [
+    "16.95%",
+    "18.64%",
+    "22.03%",
+    "20.34%"
+   ],
+   "answer": 2,
+   "explanation": "13/59 = 0.2203 = 22.03%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 13/59 as a decimal?",
+   "choices": [
+    "0.1695",
+    "0.1864",
+    "0.2203",
+    "0.2034"
+   ],
+   "answer": 2,
+   "explanation": "13/59 = 0.2203 = 22.03%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 14/59 as a percentage?",
+   "choices": [
+    "18.64%",
+    "20.34%",
+    "22.03%",
+    "23.73%"
+   ],
+   "answer": 3,
+   "explanation": "14/59 = 0.2373 = 23.73%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 14/59 as a decimal?",
+   "choices": [
+    "0.1864",
+    "0.2034",
+    "0.2203",
+    "0.2373"
+   ],
+   "answer": 3,
+   "explanation": "14/59 = 0.2373 = 23.73%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 15/59 as a percentage?",
+   "choices": [
+    "20.34%",
+    "22.03%",
+    "25.42%",
+    "23.73%"
+   ],
+   "answer": 2,
+   "explanation": "15/59 = 0.2542 = 25.42%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 15/59 as a decimal?",
+   "choices": [
+    "0.2034",
+    "0.2203",
+    "0.2542",
+    "0.2373"
+   ],
+   "answer": 2,
+   "explanation": "15/59 = 0.2542 = 25.42%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 16/59 as a percentage?",
+   "choices": [
+    "22.03%",
+    "23.73%",
+    "25.42%",
+    "27.12%"
+   ],
+   "answer": 3,
+   "explanation": "16/59 = 0.2712 = 27.12%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 16/59 as a decimal?",
+   "choices": [
+    "0.2203",
+    "0.2712",
+    "0.2373",
+    "0.2542"
+   ],
+   "answer": 1,
+   "explanation": "16/59 = 0.2712 = 27.12%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 17/59 as a percentage?",
+   "choices": [
+    "28.81%",
+    "23.73%",
+    "25.42%",
+    "27.12%"
+   ],
+   "answer": 0,
+   "explanation": "17/59 = 0.2881 = 28.81%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 17/59 as a decimal?",
+   "choices": [
+    "0.2373",
+    "0.2542",
+    "0.2712",
+    "0.2881"
+   ],
+   "answer": 3,
+   "explanation": "17/59 = 0.2881 = 28.81%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 18/59 as a percentage?",
+   "choices": [
+    "30.51%",
+    "25.42%",
+    "27.12%",
+    "28.81%"
+   ],
+   "answer": 0,
+   "explanation": "18/59 = 0.3051 = 30.51%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 18/59 as a decimal?",
+   "choices": [
+    "0.3051",
+    "0.2542",
+    "0.2712",
+    "0.2881"
+   ],
+   "answer": 0,
+   "explanation": "18/59 = 0.3051 = 30.51%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 19/59 as a percentage?",
+   "choices": [
+    "27.12%",
+    "28.81%",
+    "30.51%",
+    "32.20%"
+   ],
+   "answer": 3,
+   "explanation": "19/59 = 0.3220 = 32.20%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 19/59 as a decimal?",
+   "choices": [
+    "0.2712",
+    "0.2881",
+    "0.3220",
+    "0.3051"
+   ],
+   "answer": 2,
+   "explanation": "19/59 = 0.3220 = 32.20%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 20/59 as a percentage?",
+   "choices": [
+    "33.90%",
+    "28.81%",
+    "30.51%",
+    "32.20%"
+   ],
+   "answer": 0,
+   "explanation": "20/59 = 0.3390 = 33.90%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 20/59 as a decimal?",
+   "choices": [
+    "0.2881",
+    "0.3390",
+    "0.3051",
+    "0.3220"
+   ],
+   "answer": 1,
+   "explanation": "20/59 = 0.3390 = 33.90%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 21/59 as a percentage?",
+   "choices": [
+    "30.51%",
+    "32.20%",
+    "35.59%",
+    "33.90%"
+   ],
+   "answer": 2,
+   "explanation": "21/59 = 0.3559 = 35.59%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 21/59 as a decimal?",
+   "choices": [
+    "0.3051",
+    "0.3220",
+    "0.3390",
+    "0.3559"
+   ],
+   "answer": 3,
+   "explanation": "21/59 = 0.3559 = 35.59%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 22/59 as a percentage?",
+   "choices": [
+    "32.20%",
+    "33.90%",
+    "37.29%",
+    "35.59%"
+   ],
+   "answer": 2,
+   "explanation": "22/59 = 0.3729 = 37.29%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 22/59 as a decimal?",
+   "choices": [
+    "0.3220",
+    "0.3390",
+    "0.3559",
+    "0.3729"
+   ],
+   "answer": 3,
+   "explanation": "22/59 = 0.3729 = 37.29%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 23/59 as a percentage?",
+   "choices": [
+    "33.90%",
+    "35.59%",
+    "38.98%",
+    "37.29%"
+   ],
+   "answer": 2,
+   "explanation": "23/59 = 0.3898 = 38.98%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 23/59 as a decimal?",
+   "choices": [
+    "0.3898",
+    "0.3390",
+    "0.3559",
+    "0.3729"
+   ],
+   "answer": 0,
+   "explanation": "23/59 = 0.3898 = 38.98%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 24/59 as a percentage?",
+   "choices": [
+    "35.59%",
+    "37.29%",
+    "38.98%",
+    "40.68%"
+   ],
+   "answer": 3,
+   "explanation": "24/59 = 0.4068 = 40.68%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 24/59 as a decimal?",
+   "choices": [
+    "0.4068",
+    "0.3559",
+    "0.3729",
+    "0.3898"
+   ],
+   "answer": 0,
+   "explanation": "24/59 = 0.4068 = 40.68%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 25/59 as a percentage?",
+   "choices": [
+    "37.29%",
+    "38.98%",
+    "42.37%",
+    "40.68%"
+   ],
+   "answer": 2,
+   "explanation": "25/59 = 0.4237 = 42.37%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 25/59 as a decimal?",
+   "choices": [
+    "0.3729",
+    "0.3898",
+    "0.4237",
+    "0.4068"
+   ],
+   "answer": 2,
+   "explanation": "25/59 = 0.4237 = 42.37%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 26/59 as a percentage?",
+   "choices": [
+    "38.98%",
+    "44.07%",
+    "40.68%",
+    "42.37%"
+   ],
+   "answer": 1,
+   "explanation": "26/59 = 0.4407 = 44.07%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 26/59 as a decimal?",
+   "choices": [
+    "0.3898",
+    "0.4068",
+    "0.4407",
+    "0.4237"
+   ],
+   "answer": 2,
+   "explanation": "26/59 = 0.4407 = 44.07%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 27/59 as a percentage?",
+   "choices": [
+    "40.68%",
+    "45.76%",
+    "42.37%",
+    "44.07%"
+   ],
+   "answer": 1,
+   "explanation": "27/59 = 0.4576 = 45.76%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 27/59 as a decimal?",
+   "choices": [
+    "0.4576",
+    "0.4068",
+    "0.4237",
+    "0.4407"
+   ],
+   "answer": 0,
+   "explanation": "27/59 = 0.4576 = 45.76%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 28/59 as a percentage?",
+   "choices": [
+    "47.46%",
+    "42.37%",
+    "44.07%",
+    "45.76%"
+   ],
+   "answer": 0,
+   "explanation": "28/59 = 0.4746 = 47.46%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 28/59 as a decimal?",
+   "choices": [
+    "0.4237",
+    "0.4407",
+    "0.4746",
+    "0.4576"
+   ],
+   "answer": 2,
+   "explanation": "28/59 = 0.4746 = 47.46%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 29/59 as a percentage?",
+   "choices": [
+    "49.15%",
+    "44.07%",
+    "45.76%",
+    "47.46%"
+   ],
+   "answer": 0,
+   "explanation": "29/59 = 0.4915 = 49.15%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 29/59 as a decimal?",
+   "choices": [
+    "0.4407",
+    "0.4576",
+    "0.4746",
+    "0.4915"
+   ],
+   "answer": 3,
+   "explanation": "29/59 = 0.4915 = 49.15%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 30/59 as a percentage?",
+   "choices": [
+    "50.85%",
+    "45.76%",
+    "47.46%",
+    "49.15%"
+   ],
+   "answer": 0,
+   "explanation": "30/59 = 0.5085 = 50.85%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 30/59 as a decimal?",
+   "choices": [
+    "0.4576",
+    "0.5085",
+    "0.4746",
+    "0.4915"
+   ],
+   "answer": 1,
+   "explanation": "30/59 = 0.5085 = 50.85%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 31/59 as a percentage?",
+   "choices": [
+    "47.46%",
+    "49.15%",
+    "52.54%",
+    "50.85%"
+   ],
+   "answer": 2,
+   "explanation": "31/59 = 0.5254 = 52.54%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 31/59 as a decimal?",
+   "choices": [
+    "0.4746",
+    "0.5254",
+    "0.4915",
+    "0.5085"
+   ],
+   "answer": 1,
+   "explanation": "31/59 = 0.5254 = 52.54%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 32/59 as a percentage?",
+   "choices": [
+    "49.15%",
+    "50.85%",
+    "52.54%",
+    "54.24%"
+   ],
+   "answer": 3,
+   "explanation": "32/59 = 0.5424 = 54.24%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 32/59 as a decimal?",
+   "choices": [
+    "0.5424",
+    "0.4915",
+    "0.5085",
+    "0.5254"
+   ],
+   "answer": 0,
+   "explanation": "32/59 = 0.5424 = 54.24%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 33/59 as a percentage?",
+   "choices": [
+    "50.85%",
+    "52.54%",
+    "54.24%",
+    "55.93%"
+   ],
+   "answer": 3,
+   "explanation": "33/59 = 0.5593 = 55.93%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 33/59 as a decimal?",
+   "choices": [
+    "0.5085",
+    "0.5254",
+    "0.5424",
+    "0.5593"
+   ],
+   "answer": 3,
+   "explanation": "33/59 = 0.5593 = 55.93%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 34/59 as a percentage?",
+   "choices": [
+    "52.54%",
+    "57.63%",
+    "54.24%",
+    "55.93%"
+   ],
+   "answer": 1,
+   "explanation": "34/59 = 0.5763 = 57.63%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 34/59 as a decimal?",
+   "choices": [
+    "0.5254",
+    "0.5424",
+    "0.5593",
+    "0.5763"
+   ],
+   "answer": 3,
+   "explanation": "34/59 = 0.5763 = 57.63%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 35/59 as a percentage?",
+   "choices": [
+    "54.24%",
+    "59.32%",
+    "55.93%",
+    "57.63%"
+   ],
+   "answer": 1,
+   "explanation": "35/59 = 0.5932 = 59.32%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 35/59 as a decimal?",
+   "choices": [
+    "0.5424",
+    "0.5593",
+    "0.5932",
+    "0.5763"
+   ],
+   "answer": 2,
+   "explanation": "35/59 = 0.5932 = 59.32%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 36/59 as a percentage?",
+   "choices": [
+    "61.02%",
+    "55.93%",
+    "57.63%",
+    "59.32%"
+   ],
+   "answer": 0,
+   "explanation": "36/59 = 0.6102 = 61.02%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 36/59 as a decimal?",
+   "choices": [
+    "0.6102",
+    "0.5593",
+    "0.5763",
+    "0.5932"
+   ],
+   "answer": 0,
+   "explanation": "36/59 = 0.6102 = 61.02%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 37/59 as a percentage?",
+   "choices": [
+    "62.71%",
+    "57.63%",
+    "59.32%",
+    "61.02%"
+   ],
+   "answer": 0,
+   "explanation": "37/59 = 0.6271 = 62.71%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 37/59 as a decimal?",
+   "choices": [
+    "0.5763",
+    "0.5932",
+    "0.6271",
+    "0.6102"
+   ],
+   "answer": 2,
+   "explanation": "37/59 = 0.6271 = 62.71%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 38/59 as a percentage?",
+   "choices": [
+    "64.41%",
+    "59.32%",
+    "61.02%",
+    "62.71%"
+   ],
+   "answer": 0,
+   "explanation": "38/59 = 0.6441 = 64.41%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 38/59 as a decimal?",
+   "choices": [
+    "0.5932",
+    "0.6441",
+    "0.6102",
+    "0.6271"
+   ],
+   "answer": 1,
+   "explanation": "38/59 = 0.6441 = 64.41%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 39/59 as a percentage?",
+   "choices": [
+    "61.02%",
+    "66.10%",
+    "62.71%",
+    "64.41%"
+   ],
+   "answer": 1,
+   "explanation": "39/59 = 0.6610 = 66.10%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 39/59 as a decimal?",
+   "choices": [
+    "0.6102",
+    "0.6271",
+    "0.6441",
+    "0.6610"
+   ],
+   "answer": 3,
+   "explanation": "39/59 = 0.6610 = 66.10%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 40/59 as a percentage?",
+   "choices": [
+    "67.80%",
+    "62.71%",
+    "64.41%",
+    "66.10%"
+   ],
+   "answer": 0,
+   "explanation": "40/59 = 0.6780 = 67.80%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 40/59 as a decimal?",
+   "choices": [
+    "0.6271",
+    "0.6441",
+    "0.6610",
+    "0.6780"
+   ],
+   "answer": 3,
+   "explanation": "40/59 = 0.6780 = 67.80%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 41/59 as a percentage?",
+   "choices": [
+    "64.41%",
+    "66.10%",
+    "69.49%",
+    "67.80%"
+   ],
+   "answer": 2,
+   "explanation": "41/59 = 0.6949 = 69.49%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 41/59 as a decimal?",
+   "choices": [
+    "0.6441",
+    "0.6610",
+    "0.6780",
+    "0.6949"
+   ],
+   "answer": 3,
+   "explanation": "41/59 = 0.6949 = 69.49%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 42/59 as a percentage?",
+   "choices": [
+    "66.10%",
+    "71.19%",
+    "67.80%",
+    "69.49%"
+   ],
+   "answer": 1,
+   "explanation": "42/59 = 0.7119 = 71.19%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 42/59 as a decimal?",
+   "choices": [
+    "0.6610",
+    "0.7119",
+    "0.6780",
+    "0.6949"
+   ],
+   "answer": 1,
+   "explanation": "42/59 = 0.7119 = 71.19%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 43/59 as a percentage?",
+   "choices": [
+    "67.80%",
+    "69.49%",
+    "72.88%",
+    "71.19%"
+   ],
+   "answer": 2,
+   "explanation": "43/59 = 0.7288 = 72.88%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 43/59 as a decimal?",
+   "choices": [
+    "0.6780",
+    "0.6949",
+    "0.7119",
+    "0.7288"
+   ],
+   "answer": 3,
+   "explanation": "43/59 = 0.7288 = 72.88%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 44/59 as a percentage?",
+   "choices": [
+    "69.49%",
+    "71.19%",
+    "72.88%",
+    "74.58%"
+   ],
+   "answer": 3,
+   "explanation": "44/59 = 0.7458 = 74.58%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 44/59 as a decimal?",
+   "choices": [
+    "0.6949",
+    "0.7458",
+    "0.7119",
+    "0.7288"
+   ],
+   "answer": 1,
+   "explanation": "44/59 = 0.7458 = 74.58%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 45/59 as a percentage?",
+   "choices": [
+    "71.19%",
+    "76.27%",
+    "72.88%",
+    "74.58%"
+   ],
+   "answer": 1,
+   "explanation": "45/59 = 0.7627 = 76.27%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 45/59 as a decimal?",
+   "choices": [
+    "0.7119",
+    "0.7288",
+    "0.7458",
+    "0.7627"
+   ],
+   "answer": 3,
+   "explanation": "45/59 = 0.7627 = 76.27%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 46/59 as a percentage?",
+   "choices": [
+    "72.88%",
+    "74.58%",
+    "76.27%",
+    "77.97%"
+   ],
+   "answer": 3,
+   "explanation": "46/59 = 0.7797 = 77.97%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 46/59 as a decimal?",
+   "choices": [
+    "0.7797",
+    "0.7288",
+    "0.7458",
+    "0.7627"
+   ],
+   "answer": 0,
+   "explanation": "46/59 = 0.7797 = 77.97%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 47/59 as a percentage?",
+   "choices": [
+    "74.58%",
+    "76.27%",
+    "77.97%",
+    "79.66%"
+   ],
+   "answer": 3,
+   "explanation": "47/59 = 0.7966 = 79.66%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 47/59 as a decimal?",
+   "choices": [
+    "0.7458",
+    "0.7966",
+    "0.7627",
+    "0.7797"
+   ],
+   "answer": 1,
+   "explanation": "47/59 = 0.7966 = 79.66%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 48/59 as a percentage?",
+   "choices": [
+    "76.27%",
+    "77.97%",
+    "79.66%",
+    "81.36%"
+   ],
+   "answer": 3,
+   "explanation": "48/59 = 0.8136 = 81.36%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 48/59 as a decimal?",
+   "choices": [
+    "0.7627",
+    "0.7797",
+    "0.7966",
+    "0.8136"
+   ],
+   "answer": 3,
+   "explanation": "48/59 = 0.8136 = 81.36%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 49/59 as a percentage?",
+   "choices": [
+    "77.97%",
+    "83.05%",
+    "79.66%",
+    "81.36%"
+   ],
+   "answer": 1,
+   "explanation": "49/59 = 0.8305 = 83.05%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 49/59 as a decimal?",
+   "choices": [
+    "0.8305",
+    "0.7797",
+    "0.7966",
+    "0.8136"
+   ],
+   "answer": 0,
+   "explanation": "49/59 = 0.8305 = 83.05%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 50/59 as a percentage?",
+   "choices": [
+    "79.66%",
+    "84.75%",
+    "81.36%",
+    "83.05%"
+   ],
+   "answer": 1,
+   "explanation": "50/59 = 0.8475 = 84.75%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 50/59 as a decimal?",
+   "choices": [
+    "0.7966",
+    "0.8136",
+    "0.8305",
+    "0.8475"
+   ],
+   "answer": 3,
+   "explanation": "50/59 = 0.8475 = 84.75%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 51/59 as a percentage?",
+   "choices": [
+    "86.44%",
+    "81.36%",
+    "83.05%",
+    "84.75%"
+   ],
+   "answer": 0,
+   "explanation": "51/59 = 0.8644 = 86.44%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 51/59 as a decimal?",
+   "choices": [
+    "0.8644",
+    "0.8136",
+    "0.8305",
+    "0.8475"
+   ],
+   "answer": 0,
+   "explanation": "51/59 = 0.8644 = 86.44%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 52/59 as a percentage?",
+   "choices": [
+    "88.14%",
+    "83.05%",
+    "84.75%",
+    "86.44%"
+   ],
+   "answer": 0,
+   "explanation": "52/59 = 0.8814 = 88.14%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 52/59 as a decimal?",
+   "choices": [
+    "0.8305",
+    "0.8814",
+    "0.8475",
+    "0.8644"
+   ],
+   "answer": 1,
+   "explanation": "52/59 = 0.8814 = 88.14%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 53/59 as a percentage?",
+   "choices": [
+    "89.83%",
+    "84.75%",
+    "86.44%",
+    "88.14%"
+   ],
+   "answer": 0,
+   "explanation": "53/59 = 0.8983 = 89.83%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 53/59 as a decimal?",
+   "choices": [
+    "0.8475",
+    "0.8644",
+    "0.8983",
+    "0.8814"
+   ],
+   "answer": 2,
+   "explanation": "53/59 = 0.8983 = 89.83%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 54/59 as a percentage?",
+   "choices": [
+    "91.53%",
+    "86.44%",
+    "88.14%",
+    "89.83%"
+   ],
+   "answer": 0,
+   "explanation": "54/59 = 0.9153 = 91.53%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 54/59 as a decimal?",
+   "choices": [
+    "0.9153",
+    "0.8644",
+    "0.8814",
+    "0.8983"
+   ],
+   "answer": 0,
+   "explanation": "54/59 = 0.9153 = 91.53%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 55/59 as a percentage?",
+   "choices": [
+    "88.14%",
+    "93.22%",
+    "89.83%",
+    "91.53%"
+   ],
+   "answer": 1,
+   "explanation": "55/59 = 0.9322 = 93.22%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 55/59 as a decimal?",
+   "choices": [
+    "0.8814",
+    "0.8983",
+    "0.9322",
+    "0.9153"
+   ],
+   "answer": 2,
+   "explanation": "55/59 = 0.9322 = 93.22%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 56/59 as a percentage?",
+   "choices": [
+    "89.83%",
+    "94.92%",
+    "91.53%",
+    "93.22%"
+   ],
+   "answer": 1,
+   "explanation": "56/59 = 0.9492 = 94.92%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 56/59 as a decimal?",
+   "choices": [
+    "0.8983",
+    "0.9153",
+    "0.9492",
+    "0.9322"
+   ],
+   "answer": 2,
+   "explanation": "56/59 = 0.9492 = 94.92%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 57/59 as a percentage?",
+   "choices": [
+    "91.53%",
+    "93.22%",
+    "94.92%",
+    "96.61%"
+   ],
+   "answer": 3,
+   "explanation": "57/59 = 0.9661 = 96.61%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 57/59 as a decimal?",
+   "choices": [
+    "0.9153",
+    "0.9322",
+    "0.9661",
+    "0.9492"
+   ],
+   "answer": 2,
+   "explanation": "57/59 = 0.9661 = 96.61%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 58/59 as a percentage?",
+   "choices": [
+    "93.22%",
+    "94.92%",
+    "98.31%",
+    "96.61%"
+   ],
+   "answer": 2,
+   "explanation": "58/59 = 0.9831 = 98.31%",
+   "source": "X/59"
+  },
+  {
+   "question": "What is 58/59 as a decimal?",
+   "choices": [
+    "0.9322",
+    "0.9492",
+    "0.9831",
+    "0.9661"
+   ],
+   "answer": 2,
+   "explanation": "58/59 = 0.9831 = 98.31%",
+   "source": "X/59"
+  }
+ ]
+}
