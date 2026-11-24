@@ -38,11 +38,35 @@ let retRun = [];         // sampled questions for this run
 let retIdx = 0;
 let retAnswers = [];
 let retScore = 0;
-// Time tracker (Nov 23, 2026): same banking as exam.js — a resumed run
-// keeps its earlier segments; a finished attempt records the total 'secs'.
+// Time tracker: ACTIVE time only (changed Nov 24, 2026) — same rule as
+// exam.js: the clock runs only while the page is in front AND the user has
+// interacted within the last 2 minutes; a resumed run keeps its banked
+// active seconds.
 let retBankedSecs = 0;
-let retSegStart = Date.now();
-function retElapsedSecs() { return Math.round(retBankedSecs + (Date.now() - retSegStart) / 1000); }
+let retActiveSecs = 0;
+let retLastTick = Date.now();
+let retLastInteract = Date.now();
+let retInFront = true;
+function retActiveTick() {
+  const now = Date.now();
+  if (retInFront && !document.hidden && now - retLastInteract < 120000) {
+    retActiveSecs += (now - retLastTick) / 1000;
+  }
+  retLastTick = now;
+}
+function retResetSegment() {
+  retActiveSecs = 0;
+  retLastTick = Date.now();
+  retLastInteract = Date.now();
+}
+setInterval(retActiveTick, 1000);
+['pointerdown', 'keydown', 'touchstart', 'wheel'].forEach(function (ev) {
+  document.addEventListener(ev, function () { retLastInteract = Date.now(); }, { passive: true });
+});
+document.addEventListener('visibilitychange', function () { if (!document.hidden) retLastInteract = Date.now(); retActiveTick(); });
+window.addEventListener('blur', function () { retActiveTick(); retInFront = false; });
+window.addEventListener('focus', function () { retInFront = true; retLastInteract = Date.now(); retLastTick = Date.now(); });
+function retElapsedSecs() { retActiveTick(); return Math.round(retBankedSecs + retActiveSecs); }
 
 function retSaveProgress() {
   try {
@@ -171,7 +195,7 @@ function retStart(resume) {
       retAnswers = Array.isArray(p.answers) ? p.answers : [];
       retScore = p.score || 0;
       retBankedSecs = p.secs || 0;
-      retSegStart = Date.now();
+      retResetSegment();
       document.getElementById('setup-box').hidden = true;
       document.getElementById('result-box').hidden = true;
       document.getElementById('question-box').hidden = false;
@@ -185,7 +209,7 @@ function retStart(resume) {
   retAnswers = [];
   retScore = 0;
   retBankedSecs = 0;
-  retSegStart = Date.now();
+  retResetSegment();
   retSaveProgress();
   document.getElementById('setup-box').hidden = true;
   document.getElementById('result-box').hidden = true;
