@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meta Retention Exam</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+<p><a href="exams.html">&larr; Exams</a></p>
+<h1>Meta Retention Exam</h1>
+<section id="setup-box">
+<p>A random test of numbers from the sets you have finished successfully (80% or better) — an assessment to make sure you haven't forgotten.</p>
+<p id="ret-status">Loading…</p>
+<ul id="ret-sets"></ul>
+<p><button id="ret-start" class="start-btn" type="button" hidden>Start retention test</button></p>
+<p id="ret-resume-note" hidden>You have a test in progress — starting resumes where you left off.</p>
+</section>
+<p id="progress"></p>
+<section id="question-box" hidden>
+<h2 id="question-text"></h2>
+<p id="source-line"></p>
+<div id="choices"></div>
+<p id="feedback" role="status"></p>
+<button id="back-btn" type="button" hidden>&#8592; Back</button>
+<button id="next-btn" hidden>Next</button>
+</section>
+<section id="result-box" hidden>
+<h2 id="score"></h2>
+<h3>Missed questions</h3>
+<ol id="missed-list"></ol>
+<p id="no-missed" hidden>None — perfect score.</p>
+<p><a href="exams.html">Back to exams</a></p>
+<button id="retry-btn">New random test</button>
+</section>
+</main>
+<script src="retention.js"></script>
+<script src="sync.js"></script>
+</body>
+</html>

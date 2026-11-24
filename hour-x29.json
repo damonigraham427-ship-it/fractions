@@ -1,0 +1,676 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/29 as a percentage?",
+   "choices": [
+    "6.90%",
+    "10.34%",
+    "3.45%",
+    "13.79%"
+   ],
+   "answer": 2,
+   "explanation": "1/29 = 0.0345 = 3.45%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 1/29 as a decimal?",
+   "choices": [
+    "0.0345",
+    "0.0690",
+    "0.1034",
+    "0.1379"
+   ],
+   "answer": 0,
+   "explanation": "1/29 = 0.0345 = 3.45%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 2/29 as a percentage?",
+   "choices": [
+    "3.45%",
+    "6.90%",
+    "10.34%",
+    "13.79%"
+   ],
+   "answer": 1,
+   "explanation": "2/29 = 0.0690 = 6.90%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 2/29 as a decimal?",
+   "choices": [
+    "0.0690",
+    "0.0345",
+    "0.1034",
+    "0.1379"
+   ],
+   "answer": 0,
+   "explanation": "2/29 = 0.0690 = 6.90%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 3/29 as a percentage?",
+   "choices": [
+    "3.45%",
+    "6.90%",
+    "10.34%",
+    "13.79%"
+   ],
+   "answer": 2,
+   "explanation": "3/29 = 0.1034 = 10.34%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 3/29 as a decimal?",
+   "choices": [
+    "0.1034",
+    "0.0345",
+    "0.0690",
+    "0.1379"
+   ],
+   "answer": 0,
+   "explanation": "3/29 = 0.1034 = 10.34%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 4/29 as a percentage?",
+   "choices": [
+    "13.79%",
+    "3.45%",
+    "6.90%",
+    "10.34%"
+   ],
+   "answer": 0,
+   "explanation": "4/29 = 0.1379 = 13.79%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 4/29 as a decimal?",
+   "choices": [
+    "0.0345",
+    "0.1379",
+    "0.0690",
+    "0.1034"
+   ],
+   "answer": 1,
+   "explanation": "4/29 = 0.1379 = 13.79%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 5/29 as a percentage?",
+   "choices": [
+    "6.90%",
+    "17.24%",
+    "10.34%",
+    "13.79%"
+   ],
+   "answer": 1,
+   "explanation": "5/29 = 0.1724 = 17.24%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 5/29 as a decimal?",
+   "choices": [
+    "0.0690",
+    "0.1034",
+    "0.1379",
+    "0.1724"
+   ],
+   "answer": 3,
+   "explanation": "5/29 = 0.1724 = 17.24%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 6/29 as a percentage?",
+   "choices": [
+    "10.34%",
+    "13.79%",
+    "20.69%",
+    "17.24%"
+   ],
+   "answer": 2,
+   "explanation": "6/29 = 0.2069 = 20.69%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 6/29 as a decimal?",
+   "choices": [
+    "0.1034",
+    "0.1379",
+    "0.2069",
+    "0.1724"
+   ],
+   "answer": 2,
+   "explanation": "6/29 = 0.2069 = 20.69%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 7/29 as a percentage?",
+   "choices": [
+    "13.79%",
+    "17.24%",
+    "20.69%",
+    "24.14%"
+   ],
+   "answer": 3,
+   "explanation": "7/29 = 0.2414 = 24.14%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 7/29 as a decimal?",
+   "choices": [
+    "0.1379",
+    "0.2414",
+    "0.1724",
+    "0.2069"
+   ],
+   "answer": 1,
+   "explanation": "7/29 = 0.2414 = 24.14%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 8/29 as a percentage?",
+   "choices": [
+    "17.24%",
+    "27.59%",
+    "20.69%",
+    "24.14%"
+   ],
+   "answer": 1,
+   "explanation": "8/29 = 0.2759 = 27.59%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 8/29 as a decimal?",
+   "choices": [
+    "0.1724",
+    "0.2069",
+    "0.2759",
+    "0.2414"
+   ],
+   "answer": 2,
+   "explanation": "8/29 = 0.2759 = 27.59%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 9/29 as a percentage?",
+   "choices": [
+    "31.03%",
+    "20.69%",
+    "24.14%",
+    "27.59%"
+   ],
+   "answer": 0,
+   "explanation": "9/29 = 0.3103 = 31.03%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 9/29 as a decimal?",
+   "choices": [
+    "0.2069",
+    "0.2414",
+    "0.3103",
+    "0.2759"
+   ],
+   "answer": 2,
+   "explanation": "9/29 = 0.3103 = 31.03%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 10/29 as a percentage?",
+   "choices": [
+    "24.14%",
+    "27.59%",
+    "34.48%",
+    "31.03%"
+   ],
+   "answer": 2,
+   "explanation": "10/29 = 0.3448 = 34.48%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 10/29 as a decimal?",
+   "choices": [
+    "0.2414",
+    "0.3448",
+    "0.2759",
+    "0.3103"
+   ],
+   "answer": 1,
+   "explanation": "10/29 = 0.3448 = 34.48%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 11/29 as a percentage?",
+   "choices": [
+    "27.59%",
+    "37.93%",
+    "31.03%",
+    "34.48%"
+   ],
+   "answer": 1,
+   "explanation": "11/29 = 0.3793 = 37.93%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 11/29 as a decimal?",
+   "choices": [
+    "0.2759",
+    "0.3103",
+    "0.3793",
+    "0.3448"
+   ],
+   "answer": 2,
+   "explanation": "11/29 = 0.3793 = 37.93%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 12/29 as a percentage?",
+   "choices": [
+    "31.03%",
+    "34.48%",
+    "41.38%",
+    "37.93%"
+   ],
+   "answer": 2,
+   "explanation": "12/29 = 0.4138 = 41.38%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 12/29 as a decimal?",
+   "choices": [
+    "0.3103",
+    "0.3448",
+    "0.3793",
+    "0.4138"
+   ],
+   "answer": 3,
+   "explanation": "12/29 = 0.4138 = 41.38%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 13/29 as a percentage?",
+   "choices": [
+    "34.48%",
+    "44.83%",
+    "37.93%",
+    "41.38%"
+   ],
+   "answer": 1,
+   "explanation": "13/29 = 0.4483 = 44.83%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 13/29 as a decimal?",
+   "choices": [
+    "0.3448",
+    "0.3793",
+    "0.4138",
+    "0.4483"
+   ],
+   "answer": 3,
+   "explanation": "13/29 = 0.4483 = 44.83%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 14/29 as a percentage?",
+   "choices": [
+    "48.28%",
+    "37.93%",
+    "41.38%",
+    "44.83%"
+   ],
+   "answer": 0,
+   "explanation": "14/29 = 0.4828 = 48.28%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 14/29 as a decimal?",
+   "choices": [
+    "0.3793",
+    "0.4138",
+    "0.4483",
+    "0.4828"
+   ],
+   "answer": 3,
+   "explanation": "14/29 = 0.4828 = 48.28%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 15/29 as a percentage?",
+   "choices": [
+    "41.38%",
+    "44.83%",
+    "48.28%",
+    "51.72%"
+   ],
+   "answer": 3,
+   "explanation": "15/29 = 0.5172 = 51.72%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 15/29 as a decimal?",
+   "choices": [
+    "0.5172",
+    "0.4138",
+    "0.4483",
+    "0.4828"
+   ],
+   "answer": 0,
+   "explanation": "15/29 = 0.5172 = 51.72%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 16/29 as a percentage?",
+   "choices": [
+    "55.17%",
+    "44.83%",
+    "48.28%",
+    "51.72%"
+   ],
+   "answer": 0,
+   "explanation": "16/29 = 0.5517 = 55.17%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 16/29 as a decimal?",
+   "choices": [
+    "0.5517",
+    "0.4483",
+    "0.4828",
+    "0.5172"
+   ],
+   "answer": 0,
+   "explanation": "16/29 = 0.5517 = 55.17%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 17/29 as a percentage?",
+   "choices": [
+    "58.62%",
+    "48.28%",
+    "51.72%",
+    "55.17%"
+   ],
+   "answer": 0,
+   "explanation": "17/29 = 0.5862 = 58.62%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 17/29 as a decimal?",
+   "choices": [
+    "0.5862",
+    "0.4828",
+    "0.5172",
+    "0.5517"
+   ],
+   "answer": 0,
+   "explanation": "17/29 = 0.5862 = 58.62%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 18/29 as a percentage?",
+   "choices": [
+    "62.07%",
+    "51.72%",
+    "55.17%",
+    "58.62%"
+   ],
+   "answer": 0,
+   "explanation": "18/29 = 0.6207 = 62.07%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 18/29 as a decimal?",
+   "choices": [
+    "0.6207",
+    "0.5172",
+    "0.5517",
+    "0.5862"
+   ],
+   "answer": 0,
+   "explanation": "18/29 = 0.6207 = 62.07%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 19/29 as a percentage?",
+   "choices": [
+    "65.52%",
+    "55.17%",
+    "58.62%",
+    "62.07%"
+   ],
+   "answer": 0,
+   "explanation": "19/29 = 0.6552 = 65.52%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 19/29 as a decimal?",
+   "choices": [
+    "0.6552",
+    "0.5517",
+    "0.5862",
+    "0.6207"
+   ],
+   "answer": 0,
+   "explanation": "19/29 = 0.6552 = 65.52%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 20/29 as a percentage?",
+   "choices": [
+    "58.62%",
+    "62.07%",
+    "68.97%",
+    "65.52%"
+   ],
+   "answer": 2,
+   "explanation": "20/29 = 0.6897 = 68.97%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 20/29 as a decimal?",
+   "choices": [
+    "0.6897",
+    "0.5862",
+    "0.6207",
+    "0.6552"
+   ],
+   "answer": 0,
+   "explanation": "20/29 = 0.6897 = 68.97%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 21/29 as a percentage?",
+   "choices": [
+    "62.07%",
+    "72.41%",
+    "65.52%",
+    "68.97%"
+   ],
+   "answer": 1,
+   "explanation": "21/29 = 0.7241 = 72.41%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 21/29 as a decimal?",
+   "choices": [
+    "0.6207",
+    "0.6552",
+    "0.7241",
+    "0.6897"
+   ],
+   "answer": 2,
+   "explanation": "21/29 = 0.7241 = 72.41%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 22/29 as a percentage?",
+   "choices": [
+    "65.52%",
+    "68.97%",
+    "72.41%",
+    "75.86%"
+   ],
+   "answer": 3,
+   "explanation": "22/29 = 0.7586 = 75.86%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 22/29 as a decimal?",
+   "choices": [
+    "0.7586",
+    "0.6552",
+    "0.6897",
+    "0.7241"
+   ],
+   "answer": 0,
+   "explanation": "22/29 = 0.7586 = 75.86%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 23/29 as a percentage?",
+   "choices": [
+    "79.31%",
+    "68.97%",
+    "72.41%",
+    "75.86%"
+   ],
+   "answer": 0,
+   "explanation": "23/29 = 0.7931 = 79.31%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 23/29 as a decimal?",
+   "choices": [
+    "0.7931",
+    "0.6897",
+    "0.7241",
+    "0.7586"
+   ],
+   "answer": 0,
+   "explanation": "23/29 = 0.7931 = 79.31%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 24/29 as a percentage?",
+   "choices": [
+    "72.41%",
+    "75.86%",
+    "82.76%",
+    "79.31%"
+   ],
+   "answer": 2,
+   "explanation": "24/29 = 0.8276 = 82.76%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 24/29 as a decimal?",
+   "choices": [
+    "0.7241",
+    "0.7586",
+    "0.8276",
+    "0.7931"
+   ],
+   "answer": 2,
+   "explanation": "24/29 = 0.8276 = 82.76%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 25/29 as a percentage?",
+   "choices": [
+    "75.86%",
+    "86.21%",
+    "79.31%",
+    "82.76%"
+   ],
+   "answer": 1,
+   "explanation": "25/29 = 0.8621 = 86.21%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 25/29 as a decimal?",
+   "choices": [
+    "0.7586",
+    "0.8621",
+    "0.7931",
+    "0.8276"
+   ],
+   "answer": 1,
+   "explanation": "25/29 = 0.8621 = 86.21%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 26/29 as a percentage?",
+   "choices": [
+    "79.31%",
+    "89.66%",
+    "82.76%",
+    "86.21%"
+   ],
+   "answer": 1,
+   "explanation": "26/29 = 0.8966 = 89.66%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 26/29 as a decimal?",
+   "choices": [
+    "0.7931",
+    "0.8966",
+    "0.8276",
+    "0.8621"
+   ],
+   "answer": 1,
+   "explanation": "26/29 = 0.8966 = 89.66%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 27/29 as a percentage?",
+   "choices": [
+    "82.76%",
+    "86.21%",
+    "89.66%",
+    "93.10%"
+   ],
+   "answer": 3,
+   "explanation": "27/29 = 0.9310 = 93.10%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 27/29 as a decimal?",
+   "choices": [
+    "0.8276",
+    "0.8621",
+    "0.8966",
+    "0.9310"
+   ],
+   "answer": 3,
+   "explanation": "27/29 = 0.9310 = 93.10%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 28/29 as a percentage?",
+   "choices": [
+    "86.21%",
+    "89.66%",
+    "93.10%",
+    "96.55%"
+   ],
+   "answer": 3,
+   "explanation": "28/29 = 0.9655 = 96.55%",
+   "source": "X/29"
+  },
+  {
+   "question": "What is 28/29 as a decimal?",
+   "choices": [
+    "0.8621",
+    "0.8966",
+    "0.9310",
+    "0.9655"
+   ],
+   "answer": 3,
+   "explanation": "28/29 = 0.9655 = 96.55%",
+   "source": "X/29"
+  }
+ ]
+}

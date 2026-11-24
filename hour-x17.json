@@ -1,0 +1,388 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/17 as a percentage?",
+   "choices": [
+    "11.76%",
+    "17.65%",
+    "5.88%",
+    "23.53%"
+   ],
+   "answer": 2,
+   "explanation": "1/17 = 0.0588 = 5.88%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 1/17 as a decimal?",
+   "choices": [
+    "0.1176",
+    "0.1765",
+    "0.2353",
+    "0.0588"
+   ],
+   "answer": 3,
+   "explanation": "1/17 = 0.0588 = 5.88%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 2/17 as a percentage?",
+   "choices": [
+    "5.88%",
+    "11.76%",
+    "17.65%",
+    "23.53%"
+   ],
+   "answer": 1,
+   "explanation": "2/17 = 0.1176 = 11.76%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 2/17 as a decimal?",
+   "choices": [
+    "0.0588",
+    "0.1765",
+    "0.1176",
+    "0.2353"
+   ],
+   "answer": 2,
+   "explanation": "2/17 = 0.1176 = 11.76%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 3/17 as a percentage?",
+   "choices": [
+    "5.88%",
+    "11.76%",
+    "23.53%",
+    "17.65%"
+   ],
+   "answer": 3,
+   "explanation": "3/17 = 0.1765 = 17.65%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 3/17 as a decimal?",
+   "choices": [
+    "0.0588",
+    "0.1176",
+    "0.1765",
+    "0.2353"
+   ],
+   "answer": 2,
+   "explanation": "3/17 = 0.1765 = 17.65%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 4/17 as a percentage?",
+   "choices": [
+    "5.88%",
+    "11.76%",
+    "23.53%",
+    "17.65%"
+   ],
+   "answer": 2,
+   "explanation": "4/17 = 0.2353 = 23.53%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 4/17 as a decimal?",
+   "choices": [
+    "0.0588",
+    "0.2353",
+    "0.1176",
+    "0.1765"
+   ],
+   "answer": 1,
+   "explanation": "4/17 = 0.2353 = 23.53%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 5/17 as a percentage?",
+   "choices": [
+    "11.76%",
+    "17.65%",
+    "29.41%",
+    "23.53%"
+   ],
+   "answer": 2,
+   "explanation": "5/17 = 0.2941 = 29.41%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 5/17 as a decimal?",
+   "choices": [
+    "0.2941",
+    "0.1176",
+    "0.1765",
+    "0.2353"
+   ],
+   "answer": 0,
+   "explanation": "5/17 = 0.2941 = 29.41%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 6/17 as a percentage?",
+   "choices": [
+    "35.29%",
+    "17.65%",
+    "23.53%",
+    "29.41%"
+   ],
+   "answer": 0,
+   "explanation": "6/17 = 0.3529 = 35.29%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 6/17 as a decimal?",
+   "choices": [
+    "0.1765",
+    "0.2353",
+    "0.2941",
+    "0.3529"
+   ],
+   "answer": 3,
+   "explanation": "6/17 = 0.3529 = 35.29%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 7/17 as a percentage?",
+   "choices": [
+    "23.53%",
+    "29.41%",
+    "35.29%",
+    "41.18%"
+   ],
+   "answer": 3,
+   "explanation": "7/17 = 0.4118 = 41.18%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 7/17 as a decimal?",
+   "choices": [
+    "0.2353",
+    "0.2941",
+    "0.3529",
+    "0.4118"
+   ],
+   "answer": 3,
+   "explanation": "7/17 = 0.4118 = 41.18%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 8/17 as a percentage?",
+   "choices": [
+    "29.41%",
+    "35.29%",
+    "47.06%",
+    "41.18%"
+   ],
+   "answer": 2,
+   "explanation": "8/17 = 0.4706 = 47.06%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 8/17 as a decimal?",
+   "choices": [
+    "0.2941",
+    "0.3529",
+    "0.4706",
+    "0.4118"
+   ],
+   "answer": 2,
+   "explanation": "8/17 = 0.4706 = 47.06%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 9/17 as a percentage?",
+   "choices": [
+    "52.94%",
+    "35.29%",
+    "41.18%",
+    "47.06%"
+   ],
+   "answer": 0,
+   "explanation": "9/17 = 0.5294 = 52.94%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 9/17 as a decimal?",
+   "choices": [
+    "0.3529",
+    "0.4118",
+    "0.4706",
+    "0.5294"
+   ],
+   "answer": 3,
+   "explanation": "9/17 = 0.5294 = 52.94%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 10/17 as a percentage?",
+   "choices": [
+    "41.18%",
+    "47.06%",
+    "52.94%",
+    "58.82%"
+   ],
+   "answer": 3,
+   "explanation": "10/17 = 0.5882 = 58.82%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 10/17 as a decimal?",
+   "choices": [
+    "0.4118",
+    "0.5882",
+    "0.4706",
+    "0.5294"
+   ],
+   "answer": 1,
+   "explanation": "10/17 = 0.5882 = 58.82%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 11/17 as a percentage?",
+   "choices": [
+    "47.06%",
+    "52.94%",
+    "64.71%",
+    "58.82%"
+   ],
+   "answer": 2,
+   "explanation": "11/17 = 0.6471 = 64.71%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 11/17 as a decimal?",
+   "choices": [
+    "0.4706",
+    "0.6471",
+    "0.5294",
+    "0.5882"
+   ],
+   "answer": 1,
+   "explanation": "11/17 = 0.6471 = 64.71%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 12/17 as a percentage?",
+   "choices": [
+    "52.94%",
+    "58.82%",
+    "70.59%",
+    "64.71%"
+   ],
+   "answer": 2,
+   "explanation": "12/17 = 0.7059 = 70.59%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 12/17 as a decimal?",
+   "choices": [
+    "0.7059",
+    "0.5294",
+    "0.5882",
+    "0.6471"
+   ],
+   "answer": 0,
+   "explanation": "12/17 = 0.7059 = 70.59%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 13/17 as a percentage?",
+   "choices": [
+    "58.82%",
+    "76.47%",
+    "64.71%",
+    "70.59%"
+   ],
+   "answer": 1,
+   "explanation": "13/17 = 0.7647 = 76.47%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 13/17 as a decimal?",
+   "choices": [
+    "0.7647",
+    "0.5882",
+    "0.6471",
+    "0.7059"
+   ],
+   "answer": 0,
+   "explanation": "13/17 = 0.7647 = 76.47%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 14/17 as a percentage?",
+   "choices": [
+    "64.71%",
+    "82.35%",
+    "70.59%",
+    "76.47%"
+   ],
+   "answer": 1,
+   "explanation": "14/17 = 0.8235 = 82.35%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 14/17 as a decimal?",
+   "choices": [
+    "0.6471",
+    "0.8235",
+    "0.7059",
+    "0.7647"
+   ],
+   "answer": 1,
+   "explanation": "14/17 = 0.8235 = 82.35%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 15/17 as a percentage?",
+   "choices": [
+    "70.59%",
+    "76.47%",
+    "82.35%",
+    "88.24%"
+   ],
+   "answer": 3,
+   "explanation": "15/17 = 0.8824 = 88.24%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 15/17 as a decimal?",
+   "choices": [
+    "0.7059",
+    "0.7647",
+    "0.8824",
+    "0.8235"
+   ],
+   "answer": 2,
+   "explanation": "15/17 = 0.8824 = 88.24%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 16/17 as a percentage?",
+   "choices": [
+    "94.12%",
+    "76.47%",
+    "82.35%",
+    "88.24%"
+   ],
+   "answer": 0,
+   "explanation": "16/17 = 0.9412 = 94.12%",
+   "source": "X/17"
+  },
+  {
+   "question": "What is 16/17 as a decimal?",
+   "choices": [
+    "0.7647",
+    "0.8235",
+    "0.8824",
+    "0.9412"
+   ],
+   "answer": 3,
+   "explanation": "16/17 = 0.9412 = 94.12%",
+   "source": "X/17"
+  }
+ ]
+}

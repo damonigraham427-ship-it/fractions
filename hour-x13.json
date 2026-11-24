@@ -1,0 +1,292 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/13 as a percentage?",
+   "choices": [
+    "15.38%",
+    "7.69%",
+    "23.08%",
+    "30.77%"
+   ],
+   "answer": 1,
+   "explanation": "1/13 = 0.0769 = 7.69%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 1/13 as a decimal?",
+   "choices": [
+    "0.1538",
+    "0.2308",
+    "0.3077",
+    "0.0769"
+   ],
+   "answer": 3,
+   "explanation": "1/13 = 0.0769 = 7.69%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 2/13 as a percentage?",
+   "choices": [
+    "7.69%",
+    "23.08%",
+    "30.77%",
+    "15.38%"
+   ],
+   "answer": 3,
+   "explanation": "2/13 = 0.1538 = 15.38%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 2/13 as a decimal?",
+   "choices": [
+    "0.0769",
+    "0.2308",
+    "0.3077",
+    "0.1538"
+   ],
+   "answer": 3,
+   "explanation": "2/13 = 0.1538 = 15.38%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 3/13 as a percentage?",
+   "choices": [
+    "7.69%",
+    "15.38%",
+    "23.08%",
+    "30.77%"
+   ],
+   "answer": 2,
+   "explanation": "3/13 = 0.2308 = 23.08%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 3/13 as a decimal?",
+   "choices": [
+    "0.0769",
+    "0.2308",
+    "0.1538",
+    "0.3077"
+   ],
+   "answer": 1,
+   "explanation": "3/13 = 0.2308 = 23.08%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 4/13 as a percentage?",
+   "choices": [
+    "30.77%",
+    "7.69%",
+    "15.38%",
+    "23.08%"
+   ],
+   "answer": 0,
+   "explanation": "4/13 = 0.3077 = 30.77%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 4/13 as a decimal?",
+   "choices": [
+    "0.0769",
+    "0.1538",
+    "0.2308",
+    "0.3077"
+   ],
+   "answer": 3,
+   "explanation": "4/13 = 0.3077 = 30.77%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 5/13 as a percentage?",
+   "choices": [
+    "15.38%",
+    "38.46%",
+    "23.08%",
+    "30.77%"
+   ],
+   "answer": 1,
+   "explanation": "5/13 = 0.3846 = 38.46%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 5/13 as a decimal?",
+   "choices": [
+    "0.1538",
+    "0.2308",
+    "0.3077",
+    "0.3846"
+   ],
+   "answer": 3,
+   "explanation": "5/13 = 0.3846 = 38.46%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 6/13 as a percentage?",
+   "choices": [
+    "46.15%",
+    "23.08%",
+    "30.77%",
+    "38.46%"
+   ],
+   "answer": 0,
+   "explanation": "6/13 = 0.4615 = 46.15%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 6/13 as a decimal?",
+   "choices": [
+    "0.2308",
+    "0.4615",
+    "0.3077",
+    "0.3846"
+   ],
+   "answer": 1,
+   "explanation": "6/13 = 0.4615 = 46.15%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 7/13 as a percentage?",
+   "choices": [
+    "53.85%",
+    "30.77%",
+    "38.46%",
+    "46.15%"
+   ],
+   "answer": 0,
+   "explanation": "7/13 = 0.5385 = 53.85%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 7/13 as a decimal?",
+   "choices": [
+    "0.3077",
+    "0.5385",
+    "0.3846",
+    "0.4615"
+   ],
+   "answer": 1,
+   "explanation": "7/13 = 0.5385 = 53.85%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 8/13 as a percentage?",
+   "choices": [
+    "38.46%",
+    "46.15%",
+    "53.85%",
+    "61.54%"
+   ],
+   "answer": 3,
+   "explanation": "8/13 = 0.6154 = 61.54%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 8/13 as a decimal?",
+   "choices": [
+    "0.3846",
+    "0.4615",
+    "0.5385",
+    "0.6154"
+   ],
+   "answer": 3,
+   "explanation": "8/13 = 0.6154 = 61.54%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 9/13 as a percentage?",
+   "choices": [
+    "46.15%",
+    "69.23%",
+    "53.85%",
+    "61.54%"
+   ],
+   "answer": 1,
+   "explanation": "9/13 = 0.6923 = 69.23%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 9/13 as a decimal?",
+   "choices": [
+    "0.4615",
+    "0.6923",
+    "0.5385",
+    "0.6154"
+   ],
+   "answer": 1,
+   "explanation": "9/13 = 0.6923 = 69.23%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 10/13 as a percentage?",
+   "choices": [
+    "53.85%",
+    "61.54%",
+    "69.23%",
+    "76.92%"
+   ],
+   "answer": 3,
+   "explanation": "10/13 = 0.7692 = 76.92%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 10/13 as a decimal?",
+   "choices": [
+    "0.5385",
+    "0.7692",
+    "0.6154",
+    "0.6923"
+   ],
+   "answer": 1,
+   "explanation": "10/13 = 0.7692 = 76.92%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 11/13 as a percentage?",
+   "choices": [
+    "61.54%",
+    "69.23%",
+    "76.92%",
+    "84.62%"
+   ],
+   "answer": 3,
+   "explanation": "11/13 = 0.8462 = 84.62%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 11/13 as a decimal?",
+   "choices": [
+    "0.6154",
+    "0.8462",
+    "0.6923",
+    "0.7692"
+   ],
+   "answer": 1,
+   "explanation": "11/13 = 0.8462 = 84.62%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 12/13 as a percentage?",
+   "choices": [
+    "69.23%",
+    "76.92%",
+    "92.31%",
+    "84.62%"
+   ],
+   "answer": 2,
+   "explanation": "12/13 = 0.9231 = 92.31%",
+   "source": "X/13"
+  },
+  {
+   "question": "What is 12/13 as a decimal?",
+   "choices": [
+    "0.6923",
+    "0.7692",
+    "0.8462",
+    "0.9231"
+   ],
+   "answer": 3,
+   "explanation": "12/13 = 0.9231 = 92.31%",
+   "source": "X/13"
+  }
+ ]
+}

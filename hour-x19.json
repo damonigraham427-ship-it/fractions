@@ -1,0 +1,436 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/19 as a percentage?",
+   "choices": [
+    "10.53%",
+    "15.79%",
+    "5.26%",
+    "21.05%"
+   ],
+   "answer": 2,
+   "explanation": "1/19 = 0.0526 = 5.26%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 1/19 as a decimal?",
+   "choices": [
+    "0.1053",
+    "0.0526",
+    "0.1579",
+    "0.2105"
+   ],
+   "answer": 1,
+   "explanation": "1/19 = 0.0526 = 5.26%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 2/19 as a percentage?",
+   "choices": [
+    "10.53%",
+    "5.26%",
+    "15.79%",
+    "21.05%"
+   ],
+   "answer": 0,
+   "explanation": "2/19 = 0.1053 = 10.53%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 2/19 as a decimal?",
+   "choices": [
+    "0.1053",
+    "0.0526",
+    "0.1579",
+    "0.2105"
+   ],
+   "answer": 0,
+   "explanation": "2/19 = 0.1053 = 10.53%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 3/19 as a percentage?",
+   "choices": [
+    "5.26%",
+    "15.79%",
+    "10.53%",
+    "21.05%"
+   ],
+   "answer": 1,
+   "explanation": "3/19 = 0.1579 = 15.79%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 3/19 as a decimal?",
+   "choices": [
+    "0.0526",
+    "0.1053",
+    "0.2105",
+    "0.1579"
+   ],
+   "answer": 3,
+   "explanation": "3/19 = 0.1579 = 15.79%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 4/19 as a percentage?",
+   "choices": [
+    "5.26%",
+    "10.53%",
+    "15.79%",
+    "21.05%"
+   ],
+   "answer": 3,
+   "explanation": "4/19 = 0.2105 = 21.05%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 4/19 as a decimal?",
+   "choices": [
+    "0.2105",
+    "0.0526",
+    "0.1053",
+    "0.1579"
+   ],
+   "answer": 0,
+   "explanation": "4/19 = 0.2105 = 21.05%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 5/19 as a percentage?",
+   "choices": [
+    "10.53%",
+    "15.79%",
+    "26.32%",
+    "21.05%"
+   ],
+   "answer": 2,
+   "explanation": "5/19 = 0.2632 = 26.32%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 5/19 as a decimal?",
+   "choices": [
+    "0.1053",
+    "0.2632",
+    "0.1579",
+    "0.2105"
+   ],
+   "answer": 1,
+   "explanation": "5/19 = 0.2632 = 26.32%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 6/19 as a percentage?",
+   "choices": [
+    "31.58%",
+    "15.79%",
+    "21.05%",
+    "26.32%"
+   ],
+   "answer": 0,
+   "explanation": "6/19 = 0.3158 = 31.58%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 6/19 as a decimal?",
+   "choices": [
+    "0.1579",
+    "0.3158",
+    "0.2105",
+    "0.2632"
+   ],
+   "answer": 1,
+   "explanation": "6/19 = 0.3158 = 31.58%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 7/19 as a percentage?",
+   "choices": [
+    "36.84%",
+    "21.05%",
+    "26.32%",
+    "31.58%"
+   ],
+   "answer": 0,
+   "explanation": "7/19 = 0.3684 = 36.84%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 7/19 as a decimal?",
+   "choices": [
+    "0.3684",
+    "0.2105",
+    "0.2632",
+    "0.3158"
+   ],
+   "answer": 0,
+   "explanation": "7/19 = 0.3684 = 36.84%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 8/19 as a percentage?",
+   "choices": [
+    "26.32%",
+    "31.58%",
+    "42.11%",
+    "36.84%"
+   ],
+   "answer": 2,
+   "explanation": "8/19 = 0.4211 = 42.11%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 8/19 as a decimal?",
+   "choices": [
+    "0.2632",
+    "0.3158",
+    "0.3684",
+    "0.4211"
+   ],
+   "answer": 3,
+   "explanation": "8/19 = 0.4211 = 42.11%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 9/19 as a percentage?",
+   "choices": [
+    "47.37%",
+    "31.58%",
+    "36.84%",
+    "42.11%"
+   ],
+   "answer": 0,
+   "explanation": "9/19 = 0.4737 = 47.37%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 9/19 as a decimal?",
+   "choices": [
+    "0.3158",
+    "0.3684",
+    "0.4211",
+    "0.4737"
+   ],
+   "answer": 3,
+   "explanation": "9/19 = 0.4737 = 47.37%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 10/19 as a percentage?",
+   "choices": [
+    "36.84%",
+    "52.63%",
+    "42.11%",
+    "47.37%"
+   ],
+   "answer": 1,
+   "explanation": "10/19 = 0.5263 = 52.63%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 10/19 as a decimal?",
+   "choices": [
+    "0.5263",
+    "0.3684",
+    "0.4211",
+    "0.4737"
+   ],
+   "answer": 0,
+   "explanation": "10/19 = 0.5263 = 52.63%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 11/19 as a percentage?",
+   "choices": [
+    "57.89%",
+    "42.11%",
+    "47.37%",
+    "52.63%"
+   ],
+   "answer": 0,
+   "explanation": "11/19 = 0.5789 = 57.89%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 11/19 as a decimal?",
+   "choices": [
+    "0.4211",
+    "0.4737",
+    "0.5263",
+    "0.5789"
+   ],
+   "answer": 3,
+   "explanation": "11/19 = 0.5789 = 57.89%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 12/19 as a percentage?",
+   "choices": [
+    "47.37%",
+    "52.63%",
+    "57.89%",
+    "63.16%"
+   ],
+   "answer": 3,
+   "explanation": "12/19 = 0.6316 = 63.16%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 12/19 as a decimal?",
+   "choices": [
+    "0.6316",
+    "0.4737",
+    "0.5263",
+    "0.5789"
+   ],
+   "answer": 0,
+   "explanation": "12/19 = 0.6316 = 63.16%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 13/19 as a percentage?",
+   "choices": [
+    "68.42%",
+    "52.63%",
+    "57.89%",
+    "63.16%"
+   ],
+   "answer": 0,
+   "explanation": "13/19 = 0.6842 = 68.42%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 13/19 as a decimal?",
+   "choices": [
+    "0.6842",
+    "0.5263",
+    "0.5789",
+    "0.6316"
+   ],
+   "answer": 0,
+   "explanation": "13/19 = 0.6842 = 68.42%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 14/19 as a percentage?",
+   "choices": [
+    "57.89%",
+    "63.16%",
+    "73.68%",
+    "68.42%"
+   ],
+   "answer": 2,
+   "explanation": "14/19 = 0.7368 = 73.68%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 14/19 as a decimal?",
+   "choices": [
+    "0.5789",
+    "0.6316",
+    "0.6842",
+    "0.7368"
+   ],
+   "answer": 3,
+   "explanation": "14/19 = 0.7368 = 73.68%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 15/19 as a percentage?",
+   "choices": [
+    "63.16%",
+    "68.42%",
+    "78.95%",
+    "73.68%"
+   ],
+   "answer": 2,
+   "explanation": "15/19 = 0.7895 = 78.95%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 15/19 as a decimal?",
+   "choices": [
+    "0.6316",
+    "0.6842",
+    "0.7895",
+    "0.7368"
+   ],
+   "answer": 2,
+   "explanation": "15/19 = 0.7895 = 78.95%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 16/19 as a percentage?",
+   "choices": [
+    "84.21%",
+    "68.42%",
+    "73.68%",
+    "78.95%"
+   ],
+   "answer": 0,
+   "explanation": "16/19 = 0.8421 = 84.21%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 16/19 as a decimal?",
+   "choices": [
+    "0.6842",
+    "0.8421",
+    "0.7368",
+    "0.7895"
+   ],
+   "answer": 1,
+   "explanation": "16/19 = 0.8421 = 84.21%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 17/19 as a percentage?",
+   "choices": [
+    "73.68%",
+    "78.95%",
+    "89.47%",
+    "84.21%"
+   ],
+   "answer": 2,
+   "explanation": "17/19 = 0.8947 = 89.47%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 17/19 as a decimal?",
+   "choices": [
+    "0.7368",
+    "0.8947",
+    "0.7895",
+    "0.8421"
+   ],
+   "answer": 1,
+   "explanation": "17/19 = 0.8947 = 89.47%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 18/19 as a percentage?",
+   "choices": [
+    "78.95%",
+    "84.21%",
+    "94.74%",
+    "89.47%"
+   ],
+   "answer": 2,
+   "explanation": "18/19 = 0.9474 = 94.74%",
+   "source": "X/19"
+  },
+  {
+   "question": "What is 18/19 as a decimal?",
+   "choices": [
+    "0.7895",
+    "0.8421",
+    "0.8947",
+    "0.9474"
+   ],
+   "answer": 3,
+   "explanation": "18/19 = 0.9474 = 94.74%",
+   "source": "X/19"
+  }
+ ]
+}

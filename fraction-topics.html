@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fraction Bases — Tiers</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  @media (min-width: 1000px) {
+    .tp-two { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: start; }
+  }
+</style>
+</head>
+<body>
+<main>
+<p><a href="exams.html">&larr; Exams</a></p>
+<h1 id="tp-title">Fraction Bases — Tiers</h1>
+<p class="check-note" id="tp-note">One slice per exam. Slice % = mastered tiers (20 tiers of 5% over each exam's questions). Mastered = 80%+ on the newest attempt covering that tier. Meta / Meta 10 runs are shown per exam, not counted in tier %.</p>
+<p><a href="notepad.html?category=Fraction%20Bases">Fraction Bases Notepad</a> \u00B7 <a href="quality.html?category=Fraction%20Bases">Fraction Bases Quality review</a></p>
+<div class="tp-two">
+<div id="tp-main">
+<p id="tp-upnext" class="tp-upnext" hidden></p>
+<div class="tp-layout">
+<div class="tp-piebox">
+<svg id="tp-pie" viewBox="0 0 420 420" role="img" aria-label="Fraction Bases tier circle"></svg>
+<p class="tp-center-hint">Move around the circle: the slice under your finger lights up and the center shows its %. Tap a slice to keep it open.</p>
+<div id="tp-detail"></div>
+</div>
+</div>
+</div>
+<div id="rp-block">
+<h2 id="rp-title">Reciprocals — 1/x</h2>
+<p class="check-note" id="rp-note">The second pie: the same numbers as the first pie, tested as 1/x. One slice per exam of 20 numbers. A slice takes the color of your latest Start run: full color = Mastered (80%+), mid = Learning, pale = not attempted yet.</p>
+<p id="rp-upnext" class="tp-upnext" hidden></p>
+<div class="tp-layout">
+<div class="tp-piebox">
+<svg id="rp-pie" viewBox="0 0 420 420" role="img" aria-label="Reciprocals circle"></svg>
+<p class="tp-center-hint">Move around the circle: the slice under your finger lights up and the center shows its %. Tap a slice to keep it open.</p>
+<div id="rp-detail"></div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<script src="hour-tiers.js"></script>
+<script src="fraction-topics.js"></script>
+<script src="recip-topics.js"></script>
+<script src="sync.js"></script>
+</body>
+</html>

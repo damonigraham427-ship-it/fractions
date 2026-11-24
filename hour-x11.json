@@ -1,0 +1,244 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/11 as a percentage?",
+   "choices": [
+    "18.18%",
+    "27.27%",
+    "9.09%",
+    "36.36%"
+   ],
+   "answer": 2,
+   "explanation": "1/11 = 0.0909 = 9.09%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 1/11 as a decimal?",
+   "choices": [
+    "0.1818",
+    "0.2727",
+    "0.0909",
+    "0.3636"
+   ],
+   "answer": 2,
+   "explanation": "1/11 = 0.0909 = 9.09%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 2/11 as a percentage?",
+   "choices": [
+    "9.09%",
+    "27.27%",
+    "36.36%",
+    "18.18%"
+   ],
+   "answer": 3,
+   "explanation": "2/11 = 0.1818 = 18.18%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 2/11 as a decimal?",
+   "choices": [
+    "0.1818",
+    "0.0909",
+    "0.2727",
+    "0.3636"
+   ],
+   "answer": 0,
+   "explanation": "2/11 = 0.1818 = 18.18%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 3/11 as a percentage?",
+   "choices": [
+    "9.09%",
+    "27.27%",
+    "18.18%",
+    "36.36%"
+   ],
+   "answer": 1,
+   "explanation": "3/11 = 0.2727 = 27.27%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 3/11 as a decimal?",
+   "choices": [
+    "0.0909",
+    "0.1818",
+    "0.2727",
+    "0.3636"
+   ],
+   "answer": 2,
+   "explanation": "3/11 = 0.2727 = 27.27%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 4/11 as a percentage?",
+   "choices": [
+    "36.36%",
+    "9.09%",
+    "18.18%",
+    "27.27%"
+   ],
+   "answer": 0,
+   "explanation": "4/11 = 0.3636 = 36.36%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 4/11 as a decimal?",
+   "choices": [
+    "0.3636",
+    "0.0909",
+    "0.1818",
+    "0.2727"
+   ],
+   "answer": 0,
+   "explanation": "4/11 = 0.3636 = 36.36%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 5/11 as a percentage?",
+   "choices": [
+    "18.18%",
+    "45.45%",
+    "27.27%",
+    "36.36%"
+   ],
+   "answer": 1,
+   "explanation": "5/11 = 0.4545 = 45.45%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 5/11 as a decimal?",
+   "choices": [
+    "0.1818",
+    "0.4545",
+    "0.2727",
+    "0.3636"
+   ],
+   "answer": 1,
+   "explanation": "5/11 = 0.4545 = 45.45%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 6/11 as a percentage?",
+   "choices": [
+    "27.27%",
+    "36.36%",
+    "45.45%",
+    "54.55%"
+   ],
+   "answer": 3,
+   "explanation": "6/11 = 0.5455 = 54.55%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 6/11 as a decimal?",
+   "choices": [
+    "0.2727",
+    "0.3636",
+    "0.4545",
+    "0.5455"
+   ],
+   "answer": 3,
+   "explanation": "6/11 = 0.5455 = 54.55%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 7/11 as a percentage?",
+   "choices": [
+    "63.64%",
+    "36.36%",
+    "45.45%",
+    "54.55%"
+   ],
+   "answer": 0,
+   "explanation": "7/11 = 0.6364 = 63.64%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 7/11 as a decimal?",
+   "choices": [
+    "0.3636",
+    "0.6364",
+    "0.4545",
+    "0.5455"
+   ],
+   "answer": 1,
+   "explanation": "7/11 = 0.6364 = 63.64%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 8/11 as a percentage?",
+   "choices": [
+    "72.73%",
+    "45.45%",
+    "54.55%",
+    "63.64%"
+   ],
+   "answer": 0,
+   "explanation": "8/11 = 0.7273 = 72.73%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 8/11 as a decimal?",
+   "choices": [
+    "0.4545",
+    "0.5455",
+    "0.7273",
+    "0.6364"
+   ],
+   "answer": 2,
+   "explanation": "8/11 = 0.7273 = 72.73%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 9/11 as a percentage?",
+   "choices": [
+    "81.82%",
+    "54.55%",
+    "63.64%",
+    "72.73%"
+   ],
+   "answer": 0,
+   "explanation": "9/11 = 0.8182 = 81.82%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 9/11 as a decimal?",
+   "choices": [
+    "0.5455",
+    "0.6364",
+    "0.7273",
+    "0.8182"
+   ],
+   "answer": 3,
+   "explanation": "9/11 = 0.8182 = 81.82%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 10/11 as a percentage?",
+   "choices": [
+    "90.91%",
+    "63.64%",
+    "72.73%",
+    "81.82%"
+   ],
+   "answer": 0,
+   "explanation": "10/11 = 0.9091 = 90.91%",
+   "source": "X/11"
+  },
+  {
+   "question": "What is 10/11 as a decimal?",
+   "choices": [
+    "0.6364",
+    "0.7273",
+    "0.9091",
+    "0.8182"
+   ],
+   "answer": 2,
+   "explanation": "10/11 = 0.9091 = 90.91%",
+   "source": "X/11"
+  }
+ ]
+}

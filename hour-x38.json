@@ -1,0 +1,892 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/38 as a percentage?",
+   "choices": [
+    "5.26%",
+    "7.89%",
+    "2.63%",
+    "10.53%"
+   ],
+   "answer": 2,
+   "explanation": "1/38 = 0.0263 = 2.63%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 1/38 as a decimal?",
+   "choices": [
+    "0.0526",
+    "0.0789",
+    "0.1053",
+    "0.0263"
+   ],
+   "answer": 3,
+   "explanation": "1/38 = 0.0263 = 2.63%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 2/38 as a percentage?",
+   "choices": [
+    "5.26%",
+    "2.63%",
+    "7.89%",
+    "10.53%"
+   ],
+   "answer": 0,
+   "explanation": "2/38 = 0.0526 = 5.26%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 2/38 as a decimal?",
+   "choices": [
+    "0.0526",
+    "0.0263",
+    "0.0789",
+    "0.1053"
+   ],
+   "answer": 0,
+   "explanation": "2/38 = 0.0526 = 5.26%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 3/38 as a percentage?",
+   "choices": [
+    "2.63%",
+    "7.89%",
+    "5.26%",
+    "10.53%"
+   ],
+   "answer": 1,
+   "explanation": "3/38 = 0.0789 = 7.89%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 3/38 as a decimal?",
+   "choices": [
+    "0.0263",
+    "0.0526",
+    "0.0789",
+    "0.1053"
+   ],
+   "answer": 2,
+   "explanation": "3/38 = 0.0789 = 7.89%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 4/38 as a percentage?",
+   "choices": [
+    "2.63%",
+    "5.26%",
+    "7.89%",
+    "10.53%"
+   ],
+   "answer": 3,
+   "explanation": "4/38 = 0.1053 = 10.53%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 4/38 as a decimal?",
+   "choices": [
+    "0.1053",
+    "0.0263",
+    "0.0526",
+    "0.0789"
+   ],
+   "answer": 0,
+   "explanation": "4/38 = 0.1053 = 10.53%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 5/38 as a percentage?",
+   "choices": [
+    "5.26%",
+    "7.89%",
+    "10.53%",
+    "13.16%"
+   ],
+   "answer": 3,
+   "explanation": "5/38 = 0.1316 = 13.16%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 5/38 as a decimal?",
+   "choices": [
+    "0.1316",
+    "0.0526",
+    "0.0789",
+    "0.1053"
+   ],
+   "answer": 0,
+   "explanation": "5/38 = 0.1316 = 13.16%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 6/38 as a percentage?",
+   "choices": [
+    "7.89%",
+    "10.53%",
+    "13.16%",
+    "15.79%"
+   ],
+   "answer": 3,
+   "explanation": "6/38 = 0.1579 = 15.79%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 6/38 as a decimal?",
+   "choices": [
+    "0.1579",
+    "0.0789",
+    "0.1053",
+    "0.1316"
+   ],
+   "answer": 0,
+   "explanation": "6/38 = 0.1579 = 15.79%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 7/38 as a percentage?",
+   "choices": [
+    "18.42%",
+    "10.53%",
+    "13.16%",
+    "15.79%"
+   ],
+   "answer": 0,
+   "explanation": "7/38 = 0.1842 = 18.42%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 7/38 as a decimal?",
+   "choices": [
+    "0.1053",
+    "0.1842",
+    "0.1316",
+    "0.1579"
+   ],
+   "answer": 1,
+   "explanation": "7/38 = 0.1842 = 18.42%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 8/38 as a percentage?",
+   "choices": [
+    "13.16%",
+    "15.79%",
+    "18.42%",
+    "21.05%"
+   ],
+   "answer": 3,
+   "explanation": "8/38 = 0.2105 = 21.05%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 8/38 as a decimal?",
+   "choices": [
+    "0.1316",
+    "0.2105",
+    "0.1579",
+    "0.1842"
+   ],
+   "answer": 1,
+   "explanation": "8/38 = 0.2105 = 21.05%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 9/38 as a percentage?",
+   "choices": [
+    "23.68%",
+    "15.79%",
+    "18.42%",
+    "21.05%"
+   ],
+   "answer": 0,
+   "explanation": "9/38 = 0.2368 = 23.68%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 9/38 as a decimal?",
+   "choices": [
+    "0.2368",
+    "0.1579",
+    "0.1842",
+    "0.2105"
+   ],
+   "answer": 0,
+   "explanation": "9/38 = 0.2368 = 23.68%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 10/38 as a percentage?",
+   "choices": [
+    "18.42%",
+    "21.05%",
+    "23.68%",
+    "26.32%"
+   ],
+   "answer": 3,
+   "explanation": "10/38 = 0.2632 = 26.32%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 10/38 as a decimal?",
+   "choices": [
+    "0.1842",
+    "0.2105",
+    "0.2368",
+    "0.2632"
+   ],
+   "answer": 3,
+   "explanation": "10/38 = 0.2632 = 26.32%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 11/38 as a percentage?",
+   "choices": [
+    "21.05%",
+    "23.68%",
+    "28.95%",
+    "26.32%"
+   ],
+   "answer": 2,
+   "explanation": "11/38 = 0.2895 = 28.95%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 11/38 as a decimal?",
+   "choices": [
+    "0.2895",
+    "0.2105",
+    "0.2368",
+    "0.2632"
+   ],
+   "answer": 0,
+   "explanation": "11/38 = 0.2895 = 28.95%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 12/38 as a percentage?",
+   "choices": [
+    "31.58%",
+    "23.68%",
+    "26.32%",
+    "28.95%"
+   ],
+   "answer": 0,
+   "explanation": "12/38 = 0.3158 = 31.58%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 12/38 as a decimal?",
+   "choices": [
+    "0.2368",
+    "0.3158",
+    "0.2632",
+    "0.2895"
+   ],
+   "answer": 1,
+   "explanation": "12/38 = 0.3158 = 31.58%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 13/38 as a percentage?",
+   "choices": [
+    "26.32%",
+    "28.95%",
+    "34.21%",
+    "31.58%"
+   ],
+   "answer": 2,
+   "explanation": "13/38 = 0.3421 = 34.21%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 13/38 as a decimal?",
+   "choices": [
+    "0.3421",
+    "0.2632",
+    "0.2895",
+    "0.3158"
+   ],
+   "answer": 0,
+   "explanation": "13/38 = 0.3421 = 34.21%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 14/38 as a percentage?",
+   "choices": [
+    "28.95%",
+    "31.58%",
+    "36.84%",
+    "34.21%"
+   ],
+   "answer": 2,
+   "explanation": "14/38 = 0.3684 = 36.84%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 14/38 as a decimal?",
+   "choices": [
+    "0.2895",
+    "0.3158",
+    "0.3684",
+    "0.3421"
+   ],
+   "answer": 2,
+   "explanation": "14/38 = 0.3684 = 36.84%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 15/38 as a percentage?",
+   "choices": [
+    "31.58%",
+    "39.47%",
+    "34.21%",
+    "36.84%"
+   ],
+   "answer": 1,
+   "explanation": "15/38 = 0.3947 = 39.47%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 15/38 as a decimal?",
+   "choices": [
+    "0.3158",
+    "0.3421",
+    "0.3947",
+    "0.3684"
+   ],
+   "answer": 2,
+   "explanation": "15/38 = 0.3947 = 39.47%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 16/38 as a percentage?",
+   "choices": [
+    "34.21%",
+    "36.84%",
+    "39.47%",
+    "42.11%"
+   ],
+   "answer": 3,
+   "explanation": "16/38 = 0.4211 = 42.11%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 16/38 as a decimal?",
+   "choices": [
+    "0.3421",
+    "0.4211",
+    "0.3684",
+    "0.3947"
+   ],
+   "answer": 1,
+   "explanation": "16/38 = 0.4211 = 42.11%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 17/38 as a percentage?",
+   "choices": [
+    "36.84%",
+    "39.47%",
+    "42.11%",
+    "44.74%"
+   ],
+   "answer": 3,
+   "explanation": "17/38 = 0.4474 = 44.74%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 17/38 as a decimal?",
+   "choices": [
+    "0.4474",
+    "0.3684",
+    "0.3947",
+    "0.4211"
+   ],
+   "answer": 0,
+   "explanation": "17/38 = 0.4474 = 44.74%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 18/38 as a percentage?",
+   "choices": [
+    "39.47%",
+    "42.11%",
+    "47.37%",
+    "44.74%"
+   ],
+   "answer": 2,
+   "explanation": "18/38 = 0.4737 = 47.37%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 18/38 as a decimal?",
+   "choices": [
+    "0.3947",
+    "0.4211",
+    "0.4737",
+    "0.4474"
+   ],
+   "answer": 2,
+   "explanation": "18/38 = 0.4737 = 47.37%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 19/38 as a percentage?",
+   "choices": [
+    "50.00%",
+    "42.11%",
+    "44.74%",
+    "47.37%"
+   ],
+   "answer": 0,
+   "explanation": "19/38 = 0.5000 = 50.00%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 19/38 as a decimal?",
+   "choices": [
+    "0.4211",
+    "0.4474",
+    "0.5000",
+    "0.4737"
+   ],
+   "answer": 2,
+   "explanation": "19/38 = 0.5000 = 50.00%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 20/38 as a percentage?",
+   "choices": [
+    "44.74%",
+    "47.37%",
+    "50.00%",
+    "52.63%"
+   ],
+   "answer": 3,
+   "explanation": "20/38 = 0.5263 = 52.63%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 20/38 as a decimal?",
+   "choices": [
+    "0.5263",
+    "0.4474",
+    "0.4737",
+    "0.5000"
+   ],
+   "answer": 0,
+   "explanation": "20/38 = 0.5263 = 52.63%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 21/38 as a percentage?",
+   "choices": [
+    "47.37%",
+    "50.00%",
+    "55.26%",
+    "52.63%"
+   ],
+   "answer": 2,
+   "explanation": "21/38 = 0.5526 = 55.26%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 21/38 as a decimal?",
+   "choices": [
+    "0.5526",
+    "0.4737",
+    "0.5000",
+    "0.5263"
+   ],
+   "answer": 0,
+   "explanation": "21/38 = 0.5526 = 55.26%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 22/38 as a percentage?",
+   "choices": [
+    "57.89%",
+    "50.00%",
+    "52.63%",
+    "55.26%"
+   ],
+   "answer": 0,
+   "explanation": "22/38 = 0.5789 = 57.89%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 22/38 as a decimal?",
+   "choices": [
+    "0.5789",
+    "0.5000",
+    "0.5263",
+    "0.5526"
+   ],
+   "answer": 0,
+   "explanation": "22/38 = 0.5789 = 57.89%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 23/38 as a percentage?",
+   "choices": [
+    "60.53%",
+    "52.63%",
+    "55.26%",
+    "57.89%"
+   ],
+   "answer": 0,
+   "explanation": "23/38 = 0.6053 = 60.53%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 23/38 as a decimal?",
+   "choices": [
+    "0.6053",
+    "0.5263",
+    "0.5526",
+    "0.5789"
+   ],
+   "answer": 0,
+   "explanation": "23/38 = 0.6053 = 60.53%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 24/38 as a percentage?",
+   "choices": [
+    "55.26%",
+    "57.89%",
+    "63.16%",
+    "60.53%"
+   ],
+   "answer": 2,
+   "explanation": "24/38 = 0.6316 = 63.16%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 24/38 as a decimal?",
+   "choices": [
+    "0.5526",
+    "0.5789",
+    "0.6053",
+    "0.6316"
+   ],
+   "answer": 3,
+   "explanation": "24/38 = 0.6316 = 63.16%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 25/38 as a percentage?",
+   "choices": [
+    "57.89%",
+    "65.79%",
+    "60.53%",
+    "63.16%"
+   ],
+   "answer": 1,
+   "explanation": "25/38 = 0.6579 = 65.79%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 25/38 as a decimal?",
+   "choices": [
+    "0.5789",
+    "0.6579",
+    "0.6053",
+    "0.6316"
+   ],
+   "answer": 1,
+   "explanation": "25/38 = 0.6579 = 65.79%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 26/38 as a percentage?",
+   "choices": [
+    "60.53%",
+    "63.16%",
+    "65.79%",
+    "68.42%"
+   ],
+   "answer": 3,
+   "explanation": "26/38 = 0.6842 = 68.42%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 26/38 as a decimal?",
+   "choices": [
+    "0.6842",
+    "0.6053",
+    "0.6316",
+    "0.6579"
+   ],
+   "answer": 0,
+   "explanation": "26/38 = 0.6842 = 68.42%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 27/38 as a percentage?",
+   "choices": [
+    "63.16%",
+    "71.05%",
+    "65.79%",
+    "68.42%"
+   ],
+   "answer": 1,
+   "explanation": "27/38 = 0.7105 = 71.05%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 27/38 as a decimal?",
+   "choices": [
+    "0.6316",
+    "0.6579",
+    "0.6842",
+    "0.7105"
+   ],
+   "answer": 3,
+   "explanation": "27/38 = 0.7105 = 71.05%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 28/38 as a percentage?",
+   "choices": [
+    "65.79%",
+    "68.42%",
+    "73.68%",
+    "71.05%"
+   ],
+   "answer": 2,
+   "explanation": "28/38 = 0.7368 = 73.68%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 28/38 as a decimal?",
+   "choices": [
+    "0.7368",
+    "0.6579",
+    "0.6842",
+    "0.7105"
+   ],
+   "answer": 0,
+   "explanation": "28/38 = 0.7368 = 73.68%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 29/38 as a percentage?",
+   "choices": [
+    "76.32%",
+    "68.42%",
+    "71.05%",
+    "73.68%"
+   ],
+   "answer": 0,
+   "explanation": "29/38 = 0.7632 = 76.32%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 29/38 as a decimal?",
+   "choices": [
+    "0.6842",
+    "0.7105",
+    "0.7632",
+    "0.7368"
+   ],
+   "answer": 2,
+   "explanation": "29/38 = 0.7632 = 76.32%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 30/38 as a percentage?",
+   "choices": [
+    "71.05%",
+    "78.95%",
+    "73.68%",
+    "76.32%"
+   ],
+   "answer": 1,
+   "explanation": "30/38 = 0.7895 = 78.95%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 30/38 as a decimal?",
+   "choices": [
+    "0.7895",
+    "0.7105",
+    "0.7368",
+    "0.7632"
+   ],
+   "answer": 0,
+   "explanation": "30/38 = 0.7895 = 78.95%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 31/38 as a percentage?",
+   "choices": [
+    "73.68%",
+    "76.32%",
+    "81.58%",
+    "78.95%"
+   ],
+   "answer": 2,
+   "explanation": "31/38 = 0.8158 = 81.58%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 31/38 as a decimal?",
+   "choices": [
+    "0.8158",
+    "0.7368",
+    "0.7632",
+    "0.7895"
+   ],
+   "answer": 0,
+   "explanation": "31/38 = 0.8158 = 81.58%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 32/38 as a percentage?",
+   "choices": [
+    "76.32%",
+    "84.21%",
+    "78.95%",
+    "81.58%"
+   ],
+   "answer": 1,
+   "explanation": "32/38 = 0.8421 = 84.21%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 32/38 as a decimal?",
+   "choices": [
+    "0.7632",
+    "0.7895",
+    "0.8158",
+    "0.8421"
+   ],
+   "answer": 3,
+   "explanation": "32/38 = 0.8421 = 84.21%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 33/38 as a percentage?",
+   "choices": [
+    "78.95%",
+    "81.58%",
+    "86.84%",
+    "84.21%"
+   ],
+   "answer": 2,
+   "explanation": "33/38 = 0.8684 = 86.84%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 33/38 as a decimal?",
+   "choices": [
+    "0.8684",
+    "0.7895",
+    "0.8158",
+    "0.8421"
+   ],
+   "answer": 0,
+   "explanation": "33/38 = 0.8684 = 86.84%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 34/38 as a percentage?",
+   "choices": [
+    "81.58%",
+    "84.21%",
+    "86.84%",
+    "89.47%"
+   ],
+   "answer": 3,
+   "explanation": "34/38 = 0.8947 = 89.47%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 34/38 as a decimal?",
+   "choices": [
+    "0.8947",
+    "0.8158",
+    "0.8421",
+    "0.8684"
+   ],
+   "answer": 0,
+   "explanation": "34/38 = 0.8947 = 89.47%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 35/38 as a percentage?",
+   "choices": [
+    "92.11%",
+    "84.21%",
+    "86.84%",
+    "89.47%"
+   ],
+   "answer": 0,
+   "explanation": "35/38 = 0.9211 = 92.11%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 35/38 as a decimal?",
+   "choices": [
+    "0.8421",
+    "0.9211",
+    "0.8684",
+    "0.8947"
+   ],
+   "answer": 1,
+   "explanation": "35/38 = 0.9211 = 92.11%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 36/38 as a percentage?",
+   "choices": [
+    "94.74%",
+    "86.84%",
+    "89.47%",
+    "92.11%"
+   ],
+   "answer": 0,
+   "explanation": "36/38 = 0.9474 = 94.74%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 36/38 as a decimal?",
+   "choices": [
+    "0.8684",
+    "0.8947",
+    "0.9211",
+    "0.9474"
+   ],
+   "answer": 3,
+   "explanation": "36/38 = 0.9474 = 94.74%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 37/38 as a percentage?",
+   "choices": [
+    "89.47%",
+    "92.11%",
+    "97.37%",
+    "94.74%"
+   ],
+   "answer": 2,
+   "explanation": "37/38 = 0.9737 = 97.37%",
+   "source": "X/38"
+  },
+  {
+   "question": "What is 37/38 as a decimal?",
+   "choices": [
+    "0.8947",
+    "0.9211",
+    "0.9737",
+    "0.9474"
+   ],
+   "answer": 2,
+   "explanation": "37/38 = 0.9737 = 97.37%",
+   "source": "X/38"
+  }
+ ]
+}

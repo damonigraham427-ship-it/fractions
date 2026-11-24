@@ -1,0 +1,700 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/30 as a percentage?",
+   "choices": [
+    "6.67%",
+    "3.33%",
+    "10.00%",
+    "13.33%"
+   ],
+   "answer": 1,
+   "explanation": "1/30 = 0.0333 = 3.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 1/30 as a decimal?",
+   "choices": [
+    "0.0333",
+    "0.0667",
+    "0.1000",
+    "0.1333"
+   ],
+   "answer": 0,
+   "explanation": "1/30 = 0.0333 = 3.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 2/30 as a percentage?",
+   "choices": [
+    "3.33%",
+    "6.67%",
+    "10.00%",
+    "13.33%"
+   ],
+   "answer": 1,
+   "explanation": "2/30 = 0.0667 = 6.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 2/30 as a decimal?",
+   "choices": [
+    "0.0333",
+    "0.1000",
+    "0.1333",
+    "0.0667"
+   ],
+   "answer": 3,
+   "explanation": "2/30 = 0.0667 = 6.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 3/30 as a percentage?",
+   "choices": [
+    "10.00%",
+    "3.33%",
+    "6.67%",
+    "13.33%"
+   ],
+   "answer": 0,
+   "explanation": "3/30 = 0.1000 = 10.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 3/30 as a decimal?",
+   "choices": [
+    "0.0333",
+    "0.0667",
+    "0.1333",
+    "0.1000"
+   ],
+   "answer": 3,
+   "explanation": "3/30 = 0.1000 = 10.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 4/30 as a percentage?",
+   "choices": [
+    "3.33%",
+    "13.33%",
+    "6.67%",
+    "10.00%"
+   ],
+   "answer": 1,
+   "explanation": "4/30 = 0.1333 = 13.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 4/30 as a decimal?",
+   "choices": [
+    "0.0333",
+    "0.0667",
+    "0.1333",
+    "0.1000"
+   ],
+   "answer": 2,
+   "explanation": "4/30 = 0.1333 = 13.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 5/30 as a percentage?",
+   "choices": [
+    "6.67%",
+    "10.00%",
+    "13.33%",
+    "16.67%"
+   ],
+   "answer": 3,
+   "explanation": "5/30 = 0.1667 = 16.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 5/30 as a decimal?",
+   "choices": [
+    "0.0667",
+    "0.1000",
+    "0.1333",
+    "0.1667"
+   ],
+   "answer": 3,
+   "explanation": "5/30 = 0.1667 = 16.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 6/30 as a percentage?",
+   "choices": [
+    "10.00%",
+    "20.00%",
+    "13.33%",
+    "16.67%"
+   ],
+   "answer": 1,
+   "explanation": "6/30 = 0.2000 = 20.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 6/30 as a decimal?",
+   "choices": [
+    "0.2000",
+    "0.1000",
+    "0.1333",
+    "0.1667"
+   ],
+   "answer": 0,
+   "explanation": "6/30 = 0.2000 = 20.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 7/30 as a percentage?",
+   "choices": [
+    "13.33%",
+    "16.67%",
+    "20.00%",
+    "23.33%"
+   ],
+   "answer": 3,
+   "explanation": "7/30 = 0.2333 = 23.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 7/30 as a decimal?",
+   "choices": [
+    "0.2333",
+    "0.1333",
+    "0.1667",
+    "0.2000"
+   ],
+   "answer": 0,
+   "explanation": "7/30 = 0.2333 = 23.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 8/30 as a percentage?",
+   "choices": [
+    "16.67%",
+    "26.67%",
+    "20.00%",
+    "23.33%"
+   ],
+   "answer": 1,
+   "explanation": "8/30 = 0.2667 = 26.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 8/30 as a decimal?",
+   "choices": [
+    "0.1667",
+    "0.2667",
+    "0.2000",
+    "0.2333"
+   ],
+   "answer": 1,
+   "explanation": "8/30 = 0.2667 = 26.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 9/30 as a percentage?",
+   "choices": [
+    "30.00%",
+    "20.00%",
+    "23.33%",
+    "26.67%"
+   ],
+   "answer": 0,
+   "explanation": "9/30 = 0.3000 = 30.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 9/30 as a decimal?",
+   "choices": [
+    "0.2000",
+    "0.3000",
+    "0.2333",
+    "0.2667"
+   ],
+   "answer": 1,
+   "explanation": "9/30 = 0.3000 = 30.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 10/30 as a percentage?",
+   "choices": [
+    "33.33%",
+    "23.33%",
+    "26.67%",
+    "30.00%"
+   ],
+   "answer": 0,
+   "explanation": "10/30 = 0.3333 = 33.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 10/30 as a decimal?",
+   "choices": [
+    "0.2333",
+    "0.3333",
+    "0.2667",
+    "0.3000"
+   ],
+   "answer": 1,
+   "explanation": "10/30 = 0.3333 = 33.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 11/30 as a percentage?",
+   "choices": [
+    "26.67%",
+    "30.00%",
+    "33.33%",
+    "36.67%"
+   ],
+   "answer": 3,
+   "explanation": "11/30 = 0.3667 = 36.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 11/30 as a decimal?",
+   "choices": [
+    "0.2667",
+    "0.3000",
+    "0.3333",
+    "0.3667"
+   ],
+   "answer": 3,
+   "explanation": "11/30 = 0.3667 = 36.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 12/30 as a percentage?",
+   "choices": [
+    "30.00%",
+    "40.00%",
+    "33.33%",
+    "36.67%"
+   ],
+   "answer": 1,
+   "explanation": "12/30 = 0.4000 = 40.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 12/30 as a decimal?",
+   "choices": [
+    "0.3000",
+    "0.3333",
+    "0.3667",
+    "0.4000"
+   ],
+   "answer": 3,
+   "explanation": "12/30 = 0.4000 = 40.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 13/30 as a percentage?",
+   "choices": [
+    "43.33%",
+    "33.33%",
+    "36.67%",
+    "40.00%"
+   ],
+   "answer": 0,
+   "explanation": "13/30 = 0.4333 = 43.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 13/30 as a decimal?",
+   "choices": [
+    "0.4333",
+    "0.3333",
+    "0.3667",
+    "0.4000"
+   ],
+   "answer": 0,
+   "explanation": "13/30 = 0.4333 = 43.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 14/30 as a percentage?",
+   "choices": [
+    "36.67%",
+    "40.00%",
+    "43.33%",
+    "46.67%"
+   ],
+   "answer": 3,
+   "explanation": "14/30 = 0.4667 = 46.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 14/30 as a decimal?",
+   "choices": [
+    "0.3667",
+    "0.4000",
+    "0.4333",
+    "0.4667"
+   ],
+   "answer": 3,
+   "explanation": "14/30 = 0.4667 = 46.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 15/30 as a percentage?",
+   "choices": [
+    "40.00%",
+    "43.33%",
+    "46.67%",
+    "50.00%"
+   ],
+   "answer": 3,
+   "explanation": "15/30 = 0.5000 = 50.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 15/30 as a decimal?",
+   "choices": [
+    "0.4000",
+    "0.4333",
+    "0.5000",
+    "0.4667"
+   ],
+   "answer": 2,
+   "explanation": "15/30 = 0.5000 = 50.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 16/30 as a percentage?",
+   "choices": [
+    "43.33%",
+    "53.33%",
+    "46.67%",
+    "50.00%"
+   ],
+   "answer": 1,
+   "explanation": "16/30 = 0.5333 = 53.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 16/30 as a decimal?",
+   "choices": [
+    "0.4333",
+    "0.4667",
+    "0.5000",
+    "0.5333"
+   ],
+   "answer": 3,
+   "explanation": "16/30 = 0.5333 = 53.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 17/30 as a percentage?",
+   "choices": [
+    "46.67%",
+    "50.00%",
+    "53.33%",
+    "56.67%"
+   ],
+   "answer": 3,
+   "explanation": "17/30 = 0.5667 = 56.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 17/30 as a decimal?",
+   "choices": [
+    "0.4667",
+    "0.5667",
+    "0.5000",
+    "0.5333"
+   ],
+   "answer": 1,
+   "explanation": "17/30 = 0.5667 = 56.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 18/30 as a percentage?",
+   "choices": [
+    "50.00%",
+    "53.33%",
+    "56.67%",
+    "60.00%"
+   ],
+   "answer": 3,
+   "explanation": "18/30 = 0.6000 = 60.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 18/30 as a decimal?",
+   "choices": [
+    "0.5000",
+    "0.5333",
+    "0.5667",
+    "0.6000"
+   ],
+   "answer": 3,
+   "explanation": "18/30 = 0.6000 = 60.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 19/30 as a percentage?",
+   "choices": [
+    "53.33%",
+    "56.67%",
+    "60.00%",
+    "63.33%"
+   ],
+   "answer": 3,
+   "explanation": "19/30 = 0.6333 = 63.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 19/30 as a decimal?",
+   "choices": [
+    "0.5333",
+    "0.5667",
+    "0.6333",
+    "0.6000"
+   ],
+   "answer": 2,
+   "explanation": "19/30 = 0.6333 = 63.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 20/30 as a percentage?",
+   "choices": [
+    "56.67%",
+    "60.00%",
+    "63.33%",
+    "66.67%"
+   ],
+   "answer": 3,
+   "explanation": "20/30 = 0.6667 = 66.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 20/30 as a decimal?",
+   "choices": [
+    "0.6667",
+    "0.5667",
+    "0.6000",
+    "0.6333"
+   ],
+   "answer": 0,
+   "explanation": "20/30 = 0.6667 = 66.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 21/30 as a percentage?",
+   "choices": [
+    "60.00%",
+    "63.33%",
+    "66.67%",
+    "70.00%"
+   ],
+   "answer": 3,
+   "explanation": "21/30 = 0.7000 = 70.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 21/30 as a decimal?",
+   "choices": [
+    "0.7000",
+    "0.6000",
+    "0.6333",
+    "0.6667"
+   ],
+   "answer": 0,
+   "explanation": "21/30 = 0.7000 = 70.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 22/30 as a percentage?",
+   "choices": [
+    "63.33%",
+    "73.33%",
+    "66.67%",
+    "70.00%"
+   ],
+   "answer": 1,
+   "explanation": "22/30 = 0.7333 = 73.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 22/30 as a decimal?",
+   "choices": [
+    "0.6333",
+    "0.6667",
+    "0.7000",
+    "0.7333"
+   ],
+   "answer": 3,
+   "explanation": "22/30 = 0.7333 = 73.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 23/30 as a percentage?",
+   "choices": [
+    "76.67%",
+    "66.67%",
+    "70.00%",
+    "73.33%"
+   ],
+   "answer": 0,
+   "explanation": "23/30 = 0.7667 = 76.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 23/30 as a decimal?",
+   "choices": [
+    "0.6667",
+    "0.7000",
+    "0.7333",
+    "0.7667"
+   ],
+   "answer": 3,
+   "explanation": "23/30 = 0.7667 = 76.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 24/30 as a percentage?",
+   "choices": [
+    "80.00%",
+    "70.00%",
+    "73.33%",
+    "76.67%"
+   ],
+   "answer": 0,
+   "explanation": "24/30 = 0.8000 = 80.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 24/30 as a decimal?",
+   "choices": [
+    "0.7000",
+    "0.8000",
+    "0.7333",
+    "0.7667"
+   ],
+   "answer": 1,
+   "explanation": "24/30 = 0.8000 = 80.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 25/30 as a percentage?",
+   "choices": [
+    "73.33%",
+    "83.33%",
+    "76.67%",
+    "80.00%"
+   ],
+   "answer": 1,
+   "explanation": "25/30 = 0.8333 = 83.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 25/30 as a decimal?",
+   "choices": [
+    "0.7333",
+    "0.8333",
+    "0.7667",
+    "0.8000"
+   ],
+   "answer": 1,
+   "explanation": "25/30 = 0.8333 = 83.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 26/30 as a percentage?",
+   "choices": [
+    "76.67%",
+    "80.00%",
+    "83.33%",
+    "86.67%"
+   ],
+   "answer": 3,
+   "explanation": "26/30 = 0.8667 = 86.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 26/30 as a decimal?",
+   "choices": [
+    "0.7667",
+    "0.8667",
+    "0.8000",
+    "0.8333"
+   ],
+   "answer": 1,
+   "explanation": "26/30 = 0.8667 = 86.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 27/30 as a percentage?",
+   "choices": [
+    "90.00%",
+    "80.00%",
+    "83.33%",
+    "86.67%"
+   ],
+   "answer": 0,
+   "explanation": "27/30 = 0.9000 = 90.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 27/30 as a decimal?",
+   "choices": [
+    "0.8000",
+    "0.9000",
+    "0.8333",
+    "0.8667"
+   ],
+   "answer": 1,
+   "explanation": "27/30 = 0.9000 = 90.00%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 28/30 as a percentage?",
+   "choices": [
+    "93.33%",
+    "83.33%",
+    "86.67%",
+    "90.00%"
+   ],
+   "answer": 0,
+   "explanation": "28/30 = 0.9333 = 93.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 28/30 as a decimal?",
+   "choices": [
+    "0.8333",
+    "0.9333",
+    "0.8667",
+    "0.9000"
+   ],
+   "answer": 1,
+   "explanation": "28/30 = 0.9333 = 93.33%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 29/30 as a percentage?",
+   "choices": [
+    "86.67%",
+    "90.00%",
+    "96.67%",
+    "93.33%"
+   ],
+   "answer": 2,
+   "explanation": "29/30 = 0.9667 = 96.67%",
+   "source": "X/30"
+  },
+  {
+   "question": "What is 29/30 as a decimal?",
+   "choices": [
+    "0.8667",
+    "0.9000",
+    "0.9667",
+    "0.9333"
+   ],
+   "answer": 2,
+   "explanation": "29/30 = 0.9667 = 96.67%",
+   "source": "X/30"
+  }
+ ]
+}

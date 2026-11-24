@@ -1,0 +1,628 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/27 as a percentage?",
+   "choices": [
+    "7.41%",
+    "11.11%",
+    "14.81%",
+    "3.70%"
+   ],
+   "answer": 3,
+   "explanation": "1/27 = 0.0370 = 3.70%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 1/27 as a decimal?",
+   "choices": [
+    "0.0741",
+    "0.1111",
+    "0.0370",
+    "0.1481"
+   ],
+   "answer": 2,
+   "explanation": "1/27 = 0.0370 = 3.70%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 2/27 as a percentage?",
+   "choices": [
+    "3.70%",
+    "11.11%",
+    "14.81%",
+    "7.41%"
+   ],
+   "answer": 3,
+   "explanation": "2/27 = 0.0741 = 7.41%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 2/27 as a decimal?",
+   "choices": [
+    "0.0370",
+    "0.1111",
+    "0.1481",
+    "0.0741"
+   ],
+   "answer": 3,
+   "explanation": "2/27 = 0.0741 = 7.41%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 3/27 as a percentage?",
+   "choices": [
+    "3.70%",
+    "7.41%",
+    "11.11%",
+    "14.81%"
+   ],
+   "answer": 2,
+   "explanation": "3/27 = 0.1111 = 11.11%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 3/27 as a decimal?",
+   "choices": [
+    "0.0370",
+    "0.0741",
+    "0.1481",
+    "0.1111"
+   ],
+   "answer": 3,
+   "explanation": "3/27 = 0.1111 = 11.11%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 4/27 as a percentage?",
+   "choices": [
+    "3.70%",
+    "7.41%",
+    "11.11%",
+    "14.81%"
+   ],
+   "answer": 3,
+   "explanation": "4/27 = 0.1481 = 14.81%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 4/27 as a decimal?",
+   "choices": [
+    "0.0370",
+    "0.0741",
+    "0.1481",
+    "0.1111"
+   ],
+   "answer": 2,
+   "explanation": "4/27 = 0.1481 = 14.81%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 5/27 as a percentage?",
+   "choices": [
+    "7.41%",
+    "11.11%",
+    "14.81%",
+    "18.52%"
+   ],
+   "answer": 3,
+   "explanation": "5/27 = 0.1852 = 18.52%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 5/27 as a decimal?",
+   "choices": [
+    "0.0741",
+    "0.1852",
+    "0.1111",
+    "0.1481"
+   ],
+   "answer": 1,
+   "explanation": "5/27 = 0.1852 = 18.52%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 6/27 as a percentage?",
+   "choices": [
+    "11.11%",
+    "14.81%",
+    "18.52%",
+    "22.22%"
+   ],
+   "answer": 3,
+   "explanation": "6/27 = 0.2222 = 22.22%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 6/27 as a decimal?",
+   "choices": [
+    "0.1111",
+    "0.2222",
+    "0.1481",
+    "0.1852"
+   ],
+   "answer": 1,
+   "explanation": "6/27 = 0.2222 = 22.22%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 7/27 as a percentage?",
+   "choices": [
+    "14.81%",
+    "18.52%",
+    "22.22%",
+    "25.93%"
+   ],
+   "answer": 3,
+   "explanation": "7/27 = 0.2593 = 25.93%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 7/27 as a decimal?",
+   "choices": [
+    "0.1481",
+    "0.1852",
+    "0.2222",
+    "0.2593"
+   ],
+   "answer": 3,
+   "explanation": "7/27 = 0.2593 = 25.93%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 8/27 as a percentage?",
+   "choices": [
+    "29.63%",
+    "18.52%",
+    "22.22%",
+    "25.93%"
+   ],
+   "answer": 0,
+   "explanation": "8/27 = 0.2963 = 29.63%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 8/27 as a decimal?",
+   "choices": [
+    "0.1852",
+    "0.2222",
+    "0.2593",
+    "0.2963"
+   ],
+   "answer": 3,
+   "explanation": "8/27 = 0.2963 = 29.63%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 9/27 as a percentage?",
+   "choices": [
+    "33.33%",
+    "22.22%",
+    "25.93%",
+    "29.63%"
+   ],
+   "answer": 0,
+   "explanation": "9/27 = 0.3333 = 33.33%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 9/27 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.2222",
+    "0.2593",
+    "0.2963"
+   ],
+   "answer": 0,
+   "explanation": "9/27 = 0.3333 = 33.33%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 10/27 as a percentage?",
+   "choices": [
+    "37.04%",
+    "25.93%",
+    "29.63%",
+    "33.33%"
+   ],
+   "answer": 0,
+   "explanation": "10/27 = 0.3704 = 37.04%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 10/27 as a decimal?",
+   "choices": [
+    "0.2593",
+    "0.2963",
+    "0.3333",
+    "0.3704"
+   ],
+   "answer": 3,
+   "explanation": "10/27 = 0.3704 = 37.04%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 11/27 as a percentage?",
+   "choices": [
+    "29.63%",
+    "33.33%",
+    "40.74%",
+    "37.04%"
+   ],
+   "answer": 2,
+   "explanation": "11/27 = 0.4074 = 40.74%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 11/27 as a decimal?",
+   "choices": [
+    "0.2963",
+    "0.3333",
+    "0.4074",
+    "0.3704"
+   ],
+   "answer": 2,
+   "explanation": "11/27 = 0.4074 = 40.74%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 12/27 as a percentage?",
+   "choices": [
+    "33.33%",
+    "37.04%",
+    "40.74%",
+    "44.44%"
+   ],
+   "answer": 3,
+   "explanation": "12/27 = 0.4444 = 44.44%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 12/27 as a decimal?",
+   "choices": [
+    "0.4444",
+    "0.3333",
+    "0.3704",
+    "0.4074"
+   ],
+   "answer": 0,
+   "explanation": "12/27 = 0.4444 = 44.44%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 13/27 as a percentage?",
+   "choices": [
+    "37.04%",
+    "40.74%",
+    "44.44%",
+    "48.15%"
+   ],
+   "answer": 3,
+   "explanation": "13/27 = 0.4815 = 48.15%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 13/27 as a decimal?",
+   "choices": [
+    "0.3704",
+    "0.4074",
+    "0.4815",
+    "0.4444"
+   ],
+   "answer": 2,
+   "explanation": "13/27 = 0.4815 = 48.15%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 14/27 as a percentage?",
+   "choices": [
+    "51.85%",
+    "40.74%",
+    "44.44%",
+    "48.15%"
+   ],
+   "answer": 0,
+   "explanation": "14/27 = 0.5185 = 51.85%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 14/27 as a decimal?",
+   "choices": [
+    "0.4074",
+    "0.4444",
+    "0.4815",
+    "0.5185"
+   ],
+   "answer": 3,
+   "explanation": "14/27 = 0.5185 = 51.85%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 15/27 as a percentage?",
+   "choices": [
+    "44.44%",
+    "48.15%",
+    "55.56%",
+    "51.85%"
+   ],
+   "answer": 2,
+   "explanation": "15/27 = 0.5556 = 55.56%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 15/27 as a decimal?",
+   "choices": [
+    "0.4444",
+    "0.5556",
+    "0.4815",
+    "0.5185"
+   ],
+   "answer": 1,
+   "explanation": "15/27 = 0.5556 = 55.56%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 16/27 as a percentage?",
+   "choices": [
+    "48.15%",
+    "59.26%",
+    "51.85%",
+    "55.56%"
+   ],
+   "answer": 1,
+   "explanation": "16/27 = 0.5926 = 59.26%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 16/27 as a decimal?",
+   "choices": [
+    "0.4815",
+    "0.5185",
+    "0.5926",
+    "0.5556"
+   ],
+   "answer": 2,
+   "explanation": "16/27 = 0.5926 = 59.26%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 17/27 as a percentage?",
+   "choices": [
+    "62.96%",
+    "51.85%",
+    "55.56%",
+    "59.26%"
+   ],
+   "answer": 0,
+   "explanation": "17/27 = 0.6296 = 62.96%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 17/27 as a decimal?",
+   "choices": [
+    "0.5185",
+    "0.5556",
+    "0.5926",
+    "0.6296"
+   ],
+   "answer": 3,
+   "explanation": "17/27 = 0.6296 = 62.96%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 18/27 as a percentage?",
+   "choices": [
+    "55.56%",
+    "59.26%",
+    "66.67%",
+    "62.96%"
+   ],
+   "answer": 2,
+   "explanation": "18/27 = 0.6667 = 66.67%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 18/27 as a decimal?",
+   "choices": [
+    "0.5556",
+    "0.5926",
+    "0.6296",
+    "0.6667"
+   ],
+   "answer": 3,
+   "explanation": "18/27 = 0.6667 = 66.67%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 19/27 as a percentage?",
+   "choices": [
+    "70.37%",
+    "59.26%",
+    "62.96%",
+    "66.67%"
+   ],
+   "answer": 0,
+   "explanation": "19/27 = 0.7037 = 70.37%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 19/27 as a decimal?",
+   "choices": [
+    "0.5926",
+    "0.6296",
+    "0.7037",
+    "0.6667"
+   ],
+   "answer": 2,
+   "explanation": "19/27 = 0.7037 = 70.37%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 20/27 as a percentage?",
+   "choices": [
+    "62.96%",
+    "66.67%",
+    "74.07%",
+    "70.37%"
+   ],
+   "answer": 2,
+   "explanation": "20/27 = 0.7407 = 74.07%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 20/27 as a decimal?",
+   "choices": [
+    "0.6296",
+    "0.6667",
+    "0.7037",
+    "0.7407"
+   ],
+   "answer": 3,
+   "explanation": "20/27 = 0.7407 = 74.07%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 21/27 as a percentage?",
+   "choices": [
+    "66.67%",
+    "77.78%",
+    "70.37%",
+    "74.07%"
+   ],
+   "answer": 1,
+   "explanation": "21/27 = 0.7778 = 77.78%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 21/27 as a decimal?",
+   "choices": [
+    "0.7778",
+    "0.6667",
+    "0.7037",
+    "0.7407"
+   ],
+   "answer": 0,
+   "explanation": "21/27 = 0.7778 = 77.78%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 22/27 as a percentage?",
+   "choices": [
+    "70.37%",
+    "74.07%",
+    "81.48%",
+    "77.78%"
+   ],
+   "answer": 2,
+   "explanation": "22/27 = 0.8148 = 81.48%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 22/27 as a decimal?",
+   "choices": [
+    "0.8148",
+    "0.7037",
+    "0.7407",
+    "0.7778"
+   ],
+   "answer": 0,
+   "explanation": "22/27 = 0.8148 = 81.48%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 23/27 as a percentage?",
+   "choices": [
+    "74.07%",
+    "85.19%",
+    "77.78%",
+    "81.48%"
+   ],
+   "answer": 1,
+   "explanation": "23/27 = 0.8519 = 85.19%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 23/27 as a decimal?",
+   "choices": [
+    "0.8519",
+    "0.7407",
+    "0.7778",
+    "0.8148"
+   ],
+   "answer": 0,
+   "explanation": "23/27 = 0.8519 = 85.19%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 24/27 as a percentage?",
+   "choices": [
+    "77.78%",
+    "88.89%",
+    "81.48%",
+    "85.19%"
+   ],
+   "answer": 1,
+   "explanation": "24/27 = 0.8889 = 88.89%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 24/27 as a decimal?",
+   "choices": [
+    "0.7778",
+    "0.8148",
+    "0.8519",
+    "0.8889"
+   ],
+   "answer": 3,
+   "explanation": "24/27 = 0.8889 = 88.89%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 25/27 as a percentage?",
+   "choices": [
+    "81.48%",
+    "85.19%",
+    "88.89%",
+    "92.59%"
+   ],
+   "answer": 3,
+   "explanation": "25/27 = 0.9259 = 92.59%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 25/27 as a decimal?",
+   "choices": [
+    "0.8148",
+    "0.8519",
+    "0.9259",
+    "0.8889"
+   ],
+   "answer": 2,
+   "explanation": "25/27 = 0.9259 = 92.59%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 26/27 as a percentage?",
+   "choices": [
+    "96.30%",
+    "85.19%",
+    "88.89%",
+    "92.59%"
+   ],
+   "answer": 0,
+   "explanation": "26/27 = 0.9630 = 96.30%",
+   "source": "X/27"
+  },
+  {
+   "question": "What is 26/27 as a decimal?",
+   "choices": [
+    "0.8519",
+    "0.8889",
+    "0.9259",
+    "0.9630"
+   ],
+   "answer": 3,
+   "explanation": "26/27 = 0.9630 = 96.30%",
+   "source": "X/27"
+  }
+ ]
+}

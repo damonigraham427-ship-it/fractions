@@ -1,0 +1,316 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/14 as a percentage?",
+   "choices": [
+    "14.29%",
+    "7.14%",
+    "21.43%",
+    "28.57%"
+   ],
+   "answer": 1,
+   "explanation": "1/14 = 0.0714 = 7.14%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 1/14 as a decimal?",
+   "choices": [
+    "0.0714",
+    "0.1429",
+    "0.2143",
+    "0.2857"
+   ],
+   "answer": 0,
+   "explanation": "1/14 = 0.0714 = 7.14%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 2/14 as a percentage?",
+   "choices": [
+    "7.14%",
+    "21.43%",
+    "14.29%",
+    "28.57%"
+   ],
+   "answer": 2,
+   "explanation": "2/14 = 0.1429 = 14.29%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 2/14 as a decimal?",
+   "choices": [
+    "0.0714",
+    "0.2143",
+    "0.2857",
+    "0.1429"
+   ],
+   "answer": 3,
+   "explanation": "2/14 = 0.1429 = 14.29%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 3/14 as a percentage?",
+   "choices": [
+    "7.14%",
+    "21.43%",
+    "14.29%",
+    "28.57%"
+   ],
+   "answer": 1,
+   "explanation": "3/14 = 0.2143 = 21.43%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 3/14 as a decimal?",
+   "choices": [
+    "0.2143",
+    "0.0714",
+    "0.1429",
+    "0.2857"
+   ],
+   "answer": 0,
+   "explanation": "3/14 = 0.2143 = 21.43%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 4/14 as a percentage?",
+   "choices": [
+    "7.14%",
+    "14.29%",
+    "28.57%",
+    "21.43%"
+   ],
+   "answer": 2,
+   "explanation": "4/14 = 0.2857 = 28.57%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 4/14 as a decimal?",
+   "choices": [
+    "0.0714",
+    "0.1429",
+    "0.2143",
+    "0.2857"
+   ],
+   "answer": 3,
+   "explanation": "4/14 = 0.2857 = 28.57%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 5/14 as a percentage?",
+   "choices": [
+    "14.29%",
+    "21.43%",
+    "28.57%",
+    "35.71%"
+   ],
+   "answer": 3,
+   "explanation": "5/14 = 0.3571 = 35.71%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 5/14 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.2143",
+    "0.3571",
+    "0.2857"
+   ],
+   "answer": 2,
+   "explanation": "5/14 = 0.3571 = 35.71%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 6/14 as a percentage?",
+   "choices": [
+    "21.43%",
+    "28.57%",
+    "42.86%",
+    "35.71%"
+   ],
+   "answer": 2,
+   "explanation": "6/14 = 0.4286 = 42.86%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 6/14 as a decimal?",
+   "choices": [
+    "0.2143",
+    "0.4286",
+    "0.2857",
+    "0.3571"
+   ],
+   "answer": 1,
+   "explanation": "6/14 = 0.4286 = 42.86%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 7/14 as a percentage?",
+   "choices": [
+    "50.00%",
+    "28.57%",
+    "35.71%",
+    "42.86%"
+   ],
+   "answer": 0,
+   "explanation": "7/14 = 0.5000 = 50.00%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 7/14 as a decimal?",
+   "choices": [
+    "0.2857",
+    "0.3571",
+    "0.4286",
+    "0.5000"
+   ],
+   "answer": 3,
+   "explanation": "7/14 = 0.5000 = 50.00%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 8/14 as a percentage?",
+   "choices": [
+    "35.71%",
+    "42.86%",
+    "50.00%",
+    "57.14%"
+   ],
+   "answer": 3,
+   "explanation": "8/14 = 0.5714 = 57.14%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 8/14 as a decimal?",
+   "choices": [
+    "0.3571",
+    "0.4286",
+    "0.5000",
+    "0.5714"
+   ],
+   "answer": 3,
+   "explanation": "8/14 = 0.5714 = 57.14%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 9/14 as a percentage?",
+   "choices": [
+    "64.29%",
+    "42.86%",
+    "50.00%",
+    "57.14%"
+   ],
+   "answer": 0,
+   "explanation": "9/14 = 0.6429 = 64.29%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 9/14 as a decimal?",
+   "choices": [
+    "0.4286",
+    "0.5000",
+    "0.6429",
+    "0.5714"
+   ],
+   "answer": 2,
+   "explanation": "9/14 = 0.6429 = 64.29%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 10/14 as a percentage?",
+   "choices": [
+    "50.00%",
+    "57.14%",
+    "64.29%",
+    "71.43%"
+   ],
+   "answer": 3,
+   "explanation": "10/14 = 0.7143 = 71.43%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 10/14 as a decimal?",
+   "choices": [
+    "0.5000",
+    "0.5714",
+    "0.7143",
+    "0.6429"
+   ],
+   "answer": 2,
+   "explanation": "10/14 = 0.7143 = 71.43%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 11/14 as a percentage?",
+   "choices": [
+    "57.14%",
+    "78.57%",
+    "64.29%",
+    "71.43%"
+   ],
+   "answer": 1,
+   "explanation": "11/14 = 0.7857 = 78.57%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 11/14 as a decimal?",
+   "choices": [
+    "0.5714",
+    "0.6429",
+    "0.7143",
+    "0.7857"
+   ],
+   "answer": 3,
+   "explanation": "11/14 = 0.7857 = 78.57%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 12/14 as a percentage?",
+   "choices": [
+    "85.71%",
+    "64.29%",
+    "71.43%",
+    "78.57%"
+   ],
+   "answer": 0,
+   "explanation": "12/14 = 0.8571 = 85.71%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 12/14 as a decimal?",
+   "choices": [
+    "0.6429",
+    "0.7143",
+    "0.8571",
+    "0.7857"
+   ],
+   "answer": 2,
+   "explanation": "12/14 = 0.8571 = 85.71%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 13/14 as a percentage?",
+   "choices": [
+    "92.86%",
+    "71.43%",
+    "78.57%",
+    "85.71%"
+   ],
+   "answer": 0,
+   "explanation": "13/14 = 0.9286 = 92.86%",
+   "source": "X/14"
+  },
+  {
+   "question": "What is 13/14 as a decimal?",
+   "choices": [
+    "0.7143",
+    "0.9286",
+    "0.7857",
+    "0.8571"
+   ],
+   "answer": 1,
+   "explanation": "13/14 = 0.9286 = 92.86%",
+   "source": "X/14"
+  }
+ ]
+}

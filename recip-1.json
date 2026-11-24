@@ -1,0 +1,724 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/6 as a percentage?",
+   "choices": [
+    "8.33%",
+    "5.26%",
+    "4.76%",
+    "16.67%"
+   ],
+   "answer": 3,
+   "explanation": "1/6 = 0.1667 = 16.67%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/6 as a decimal?",
+   "choices": [
+    "0.1667",
+    "0.1250",
+    "0.0526",
+    "0.1111"
+   ],
+   "answer": 0,
+   "explanation": "1/6 = 0.1667 = 16.67%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 16.67%?",
+   "choices": [
+    "1/13",
+    "1/24",
+    "1/6",
+    "1/14"
+   ],
+   "answer": 2,
+   "explanation": "1/6 = 0.1667 = 16.67%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/7 as a percentage?",
+   "choices": [
+    "8.33%",
+    "14.29%",
+    "4.55%",
+    "3.57%"
+   ],
+   "answer": 1,
+   "explanation": "1/7 = 0.1429 = 14.29%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/7 as a decimal?",
+   "choices": [
+    "0.0909",
+    "0.0833",
+    "0.0667",
+    "0.1429"
+   ],
+   "answer": 3,
+   "explanation": "1/7 = 0.1429 = 14.29%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 14.29%?",
+   "choices": [
+    "1/7",
+    "1/26",
+    "1/22",
+    "1/23"
+   ],
+   "answer": 0,
+   "explanation": "1/7 = 0.1429 = 14.29%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/8 as a percentage?",
+   "choices": [
+    "4.76%",
+    "6.67%",
+    "11.11%",
+    "12.50%"
+   ],
+   "answer": 3,
+   "explanation": "1/8 = 0.1250 = 12.50%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/8 as a decimal?",
+   "choices": [
+    "0.0588",
+    "0.0714",
+    "0.0625",
+    "0.1250"
+   ],
+   "answer": 3,
+   "explanation": "1/8 = 0.1250 = 12.50%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 12.50%?",
+   "choices": [
+    "1/26",
+    "1/8",
+    "1/15",
+    "1/23"
+   ],
+   "answer": 1,
+   "explanation": "1/8 = 0.1250 = 12.50%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/9 as a percentage?",
+   "choices": [
+    "4.35%",
+    "4.55%",
+    "11.11%",
+    "6.67%"
+   ],
+   "answer": 2,
+   "explanation": "1/9 = 0.1111 = 11.11%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/9 as a decimal?",
+   "choices": [
+    "0.1667",
+    "0.0370",
+    "0.0588",
+    "0.1111"
+   ],
+   "answer": 3,
+   "explanation": "1/9 = 0.1111 = 11.11%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 11.11%?",
+   "choices": [
+    "1/13",
+    "1/8",
+    "1/9",
+    "1/14"
+   ],
+   "answer": 2,
+   "explanation": "1/9 = 0.1111 = 11.11%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/11 as a percentage?",
+   "choices": [
+    "9.09%",
+    "16.67%",
+    "8.33%",
+    "6.67%"
+   ],
+   "answer": 0,
+   "explanation": "1/11 = 0.0909 = 9.09%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/11 as a decimal?",
+   "choices": [
+    "0.1111",
+    "0.0455",
+    "0.0556",
+    "0.0909"
+   ],
+   "answer": 3,
+   "explanation": "1/11 = 0.0909 = 9.09%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 9.09%?",
+   "choices": [
+    "1/23",
+    "1/28",
+    "1/9",
+    "1/11"
+   ],
+   "answer": 3,
+   "explanation": "1/11 = 0.0909 = 9.09%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/12 as a percentage?",
+   "choices": [
+    "8.33%",
+    "6.67%",
+    "5.56%",
+    "11.11%"
+   ],
+   "answer": 0,
+   "explanation": "1/12 = 0.0833 = 8.33%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/12 as a decimal?",
+   "choices": [
+    "0.0909",
+    "0.0833",
+    "0.0385",
+    "0.0769"
+   ],
+   "answer": 1,
+   "explanation": "1/12 = 0.0833 = 8.33%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 8.33%?",
+   "choices": [
+    "1/7",
+    "1/17",
+    "1/23",
+    "1/12"
+   ],
+   "answer": 3,
+   "explanation": "1/12 = 0.0833 = 8.33%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/13 as a percentage?",
+   "choices": [
+    "3.70%",
+    "7.69%",
+    "6.67%",
+    "9.09%"
+   ],
+   "answer": 1,
+   "explanation": "1/13 = 0.0769 = 7.69%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/13 as a decimal?",
+   "choices": [
+    "0.0556",
+    "0.0435",
+    "0.1429",
+    "0.0769"
+   ],
+   "answer": 3,
+   "explanation": "1/13 = 0.0769 = 7.69%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 7.69%?",
+   "choices": [
+    "1/15",
+    "1/11",
+    "1/13",
+    "1/27"
+   ],
+   "answer": 2,
+   "explanation": "1/13 = 0.0769 = 7.69%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/14 as a percentage?",
+   "choices": [
+    "9.09%",
+    "7.14%",
+    "4.35%",
+    "8.33%"
+   ],
+   "answer": 1,
+   "explanation": "1/14 = 0.0714 = 7.14%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/14 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.1250",
+    "0.0714",
+    "0.0357"
+   ],
+   "answer": 2,
+   "explanation": "1/14 = 0.0714 = 7.14%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 7.14%?",
+   "choices": [
+    "1/26",
+    "1/14",
+    "1/21",
+    "1/13"
+   ],
+   "answer": 1,
+   "explanation": "1/14 = 0.0714 = 7.14%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/15 as a percentage?",
+   "choices": [
+    "6.67%",
+    "5.56%",
+    "3.57%",
+    "4.17%"
+   ],
+   "answer": 0,
+   "explanation": "1/15 = 0.0667 = 6.67%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/15 as a decimal?",
+   "choices": [
+    "0.0667",
+    "0.0455",
+    "0.0476",
+    "0.0588"
+   ],
+   "answer": 0,
+   "explanation": "1/15 = 0.0667 = 6.67%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 6.67%?",
+   "choices": [
+    "1/14",
+    "1/22",
+    "1/15",
+    "1/24"
+   ],
+   "answer": 2,
+   "explanation": "1/15 = 0.0667 = 6.67%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/16 as a percentage?",
+   "choices": [
+    "9.09%",
+    "6.25%",
+    "6.67%",
+    "4.35%"
+   ],
+   "answer": 1,
+   "explanation": "1/16 = 0.0625 = 6.25%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/16 as a decimal?",
+   "choices": [
+    "0.0588",
+    "0.0667",
+    "0.0385",
+    "0.0625"
+   ],
+   "answer": 3,
+   "explanation": "1/16 = 0.0625 = 6.25%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 6.25%?",
+   "choices": [
+    "1/16",
+    "1/18",
+    "1/22",
+    "1/6"
+   ],
+   "answer": 0,
+   "explanation": "1/16 = 0.0625 = 6.25%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/17 as a percentage?",
+   "choices": [
+    "7.14%",
+    "11.11%",
+    "4.76%",
+    "5.88%"
+   ],
+   "answer": 3,
+   "explanation": "1/17 = 0.0588 = 5.88%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/17 as a decimal?",
+   "choices": [
+    "0.0833",
+    "0.0526",
+    "0.0588",
+    "0.0370"
+   ],
+   "answer": 2,
+   "explanation": "1/17 = 0.0588 = 5.88%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 5.88%?",
+   "choices": [
+    "1/17",
+    "1/16",
+    "1/22",
+    "1/24"
+   ],
+   "answer": 0,
+   "explanation": "1/17 = 0.0588 = 5.88%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/18 as a percentage?",
+   "choices": [
+    "16.67%",
+    "4.55%",
+    "5.56%",
+    "8.33%"
+   ],
+   "answer": 2,
+   "explanation": "1/18 = 0.0556 = 5.56%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/18 as a decimal?",
+   "choices": [
+    "0.0476",
+    "0.1111",
+    "0.0556",
+    "0.0526"
+   ],
+   "answer": 2,
+   "explanation": "1/18 = 0.0556 = 5.56%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 5.56%?",
+   "choices": [
+    "1/18",
+    "1/27",
+    "1/11",
+    "1/16"
+   ],
+   "answer": 0,
+   "explanation": "1/18 = 0.0556 = 5.56%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/19 as a percentage?",
+   "choices": [
+    "12.50%",
+    "5.26%",
+    "7.69%",
+    "5.56%"
+   ],
+   "answer": 1,
+   "explanation": "1/19 = 0.0526 = 5.26%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/19 as a decimal?",
+   "choices": [
+    "0.0385",
+    "0.0526",
+    "0.1250",
+    "0.0588"
+   ],
+   "answer": 1,
+   "explanation": "1/19 = 0.0526 = 5.26%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 5.26%?",
+   "choices": [
+    "1/14",
+    "1/16",
+    "1/19",
+    "1/28"
+   ],
+   "answer": 2,
+   "explanation": "1/19 = 0.0526 = 5.26%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/21 as a percentage?",
+   "choices": [
+    "8.33%",
+    "7.14%",
+    "4.76%",
+    "9.09%"
+   ],
+   "answer": 2,
+   "explanation": "1/21 = 0.0476 = 4.76%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/21 as a decimal?",
+   "choices": [
+    "0.0476",
+    "0.0667",
+    "0.0769",
+    "0.0417"
+   ],
+   "answer": 0,
+   "explanation": "1/21 = 0.0476 = 4.76%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 4.76%?",
+   "choices": [
+    "1/9",
+    "1/15",
+    "1/21",
+    "1/28"
+   ],
+   "answer": 2,
+   "explanation": "1/21 = 0.0476 = 4.76%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/22 as a percentage?",
+   "choices": [
+    "9.09%",
+    "4.55%",
+    "8.33%",
+    "11.11%"
+   ],
+   "answer": 1,
+   "explanation": "1/22 = 0.0455 = 4.55%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/22 as a decimal?",
+   "choices": [
+    "0.0385",
+    "0.1667",
+    "0.0370",
+    "0.0455"
+   ],
+   "answer": 3,
+   "explanation": "1/22 = 0.0455 = 4.55%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 4.55%?",
+   "choices": [
+    "1/26",
+    "1/27",
+    "1/22",
+    "1/13"
+   ],
+   "answer": 2,
+   "explanation": "1/22 = 0.0455 = 4.55%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/23 as a percentage?",
+   "choices": [
+    "3.85%",
+    "4.35%",
+    "5.88%",
+    "8.33%"
+   ],
+   "answer": 1,
+   "explanation": "1/23 = 0.0435 = 4.35%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/23 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.0435",
+    "0.0833",
+    "0.0909"
+   ],
+   "answer": 1,
+   "explanation": "1/23 = 0.0435 = 4.35%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 4.35%?",
+   "choices": [
+    "1/23",
+    "1/28",
+    "1/7",
+    "1/27"
+   ],
+   "answer": 0,
+   "explanation": "1/23 = 0.0435 = 4.35%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/24 as a percentage?",
+   "choices": [
+    "3.57%",
+    "4.35%",
+    "16.67%",
+    "4.17%"
+   ],
+   "answer": 3,
+   "explanation": "1/24 = 0.0417 = 4.17%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/24 as a decimal?",
+   "choices": [
+    "0.0526",
+    "0.0417",
+    "0.0909",
+    "0.0769"
+   ],
+   "answer": 1,
+   "explanation": "1/24 = 0.0417 = 4.17%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 4.17%?",
+   "choices": [
+    "1/24",
+    "1/18",
+    "1/11",
+    "1/7"
+   ],
+   "answer": 0,
+   "explanation": "1/24 = 0.0417 = 4.17%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/26 as a percentage?",
+   "choices": [
+    "3.70%",
+    "4.17%",
+    "3.85%",
+    "4.35%"
+   ],
+   "answer": 2,
+   "explanation": "1/26 = 0.0385 = 3.85%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/26 as a decimal?",
+   "choices": [
+    "0.0417",
+    "0.0357",
+    "0.0588",
+    "0.0385"
+   ],
+   "answer": 3,
+   "explanation": "1/26 = 0.0385 = 3.85%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 3.85%?",
+   "choices": [
+    "1/6",
+    "1/26",
+    "1/9",
+    "1/13"
+   ],
+   "answer": 1,
+   "explanation": "1/26 = 0.0385 = 3.85%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/27 as a percentage?",
+   "choices": [
+    "3.70%",
+    "3.57%",
+    "9.09%",
+    "5.56%"
+   ],
+   "answer": 0,
+   "explanation": "1/27 = 0.0370 = 3.70%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/27 as a decimal?",
+   "choices": [
+    "0.0385",
+    "0.1667",
+    "0.0370",
+    "0.0667"
+   ],
+   "answer": 2,
+   "explanation": "1/27 = 0.0370 = 3.70%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 3.70%?",
+   "choices": [
+    "1/27",
+    "1/21",
+    "1/9",
+    "1/18"
+   ],
+   "answer": 0,
+   "explanation": "1/27 = 0.0370 = 3.70%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/28 as a percentage?",
+   "choices": [
+    "3.85%",
+    "7.14%",
+    "14.29%",
+    "3.57%"
+   ],
+   "answer": 3,
+   "explanation": "1/28 = 0.0357 = 3.57%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "What is 1/28 as a decimal?",
+   "choices": [
+    "0.0476",
+    "0.0357",
+    "0.0556",
+    "0.0417"
+   ],
+   "answer": 1,
+   "explanation": "1/28 = 0.0357 = 3.57%",
+   "source": "1/x Reciprocals"
+  },
+  {
+   "question": "Which fraction equals 3.57%?",
+   "choices": [
+    "1/28",
+    "1/17",
+    "1/27",
+    "1/14"
+   ],
+   "answer": 0,
+   "explanation": "1/28 = 0.0357 = 3.57%",
+   "source": "1/x Reciprocals"
+  }
+ ]
+}

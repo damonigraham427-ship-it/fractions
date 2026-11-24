@@ -1,0 +1,148 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/7 as a percentage?",
+   "choices": [
+    "28.57%",
+    "14.29%",
+    "42.86%",
+    "57.14%"
+   ],
+   "answer": 1,
+   "explanation": "1/7 = 0.1429 = 14.29%",
+   "source": "X/7"
+  },
+  {
+   "question": "What is 1/7 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.2857",
+    "0.4286",
+    "0.5714"
+   ],
+   "answer": 0,
+   "explanation": "1/7 = 0.1429 = 14.29%",
+   "source": "X/7"
+  },
+  {
+   "question": "What is 2/7 as a percentage?",
+   "choices": [
+    "14.29%",
+    "42.86%",
+    "28.57%",
+    "57.14%"
+   ],
+   "answer": 2,
+   "explanation": "2/7 = 0.2857 = 28.57%",
+   "source": "X/7"
+  },
+  {
+   "question": "What is 2/7 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.4286",
+    "0.2857",
+    "0.5714"
+   ],
+   "answer": 2,
+   "explanation": "2/7 = 0.2857 = 28.57%",
+   "source": "X/7"
+  },
+  {
+   "question": "What is 3/7 as a percentage?",
+   "choices": [
+    "42.86%",
+    "14.29%",
+    "28.57%",
+    "57.14%"
+   ],
+   "answer": 0,
+   "explanation": "3/7 = 0.4286 = 42.86%",
+   "source": "X/7"
+  },
+  {
+   "question": "What is 3/7 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.4286",
+    "0.2857",
+    "0.5714"
+   ],
+   "answer": 1,
+   "explanation": "3/7 = 0.4286 = 42.86%",
+   "source": "X/7"
+  },
+  {
+   "question": "What is 4/7 as a percentage?",
+   "choices": [
+    "57.14%",
+    "14.29%",
+    "28.57%",
+    "42.86%"
+   ],
+   "answer": 0,
+   "explanation": "4/7 = 0.5714 = 57.14%",
+   "source": "X/7"
+  },
+  {
+   "question": "What is 4/7 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.5714",
+    "0.2857",
+    "0.4286"
+   ],
+   "answer": 1,
+   "explanation": "4/7 = 0.5714 = 57.14%",
+   "source": "X/7"
+  },
+  {
+   "question": "What is 5/7 as a percentage?",
+   "choices": [
+    "28.57%",
+    "71.43%",
+    "42.86%",
+    "57.14%"
+   ],
+   "answer": 1,
+   "explanation": "5/7 = 0.7143 = 71.43%",
+   "source": "X/7"
+  },
+  {
+   "question": "What is 5/7 as a decimal?",
+   "choices": [
+    "0.2857",
+    "0.4286",
+    "0.7143",
+    "0.5714"
+   ],
+   "answer": 2,
+   "explanation": "5/7 = 0.7143 = 71.43%",
+   "source": "X/7"
+  },
+  {
+   "question": "What is 6/7 as a percentage?",
+   "choices": [
+    "42.86%",
+    "57.14%",
+    "85.71%",
+    "71.43%"
+   ],
+   "answer": 2,
+   "explanation": "6/7 = 0.8571 = 85.71%",
+   "source": "X/7"
+  },
+  {
+   "question": "What is 6/7 as a decimal?",
+   "choices": [
+    "0.4286",
+    "0.8571",
+    "0.5714",
+    "0.7143"
+   ],
+   "answer": 1,
+   "explanation": "6/7 = 0.8571 = 85.71%",
+   "source": "X/7"
+  }
+ ]
+}

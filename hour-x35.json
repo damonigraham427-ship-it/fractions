@@ -1,0 +1,820 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/35 as a percentage?",
+   "choices": [
+    "5.71%",
+    "2.86%",
+    "8.57%",
+    "11.43%"
+   ],
+   "answer": 1,
+   "explanation": "1/35 = 0.0286 = 2.86%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 1/35 as a decimal?",
+   "choices": [
+    "0.0571",
+    "0.0857",
+    "0.1143",
+    "0.0286"
+   ],
+   "answer": 3,
+   "explanation": "1/35 = 0.0286 = 2.86%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 2/35 as a percentage?",
+   "choices": [
+    "2.86%",
+    "8.57%",
+    "5.71%",
+    "11.43%"
+   ],
+   "answer": 2,
+   "explanation": "2/35 = 0.0571 = 5.71%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 2/35 as a decimal?",
+   "choices": [
+    "0.0286",
+    "0.0857",
+    "0.1143",
+    "0.0571"
+   ],
+   "answer": 3,
+   "explanation": "2/35 = 0.0571 = 5.71%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 3/35 as a percentage?",
+   "choices": [
+    "2.86%",
+    "8.57%",
+    "5.71%",
+    "11.43%"
+   ],
+   "answer": 1,
+   "explanation": "3/35 = 0.0857 = 8.57%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 3/35 as a decimal?",
+   "choices": [
+    "0.0857",
+    "0.0286",
+    "0.0571",
+    "0.1143"
+   ],
+   "answer": 0,
+   "explanation": "3/35 = 0.0857 = 8.57%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 4/35 as a percentage?",
+   "choices": [
+    "2.86%",
+    "5.71%",
+    "8.57%",
+    "11.43%"
+   ],
+   "answer": 3,
+   "explanation": "4/35 = 0.1143 = 11.43%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 4/35 as a decimal?",
+   "choices": [
+    "0.0286",
+    "0.1143",
+    "0.0571",
+    "0.0857"
+   ],
+   "answer": 1,
+   "explanation": "4/35 = 0.1143 = 11.43%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 5/35 as a percentage?",
+   "choices": [
+    "5.71%",
+    "8.57%",
+    "11.43%",
+    "14.29%"
+   ],
+   "answer": 3,
+   "explanation": "5/35 = 0.1429 = 14.29%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 5/35 as a decimal?",
+   "choices": [
+    "0.0571",
+    "0.0857",
+    "0.1429",
+    "0.1143"
+   ],
+   "answer": 2,
+   "explanation": "5/35 = 0.1429 = 14.29%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 6/35 as a percentage?",
+   "choices": [
+    "8.57%",
+    "17.14%",
+    "11.43%",
+    "14.29%"
+   ],
+   "answer": 1,
+   "explanation": "6/35 = 0.1714 = 17.14%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 6/35 as a decimal?",
+   "choices": [
+    "0.1714",
+    "0.0857",
+    "0.1143",
+    "0.1429"
+   ],
+   "answer": 0,
+   "explanation": "6/35 = 0.1714 = 17.14%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 7/35 as a percentage?",
+   "choices": [
+    "11.43%",
+    "14.29%",
+    "17.14%",
+    "20.00%"
+   ],
+   "answer": 3,
+   "explanation": "7/35 = 0.2000 = 20.00%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 7/35 as a decimal?",
+   "choices": [
+    "0.2000",
+    "0.1143",
+    "0.1429",
+    "0.1714"
+   ],
+   "answer": 0,
+   "explanation": "7/35 = 0.2000 = 20.00%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 8/35 as a percentage?",
+   "choices": [
+    "22.86%",
+    "14.29%",
+    "17.14%",
+    "20.00%"
+   ],
+   "answer": 0,
+   "explanation": "8/35 = 0.2286 = 22.86%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 8/35 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.1714",
+    "0.2286",
+    "0.2000"
+   ],
+   "answer": 2,
+   "explanation": "8/35 = 0.2286 = 22.86%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 9/35 as a percentage?",
+   "choices": [
+    "17.14%",
+    "25.71%",
+    "20.00%",
+    "22.86%"
+   ],
+   "answer": 1,
+   "explanation": "9/35 = 0.2571 = 25.71%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 9/35 as a decimal?",
+   "choices": [
+    "0.1714",
+    "0.2571",
+    "0.2000",
+    "0.2286"
+   ],
+   "answer": 1,
+   "explanation": "9/35 = 0.2571 = 25.71%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 10/35 as a percentage?",
+   "choices": [
+    "20.00%",
+    "28.57%",
+    "22.86%",
+    "25.71%"
+   ],
+   "answer": 1,
+   "explanation": "10/35 = 0.2857 = 28.57%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 10/35 as a decimal?",
+   "choices": [
+    "0.2857",
+    "0.2000",
+    "0.2286",
+    "0.2571"
+   ],
+   "answer": 0,
+   "explanation": "10/35 = 0.2857 = 28.57%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 11/35 as a percentage?",
+   "choices": [
+    "31.43%",
+    "22.86%",
+    "25.71%",
+    "28.57%"
+   ],
+   "answer": 0,
+   "explanation": "11/35 = 0.3143 = 31.43%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 11/35 as a decimal?",
+   "choices": [
+    "0.2286",
+    "0.3143",
+    "0.2571",
+    "0.2857"
+   ],
+   "answer": 1,
+   "explanation": "11/35 = 0.3143 = 31.43%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 12/35 as a percentage?",
+   "choices": [
+    "34.29%",
+    "25.71%",
+    "28.57%",
+    "31.43%"
+   ],
+   "answer": 0,
+   "explanation": "12/35 = 0.3429 = 34.29%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 12/35 as a decimal?",
+   "choices": [
+    "0.2571",
+    "0.2857",
+    "0.3143",
+    "0.3429"
+   ],
+   "answer": 3,
+   "explanation": "12/35 = 0.3429 = 34.29%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 13/35 as a percentage?",
+   "choices": [
+    "28.57%",
+    "31.43%",
+    "34.29%",
+    "37.14%"
+   ],
+   "answer": 3,
+   "explanation": "13/35 = 0.3714 = 37.14%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 13/35 as a decimal?",
+   "choices": [
+    "0.2857",
+    "0.3143",
+    "0.3429",
+    "0.3714"
+   ],
+   "answer": 3,
+   "explanation": "13/35 = 0.3714 = 37.14%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 14/35 as a percentage?",
+   "choices": [
+    "40.00%",
+    "31.43%",
+    "34.29%",
+    "37.14%"
+   ],
+   "answer": 0,
+   "explanation": "14/35 = 0.4000 = 40.00%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 14/35 as a decimal?",
+   "choices": [
+    "0.3143",
+    "0.4000",
+    "0.3429",
+    "0.3714"
+   ],
+   "answer": 1,
+   "explanation": "14/35 = 0.4000 = 40.00%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 15/35 as a percentage?",
+   "choices": [
+    "34.29%",
+    "42.86%",
+    "37.14%",
+    "40.00%"
+   ],
+   "answer": 1,
+   "explanation": "15/35 = 0.4286 = 42.86%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 15/35 as a decimal?",
+   "choices": [
+    "0.3429",
+    "0.4286",
+    "0.3714",
+    "0.4000"
+   ],
+   "answer": 1,
+   "explanation": "15/35 = 0.4286 = 42.86%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 16/35 as a percentage?",
+   "choices": [
+    "37.14%",
+    "40.00%",
+    "42.86%",
+    "45.71%"
+   ],
+   "answer": 3,
+   "explanation": "16/35 = 0.4571 = 45.71%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 16/35 as a decimal?",
+   "choices": [
+    "0.3714",
+    "0.4571",
+    "0.4000",
+    "0.4286"
+   ],
+   "answer": 1,
+   "explanation": "16/35 = 0.4571 = 45.71%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 17/35 as a percentage?",
+   "choices": [
+    "40.00%",
+    "48.57%",
+    "42.86%",
+    "45.71%"
+   ],
+   "answer": 1,
+   "explanation": "17/35 = 0.4857 = 48.57%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 17/35 as a decimal?",
+   "choices": [
+    "0.4000",
+    "0.4286",
+    "0.4571",
+    "0.4857"
+   ],
+   "answer": 3,
+   "explanation": "17/35 = 0.4857 = 48.57%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 18/35 as a percentage?",
+   "choices": [
+    "42.86%",
+    "45.71%",
+    "51.43%",
+    "48.57%"
+   ],
+   "answer": 2,
+   "explanation": "18/35 = 0.5143 = 51.43%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 18/35 as a decimal?",
+   "choices": [
+    "0.4286",
+    "0.5143",
+    "0.4571",
+    "0.4857"
+   ],
+   "answer": 1,
+   "explanation": "18/35 = 0.5143 = 51.43%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 19/35 as a percentage?",
+   "choices": [
+    "45.71%",
+    "54.29%",
+    "48.57%",
+    "51.43%"
+   ],
+   "answer": 1,
+   "explanation": "19/35 = 0.5429 = 54.29%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 19/35 as a decimal?",
+   "choices": [
+    "0.4571",
+    "0.4857",
+    "0.5429",
+    "0.5143"
+   ],
+   "answer": 2,
+   "explanation": "19/35 = 0.5429 = 54.29%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 20/35 as a percentage?",
+   "choices": [
+    "57.14%",
+    "48.57%",
+    "51.43%",
+    "54.29%"
+   ],
+   "answer": 0,
+   "explanation": "20/35 = 0.5714 = 57.14%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 20/35 as a decimal?",
+   "choices": [
+    "0.4857",
+    "0.5143",
+    "0.5714",
+    "0.5429"
+   ],
+   "answer": 2,
+   "explanation": "20/35 = 0.5714 = 57.14%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 21/35 as a percentage?",
+   "choices": [
+    "51.43%",
+    "54.29%",
+    "60.00%",
+    "57.14%"
+   ],
+   "answer": 2,
+   "explanation": "21/35 = 0.6000 = 60.00%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 21/35 as a decimal?",
+   "choices": [
+    "0.6000",
+    "0.5143",
+    "0.5429",
+    "0.5714"
+   ],
+   "answer": 0,
+   "explanation": "21/35 = 0.6000 = 60.00%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 22/35 as a percentage?",
+   "choices": [
+    "54.29%",
+    "57.14%",
+    "60.00%",
+    "62.86%"
+   ],
+   "answer": 3,
+   "explanation": "22/35 = 0.6286 = 62.86%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 22/35 as a decimal?",
+   "choices": [
+    "0.5429",
+    "0.6286",
+    "0.5714",
+    "0.6000"
+   ],
+   "answer": 1,
+   "explanation": "22/35 = 0.6286 = 62.86%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 23/35 as a percentage?",
+   "choices": [
+    "57.14%",
+    "65.71%",
+    "60.00%",
+    "62.86%"
+   ],
+   "answer": 1,
+   "explanation": "23/35 = 0.6571 = 65.71%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 23/35 as a decimal?",
+   "choices": [
+    "0.5714",
+    "0.6000",
+    "0.6571",
+    "0.6286"
+   ],
+   "answer": 2,
+   "explanation": "23/35 = 0.6571 = 65.71%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 24/35 as a percentage?",
+   "choices": [
+    "60.00%",
+    "62.86%",
+    "65.71%",
+    "68.57%"
+   ],
+   "answer": 3,
+   "explanation": "24/35 = 0.6857 = 68.57%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 24/35 as a decimal?",
+   "choices": [
+    "0.6857",
+    "0.6000",
+    "0.6286",
+    "0.6571"
+   ],
+   "answer": 0,
+   "explanation": "24/35 = 0.6857 = 68.57%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 25/35 as a percentage?",
+   "choices": [
+    "62.86%",
+    "65.71%",
+    "71.43%",
+    "68.57%"
+   ],
+   "answer": 2,
+   "explanation": "25/35 = 0.7143 = 71.43%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 25/35 as a decimal?",
+   "choices": [
+    "0.6286",
+    "0.6571",
+    "0.7143",
+    "0.6857"
+   ],
+   "answer": 2,
+   "explanation": "25/35 = 0.7143 = 71.43%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 26/35 as a percentage?",
+   "choices": [
+    "74.29%",
+    "65.71%",
+    "68.57%",
+    "71.43%"
+   ],
+   "answer": 0,
+   "explanation": "26/35 = 0.7429 = 74.29%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 26/35 as a decimal?",
+   "choices": [
+    "0.6571",
+    "0.6857",
+    "0.7143",
+    "0.7429"
+   ],
+   "answer": 3,
+   "explanation": "26/35 = 0.7429 = 74.29%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 27/35 as a percentage?",
+   "choices": [
+    "68.57%",
+    "71.43%",
+    "77.14%",
+    "74.29%"
+   ],
+   "answer": 2,
+   "explanation": "27/35 = 0.7714 = 77.14%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 27/35 as a decimal?",
+   "choices": [
+    "0.6857",
+    "0.7714",
+    "0.7143",
+    "0.7429"
+   ],
+   "answer": 1,
+   "explanation": "27/35 = 0.7714 = 77.14%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 28/35 as a percentage?",
+   "choices": [
+    "71.43%",
+    "80.00%",
+    "74.29%",
+    "77.14%"
+   ],
+   "answer": 1,
+   "explanation": "28/35 = 0.8000 = 80.00%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 28/35 as a decimal?",
+   "choices": [
+    "0.7143",
+    "0.7429",
+    "0.8000",
+    "0.7714"
+   ],
+   "answer": 2,
+   "explanation": "28/35 = 0.8000 = 80.00%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 29/35 as a percentage?",
+   "choices": [
+    "74.29%",
+    "77.14%",
+    "82.86%",
+    "80.00%"
+   ],
+   "answer": 2,
+   "explanation": "29/35 = 0.8286 = 82.86%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 29/35 as a decimal?",
+   "choices": [
+    "0.8286",
+    "0.7429",
+    "0.7714",
+    "0.8000"
+   ],
+   "answer": 0,
+   "explanation": "29/35 = 0.8286 = 82.86%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 30/35 as a percentage?",
+   "choices": [
+    "85.71%",
+    "77.14%",
+    "80.00%",
+    "82.86%"
+   ],
+   "answer": 0,
+   "explanation": "30/35 = 0.8571 = 85.71%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 30/35 as a decimal?",
+   "choices": [
+    "0.7714",
+    "0.8000",
+    "0.8286",
+    "0.8571"
+   ],
+   "answer": 3,
+   "explanation": "30/35 = 0.8571 = 85.71%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 31/35 as a percentage?",
+   "choices": [
+    "80.00%",
+    "82.86%",
+    "85.71%",
+    "88.57%"
+   ],
+   "answer": 3,
+   "explanation": "31/35 = 0.8857 = 88.57%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 31/35 as a decimal?",
+   "choices": [
+    "0.8857",
+    "0.8000",
+    "0.8286",
+    "0.8571"
+   ],
+   "answer": 0,
+   "explanation": "31/35 = 0.8857 = 88.57%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 32/35 as a percentage?",
+   "choices": [
+    "82.86%",
+    "85.71%",
+    "88.57%",
+    "91.43%"
+   ],
+   "answer": 3,
+   "explanation": "32/35 = 0.9143 = 91.43%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 32/35 as a decimal?",
+   "choices": [
+    "0.8286",
+    "0.8571",
+    "0.9143",
+    "0.8857"
+   ],
+   "answer": 2,
+   "explanation": "32/35 = 0.9143 = 91.43%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 33/35 as a percentage?",
+   "choices": [
+    "85.71%",
+    "94.29%",
+    "88.57%",
+    "91.43%"
+   ],
+   "answer": 1,
+   "explanation": "33/35 = 0.9429 = 94.29%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 33/35 as a decimal?",
+   "choices": [
+    "0.8571",
+    "0.8857",
+    "0.9143",
+    "0.9429"
+   ],
+   "answer": 3,
+   "explanation": "33/35 = 0.9429 = 94.29%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 34/35 as a percentage?",
+   "choices": [
+    "88.57%",
+    "91.43%",
+    "94.29%",
+    "97.14%"
+   ],
+   "answer": 3,
+   "explanation": "34/35 = 0.9714 = 97.14%",
+   "source": "X/35"
+  },
+  {
+   "question": "What is 34/35 as a decimal?",
+   "choices": [
+    "0.9714",
+    "0.8857",
+    "0.9143",
+    "0.9429"
+   ],
+   "answer": 0,
+   "explanation": "34/35 = 0.9714 = 97.14%",
+   "source": "X/35"
+  }
+ ]
+}

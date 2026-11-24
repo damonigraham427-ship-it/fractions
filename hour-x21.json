@@ -1,0 +1,484 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/21 as a percentage?",
+   "choices": [
+    "9.52%",
+    "14.29%",
+    "4.76%",
+    "19.05%"
+   ],
+   "answer": 2,
+   "explanation": "1/21 = 0.0476 = 4.76%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 1/21 as a decimal?",
+   "choices": [
+    "0.0952",
+    "0.1429",
+    "0.1905",
+    "0.0476"
+   ],
+   "answer": 3,
+   "explanation": "1/21 = 0.0476 = 4.76%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 2/21 as a percentage?",
+   "choices": [
+    "4.76%",
+    "9.52%",
+    "14.29%",
+    "19.05%"
+   ],
+   "answer": 1,
+   "explanation": "2/21 = 0.0952 = 9.52%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 2/21 as a decimal?",
+   "choices": [
+    "0.0476",
+    "0.0952",
+    "0.1429",
+    "0.1905"
+   ],
+   "answer": 1,
+   "explanation": "2/21 = 0.0952 = 9.52%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 3/21 as a percentage?",
+   "choices": [
+    "14.29%",
+    "4.76%",
+    "9.52%",
+    "19.05%"
+   ],
+   "answer": 0,
+   "explanation": "3/21 = 0.1429 = 14.29%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 3/21 as a decimal?",
+   "choices": [
+    "0.0476",
+    "0.1429",
+    "0.0952",
+    "0.1905"
+   ],
+   "answer": 1,
+   "explanation": "3/21 = 0.1429 = 14.29%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 4/21 as a percentage?",
+   "choices": [
+    "19.05%",
+    "4.76%",
+    "9.52%",
+    "14.29%"
+   ],
+   "answer": 0,
+   "explanation": "4/21 = 0.1905 = 19.05%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 4/21 as a decimal?",
+   "choices": [
+    "0.1905",
+    "0.0476",
+    "0.0952",
+    "0.1429"
+   ],
+   "answer": 0,
+   "explanation": "4/21 = 0.1905 = 19.05%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 5/21 as a percentage?",
+   "choices": [
+    "23.81%",
+    "9.52%",
+    "14.29%",
+    "19.05%"
+   ],
+   "answer": 0,
+   "explanation": "5/21 = 0.2381 = 23.81%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 5/21 as a decimal?",
+   "choices": [
+    "0.0952",
+    "0.1429",
+    "0.1905",
+    "0.2381"
+   ],
+   "answer": 3,
+   "explanation": "5/21 = 0.2381 = 23.81%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 6/21 as a percentage?",
+   "choices": [
+    "14.29%",
+    "19.05%",
+    "23.81%",
+    "28.57%"
+   ],
+   "answer": 3,
+   "explanation": "6/21 = 0.2857 = 28.57%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 6/21 as a decimal?",
+   "choices": [
+    "0.1429",
+    "0.1905",
+    "0.2857",
+    "0.2381"
+   ],
+   "answer": 2,
+   "explanation": "6/21 = 0.2857 = 28.57%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 7/21 as a percentage?",
+   "choices": [
+    "33.33%",
+    "19.05%",
+    "23.81%",
+    "28.57%"
+   ],
+   "answer": 0,
+   "explanation": "7/21 = 0.3333 = 33.33%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 7/21 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.1905",
+    "0.2381",
+    "0.2857"
+   ],
+   "answer": 0,
+   "explanation": "7/21 = 0.3333 = 33.33%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 8/21 as a percentage?",
+   "choices": [
+    "23.81%",
+    "38.10%",
+    "28.57%",
+    "33.33%"
+   ],
+   "answer": 1,
+   "explanation": "8/21 = 0.3810 = 38.10%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 8/21 as a decimal?",
+   "choices": [
+    "0.3810",
+    "0.2381",
+    "0.2857",
+    "0.3333"
+   ],
+   "answer": 0,
+   "explanation": "8/21 = 0.3810 = 38.10%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 9/21 as a percentage?",
+   "choices": [
+    "28.57%",
+    "33.33%",
+    "42.86%",
+    "38.10%"
+   ],
+   "answer": 2,
+   "explanation": "9/21 = 0.4286 = 42.86%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 9/21 as a decimal?",
+   "choices": [
+    "0.2857",
+    "0.3333",
+    "0.4286",
+    "0.3810"
+   ],
+   "answer": 2,
+   "explanation": "9/21 = 0.4286 = 42.86%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 10/21 as a percentage?",
+   "choices": [
+    "47.62%",
+    "33.33%",
+    "38.10%",
+    "42.86%"
+   ],
+   "answer": 0,
+   "explanation": "10/21 = 0.4762 = 47.62%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 10/21 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.3810",
+    "0.4286",
+    "0.4762"
+   ],
+   "answer": 3,
+   "explanation": "10/21 = 0.4762 = 47.62%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 11/21 as a percentage?",
+   "choices": [
+    "38.10%",
+    "52.38%",
+    "42.86%",
+    "47.62%"
+   ],
+   "answer": 1,
+   "explanation": "11/21 = 0.5238 = 52.38%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 11/21 as a decimal?",
+   "choices": [
+    "0.3810",
+    "0.4286",
+    "0.4762",
+    "0.5238"
+   ],
+   "answer": 3,
+   "explanation": "11/21 = 0.5238 = 52.38%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 12/21 as a percentage?",
+   "choices": [
+    "42.86%",
+    "57.14%",
+    "47.62%",
+    "52.38%"
+   ],
+   "answer": 1,
+   "explanation": "12/21 = 0.5714 = 57.14%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 12/21 as a decimal?",
+   "choices": [
+    "0.5714",
+    "0.4286",
+    "0.4762",
+    "0.5238"
+   ],
+   "answer": 0,
+   "explanation": "12/21 = 0.5714 = 57.14%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 13/21 as a percentage?",
+   "choices": [
+    "47.62%",
+    "61.90%",
+    "52.38%",
+    "57.14%"
+   ],
+   "answer": 1,
+   "explanation": "13/21 = 0.6190 = 61.90%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 13/21 as a decimal?",
+   "choices": [
+    "0.4762",
+    "0.5238",
+    "0.5714",
+    "0.6190"
+   ],
+   "answer": 3,
+   "explanation": "13/21 = 0.6190 = 61.90%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 14/21 as a percentage?",
+   "choices": [
+    "52.38%",
+    "57.14%",
+    "66.67%",
+    "61.90%"
+   ],
+   "answer": 2,
+   "explanation": "14/21 = 0.6667 = 66.67%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 14/21 as a decimal?",
+   "choices": [
+    "0.5238",
+    "0.6667",
+    "0.5714",
+    "0.6190"
+   ],
+   "answer": 1,
+   "explanation": "14/21 = 0.6667 = 66.67%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 15/21 as a percentage?",
+   "choices": [
+    "57.14%",
+    "61.90%",
+    "66.67%",
+    "71.43%"
+   ],
+   "answer": 3,
+   "explanation": "15/21 = 0.7143 = 71.43%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 15/21 as a decimal?",
+   "choices": [
+    "0.7143",
+    "0.5714",
+    "0.6190",
+    "0.6667"
+   ],
+   "answer": 0,
+   "explanation": "15/21 = 0.7143 = 71.43%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 16/21 as a percentage?",
+   "choices": [
+    "61.90%",
+    "66.67%",
+    "76.19%",
+    "71.43%"
+   ],
+   "answer": 2,
+   "explanation": "16/21 = 0.7619 = 76.19%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 16/21 as a decimal?",
+   "choices": [
+    "0.6190",
+    "0.7619",
+    "0.6667",
+    "0.7143"
+   ],
+   "answer": 1,
+   "explanation": "16/21 = 0.7619 = 76.19%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 17/21 as a percentage?",
+   "choices": [
+    "66.67%",
+    "80.95%",
+    "71.43%",
+    "76.19%"
+   ],
+   "answer": 1,
+   "explanation": "17/21 = 0.8095 = 80.95%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 17/21 as a decimal?",
+   "choices": [
+    "0.8095",
+    "0.6667",
+    "0.7143",
+    "0.7619"
+   ],
+   "answer": 0,
+   "explanation": "17/21 = 0.8095 = 80.95%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 18/21 as a percentage?",
+   "choices": [
+    "71.43%",
+    "76.19%",
+    "80.95%",
+    "85.71%"
+   ],
+   "answer": 3,
+   "explanation": "18/21 = 0.8571 = 85.71%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 18/21 as a decimal?",
+   "choices": [
+    "0.7143",
+    "0.7619",
+    "0.8571",
+    "0.8095"
+   ],
+   "answer": 2,
+   "explanation": "18/21 = 0.8571 = 85.71%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 19/21 as a percentage?",
+   "choices": [
+    "76.19%",
+    "80.95%",
+    "90.48%",
+    "85.71%"
+   ],
+   "answer": 2,
+   "explanation": "19/21 = 0.9048 = 90.48%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 19/21 as a decimal?",
+   "choices": [
+    "0.7619",
+    "0.8095",
+    "0.8571",
+    "0.9048"
+   ],
+   "answer": 3,
+   "explanation": "19/21 = 0.9048 = 90.48%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 20/21 as a percentage?",
+   "choices": [
+    "95.24%",
+    "80.95%",
+    "85.71%",
+    "90.48%"
+   ],
+   "answer": 0,
+   "explanation": "20/21 = 0.9524 = 95.24%",
+   "source": "X/21"
+  },
+  {
+   "question": "What is 20/21 as a decimal?",
+   "choices": [
+    "0.8095",
+    "0.8571",
+    "0.9524",
+    "0.9048"
+   ],
+   "answer": 2,
+   "explanation": "20/21 = 0.9524 = 95.24%",
+   "source": "X/21"
+  }
+ ]
+}

@@ -1,0 +1,724 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/31 as a percentage?",
+   "choices": [
+    "3.23%",
+    "6.45%",
+    "9.68%",
+    "12.90%"
+   ],
+   "answer": 0,
+   "explanation": "1/31 = 0.0323 = 3.23%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 1/31 as a decimal?",
+   "choices": [
+    "0.0645",
+    "0.0968",
+    "0.1290",
+    "0.0323"
+   ],
+   "answer": 3,
+   "explanation": "1/31 = 0.0323 = 3.23%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 2/31 as a percentage?",
+   "choices": [
+    "3.23%",
+    "6.45%",
+    "9.68%",
+    "12.90%"
+   ],
+   "answer": 1,
+   "explanation": "2/31 = 0.0645 = 6.45%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 2/31 as a decimal?",
+   "choices": [
+    "0.0645",
+    "0.0323",
+    "0.0968",
+    "0.1290"
+   ],
+   "answer": 0,
+   "explanation": "2/31 = 0.0645 = 6.45%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 3/31 as a percentage?",
+   "choices": [
+    "3.23%",
+    "9.68%",
+    "6.45%",
+    "12.90%"
+   ],
+   "answer": 1,
+   "explanation": "3/31 = 0.0968 = 9.68%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 3/31 as a decimal?",
+   "choices": [
+    "0.0968",
+    "0.0323",
+    "0.0645",
+    "0.1290"
+   ],
+   "answer": 0,
+   "explanation": "3/31 = 0.0968 = 9.68%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 4/31 as a percentage?",
+   "choices": [
+    "3.23%",
+    "6.45%",
+    "12.90%",
+    "9.68%"
+   ],
+   "answer": 2,
+   "explanation": "4/31 = 0.1290 = 12.90%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 4/31 as a decimal?",
+   "choices": [
+    "0.0323",
+    "0.1290",
+    "0.0645",
+    "0.0968"
+   ],
+   "answer": 1,
+   "explanation": "4/31 = 0.1290 = 12.90%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 5/31 as a percentage?",
+   "choices": [
+    "16.13%",
+    "6.45%",
+    "9.68%",
+    "12.90%"
+   ],
+   "answer": 0,
+   "explanation": "5/31 = 0.1613 = 16.13%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 5/31 as a decimal?",
+   "choices": [
+    "0.0645",
+    "0.1613",
+    "0.0968",
+    "0.1290"
+   ],
+   "answer": 1,
+   "explanation": "5/31 = 0.1613 = 16.13%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 6/31 as a percentage?",
+   "choices": [
+    "19.35%",
+    "9.68%",
+    "12.90%",
+    "16.13%"
+   ],
+   "answer": 0,
+   "explanation": "6/31 = 0.1935 = 19.35%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 6/31 as a decimal?",
+   "choices": [
+    "0.0968",
+    "0.1290",
+    "0.1935",
+    "0.1613"
+   ],
+   "answer": 2,
+   "explanation": "6/31 = 0.1935 = 19.35%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 7/31 as a percentage?",
+   "choices": [
+    "22.58%",
+    "12.90%",
+    "16.13%",
+    "19.35%"
+   ],
+   "answer": 0,
+   "explanation": "7/31 = 0.2258 = 22.58%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 7/31 as a decimal?",
+   "choices": [
+    "0.1290",
+    "0.2258",
+    "0.1613",
+    "0.1935"
+   ],
+   "answer": 1,
+   "explanation": "7/31 = 0.2258 = 22.58%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 8/31 as a percentage?",
+   "choices": [
+    "25.81%",
+    "16.13%",
+    "19.35%",
+    "22.58%"
+   ],
+   "answer": 0,
+   "explanation": "8/31 = 0.2581 = 25.81%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 8/31 as a decimal?",
+   "choices": [
+    "0.1613",
+    "0.1935",
+    "0.2581",
+    "0.2258"
+   ],
+   "answer": 2,
+   "explanation": "8/31 = 0.2581 = 25.81%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 9/31 as a percentage?",
+   "choices": [
+    "19.35%",
+    "22.58%",
+    "25.81%",
+    "29.03%"
+   ],
+   "answer": 3,
+   "explanation": "9/31 = 0.2903 = 29.03%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 9/31 as a decimal?",
+   "choices": [
+    "0.1935",
+    "0.2258",
+    "0.2903",
+    "0.2581"
+   ],
+   "answer": 2,
+   "explanation": "9/31 = 0.2903 = 29.03%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 10/31 as a percentage?",
+   "choices": [
+    "22.58%",
+    "25.81%",
+    "29.03%",
+    "32.26%"
+   ],
+   "answer": 3,
+   "explanation": "10/31 = 0.3226 = 32.26%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 10/31 as a decimal?",
+   "choices": [
+    "0.2258",
+    "0.3226",
+    "0.2581",
+    "0.2903"
+   ],
+   "answer": 1,
+   "explanation": "10/31 = 0.3226 = 32.26%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 11/31 as a percentage?",
+   "choices": [
+    "25.81%",
+    "29.03%",
+    "35.48%",
+    "32.26%"
+   ],
+   "answer": 2,
+   "explanation": "11/31 = 0.3548 = 35.48%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 11/31 as a decimal?",
+   "choices": [
+    "0.3548",
+    "0.2581",
+    "0.2903",
+    "0.3226"
+   ],
+   "answer": 0,
+   "explanation": "11/31 = 0.3548 = 35.48%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 12/31 as a percentage?",
+   "choices": [
+    "29.03%",
+    "38.71%",
+    "32.26%",
+    "35.48%"
+   ],
+   "answer": 1,
+   "explanation": "12/31 = 0.3871 = 38.71%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 12/31 as a decimal?",
+   "choices": [
+    "0.3871",
+    "0.2903",
+    "0.3226",
+    "0.3548"
+   ],
+   "answer": 0,
+   "explanation": "12/31 = 0.3871 = 38.71%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 13/31 as a percentage?",
+   "choices": [
+    "32.26%",
+    "41.94%",
+    "35.48%",
+    "38.71%"
+   ],
+   "answer": 1,
+   "explanation": "13/31 = 0.4194 = 41.94%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 13/31 as a decimal?",
+   "choices": [
+    "0.3226",
+    "0.3548",
+    "0.3871",
+    "0.4194"
+   ],
+   "answer": 3,
+   "explanation": "13/31 = 0.4194 = 41.94%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 14/31 as a percentage?",
+   "choices": [
+    "35.48%",
+    "45.16%",
+    "38.71%",
+    "41.94%"
+   ],
+   "answer": 1,
+   "explanation": "14/31 = 0.4516 = 45.16%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 14/31 as a decimal?",
+   "choices": [
+    "0.3548",
+    "0.3871",
+    "0.4516",
+    "0.4194"
+   ],
+   "answer": 2,
+   "explanation": "14/31 = 0.4516 = 45.16%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 15/31 as a percentage?",
+   "choices": [
+    "38.71%",
+    "41.94%",
+    "45.16%",
+    "48.39%"
+   ],
+   "answer": 3,
+   "explanation": "15/31 = 0.4839 = 48.39%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 15/31 as a decimal?",
+   "choices": [
+    "0.3871",
+    "0.4839",
+    "0.4194",
+    "0.4516"
+   ],
+   "answer": 1,
+   "explanation": "15/31 = 0.4839 = 48.39%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 16/31 as a percentage?",
+   "choices": [
+    "51.61%",
+    "41.94%",
+    "45.16%",
+    "48.39%"
+   ],
+   "answer": 0,
+   "explanation": "16/31 = 0.5161 = 51.61%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 16/31 as a decimal?",
+   "choices": [
+    "0.4194",
+    "0.4516",
+    "0.5161",
+    "0.4839"
+   ],
+   "answer": 2,
+   "explanation": "16/31 = 0.5161 = 51.61%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 17/31 as a percentage?",
+   "choices": [
+    "54.84%",
+    "45.16%",
+    "48.39%",
+    "51.61%"
+   ],
+   "answer": 0,
+   "explanation": "17/31 = 0.5484 = 54.84%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 17/31 as a decimal?",
+   "choices": [
+    "0.4516",
+    "0.4839",
+    "0.5484",
+    "0.5161"
+   ],
+   "answer": 2,
+   "explanation": "17/31 = 0.5484 = 54.84%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 18/31 as a percentage?",
+   "choices": [
+    "58.06%",
+    "48.39%",
+    "51.61%",
+    "54.84%"
+   ],
+   "answer": 0,
+   "explanation": "18/31 = 0.5806 = 58.06%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 18/31 as a decimal?",
+   "choices": [
+    "0.4839",
+    "0.5161",
+    "0.5806",
+    "0.5484"
+   ],
+   "answer": 2,
+   "explanation": "18/31 = 0.5806 = 58.06%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 19/31 as a percentage?",
+   "choices": [
+    "51.61%",
+    "54.84%",
+    "61.29%",
+    "58.06%"
+   ],
+   "answer": 2,
+   "explanation": "19/31 = 0.6129 = 61.29%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 19/31 as a decimal?",
+   "choices": [
+    "0.5161",
+    "0.5484",
+    "0.5806",
+    "0.6129"
+   ],
+   "answer": 3,
+   "explanation": "19/31 = 0.6129 = 61.29%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 20/31 as a percentage?",
+   "choices": [
+    "54.84%",
+    "64.52%",
+    "58.06%",
+    "61.29%"
+   ],
+   "answer": 1,
+   "explanation": "20/31 = 0.6452 = 64.52%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 20/31 as a decimal?",
+   "choices": [
+    "0.5484",
+    "0.6452",
+    "0.5806",
+    "0.6129"
+   ],
+   "answer": 1,
+   "explanation": "20/31 = 0.6452 = 64.52%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 21/31 as a percentage?",
+   "choices": [
+    "58.06%",
+    "61.29%",
+    "67.74%",
+    "64.52%"
+   ],
+   "answer": 2,
+   "explanation": "21/31 = 0.6774 = 67.74%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 21/31 as a decimal?",
+   "choices": [
+    "0.6774",
+    "0.5806",
+    "0.6129",
+    "0.6452"
+   ],
+   "answer": 0,
+   "explanation": "21/31 = 0.6774 = 67.74%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 22/31 as a percentage?",
+   "choices": [
+    "61.29%",
+    "70.97%",
+    "64.52%",
+    "67.74%"
+   ],
+   "answer": 1,
+   "explanation": "22/31 = 0.7097 = 70.97%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 22/31 as a decimal?",
+   "choices": [
+    "0.7097",
+    "0.6129",
+    "0.6452",
+    "0.6774"
+   ],
+   "answer": 0,
+   "explanation": "22/31 = 0.7097 = 70.97%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 23/31 as a percentage?",
+   "choices": [
+    "64.52%",
+    "67.74%",
+    "74.19%",
+    "70.97%"
+   ],
+   "answer": 2,
+   "explanation": "23/31 = 0.7419 = 74.19%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 23/31 as a decimal?",
+   "choices": [
+    "0.6452",
+    "0.6774",
+    "0.7097",
+    "0.7419"
+   ],
+   "answer": 3,
+   "explanation": "23/31 = 0.7419 = 74.19%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 24/31 as a percentage?",
+   "choices": [
+    "67.74%",
+    "70.97%",
+    "77.42%",
+    "74.19%"
+   ],
+   "answer": 2,
+   "explanation": "24/31 = 0.7742 = 77.42%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 24/31 as a decimal?",
+   "choices": [
+    "0.6774",
+    "0.7097",
+    "0.7742",
+    "0.7419"
+   ],
+   "answer": 2,
+   "explanation": "24/31 = 0.7742 = 77.42%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 25/31 as a percentage?",
+   "choices": [
+    "70.97%",
+    "74.19%",
+    "80.65%",
+    "77.42%"
+   ],
+   "answer": 2,
+   "explanation": "25/31 = 0.8065 = 80.65%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 25/31 as a decimal?",
+   "choices": [
+    "0.7097",
+    "0.7419",
+    "0.7742",
+    "0.8065"
+   ],
+   "answer": 3,
+   "explanation": "25/31 = 0.8065 = 80.65%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 26/31 as a percentage?",
+   "choices": [
+    "83.87%",
+    "74.19%",
+    "77.42%",
+    "80.65%"
+   ],
+   "answer": 0,
+   "explanation": "26/31 = 0.8387 = 83.87%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 26/31 as a decimal?",
+   "choices": [
+    "0.7419",
+    "0.7742",
+    "0.8065",
+    "0.8387"
+   ],
+   "answer": 3,
+   "explanation": "26/31 = 0.8387 = 83.87%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 27/31 as a percentage?",
+   "choices": [
+    "77.42%",
+    "80.65%",
+    "87.10%",
+    "83.87%"
+   ],
+   "answer": 2,
+   "explanation": "27/31 = 0.8710 = 87.10%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 27/31 as a decimal?",
+   "choices": [
+    "0.7742",
+    "0.8710",
+    "0.8065",
+    "0.8387"
+   ],
+   "answer": 1,
+   "explanation": "27/31 = 0.8710 = 87.10%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 28/31 as a percentage?",
+   "choices": [
+    "90.32%",
+    "80.65%",
+    "83.87%",
+    "87.10%"
+   ],
+   "answer": 0,
+   "explanation": "28/31 = 0.9032 = 90.32%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 28/31 as a decimal?",
+   "choices": [
+    "0.8065",
+    "0.8387",
+    "0.9032",
+    "0.8710"
+   ],
+   "answer": 2,
+   "explanation": "28/31 = 0.9032 = 90.32%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 29/31 as a percentage?",
+   "choices": [
+    "83.87%",
+    "87.10%",
+    "90.32%",
+    "93.55%"
+   ],
+   "answer": 3,
+   "explanation": "29/31 = 0.9355 = 93.55%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 29/31 as a decimal?",
+   "choices": [
+    "0.8387",
+    "0.8710",
+    "0.9355",
+    "0.9032"
+   ],
+   "answer": 2,
+   "explanation": "29/31 = 0.9355 = 93.55%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 30/31 as a percentage?",
+   "choices": [
+    "87.10%",
+    "90.32%",
+    "96.77%",
+    "93.55%"
+   ],
+   "answer": 2,
+   "explanation": "30/31 = 0.9677 = 96.77%",
+   "source": "X/31"
+  },
+  {
+   "question": "What is 30/31 as a decimal?",
+   "choices": [
+    "0.8710",
+    "0.9032",
+    "0.9355",
+    "0.9677"
+   ],
+   "answer": 3,
+   "explanation": "30/31 = 0.9677 = 96.77%",
+   "source": "X/31"
+  }
+ ]
+}

@@ -1,0 +1,916 @@
+{
+ "questions": [
+  {
+   "question": "What is 1/39 as a percentage?",
+   "choices": [
+    "2.56%",
+    "5.13%",
+    "7.69%",
+    "10.26%"
+   ],
+   "answer": 0,
+   "explanation": "1/39 = 0.0256 = 2.56%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 1/39 as a decimal?",
+   "choices": [
+    "0.0256",
+    "0.0513",
+    "0.0769",
+    "0.1026"
+   ],
+   "answer": 0,
+   "explanation": "1/39 = 0.0256 = 2.56%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 2/39 as a percentage?",
+   "choices": [
+    "2.56%",
+    "7.69%",
+    "5.13%",
+    "10.26%"
+   ],
+   "answer": 2,
+   "explanation": "2/39 = 0.0513 = 5.13%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 2/39 as a decimal?",
+   "choices": [
+    "0.0256",
+    "0.0769",
+    "0.0513",
+    "0.1026"
+   ],
+   "answer": 2,
+   "explanation": "2/39 = 0.0513 = 5.13%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 3/39 as a percentage?",
+   "choices": [
+    "2.56%",
+    "5.13%",
+    "7.69%",
+    "10.26%"
+   ],
+   "answer": 2,
+   "explanation": "3/39 = 0.0769 = 7.69%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 3/39 as a decimal?",
+   "choices": [
+    "0.0256",
+    "0.0769",
+    "0.0513",
+    "0.1026"
+   ],
+   "answer": 1,
+   "explanation": "3/39 = 0.0769 = 7.69%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 4/39 as a percentage?",
+   "choices": [
+    "10.26%",
+    "2.56%",
+    "5.13%",
+    "7.69%"
+   ],
+   "answer": 0,
+   "explanation": "4/39 = 0.1026 = 10.26%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 4/39 as a decimal?",
+   "choices": [
+    "0.0256",
+    "0.0513",
+    "0.0769",
+    "0.1026"
+   ],
+   "answer": 3,
+   "explanation": "4/39 = 0.1026 = 10.26%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 5/39 as a percentage?",
+   "choices": [
+    "5.13%",
+    "7.69%",
+    "12.82%",
+    "10.26%"
+   ],
+   "answer": 2,
+   "explanation": "5/39 = 0.1282 = 12.82%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 5/39 as a decimal?",
+   "choices": [
+    "0.1282",
+    "0.0513",
+    "0.0769",
+    "0.1026"
+   ],
+   "answer": 0,
+   "explanation": "5/39 = 0.1282 = 12.82%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 6/39 as a percentage?",
+   "choices": [
+    "15.38%",
+    "7.69%",
+    "10.26%",
+    "12.82%"
+   ],
+   "answer": 0,
+   "explanation": "6/39 = 0.1538 = 15.38%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 6/39 as a decimal?",
+   "choices": [
+    "0.1538",
+    "0.0769",
+    "0.1026",
+    "0.1282"
+   ],
+   "answer": 0,
+   "explanation": "6/39 = 0.1538 = 15.38%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 7/39 as a percentage?",
+   "choices": [
+    "17.95%",
+    "10.26%",
+    "12.82%",
+    "15.38%"
+   ],
+   "answer": 0,
+   "explanation": "7/39 = 0.1795 = 17.95%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 7/39 as a decimal?",
+   "choices": [
+    "0.1026",
+    "0.1282",
+    "0.1538",
+    "0.1795"
+   ],
+   "answer": 3,
+   "explanation": "7/39 = 0.1795 = 17.95%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 8/39 as a percentage?",
+   "choices": [
+    "20.51%",
+    "12.82%",
+    "15.38%",
+    "17.95%"
+   ],
+   "answer": 0,
+   "explanation": "8/39 = 0.2051 = 20.51%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 8/39 as a decimal?",
+   "choices": [
+    "0.1282",
+    "0.1538",
+    "0.2051",
+    "0.1795"
+   ],
+   "answer": 2,
+   "explanation": "8/39 = 0.2051 = 20.51%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 9/39 as a percentage?",
+   "choices": [
+    "15.38%",
+    "17.95%",
+    "20.51%",
+    "23.08%"
+   ],
+   "answer": 3,
+   "explanation": "9/39 = 0.2308 = 23.08%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 9/39 as a decimal?",
+   "choices": [
+    "0.1538",
+    "0.2308",
+    "0.1795",
+    "0.2051"
+   ],
+   "answer": 1,
+   "explanation": "9/39 = 0.2308 = 23.08%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 10/39 as a percentage?",
+   "choices": [
+    "17.95%",
+    "20.51%",
+    "23.08%",
+    "25.64%"
+   ],
+   "answer": 3,
+   "explanation": "10/39 = 0.2564 = 25.64%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 10/39 as a decimal?",
+   "choices": [
+    "0.2564",
+    "0.1795",
+    "0.2051",
+    "0.2308"
+   ],
+   "answer": 0,
+   "explanation": "10/39 = 0.2564 = 25.64%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 11/39 as a percentage?",
+   "choices": [
+    "20.51%",
+    "28.21%",
+    "23.08%",
+    "25.64%"
+   ],
+   "answer": 1,
+   "explanation": "11/39 = 0.2821 = 28.21%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 11/39 as a decimal?",
+   "choices": [
+    "0.2051",
+    "0.2308",
+    "0.2564",
+    "0.2821"
+   ],
+   "answer": 3,
+   "explanation": "11/39 = 0.2821 = 28.21%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 12/39 as a percentage?",
+   "choices": [
+    "23.08%",
+    "30.77%",
+    "25.64%",
+    "28.21%"
+   ],
+   "answer": 1,
+   "explanation": "12/39 = 0.3077 = 30.77%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 12/39 as a decimal?",
+   "choices": [
+    "0.2308",
+    "0.3077",
+    "0.2564",
+    "0.2821"
+   ],
+   "answer": 1,
+   "explanation": "12/39 = 0.3077 = 30.77%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 13/39 as a percentage?",
+   "choices": [
+    "25.64%",
+    "33.33%",
+    "28.21%",
+    "30.77%"
+   ],
+   "answer": 1,
+   "explanation": "13/39 = 0.3333 = 33.33%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 13/39 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.2564",
+    "0.2821",
+    "0.3077"
+   ],
+   "answer": 0,
+   "explanation": "13/39 = 0.3333 = 33.33%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 14/39 as a percentage?",
+   "choices": [
+    "28.21%",
+    "30.77%",
+    "35.90%",
+    "33.33%"
+   ],
+   "answer": 2,
+   "explanation": "14/39 = 0.3590 = 35.90%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 14/39 as a decimal?",
+   "choices": [
+    "0.3590",
+    "0.2821",
+    "0.3077",
+    "0.3333"
+   ],
+   "answer": 0,
+   "explanation": "14/39 = 0.3590 = 35.90%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 15/39 as a percentage?",
+   "choices": [
+    "30.77%",
+    "33.33%",
+    "35.90%",
+    "38.46%"
+   ],
+   "answer": 3,
+   "explanation": "15/39 = 0.3846 = 38.46%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 15/39 as a decimal?",
+   "choices": [
+    "0.3077",
+    "0.3333",
+    "0.3590",
+    "0.3846"
+   ],
+   "answer": 3,
+   "explanation": "15/39 = 0.3846 = 38.46%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 16/39 as a percentage?",
+   "choices": [
+    "33.33%",
+    "41.03%",
+    "35.90%",
+    "38.46%"
+   ],
+   "answer": 1,
+   "explanation": "16/39 = 0.4103 = 41.03%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 16/39 as a decimal?",
+   "choices": [
+    "0.3333",
+    "0.3590",
+    "0.4103",
+    "0.3846"
+   ],
+   "answer": 2,
+   "explanation": "16/39 = 0.4103 = 41.03%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 17/39 as a percentage?",
+   "choices": [
+    "35.90%",
+    "38.46%",
+    "43.59%",
+    "41.03%"
+   ],
+   "answer": 2,
+   "explanation": "17/39 = 0.4359 = 43.59%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 17/39 as a decimal?",
+   "choices": [
+    "0.3590",
+    "0.3846",
+    "0.4359",
+    "0.4103"
+   ],
+   "answer": 2,
+   "explanation": "17/39 = 0.4359 = 43.59%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 18/39 as a percentage?",
+   "choices": [
+    "38.46%",
+    "46.15%",
+    "41.03%",
+    "43.59%"
+   ],
+   "answer": 1,
+   "explanation": "18/39 = 0.4615 = 46.15%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 18/39 as a decimal?",
+   "choices": [
+    "0.3846",
+    "0.4103",
+    "0.4359",
+    "0.4615"
+   ],
+   "answer": 3,
+   "explanation": "18/39 = 0.4615 = 46.15%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 19/39 as a percentage?",
+   "choices": [
+    "41.03%",
+    "43.59%",
+    "48.72%",
+    "46.15%"
+   ],
+   "answer": 2,
+   "explanation": "19/39 = 0.4872 = 48.72%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 19/39 as a decimal?",
+   "choices": [
+    "0.4103",
+    "0.4872",
+    "0.4359",
+    "0.4615"
+   ],
+   "answer": 1,
+   "explanation": "19/39 = 0.4872 = 48.72%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 20/39 as a percentage?",
+   "choices": [
+    "43.59%",
+    "51.28%",
+    "46.15%",
+    "48.72%"
+   ],
+   "answer": 1,
+   "explanation": "20/39 = 0.5128 = 51.28%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 20/39 as a decimal?",
+   "choices": [
+    "0.4359",
+    "0.4615",
+    "0.4872",
+    "0.5128"
+   ],
+   "answer": 3,
+   "explanation": "20/39 = 0.5128 = 51.28%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 21/39 as a percentage?",
+   "choices": [
+    "46.15%",
+    "48.72%",
+    "51.28%",
+    "53.85%"
+   ],
+   "answer": 3,
+   "explanation": "21/39 = 0.5385 = 53.85%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 21/39 as a decimal?",
+   "choices": [
+    "0.4615",
+    "0.5385",
+    "0.4872",
+    "0.5128"
+   ],
+   "answer": 1,
+   "explanation": "21/39 = 0.5385 = 53.85%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 22/39 as a percentage?",
+   "choices": [
+    "48.72%",
+    "56.41%",
+    "51.28%",
+    "53.85%"
+   ],
+   "answer": 1,
+   "explanation": "22/39 = 0.5641 = 56.41%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 22/39 as a decimal?",
+   "choices": [
+    "0.4872",
+    "0.5641",
+    "0.5128",
+    "0.5385"
+   ],
+   "answer": 1,
+   "explanation": "22/39 = 0.5641 = 56.41%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 23/39 as a percentage?",
+   "choices": [
+    "51.28%",
+    "53.85%",
+    "56.41%",
+    "58.97%"
+   ],
+   "answer": 3,
+   "explanation": "23/39 = 0.5897 = 58.97%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 23/39 as a decimal?",
+   "choices": [
+    "0.5128",
+    "0.5385",
+    "0.5641",
+    "0.5897"
+   ],
+   "answer": 3,
+   "explanation": "23/39 = 0.5897 = 58.97%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 24/39 as a percentage?",
+   "choices": [
+    "53.85%",
+    "61.54%",
+    "56.41%",
+    "58.97%"
+   ],
+   "answer": 1,
+   "explanation": "24/39 = 0.6154 = 61.54%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 24/39 as a decimal?",
+   "choices": [
+    "0.5385",
+    "0.6154",
+    "0.5641",
+    "0.5897"
+   ],
+   "answer": 1,
+   "explanation": "24/39 = 0.6154 = 61.54%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 25/39 as a percentage?",
+   "choices": [
+    "56.41%",
+    "58.97%",
+    "61.54%",
+    "64.10%"
+   ],
+   "answer": 3,
+   "explanation": "25/39 = 0.6410 = 64.10%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 25/39 as a decimal?",
+   "choices": [
+    "0.6410",
+    "0.5641",
+    "0.5897",
+    "0.6154"
+   ],
+   "answer": 0,
+   "explanation": "25/39 = 0.6410 = 64.10%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 26/39 as a percentage?",
+   "choices": [
+    "66.67%",
+    "58.97%",
+    "61.54%",
+    "64.10%"
+   ],
+   "answer": 0,
+   "explanation": "26/39 = 0.6667 = 66.67%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 26/39 as a decimal?",
+   "choices": [
+    "0.5897",
+    "0.6154",
+    "0.6667",
+    "0.6410"
+   ],
+   "answer": 2,
+   "explanation": "26/39 = 0.6667 = 66.67%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 27/39 as a percentage?",
+   "choices": [
+    "61.54%",
+    "69.23%",
+    "64.10%",
+    "66.67%"
+   ],
+   "answer": 1,
+   "explanation": "27/39 = 0.6923 = 69.23%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 27/39 as a decimal?",
+   "choices": [
+    "0.6923",
+    "0.6154",
+    "0.6410",
+    "0.6667"
+   ],
+   "answer": 0,
+   "explanation": "27/39 = 0.6923 = 69.23%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 28/39 as a percentage?",
+   "choices": [
+    "64.10%",
+    "66.67%",
+    "71.79%",
+    "69.23%"
+   ],
+   "answer": 2,
+   "explanation": "28/39 = 0.7179 = 71.79%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 28/39 as a decimal?",
+   "choices": [
+    "0.6410",
+    "0.6667",
+    "0.6923",
+    "0.7179"
+   ],
+   "answer": 3,
+   "explanation": "28/39 = 0.7179 = 71.79%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 29/39 as a percentage?",
+   "choices": [
+    "66.67%",
+    "74.36%",
+    "69.23%",
+    "71.79%"
+   ],
+   "answer": 1,
+   "explanation": "29/39 = 0.7436 = 74.36%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 29/39 as a decimal?",
+   "choices": [
+    "0.7436",
+    "0.6667",
+    "0.6923",
+    "0.7179"
+   ],
+   "answer": 0,
+   "explanation": "29/39 = 0.7436 = 74.36%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 30/39 as a percentage?",
+   "choices": [
+    "69.23%",
+    "71.79%",
+    "76.92%",
+    "74.36%"
+   ],
+   "answer": 2,
+   "explanation": "30/39 = 0.7692 = 76.92%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 30/39 as a decimal?",
+   "choices": [
+    "0.6923",
+    "0.7179",
+    "0.7692",
+    "0.7436"
+   ],
+   "answer": 2,
+   "explanation": "30/39 = 0.7692 = 76.92%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 31/39 as a percentage?",
+   "choices": [
+    "71.79%",
+    "74.36%",
+    "79.49%",
+    "76.92%"
+   ],
+   "answer": 2,
+   "explanation": "31/39 = 0.7949 = 79.49%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 31/39 as a decimal?",
+   "choices": [
+    "0.7179",
+    "0.7436",
+    "0.7692",
+    "0.7949"
+   ],
+   "answer": 3,
+   "explanation": "31/39 = 0.7949 = 79.49%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 32/39 as a percentage?",
+   "choices": [
+    "82.05%",
+    "74.36%",
+    "76.92%",
+    "79.49%"
+   ],
+   "answer": 0,
+   "explanation": "32/39 = 0.8205 = 82.05%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 32/39 as a decimal?",
+   "choices": [
+    "0.7436",
+    "0.7692",
+    "0.7949",
+    "0.8205"
+   ],
+   "answer": 3,
+   "explanation": "32/39 = 0.8205 = 82.05%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 33/39 as a percentage?",
+   "choices": [
+    "76.92%",
+    "79.49%",
+    "84.62%",
+    "82.05%"
+   ],
+   "answer": 2,
+   "explanation": "33/39 = 0.8462 = 84.62%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 33/39 as a decimal?",
+   "choices": [
+    "0.7692",
+    "0.7949",
+    "0.8462",
+    "0.8205"
+   ],
+   "answer": 2,
+   "explanation": "33/39 = 0.8462 = 84.62%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 34/39 as a percentage?",
+   "choices": [
+    "79.49%",
+    "82.05%",
+    "87.18%",
+    "84.62%"
+   ],
+   "answer": 2,
+   "explanation": "34/39 = 0.8718 = 87.18%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 34/39 as a decimal?",
+   "choices": [
+    "0.8718",
+    "0.7949",
+    "0.8205",
+    "0.8462"
+   ],
+   "answer": 0,
+   "explanation": "34/39 = 0.8718 = 87.18%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 35/39 as a percentage?",
+   "choices": [
+    "82.05%",
+    "84.62%",
+    "87.18%",
+    "89.74%"
+   ],
+   "answer": 3,
+   "explanation": "35/39 = 0.8974 = 89.74%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 35/39 as a decimal?",
+   "choices": [
+    "0.8205",
+    "0.8462",
+    "0.8718",
+    "0.8974"
+   ],
+   "answer": 3,
+   "explanation": "35/39 = 0.8974 = 89.74%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 36/39 as a percentage?",
+   "choices": [
+    "84.62%",
+    "87.18%",
+    "92.31%",
+    "89.74%"
+   ],
+   "answer": 2,
+   "explanation": "36/39 = 0.9231 = 92.31%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 36/39 as a decimal?",
+   "choices": [
+    "0.8462",
+    "0.8718",
+    "0.8974",
+    "0.9231"
+   ],
+   "answer": 3,
+   "explanation": "36/39 = 0.9231 = 92.31%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 37/39 as a percentage?",
+   "choices": [
+    "87.18%",
+    "89.74%",
+    "94.87%",
+    "92.31%"
+   ],
+   "answer": 2,
+   "explanation": "37/39 = 0.9487 = 94.87%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 37/39 as a decimal?",
+   "choices": [
+    "0.8718",
+    "0.8974",
+    "0.9231",
+    "0.9487"
+   ],
+   "answer": 3,
+   "explanation": "37/39 = 0.9487 = 94.87%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 38/39 as a percentage?",
+   "choices": [
+    "89.74%",
+    "92.31%",
+    "94.87%",
+    "97.44%"
+   ],
+   "answer": 3,
+   "explanation": "38/39 = 0.9744 = 97.44%",
+   "source": "X/39"
+  },
+  {
+   "question": "What is 38/39 as a decimal?",
+   "choices": [
+    "0.8974",
+    "0.9231",
+    "0.9744",
+    "0.9487"
+   ],
+   "answer": 2,
+   "explanation": "38/39 = 0.9744 = 97.44%",
+   "source": "X/39"
+  }
+ ]
+}
